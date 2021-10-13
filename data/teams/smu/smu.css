@@ -1,0 +1,30 @@
+:root {
+    --hue: 357;
+    --sat: 76;
+    --light: 54;
+    --althue: 41;
+    --altsat: 57;
+    --altlight: 83;
+    --threshold: 60;
+}
+
+.days {
+    /***************
+    color: #E32F38;
+    background-color: #ecdcb9;
+****************/
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+
+}
+
+.measure {
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+
+.team-logo {
+    background: url(http://a.espncdn.com/i/teamlogos/ncaa/500/2567.png) no-repeat center;
+}

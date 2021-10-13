@@ -1,13 +1,18 @@
+
 .container {
-  min-height: 100vh;
-  padding: 0 0.5rem;
   display: flex;
-  flex-direction: column;
   justify-content: center;
   align-items: center;
-  height: 100vh;
+  align-self: center;
+  flex-wrap: wrap;
+  width: 80%;
+  background-color: #fffffff0;
 }
 
+.container h1 {
+  color: white;
+  font-size: 3rem;
+}
 .main {
   padding: 5rem 0;
   flex: 1;

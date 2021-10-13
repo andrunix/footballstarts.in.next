@@ -1,0 +1,26 @@
+.days {
+  color: rgba(247,147,28, 1);
+  font-size: 16rem;
+  font-weight: bold;
+  border-radius: 10px 0 0 10px;
+  background-color: white;
+  text-shadow: 1px 1px 5px #333;
+  border-top: 1px solid #333;
+  border-left: 1px solid #333;
+  border-bottom: 1px solid #333;
+}
+              
+.measure {
+  /* color: rgba(247,147,28, 1); */
+  background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+  --switch: calc((var(--light) - var(--threshold)) * -100%);
+  color: hsl(0, 0%, var(--switch));
+  font-size: 14rem;
+  font-weight: bold;
+  border-radius: 0 10px 10px 0;
+  text-shadow: 1px 1px 5px #333;
+  border-top: 1px solid #333;
+  border-right: 1px solid #333;
+  border-bottom: 1px solid #333;
+}
+

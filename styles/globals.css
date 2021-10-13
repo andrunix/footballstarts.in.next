@@ -1,9 +1,38 @@
-html,
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+html {
+  background: url(/images/background-2k.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  font-family: 'Work Sans', sans-serif;
+}
+
 body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  /*
   padding: 0;
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  */
+}
+
+
+footer {
+  margin: auto auto 0 auto;
+  color: white;
+  background-color: hsla(80, 60%, 30%, 0.2);
+  width: 100%;
+  padding-bottom: 18px;
+  padding-top: 2px;
+  border-top: 1px solid hsla(80, 70%, 30%, 0.4);
 }
 
 a {
@@ -11,6 +40,146 @@ a {
   text-decoration: none;
 }
 
-* {
-  box-sizing: border-box;
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  width: 80%;
+  align-self: center;
+  background-color: #fffffff0;
 }
+
+.container h1 {
+  color: white;
+  font-size: 3rem;
+}
+
+.team {
+  color: #174773;
+  font-size: 3rem;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.col {
+  padding: 2%;
+  display: flex;
+  justify-content: center;
+}
+
+#teamid { display: none; }
+
+.schedule {
+  background-color: white;
+  width: 800px;
+}
+
+.w {
+  font-weight: bold;
+  color: #008000;
+}
+
+.l {
+  font-weight: bold;
+  color: #800000;
+}
+
+.welcome {
+  background-color: white;
+  padding: 10px 40px;
+  width: 800px;
+}
+
+h2 {
+  color: #3fc3ff;
+  border-bottom: 2px solid #ccc;
+}
+
+.welcome p {
+  margin: 10px;
+  color: #333;
+  line-height: 1.5;
+}
+
+@media all and (min-width: 320px) {
+  html {
+      background: url(/images/background-320.jpg) no-repeat center center fixed;
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size: cover;
+      background-size: cover;
+  }
+  .days { font-size: 5rem; }
+  .measure { font-size: 5rem; }
+  .team { font-size: 1.5rem; }
+  .navbar { font-size: 2rem; }
+
+  .welcome {
+      padding: 6px 10px;
+      width: 300px;
+      margin-top: 4px;
+  }
+  .schedule {
+      padding: 6px 10px;
+      width: 300px;
+  }
+
+  .team-schedule {
+      padding: 0 2px;
+  }
+
+  .team-schedule td {
+      padding: 1px 2px;
+  }
+}
+
+@media all and (min-width: 768px) {
+  html {
+      background: url(/images/background-768.jpg) no-repeat center center fixed;
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size: cover;
+      background-size: cover;
+  }
+  .days { font-size: 8rem; }
+  .measure { font-size: 8rem; }
+  .team { font-size: 2.6rem; }
+  .navbar { font-size: 2.6rem; }
+  
+  .welcome {
+      padding: 6px 10px;
+      width: 700px;
+      margin-top: 4px;
+  }
+  .schedule {
+      width: 700px;
+      padding: 6px 10px;
+  }
+  .team-schedule {
+      padding: 2 4px;
+  }
+  .team-schedule td {
+      padding: 2px 4px;
+  }
+}
+
+@media all and (min-width: 920px) {
+  .days { font-size: 10rem; }
+  .measure { font-size: 10rem; }
+  .team { font-size: 2.8rem; }
+  .navbar { font-size: 2.8rem; }
+  
+  .welcome {
+      padding: 10px 20px;
+      width: 800px;
+      /* margin-top: 4px; */
+  }
+  .schedule {
+      padding: 10px 20px;
+      width: 800px;
+  }
+}
+
+            
