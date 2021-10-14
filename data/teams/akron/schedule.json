@@ -1,5 +1,10 @@
 [
   {
+    "normalizedName": "akron",
+    "opponent": "Auburn",
+    "normalizedOpponent": "auburn",
+    "homeGame": false,
+    "winLoss": "L",
     "id": 401281944,
     "season": 2021,
     "week": 1,
@@ -42,6 +47,11 @@
     "notes": null
   },
   {
+    "normalizedName": "akron",
+    "opponent": "Temple",
+    "normalizedOpponent": "temple",
+    "homeGame": true,
+    "winLoss": "L",
     "id": 401300999,
     "season": 2021,
     "week": 2,
@@ -84,6 +94,11 @@
     "notes": null
   },
   {
+    "normalizedName": "akron",
+    "opponent": "Bryant",
+    "normalizedOpponent": "bryant",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401309550,
     "season": 2021,
     "week": 3,
@@ -126,6 +141,11 @@
     "notes": null
   },
   {
+    "normalizedName": "akron",
+    "opponent": "Ohio State",
+    "normalizedOpponent": "ohio-state",
+    "homeGame": false,
+    "winLoss": "L",
     "id": 401282811,
     "season": 2021,
     "week": 4,
@@ -168,6 +188,11 @@
     "notes": null
   },
   {
+    "normalizedName": "akron",
+    "opponent": "Ohio",
+    "normalizedOpponent": "ohio",
+    "homeGame": true,
+    "winLoss": "L",
     "id": 401309560,
     "season": 2021,
     "week": 5,
@@ -210,6 +235,11 @@
     "notes": null
   },
   {
+    "normalizedName": "akron",
+    "opponent": "Bowling Green",
+    "normalizedOpponent": "bowling-green",
+    "homeGame": false,
+    "winLoss": "W",
     "id": 401309566,
     "season": 2021,
     "week": 6,
@@ -252,6 +282,11 @@
     "notes": null
   },
   {
+    "normalizedName": "akron",
+    "opponent": "Miami (OH)",
+    "normalizedOpponent": "miami-oh",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401308837,
     "season": 2021,
     "week": 7,
@@ -284,12 +319,17 @@
     "notes": null
   },
   {
+    "normalizedName": "akron",
+    "opponent": "Buffalo",
+    "normalizedOpponent": "buffalo",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401309575,
     "season": 2021,
     "week": 8,
     "season_type": "regular",
-    "start_date": "2021-10-23T04:00:00.000Z",
-    "start_time_tbd": true,
+    "start_date": "2021-10-23T19:30:00.000Z",
+    "start_time_tbd": false,
     "neutral_site": false,
     "conference_game": true,
     "attendance": null,
@@ -316,6 +356,11 @@
     "notes": null
   },
   {
+    "normalizedName": "akron",
+    "opponent": "Ball State",
+    "normalizedOpponent": "ball-state",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401309579,
     "season": 2021,
     "week": 9,
@@ -348,6 +393,11 @@
     "notes": null
   },
   {
+    "normalizedName": "akron",
+    "opponent": "Western Michigan",
+    "normalizedOpponent": "western-michigan",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401309584,
     "season": 2021,
     "week": 10,
@@ -380,6 +430,11 @@
     "notes": null
   },
   {
+    "normalizedName": "akron",
+    "opponent": "Kent State",
+    "normalizedOpponent": "kent-state",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401309592,
     "season": 2021,
     "week": 12,
@@ -412,6 +467,11 @@
     "notes": null
   },
   {
+    "normalizedName": "akron",
+    "opponent": "Toledo",
+    "normalizedOpponent": "toledo",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401309597,
     "season": 2021,
     "week": 13,

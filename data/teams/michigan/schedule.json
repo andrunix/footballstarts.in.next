@@ -1,5 +1,10 @@
 [
   {
+    "normalizedName": "michigan",
+    "opponent": "Western Michigan",
+    "normalizedOpponent": "western-michigan",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401282772,
     "season": 2021,
     "week": 1,
@@ -42,6 +47,11 @@
     "notes": null
   },
   {
+    "normalizedName": "michigan",
+    "opponent": "Washington",
+    "normalizedOpponent": "washington",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401282773,
     "season": 2021,
     "week": 2,
@@ -84,6 +94,11 @@
     "notes": null
   },
   {
+    "normalizedName": "michigan",
+    "opponent": "Northern Illinois",
+    "normalizedOpponent": "northern-illinois",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401282774,
     "season": 2021,
     "week": 3,
@@ -126,6 +141,11 @@
     "notes": null
   },
   {
+    "normalizedName": "michigan",
+    "opponent": "Rutgers",
+    "normalizedOpponent": "rutgers",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401282775,
     "season": 2021,
     "week": 4,
@@ -168,6 +188,11 @@
     "notes": null
   },
   {
+    "normalizedName": "michigan",
+    "opponent": "Wisconsin",
+    "normalizedOpponent": "wisconsin",
+    "homeGame": false,
+    "winLoss": "W",
     "id": 401282776,
     "season": 2021,
     "week": 5,
@@ -210,6 +235,11 @@
     "notes": null
   },
   {
+    "normalizedName": "michigan",
+    "opponent": "Nebraska",
+    "normalizedOpponent": "nebraska",
+    "homeGame": false,
+    "winLoss": "W",
     "id": 401282778,
     "season": 2021,
     "week": 6,
@@ -252,6 +282,11 @@
     "notes": null
   },
   {
+    "normalizedName": "michigan",
+    "opponent": "Northwestern",
+    "normalizedOpponent": "northwestern",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401282779,
     "season": 2021,
     "week": 8,
@@ -284,6 +319,11 @@
     "notes": null
   },
   {
+    "normalizedName": "michigan",
+    "opponent": "Michigan State",
+    "normalizedOpponent": "michigan-state",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401282777,
     "season": 2021,
     "week": 9,
@@ -316,6 +356,11 @@
     "notes": null
   },
   {
+    "normalizedName": "michigan",
+    "opponent": "Indiana",
+    "normalizedOpponent": "indiana",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401282727,
     "season": 2021,
     "week": 10,
@@ -348,6 +393,11 @@
     "notes": null
   },
   {
+    "normalizedName": "michigan",
+    "opponent": "Penn State",
+    "normalizedOpponent": "penn-state",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401282780,
     "season": 2021,
     "week": 11,
@@ -380,6 +430,11 @@
     "notes": null
   },
   {
+    "normalizedName": "michigan",
+    "opponent": "Maryland",
+    "normalizedOpponent": "maryland",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401282770,
     "season": 2021,
     "week": 12,
@@ -412,6 +467,11 @@
     "notes": null
   },
   {
+    "normalizedName": "michigan",
+    "opponent": "Ohio State",
+    "normalizedOpponent": "ohio-state",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401282781,
     "season": 2021,
     "week": 13,

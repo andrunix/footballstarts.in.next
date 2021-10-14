@@ -1,5 +1,10 @@
 [
   {
+    "normalizedName": "nevada",
+    "opponent": "California",
+    "normalizedOpponent": "california",
+    "homeGame": false,
+    "winLoss": "W",
     "id": 401309837,
     "season": 2021,
     "week": 1,
@@ -42,6 +47,11 @@
     "notes": null
   },
   {
+    "normalizedName": "nevada",
+    "opponent": "Idaho State",
+    "normalizedOpponent": "idaho-state",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401310703,
     "season": 2021,
     "week": 2,
@@ -84,6 +94,11 @@
     "notes": null
   },
   {
+    "normalizedName": "nevada",
+    "opponent": "Kansas State",
+    "normalizedOpponent": "kansas-state",
+    "homeGame": false,
+    "winLoss": "L",
     "id": 401287905,
     "season": 2021,
     "week": 3,
@@ -126,6 +141,11 @@
     "notes": null
   },
   {
+    "normalizedName": "nevada",
+    "opponent": "Boise State",
+    "normalizedOpponent": "boise-state",
+    "homeGame": false,
+    "winLoss": "W",
     "id": 401310711,
     "season": 2021,
     "week": 5,
@@ -168,6 +188,11 @@
     "notes": null
   },
   {
+    "normalizedName": "nevada",
+    "opponent": "New Mexico State",
+    "normalizedOpponent": "new-mexico-state",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401310717,
     "season": 2021,
     "week": 6,
@@ -210,6 +235,11 @@
     "notes": null
   },
   {
+    "normalizedName": "nevada",
+    "opponent": "Hawai'i",
+    "normalizedOpponent": "hawaii",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401310722,
     "season": 2021,
     "week": 7,
@@ -242,6 +272,11 @@
     "notes": null
   },
   {
+    "normalizedName": "nevada",
+    "opponent": "Fresno State",
+    "normalizedOpponent": "fresno-state",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401310727,
     "season": 2021,
     "week": 8,
@@ -274,6 +309,11 @@
     "notes": null
   },
   {
+    "normalizedName": "nevada",
+    "opponent": "UNLV",
+    "normalizedOpponent": "unlv",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401310734,
     "season": 2021,
     "week": 9,
@@ -306,6 +346,11 @@
     "notes": null
   },
   {
+    "normalizedName": "nevada",
+    "opponent": "San José State",
+    "normalizedOpponent": "san-jose-state",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401310740,
     "season": 2021,
     "week": 10,
@@ -338,6 +383,11 @@
     "notes": null
   },
   {
+    "normalizedName": "nevada",
+    "opponent": "San Diego State",
+    "normalizedOpponent": "san-diego-state",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401310746,
     "season": 2021,
     "week": 11,
@@ -370,6 +420,11 @@
     "notes": null
   },
   {
+    "normalizedName": "nevada",
+    "opponent": "Air Force",
+    "normalizedOpponent": "air-force",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401310747,
     "season": 2021,
     "week": 12,
@@ -402,6 +457,11 @@
     "notes": null
   },
   {
+    "normalizedName": "nevada",
+    "opponent": "Colorado State",
+    "normalizedOpponent": "colorado-state",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401310754,
     "season": 2021,
     "week": 13,

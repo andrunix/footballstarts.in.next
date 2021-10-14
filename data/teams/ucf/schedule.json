@@ -1,5 +1,10 @@
 [
   {
+    "normalizedName": "ucf",
+    "opponent": "Boise State",
+    "normalizedOpponent": "boise-state",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401300995,
     "season": 2021,
     "week": 1,
@@ -42,6 +47,11 @@
     "notes": null
   },
   {
+    "normalizedName": "ucf",
+    "opponent": "Bethune-Cookman",
+    "normalizedOpponent": "bethune-cookman",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401301001,
     "season": 2021,
     "week": 2,
@@ -84,6 +94,11 @@
     "notes": null
   },
   {
+    "normalizedName": "ucf",
+    "opponent": "Louisville",
+    "normalizedOpponent": "louisville",
+    "homeGame": false,
+    "winLoss": "L",
     "id": 401282626,
     "season": 2021,
     "week": 3,
@@ -126,6 +141,11 @@
     "notes": null
   },
   {
+    "normalizedName": "ucf",
+    "opponent": "Navy",
+    "normalizedOpponent": "navy",
+    "homeGame": false,
+    "winLoss": "L",
     "id": 401301013,
     "season": 2021,
     "week": 5,
@@ -168,6 +188,11 @@
     "notes": null
   },
   {
+    "normalizedName": "ucf",
+    "opponent": "East Carolina",
+    "normalizedOpponent": "east-carolina",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401301019,
     "season": 2021,
     "week": 6,
@@ -210,6 +235,11 @@
     "notes": null
   },
   {
+    "normalizedName": "ucf",
+    "opponent": "Cincinnati",
+    "normalizedOpponent": "cincinnati",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401301023,
     "season": 2021,
     "week": 7,
@@ -242,6 +272,11 @@
     "notes": null
   },
   {
+    "normalizedName": "ucf",
+    "opponent": "Memphis",
+    "normalizedOpponent": "memphis",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401301026,
     "season": 2021,
     "week": 8,
@@ -274,6 +309,11 @@
     "notes": null
   },
   {
+    "normalizedName": "ucf",
+    "opponent": "Temple",
+    "normalizedOpponent": "temple",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401301031,
     "season": 2021,
     "week": 9,
@@ -306,6 +346,11 @@
     "notes": null
   },
   {
+    "normalizedName": "ucf",
+    "opponent": "Tulane",
+    "normalizedOpponent": "tulane",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401301036,
     "season": 2021,
     "week": 10,
@@ -338,6 +383,11 @@
     "notes": null
   },
   {
+    "normalizedName": "ucf",
+    "opponent": "SMU",
+    "normalizedOpponent": "smu",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401301041,
     "season": 2021,
     "week": 11,
@@ -370,6 +420,11 @@
     "notes": null
   },
   {
+    "normalizedName": "ucf",
+    "opponent": "Connecticut",
+    "normalizedOpponent": "connecticut",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401286293,
     "season": 2021,
     "week": 12,
@@ -402,6 +457,11 @@
     "notes": null
   },
   {
+    "normalizedName": "ucf",
+    "opponent": "South Florida",
+    "normalizedOpponent": "south-florida",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401301050,
     "season": 2021,
     "week": 13,

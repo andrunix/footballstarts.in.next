@@ -1,5 +1,10 @@
 [
   {
+    "normalizedName": "west-virginia",
+    "opponent": "Maryland",
+    "normalizedOpponent": "maryland",
+    "homeGame": false,
+    "winLoss": "L",
     "id": 401282764,
     "season": 2021,
     "week": 1,
@@ -42,6 +47,11 @@
     "notes": null
   },
   {
+    "normalizedName": "west-virginia",
+    "opponent": "Long Island University",
+    "normalizedOpponent": "long-island-university",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401287902,
     "season": 2021,
     "week": 2,
@@ -84,6 +94,11 @@
     "notes": null
   },
   {
+    "normalizedName": "west-virginia",
+    "opponent": "Virginia Tech",
+    "normalizedOpponent": "virginia-tech",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401282636,
     "season": 2021,
     "week": 3,
@@ -126,6 +141,11 @@
     "notes": null
   },
   {
+    "normalizedName": "west-virginia",
+    "opponent": "Oklahoma",
+    "normalizedOpponent": "oklahoma",
+    "homeGame": false,
+    "winLoss": "L",
     "id": 401287908,
     "season": 2021,
     "week": 4,
@@ -168,6 +188,11 @@
     "notes": null
   },
   {
+    "normalizedName": "west-virginia",
+    "opponent": "Texas Tech",
+    "normalizedOpponent": "texas-tech",
+    "homeGame": true,
+    "winLoss": "L",
     "id": 401287916,
     "season": 2021,
     "week": 5,
@@ -210,6 +235,11 @@
     "notes": null
   },
   {
+    "normalizedName": "west-virginia",
+    "opponent": "Baylor",
+    "normalizedOpponent": "baylor",
+    "homeGame": false,
+    "winLoss": "L",
     "id": 401287917,
     "season": 2021,
     "week": 6,
@@ -252,6 +282,11 @@
     "notes": null
   },
   {
+    "normalizedName": "west-virginia",
+    "opponent": "TCU",
+    "normalizedOpponent": "tcu",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401287927,
     "season": 2021,
     "week": 8,
@@ -284,6 +319,11 @@
     "notes": null
   },
   {
+    "normalizedName": "west-virginia",
+    "opponent": "Iowa State",
+    "normalizedOpponent": "iowa-state",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401287933,
     "season": 2021,
     "week": 9,
@@ -316,6 +356,11 @@
     "notes": null
   },
   {
+    "normalizedName": "west-virginia",
+    "opponent": "Oklahoma State",
+    "normalizedOpponent": "oklahoma-state",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401287937,
     "season": 2021,
     "week": 10,
@@ -348,6 +393,11 @@
     "notes": null
   },
   {
+    "normalizedName": "west-virginia",
+    "opponent": "Kansas State",
+    "normalizedOpponent": "kansas-state",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401287939,
     "season": 2021,
     "week": 11,
@@ -380,6 +430,11 @@
     "notes": null
   },
   {
+    "normalizedName": "west-virginia",
+    "opponent": "Texas",
+    "normalizedOpponent": "texas",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401287947,
     "season": 2021,
     "week": 12,
@@ -412,6 +467,11 @@
     "notes": null
   },
   {
+    "normalizedName": "west-virginia",
+    "opponent": "Kansas",
+    "normalizedOpponent": "kansas",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401287950,
     "season": 2021,
     "week": 13,

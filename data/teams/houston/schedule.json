@@ -1,5 +1,10 @@
 [
   {
+    "normalizedName": "houston",
+    "opponent": "Texas Tech",
+    "normalizedOpponent": "texas-tech",
+    "homeGame": true,
+    "winLoss": "L",
     "id": 401287886,
     "season": 2021,
     "week": 1,
@@ -42,6 +47,11 @@
     "notes": null
   },
   {
+    "normalizedName": "houston",
+    "opponent": "Rice",
+    "normalizedOpponent": "rice",
+    "homeGame": false,
+    "winLoss": "W",
     "id": 401282189,
     "season": 2021,
     "week": 2,
@@ -84,6 +94,11 @@
     "notes": null
   },
   {
+    "normalizedName": "houston",
+    "opponent": "Grambling",
+    "normalizedOpponent": "grambling",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401301005,
     "season": 2021,
     "week": 3,
@@ -126,6 +141,11 @@
     "notes": null
   },
   {
+    "normalizedName": "houston",
+    "opponent": "Navy",
+    "normalizedOpponent": "navy",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401301008,
     "season": 2021,
     "week": 4,
@@ -168,6 +188,11 @@
     "notes": null
   },
   {
+    "normalizedName": "houston",
+    "opponent": "Tulsa",
+    "normalizedOpponent": "tulsa",
+    "homeGame": false,
+    "winLoss": "W",
     "id": 401301012,
     "season": 2021,
     "week": 5,
@@ -210,6 +235,11 @@
     "notes": null
   },
   {
+    "normalizedName": "houston",
+    "opponent": "Tulane",
+    "normalizedOpponent": "tulane",
+    "homeGame": false,
+    "winLoss": "W",
     "id": 401301017,
     "season": 2021,
     "week": 6,
@@ -252,12 +282,17 @@
     "notes": null
   },
   {
+    "normalizedName": "houston",
+    "opponent": "East Carolina",
+    "normalizedOpponent": "east-carolina",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401301028,
     "season": 2021,
     "week": 8,
     "season_type": "regular",
-    "start_date": "2021-10-23T04:00:00.000Z",
-    "start_time_tbd": true,
+    "start_date": "2021-10-23T20:00:00.000Z",
+    "start_time_tbd": false,
     "neutral_site": false,
     "conference_game": true,
     "attendance": null,
@@ -284,6 +319,11 @@
     "notes": null
   },
   {
+    "normalizedName": "houston",
+    "opponent": "SMU",
+    "normalizedOpponent": "smu",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401301034,
     "season": 2021,
     "week": 9,
@@ -316,6 +356,11 @@
     "notes": null
   },
   {
+    "normalizedName": "houston",
+    "opponent": "South Florida",
+    "normalizedOpponent": "south-florida",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401301038,
     "season": 2021,
     "week": 10,
@@ -348,6 +393,11 @@
     "notes": null
   },
   {
+    "normalizedName": "houston",
+    "opponent": "Temple",
+    "normalizedOpponent": "temple",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401301043,
     "season": 2021,
     "week": 11,
@@ -380,6 +430,11 @@
     "notes": null
   },
   {
+    "normalizedName": "houston",
+    "opponent": "Memphis",
+    "normalizedOpponent": "memphis",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401301045,
     "season": 2021,
     "week": 12,
@@ -412,6 +467,11 @@
     "notes": null
   },
   {
+    "normalizedName": "houston",
+    "opponent": "Connecticut",
+    "normalizedOpponent": "connecticut",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401301052,
     "season": 2021,
     "week": 13,

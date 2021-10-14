@@ -1,5 +1,10 @@
 [
   {
+    "normalizedName": "troy",
+    "opponent": "Southern",
+    "normalizedOpponent": "southern",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401309602,
     "season": 2021,
     "week": 1,
@@ -42,6 +47,11 @@
     "notes": null
   },
   {
+    "normalizedName": "troy",
+    "opponent": "Liberty",
+    "normalizedOpponent": "liberty",
+    "homeGame": true,
+    "winLoss": "L",
     "id": 401286295,
     "season": 2021,
     "week": 2,
@@ -84,6 +94,11 @@
     "notes": null
   },
   {
+    "normalizedName": "troy",
+    "opponent": "Southern Mississippi",
+    "normalizedOpponent": "southern-mississippi",
+    "homeGame": false,
+    "winLoss": "W",
     "id": 401282203,
     "season": 2021,
     "week": 3,
@@ -126,6 +141,11 @@
     "notes": null
   },
   {
+    "normalizedName": "troy",
+    "opponent": "Louisiana Monroe",
+    "normalizedOpponent": "louisiana-monroe",
+    "homeGame": false,
+    "winLoss": "L",
     "id": 401309611,
     "season": 2021,
     "week": 4,
@@ -168,6 +188,11 @@
     "notes": null
   },
   {
+    "normalizedName": "troy",
+    "opponent": "South Carolina",
+    "normalizedOpponent": "south-carolina",
+    "homeGame": false,
+    "winLoss": "L",
     "id": 401282094,
     "season": 2021,
     "week": 5,
@@ -210,6 +235,11 @@
     "notes": null
   },
   {
+    "normalizedName": "troy",
+    "opponent": "Georgia Southern",
+    "normalizedOpponent": "georgia-southern",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401309617,
     "season": 2021,
     "week": 6,
@@ -252,6 +282,11 @@
     "notes": null
   },
   {
+    "normalizedName": "troy",
+    "opponent": "Texas State",
+    "normalizedOpponent": "texas-state",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401309622,
     "season": 2021,
     "week": 7,
@@ -284,6 +319,11 @@
     "notes": null
   },
   {
+    "normalizedName": "troy",
+    "opponent": "Coastal Carolina",
+    "normalizedOpponent": "coastal-carolina",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401309627,
     "season": 2021,
     "week": 9,
@@ -316,6 +356,11 @@
     "notes": null
   },
   {
+    "normalizedName": "troy",
+    "opponent": "South Alabama",
+    "normalizedOpponent": "south-alabama",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401309636,
     "season": 2021,
     "week": 10,
@@ -348,6 +393,11 @@
     "notes": null
   },
   {
+    "normalizedName": "troy",
+    "opponent": "Louisiana",
+    "normalizedOpponent": "louisiana",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401309641,
     "season": 2021,
     "week": 11,
@@ -373,13 +423,18 @@
     "away_points": null,
     "away_line_scores": null,
     "away_post_win_prob": null,
-    "away_pregame_elo": 1743,
+    "away_pregame_elo": 1818,
     "away_postgame_elo": null,
     "excitement_index": null,
     "highlights": null,
     "notes": null
   },
   {
+    "normalizedName": "troy",
+    "opponent": "Appalachian State",
+    "normalizedOpponent": "appalachian-state",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401309642,
     "season": 2021,
     "week": 12,
@@ -405,13 +460,18 @@
     "away_points": null,
     "away_line_scores": null,
     "away_post_win_prob": null,
-    "away_pregame_elo": 1833,
+    "away_pregame_elo": 1758,
     "away_postgame_elo": null,
     "excitement_index": null,
     "highlights": null,
     "notes": null
   },
   {
+    "normalizedName": "troy",
+    "opponent": "Georgia State",
+    "normalizedOpponent": "georgia-state",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401309649,
     "season": 2021,
     "week": 13,

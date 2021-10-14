@@ -1,5 +1,10 @@
 [
   {
+    "normalizedName": "coastal-carolina",
+    "opponent": "The Citadel",
+    "normalizedOpponent": "the-citadel",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401328545,
     "season": 2021,
     "week": 1,
@@ -42,6 +47,11 @@
     "notes": null
   },
   {
+    "normalizedName": "coastal-carolina",
+    "opponent": "Kansas",
+    "normalizedOpponent": "kansas",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401287896,
     "season": 2021,
     "week": 2,
@@ -84,6 +94,11 @@
     "notes": null
   },
   {
+    "normalizedName": "coastal-carolina",
+    "opponent": "Buffalo",
+    "normalizedOpponent": "buffalo",
+    "homeGame": false,
+    "winLoss": "W",
     "id": 401309552,
     "season": 2021,
     "week": 3,
@@ -126,6 +141,11 @@
     "notes": null
   },
   {
+    "normalizedName": "coastal-carolina",
+    "opponent": "UMass",
+    "normalizedOpponent": "umass",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401286301,
     "season": 2021,
     "week": 4,
@@ -168,6 +188,11 @@
     "notes": null
   },
   {
+    "normalizedName": "coastal-carolina",
+    "opponent": "Louisiana Monroe",
+    "normalizedOpponent": "louisiana-monroe",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401309614,
     "season": 2021,
     "week": 5,
@@ -210,6 +235,11 @@
     "notes": null
   },
   {
+    "normalizedName": "coastal-carolina",
+    "opponent": "Arkansas State",
+    "normalizedOpponent": "arkansas-state",
+    "homeGame": false,
+    "winLoss": "W",
     "id": 401309616,
     "season": 2021,
     "week": 6,
@@ -252,6 +282,11 @@
     "notes": null
   },
   {
+    "normalizedName": "coastal-carolina",
+    "opponent": "Appalachian State",
+    "normalizedOpponent": "appalachian-state",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401309623,
     "season": 2021,
     "week": 8,
@@ -269,7 +304,7 @@
     "home_points": null,
     "home_line_scores": null,
     "home_post_win_prob": null,
-    "home_pregame_elo": 1833,
+    "home_pregame_elo": 1758,
     "home_postgame_elo": null,
     "away_id": 324,
     "away_team": "Coastal Carolina",
@@ -284,6 +319,11 @@
     "notes": null
   },
   {
+    "normalizedName": "coastal-carolina",
+    "opponent": "Troy",
+    "normalizedOpponent": "troy",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401309627,
     "season": 2021,
     "week": 9,
@@ -316,6 +356,11 @@
     "notes": null
   },
   {
+    "normalizedName": "coastal-carolina",
+    "opponent": "Georgia Southern",
+    "normalizedOpponent": "georgia-southern",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401309634,
     "season": 2021,
     "week": 10,
@@ -348,6 +393,11 @@
     "notes": null
   },
   {
+    "normalizedName": "coastal-carolina",
+    "opponent": "Georgia State",
+    "normalizedOpponent": "georgia-state",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401309639,
     "season": 2021,
     "week": 11,
@@ -380,6 +430,11 @@
     "notes": null
   },
   {
+    "normalizedName": "coastal-carolina",
+    "opponent": "Texas State",
+    "normalizedOpponent": "texas-state",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401309644,
     "season": 2021,
     "week": 12,
@@ -412,6 +467,11 @@
     "notes": null
   },
   {
+    "normalizedName": "coastal-carolina",
+    "opponent": "South Alabama",
+    "normalizedOpponent": "south-alabama",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401309648,
     "season": 2021,
     "week": 13,

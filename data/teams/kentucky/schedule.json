@@ -1,5 +1,10 @@
 [
   {
+    "normalizedName": "kentucky",
+    "opponent": "Louisiana Monroe",
+    "normalizedOpponent": "louisiana-monroe",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401281947,
     "season": 2021,
     "week": 1,
@@ -42,6 +47,11 @@
     "notes": null
   },
   {
+    "normalizedName": "kentucky",
+    "opponent": "Missouri",
+    "normalizedOpponent": "missouri",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401282061,
     "season": 2021,
     "week": 2,
@@ -84,6 +94,11 @@
     "notes": null
   },
   {
+    "normalizedName": "kentucky",
+    "opponent": "Chattanooga",
+    "normalizedOpponent": "chattanooga",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401282073,
     "season": 2021,
     "week": 3,
@@ -126,6 +141,11 @@
     "notes": null
   },
   {
+    "normalizedName": "kentucky",
+    "opponent": "South Carolina",
+    "normalizedOpponent": "south-carolina",
+    "homeGame": false,
+    "winLoss": "W",
     "id": 401282087,
     "season": 2021,
     "week": 4,
@@ -168,6 +188,11 @@
     "notes": null
   },
   {
+    "normalizedName": "kentucky",
+    "opponent": "Florida",
+    "normalizedOpponent": "florida",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401282091,
     "season": 2021,
     "week": 5,
@@ -210,6 +235,11 @@
     "notes": null
   },
   {
+    "normalizedName": "kentucky",
+    "opponent": "LSU",
+    "normalizedOpponent": "lsu",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401282099,
     "season": 2021,
     "week": 6,
@@ -252,6 +282,11 @@
     "notes": null
   },
   {
+    "normalizedName": "kentucky",
+    "opponent": "Georgia",
+    "normalizedOpponent": "georgia",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401282105,
     "season": 2021,
     "week": 7,
@@ -284,6 +319,11 @@
     "notes": null
   },
   {
+    "normalizedName": "kentucky",
+    "opponent": "Mississippi State",
+    "normalizedOpponent": "mississippi-state",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401282118,
     "season": 2021,
     "week": 9,
@@ -316,6 +356,11 @@
     "notes": null
   },
   {
+    "normalizedName": "kentucky",
+    "opponent": "Tennessee",
+    "normalizedOpponent": "tennessee",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401282123,
     "season": 2021,
     "week": 10,
@@ -348,6 +393,11 @@
     "notes": null
   },
   {
+    "normalizedName": "kentucky",
+    "opponent": "Vanderbilt",
+    "normalizedOpponent": "vanderbilt",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401282134,
     "season": 2021,
     "week": 11,
@@ -380,6 +430,11 @@
     "notes": null
   },
   {
+    "normalizedName": "kentucky",
+    "opponent": "New Mexico State",
+    "normalizedOpponent": "new-mexico-state",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401282137,
     "season": 2021,
     "week": 12,
@@ -412,6 +467,11 @@
     "notes": null
   },
   {
+    "normalizedName": "kentucky",
+    "opponent": "Louisville",
+    "normalizedOpponent": "louisville",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401282149,
     "season": 2021,
     "week": 13,

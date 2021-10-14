@@ -34,13 +34,14 @@ const getDaysUntilNextGame = (schedule) => {
 };
 
 export default function Team({teamSchedule}) {
-
   const diffDays = getDaysUntilNextGame(teamSchedule.schedule);
 
   return (
       <Layout>
-        <Countdown team={teamSchedule.team} days={diffDays}/>
-        <Schedule {...teamSchedule} />
+        <>
+          <Countdown team={teamSchedule.team} days={diffDays}/>
+          <Schedule {...teamSchedule} />
+        </>
       </Layout>
     )
 }

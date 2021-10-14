@@ -1,5 +1,10 @@
 [
   {
+    "normalizedName": "tcu",
+    "opponent": "Duquesne",
+    "normalizedOpponent": "duquesne",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401287891,
     "season": 2021,
     "week": 1,
@@ -42,6 +47,11 @@
     "notes": null
   },
   {
+    "normalizedName": "tcu",
+    "opponent": "California",
+    "normalizedOpponent": "california",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401287900,
     "season": 2021,
     "week": 2,
@@ -84,6 +94,11 @@
     "notes": null
   },
   {
+    "normalizedName": "tcu",
+    "opponent": "SMU",
+    "normalizedOpponent": "smu",
+    "homeGame": true,
+    "winLoss": "L",
     "id": 401287910,
     "season": 2021,
     "week": 4,
@@ -126,6 +141,11 @@
     "notes": null
   },
   {
+    "normalizedName": "tcu",
+    "opponent": "Texas",
+    "normalizedOpponent": "texas",
+    "homeGame": true,
+    "winLoss": "L",
     "id": 401287915,
     "season": 2021,
     "week": 5,
@@ -168,6 +188,11 @@
     "notes": null
   },
   {
+    "normalizedName": "tcu",
+    "opponent": "Texas Tech",
+    "normalizedOpponent": "texas-tech",
+    "homeGame": false,
+    "winLoss": "W",
     "id": 401287919,
     "season": 2021,
     "week": 6,
@@ -210,6 +235,11 @@
     "notes": null
   },
   {
+    "normalizedName": "tcu",
+    "opponent": "Oklahoma",
+    "normalizedOpponent": "oklahoma",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401287923,
     "season": 2021,
     "week": 7,
@@ -242,6 +272,11 @@
     "notes": null
   },
   {
+    "normalizedName": "tcu",
+    "opponent": "West Virginia",
+    "normalizedOpponent": "west-virginia",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401287927,
     "season": 2021,
     "week": 8,
@@ -274,6 +309,11 @@
     "notes": null
   },
   {
+    "normalizedName": "tcu",
+    "opponent": "Kansas State",
+    "normalizedOpponent": "kansas-state",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401287930,
     "season": 2021,
     "week": 9,
@@ -306,6 +346,11 @@
     "notes": null
   },
   {
+    "normalizedName": "tcu",
+    "opponent": "Baylor",
+    "normalizedOpponent": "baylor",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401287936,
     "season": 2021,
     "week": 10,
@@ -338,6 +383,11 @@
     "notes": null
   },
   {
+    "normalizedName": "tcu",
+    "opponent": "Oklahoma State",
+    "normalizedOpponent": "oklahoma-state",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401287940,
     "season": 2021,
     "week": 11,
@@ -370,6 +420,11 @@
     "notes": null
   },
   {
+    "normalizedName": "tcu",
+    "opponent": "Kansas",
+    "normalizedOpponent": "kansas",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401287945,
     "season": 2021,
     "week": 12,
@@ -402,6 +457,11 @@
     "notes": null
   },
   {
+    "normalizedName": "tcu",
+    "opponent": "Iowa State",
+    "normalizedOpponent": "iowa-state",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401287949,
     "season": 2021,
     "week": 13,

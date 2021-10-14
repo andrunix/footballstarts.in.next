@@ -1,5 +1,10 @@
 [
   {
+    "normalizedName": "arkansas-state",
+    "opponent": "Central Arkansas",
+    "normalizedOpponent": "central-arkansas",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401309598,
     "season": 2021,
     "week": 1,
@@ -42,6 +47,11 @@
     "notes": null
   },
   {
+    "normalizedName": "arkansas-state",
+    "opponent": "Memphis",
+    "normalizedOpponent": "memphis",
+    "homeGame": true,
+    "winLoss": "L",
     "id": 401301003,
     "season": 2021,
     "week": 2,
@@ -84,6 +94,11 @@
     "notes": null
   },
   {
+    "normalizedName": "arkansas-state",
+    "opponent": "Washington",
+    "normalizedOpponent": "washington",
+    "homeGame": false,
+    "winLoss": "L",
     "id": 401309605,
     "season": 2021,
     "week": 3,
@@ -126,6 +141,11 @@
     "notes": null
   },
   {
+    "normalizedName": "arkansas-state",
+    "opponent": "Tulsa",
+    "normalizedOpponent": "tulsa",
+    "homeGame": false,
+    "winLoss": "L",
     "id": 401301011,
     "season": 2021,
     "week": 4,
@@ -168,6 +188,11 @@
     "notes": null
   },
   {
+    "normalizedName": "arkansas-state",
+    "opponent": "Georgia Southern",
+    "normalizedOpponent": "georgia-southern",
+    "homeGame": false,
+    "winLoss": "L",
     "id": 401309613,
     "season": 2021,
     "week": 5,
@@ -210,6 +235,11 @@
     "notes": null
   },
   {
+    "normalizedName": "arkansas-state",
+    "opponent": "Coastal Carolina",
+    "normalizedOpponent": "coastal-carolina",
+    "homeGame": true,
+    "winLoss": "L",
     "id": 401309616,
     "season": 2021,
     "week": 6,
@@ -252,6 +282,11 @@
     "notes": null
   },
   {
+    "normalizedName": "arkansas-state",
+    "opponent": "Louisiana",
+    "normalizedOpponent": "louisiana",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401309624,
     "season": 2021,
     "week": 8,
@@ -277,13 +312,18 @@
     "away_points": null,
     "away_line_scores": null,
     "away_post_win_prob": null,
-    "away_pregame_elo": 1743,
+    "away_pregame_elo": 1818,
     "away_postgame_elo": null,
     "excitement_index": null,
     "highlights": null,
     "notes": null
   },
   {
+    "normalizedName": "arkansas-state",
+    "opponent": "South Alabama",
+    "normalizedOpponent": "south-alabama",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401309629,
     "season": 2021,
     "week": 9,
@@ -316,6 +356,11 @@
     "notes": null
   },
   {
+    "normalizedName": "arkansas-state",
+    "opponent": "Appalachian State",
+    "normalizedOpponent": "appalachian-state",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401309633,
     "season": 2021,
     "week": 10,
@@ -341,13 +386,18 @@
     "away_points": null,
     "away_line_scores": null,
     "away_post_win_prob": null,
-    "away_pregame_elo": 1833,
+    "away_pregame_elo": 1758,
     "away_postgame_elo": null,
     "excitement_index": null,
     "highlights": null,
     "notes": null
   },
   {
+    "normalizedName": "arkansas-state",
+    "opponent": "Louisiana Monroe",
+    "normalizedOpponent": "louisiana-monroe",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401309638,
     "season": 2021,
     "week": 11,
@@ -380,6 +430,11 @@
     "notes": null
   },
   {
+    "normalizedName": "arkansas-state",
+    "opponent": "Georgia State",
+    "normalizedOpponent": "georgia-state",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401309643,
     "season": 2021,
     "week": 12,
@@ -412,6 +467,11 @@
     "notes": null
   },
   {
+    "normalizedName": "arkansas-state",
+    "opponent": "Texas State",
+    "normalizedOpponent": "texas-state",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401309647,
     "season": 2021,
     "week": 13,

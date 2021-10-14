@@ -1,5 +1,10 @@
 [
   {
+    "normalizedName": "south-carolina",
+    "opponent": "Eastern Illinois",
+    "normalizedOpponent": "eastern-illinois",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401281951,
     "season": 2021,
     "week": 1,
@@ -42,6 +47,11 @@
     "notes": null
   },
   {
+    "normalizedName": "south-carolina",
+    "opponent": "East Carolina",
+    "normalizedOpponent": "east-carolina",
+    "homeGame": false,
+    "winLoss": "W",
     "id": 401282065,
     "season": 2021,
     "week": 2,
@@ -84,6 +94,11 @@
     "notes": null
   },
   {
+    "normalizedName": "south-carolina",
+    "opponent": "Georgia",
+    "normalizedOpponent": "georgia",
+    "homeGame": false,
+    "winLoss": "L",
     "id": 401282072,
     "season": 2021,
     "week": 3,
@@ -126,6 +141,11 @@
     "notes": null
   },
   {
+    "normalizedName": "south-carolina",
+    "opponent": "Kentucky",
+    "normalizedOpponent": "kentucky",
+    "homeGame": true,
+    "winLoss": "L",
     "id": 401282087,
     "season": 2021,
     "week": 4,
@@ -168,6 +188,11 @@
     "notes": null
   },
   {
+    "normalizedName": "south-carolina",
+    "opponent": "Troy",
+    "normalizedOpponent": "troy",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401282094,
     "season": 2021,
     "week": 5,
@@ -210,6 +235,11 @@
     "notes": null
   },
   {
+    "normalizedName": "south-carolina",
+    "opponent": "Tennessee",
+    "normalizedOpponent": "tennessee",
+    "homeGame": false,
+    "winLoss": "L",
     "id": 401282102,
     "season": 2021,
     "week": 6,
@@ -252,6 +282,11 @@
     "notes": null
   },
   {
+    "normalizedName": "south-carolina",
+    "opponent": "Vanderbilt",
+    "normalizedOpponent": "vanderbilt",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401282109,
     "season": 2021,
     "week": 7,
@@ -284,12 +319,17 @@
     "notes": null
   },
   {
+    "normalizedName": "south-carolina",
+    "opponent": "Texas A&M",
+    "normalizedOpponent": "texas-a-m",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401282114,
     "season": 2021,
     "week": 8,
     "season_type": "regular",
-    "start_date": "2021-10-23T04:00:00.000Z",
-    "start_time_tbd": true,
+    "start_date": "2021-10-23T23:30:00.000Z",
+    "start_time_tbd": false,
     "neutral_site": false,
     "conference_game": true,
     "attendance": null,
@@ -316,6 +356,11 @@
     "notes": null
   },
   {
+    "normalizedName": "south-carolina",
+    "opponent": "Florida",
+    "normalizedOpponent": "florida",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401282125,
     "season": 2021,
     "week": 10,
@@ -348,6 +393,11 @@
     "notes": null
   },
   {
+    "normalizedName": "south-carolina",
+    "opponent": "Missouri",
+    "normalizedOpponent": "missouri",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401282132,
     "season": 2021,
     "week": 11,
@@ -380,6 +430,11 @@
     "notes": null
   },
   {
+    "normalizedName": "south-carolina",
+    "opponent": "Auburn",
+    "normalizedOpponent": "auburn",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401282142,
     "season": 2021,
     "week": 12,
@@ -412,6 +467,11 @@
     "notes": null
   },
   {
+    "normalizedName": "south-carolina",
+    "opponent": "Clemson",
+    "normalizedOpponent": "clemson",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401282152,
     "season": 2021,
     "week": 13,

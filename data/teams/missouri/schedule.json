@@ -1,5 +1,10 @@
 [
   {
+    "normalizedName": "missouri",
+    "opponent": "Central Michigan",
+    "normalizedOpponent": "central-michigan",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401281950,
     "season": 2021,
     "week": 1,
@@ -42,6 +47,11 @@
     "notes": null
   },
   {
+    "normalizedName": "missouri",
+    "opponent": "Kentucky",
+    "normalizedOpponent": "kentucky",
+    "homeGame": false,
+    "winLoss": "L",
     "id": 401282061,
     "season": 2021,
     "week": 2,
@@ -84,6 +94,11 @@
     "notes": null
   },
   {
+    "normalizedName": "missouri",
+    "opponent": "Southeast Missouri State",
+    "normalizedOpponent": "southeast-missouri-state",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401282077,
     "season": 2021,
     "week": 3,
@@ -126,6 +141,11 @@
     "notes": null
   },
   {
+    "normalizedName": "missouri",
+    "opponent": "Boston College",
+    "normalizedOpponent": "boston-college",
+    "homeGame": false,
+    "winLoss": "L",
     "id": 401282086,
     "season": 2021,
     "week": 4,
@@ -170,6 +190,11 @@
     "notes": null
   },
   {
+    "normalizedName": "missouri",
+    "opponent": "Tennessee",
+    "normalizedOpponent": "tennessee",
+    "homeGame": true,
+    "winLoss": "L",
     "id": 401282093,
     "season": 2021,
     "week": 5,
@@ -212,6 +237,11 @@
     "notes": null
   },
   {
+    "normalizedName": "missouri",
+    "opponent": "North Texas",
+    "normalizedOpponent": "north-texas",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401282101,
     "season": 2021,
     "week": 6,
@@ -254,6 +284,11 @@
     "notes": null
   },
   {
+    "normalizedName": "missouri",
+    "opponent": "Texas A&M",
+    "normalizedOpponent": "texas-a-m",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401282108,
     "season": 2021,
     "week": 7,
@@ -286,6 +321,11 @@
     "notes": null
   },
   {
+    "normalizedName": "missouri",
+    "opponent": "Vanderbilt",
+    "normalizedOpponent": "vanderbilt",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401282119,
     "season": 2021,
     "week": 9,
@@ -318,6 +358,11 @@
     "notes": null
   },
   {
+    "normalizedName": "missouri",
+    "opponent": "Georgia",
+    "normalizedOpponent": "georgia",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401282122,
     "season": 2021,
     "week": 10,
@@ -350,6 +395,11 @@
     "notes": null
   },
   {
+    "normalizedName": "missouri",
+    "opponent": "South Carolina",
+    "normalizedOpponent": "south-carolina",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401282132,
     "season": 2021,
     "week": 11,
@@ -382,6 +432,11 @@
     "notes": null
   },
   {
+    "normalizedName": "missouri",
+    "opponent": "Florida",
+    "normalizedOpponent": "florida",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401282141,
     "season": 2021,
     "week": 12,
@@ -414,6 +469,11 @@
     "notes": null
   },
   {
+    "normalizedName": "missouri",
+    "opponent": "Arkansas",
+    "normalizedOpponent": "arkansas",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401282145,
     "season": 2021,
     "week": 13,

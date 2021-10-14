@@ -1,5 +1,10 @@
 [
   {
+    "normalizedName": "ut-san-antonio",
+    "opponent": "Illinois",
+    "normalizedOpponent": "illinois",
+    "homeGame": false,
+    "winLoss": "W",
     "id": 401282179,
     "season": 2021,
     "week": 1,
@@ -42,6 +47,11 @@
     "notes": null
   },
   {
+    "normalizedName": "ut-san-antonio",
+    "opponent": "Lamar",
+    "normalizedOpponent": "lamar",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401282192,
     "season": 2021,
     "week": 2,
@@ -84,6 +94,11 @@
     "notes": null
   },
   {
+    "normalizedName": "ut-san-antonio",
+    "opponent": "Middle Tennessee",
+    "normalizedOpponent": "middle-tennessee",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401282194,
     "season": 2021,
     "week": 3,
@@ -126,6 +141,11 @@
     "notes": null
   },
   {
+    "normalizedName": "ut-san-antonio",
+    "opponent": "Memphis",
+    "normalizedOpponent": "memphis",
+    "homeGame": false,
+    "winLoss": "W",
     "id": 401282213,
     "season": 2021,
     "week": 4,
@@ -168,6 +188,11 @@
     "notes": null
   },
   {
+    "normalizedName": "ut-san-antonio",
+    "opponent": "UNLV",
+    "normalizedOpponent": "unlv",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401282222,
     "season": 2021,
     "week": 5,
@@ -210,6 +235,11 @@
     "notes": null
   },
   {
+    "normalizedName": "ut-san-antonio",
+    "opponent": "Western Kentucky",
+    "normalizedOpponent": "western-kentucky",
+    "homeGame": false,
+    "winLoss": "W",
     "id": 401282228,
     "season": 2021,
     "week": 6,
@@ -252,6 +282,11 @@
     "notes": null
   },
   {
+    "normalizedName": "ut-san-antonio",
+    "opponent": "Rice",
+    "normalizedOpponent": "rice",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401282233,
     "season": 2021,
     "week": 7,
@@ -284,6 +319,11 @@
     "notes": null
   },
   {
+    "normalizedName": "ut-san-antonio",
+    "opponent": "Louisiana Tech",
+    "normalizedOpponent": "louisiana-tech",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401282237,
     "season": 2021,
     "week": 8,
@@ -316,6 +356,11 @@
     "notes": null
   },
   {
+    "normalizedName": "ut-san-antonio",
+    "opponent": "UTEP",
+    "normalizedOpponent": "utep",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401282253,
     "season": 2021,
     "week": 10,
@@ -348,6 +393,11 @@
     "notes": null
   },
   {
+    "normalizedName": "ut-san-antonio",
+    "opponent": "Southern Mississippi",
+    "normalizedOpponent": "southern-mississippi",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401282260,
     "season": 2021,
     "week": 11,
@@ -380,6 +430,11 @@
     "notes": null
   },
   {
+    "normalizedName": "ut-san-antonio",
+    "opponent": "UAB",
+    "normalizedOpponent": "uab",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401282267,
     "season": 2021,
     "week": 12,
@@ -412,6 +467,11 @@
     "notes": null
   },
   {
+    "normalizedName": "ut-san-antonio",
+    "opponent": "North Texas",
+    "normalizedOpponent": "north-texas",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401282273,
     "season": 2021,
     "week": 13,

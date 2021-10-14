@@ -1,5 +1,10 @@
 [
   {
+    "normalizedName": "eastern-michigan",
+    "opponent": "St Francis (PA)",
+    "normalizedOpponent": "st-francis-pa",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401309541,
     "season": 2021,
     "week": 1,
@@ -42,6 +47,11 @@
     "notes": null
   },
   {
+    "normalizedName": "eastern-michigan",
+    "opponent": "Wisconsin",
+    "normalizedOpponent": "wisconsin",
+    "homeGame": false,
+    "winLoss": "L",
     "id": 401282825,
     "season": 2021,
     "week": 2,
@@ -84,6 +94,11 @@
     "notes": null
   },
   {
+    "normalizedName": "eastern-michigan",
+    "opponent": "UMass",
+    "normalizedOpponent": "umass",
+    "homeGame": false,
+    "winLoss": "W",
     "id": 401286300,
     "season": 2021,
     "week": 3,
@@ -126,6 +141,11 @@
     "notes": null
   },
   {
+    "normalizedName": "eastern-michigan",
+    "opponent": "Texas State",
+    "normalizedOpponent": "texas-state",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401309557,
     "season": 2021,
     "week": 4,
@@ -168,6 +188,11 @@
     "notes": null
   },
   {
+    "normalizedName": "eastern-michigan",
+    "opponent": "Northern Illinois",
+    "normalizedOpponent": "northern-illinois",
+    "homeGame": false,
+    "winLoss": "L",
     "id": 401309558,
     "season": 2021,
     "week": 5,
@@ -210,6 +235,11 @@
     "notes": null
   },
   {
+    "normalizedName": "eastern-michigan",
+    "opponent": "Miami (OH)",
+    "normalizedOpponent": "miami-oh",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401308836,
     "season": 2021,
     "week": 6,
@@ -252,6 +282,11 @@
     "notes": null
   },
   {
+    "normalizedName": "eastern-michigan",
+    "opponent": "Ball State",
+    "normalizedOpponent": "ball-state",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401309568,
     "season": 2021,
     "week": 7,
@@ -284,12 +319,17 @@
     "notes": null
   },
   {
+    "normalizedName": "eastern-michigan",
+    "opponent": "Bowling Green",
+    "normalizedOpponent": "bowling-green",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401309574,
     "season": 2021,
     "week": 8,
     "season_type": "regular",
-    "start_date": "2021-10-23T04:00:00.000Z",
-    "start_time_tbd": true,
+    "start_date": "2021-10-23T16:00:00.000Z",
+    "start_time_tbd": false,
     "neutral_site": false,
     "conference_game": true,
     "attendance": null,
@@ -316,6 +356,11 @@
     "notes": null
   },
   {
+    "normalizedName": "eastern-michigan",
+    "opponent": "Toledo",
+    "normalizedOpponent": "toledo",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401309580,
     "season": 2021,
     "week": 9,
@@ -348,6 +393,11 @@
     "notes": null
   },
   {
+    "normalizedName": "eastern-michigan",
+    "opponent": "Ohio",
+    "normalizedOpponent": "ohio",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401309583,
     "season": 2021,
     "week": 10,
@@ -380,6 +430,11 @@
     "notes": null
   },
   {
+    "normalizedName": "eastern-michigan",
+    "opponent": "Western Michigan",
+    "normalizedOpponent": "western-michigan",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401309588,
     "season": 2021,
     "week": 11,
@@ -412,6 +467,11 @@
     "notes": null
   },
   {
+    "normalizedName": "eastern-michigan",
+    "opponent": "Central Michigan",
+    "normalizedOpponent": "central-michigan",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401309595,
     "season": 2021,
     "week": 13,

@@ -1,5 +1,10 @@
 [
   {
+    "normalizedName": "old-dominion",
+    "opponent": "Wake Forest",
+    "normalizedOpponent": "wake-forest",
+    "homeGame": false,
+    "winLoss": "L",
     "id": 401282608,
     "season": 2021,
     "week": 1,
@@ -42,6 +47,11 @@
     "notes": null
   },
   {
+    "normalizedName": "old-dominion",
+    "opponent": "Hampton",
+    "normalizedOpponent": "hampton",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401282188,
     "season": 2021,
     "week": 2,
@@ -84,6 +94,11 @@
     "notes": null
   },
   {
+    "normalizedName": "old-dominion",
+    "opponent": "Liberty",
+    "normalizedOpponent": "liberty",
+    "homeGame": false,
+    "winLoss": "L",
     "id": 401282201,
     "season": 2021,
     "week": 3,
@@ -126,6 +141,11 @@
     "notes": null
   },
   {
+    "normalizedName": "old-dominion",
+    "opponent": "Buffalo",
+    "normalizedOpponent": "buffalo",
+    "homeGame": true,
+    "winLoss": "L",
     "id": 401282209,
     "season": 2021,
     "week": 4,
@@ -168,6 +188,11 @@
     "notes": null
   },
   {
+    "normalizedName": "old-dominion",
+    "opponent": "UTEP",
+    "normalizedOpponent": "utep",
+    "homeGame": false,
+    "winLoss": "L",
     "id": 401282217,
     "season": 2021,
     "week": 5,
@@ -210,6 +235,11 @@
     "notes": null
   },
   {
+    "normalizedName": "old-dominion",
+    "opponent": "Marshall",
+    "normalizedOpponent": "marshall",
+    "homeGame": false,
+    "winLoss": "L",
     "id": 401282226,
     "season": 2021,
     "week": 6,
@@ -254,6 +284,11 @@
     "notes": null
   },
   {
+    "normalizedName": "old-dominion",
+    "opponent": "Western Kentucky",
+    "normalizedOpponent": "western-kentucky",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401282232,
     "season": 2021,
     "week": 7,
@@ -286,6 +321,11 @@
     "notes": null
   },
   {
+    "normalizedName": "old-dominion",
+    "opponent": "Louisiana Tech",
+    "normalizedOpponent": "louisiana-tech",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401282244,
     "season": 2021,
     "week": 9,
@@ -318,6 +358,11 @@
     "notes": null
   },
   {
+    "normalizedName": "old-dominion",
+    "opponent": "Florida International",
+    "normalizedOpponent": "florida-international",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401282248,
     "season": 2021,
     "week": 10,
@@ -350,6 +395,11 @@
     "notes": null
   },
   {
+    "normalizedName": "old-dominion",
+    "opponent": "Florida Atlantic",
+    "normalizedOpponent": "florida-atlantic",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401282256,
     "season": 2021,
     "week": 11,
@@ -382,6 +432,11 @@
     "notes": null
   },
   {
+    "normalizedName": "old-dominion",
+    "opponent": "Middle Tennessee",
+    "normalizedOpponent": "middle-tennessee",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401282265,
     "season": 2021,
     "week": 12,
@@ -414,6 +469,11 @@
     "notes": null
   },
   {
+    "normalizedName": "old-dominion",
+    "opponent": "Charlotte",
+    "normalizedOpponent": "charlotte",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401282268,
     "season": 2021,
     "week": 13,

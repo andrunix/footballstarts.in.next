@@ -1,5 +1,10 @@
 [
   {
+    "normalizedName": "south-florida",
+    "opponent": "NC State",
+    "normalizedOpponent": "nc-state",
+    "homeGame": false,
+    "winLoss": "L",
     "id": 401282607,
     "season": 2021,
     "week": 1,
@@ -42,6 +47,11 @@
     "notes": null
   },
   {
+    "normalizedName": "south-florida",
+    "opponent": "Florida",
+    "normalizedOpponent": "florida",
+    "homeGame": true,
+    "winLoss": "L",
     "id": 401282059,
     "season": 2021,
     "week": 2,
@@ -84,6 +94,11 @@
     "notes": null
   },
   {
+    "normalizedName": "south-florida",
+    "opponent": "Florida A&M",
+    "normalizedOpponent": "florida-a-m",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401301006,
     "season": 2021,
     "week": 3,
@@ -126,6 +141,11 @@
     "notes": null
   },
   {
+    "normalizedName": "south-florida",
+    "opponent": "BYU",
+    "normalizedOpponent": "byu",
+    "homeGame": false,
+    "winLoss": "L",
     "id": 401301009,
     "season": 2021,
     "week": 4,
@@ -168,6 +188,11 @@
     "notes": null
   },
   {
+    "normalizedName": "south-florida",
+    "opponent": "SMU",
+    "normalizedOpponent": "smu",
+    "homeGame": false,
+    "winLoss": "L",
     "id": 401301016,
     "season": 2021,
     "week": 5,
@@ -210,6 +235,11 @@
     "notes": null
   },
   {
+    "normalizedName": "south-florida",
+    "opponent": "Tulsa",
+    "normalizedOpponent": "tulsa",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401301024,
     "season": 2021,
     "week": 7,
@@ -242,12 +272,17 @@
     "notes": null
   },
   {
+    "normalizedName": "south-florida",
+    "opponent": "Temple",
+    "normalizedOpponent": "temple",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401301029,
     "season": 2021,
     "week": 8,
     "season_type": "regular",
-    "start_date": "2021-10-23T04:00:00.000Z",
-    "start_time_tbd": true,
+    "start_date": "2021-10-23T23:00:00.000Z",
+    "start_time_tbd": false,
     "neutral_site": false,
     "conference_game": true,
     "attendance": null,
@@ -274,6 +309,11 @@
     "notes": null
   },
   {
+    "normalizedName": "south-florida",
+    "opponent": "East Carolina",
+    "normalizedOpponent": "east-carolina",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401301033,
     "season": 2021,
     "week": 9,
@@ -306,6 +346,11 @@
     "notes": null
   },
   {
+    "normalizedName": "south-florida",
+    "opponent": "Houston",
+    "normalizedOpponent": "houston",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401301038,
     "season": 2021,
     "week": 10,
@@ -338,6 +383,11 @@
     "notes": null
   },
   {
+    "normalizedName": "south-florida",
+    "opponent": "Cincinnati",
+    "normalizedOpponent": "cincinnati",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401301040,
     "season": 2021,
     "week": 11,
@@ -370,6 +420,11 @@
     "notes": null
   },
   {
+    "normalizedName": "south-florida",
+    "opponent": "Tulane",
+    "normalizedOpponent": "tulane",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401301048,
     "season": 2021,
     "week": 12,
@@ -402,6 +457,11 @@
     "notes": null
   },
   {
+    "normalizedName": "south-florida",
+    "opponent": "UCF",
+    "normalizedOpponent": "ucf",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401301050,
     "season": 2021,
     "week": 13,

@@ -1,5 +1,10 @@
 [
   {
+    "normalizedName": "south-alabama",
+    "opponent": "Southern Mississippi",
+    "normalizedOpponent": "southern-mississippi",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401282177,
     "season": 2021,
     "week": 1,
@@ -42,6 +47,11 @@
     "notes": null
   },
   {
+    "normalizedName": "south-alabama",
+    "opponent": "Bowling Green",
+    "normalizedOpponent": "bowling-green",
+    "homeGame": false,
+    "winLoss": "W",
     "id": 401309546,
     "season": 2021,
     "week": 2,
@@ -84,6 +94,11 @@
     "notes": null
   },
   {
+    "normalizedName": "south-alabama",
+    "opponent": "Alcorn State",
+    "normalizedOpponent": "alcorn-state",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401309608,
     "season": 2021,
     "week": 3,
@@ -126,6 +141,11 @@
     "notes": null
   },
   {
+    "normalizedName": "south-alabama",
+    "opponent": "Louisiana",
+    "normalizedOpponent": "louisiana",
+    "homeGame": true,
+    "winLoss": "L",
     "id": 401309615,
     "season": 2021,
     "week": 5,
@@ -168,6 +188,11 @@
     "notes": null
   },
   {
+    "normalizedName": "south-alabama",
+    "opponent": "Texas State",
+    "normalizedOpponent": "texas-state",
+    "homeGame": false,
+    "winLoss": "L",
     "id": 401309619,
     "season": 2021,
     "week": 6,
@@ -218,6 +243,11 @@
     "notes": null
   },
   {
+    "normalizedName": "south-alabama",
+    "opponent": "Georgia Southern",
+    "normalizedOpponent": "georgia-southern",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401309621,
     "season": 2021,
     "week": 7,
@@ -250,6 +280,11 @@
     "notes": null
   },
   {
+    "normalizedName": "south-alabama",
+    "opponent": "Louisiana Monroe",
+    "normalizedOpponent": "louisiana-monroe",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401309626,
     "season": 2021,
     "week": 8,
@@ -282,6 +317,11 @@
     "notes": null
   },
   {
+    "normalizedName": "south-alabama",
+    "opponent": "Arkansas State",
+    "normalizedOpponent": "arkansas-state",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401309629,
     "season": 2021,
     "week": 9,
@@ -314,6 +354,11 @@
     "notes": null
   },
   {
+    "normalizedName": "south-alabama",
+    "opponent": "Troy",
+    "normalizedOpponent": "troy",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401309636,
     "season": 2021,
     "week": 10,
@@ -346,6 +391,11 @@
     "notes": null
   },
   {
+    "normalizedName": "south-alabama",
+    "opponent": "Appalachian State",
+    "normalizedOpponent": "appalachian-state",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401309637,
     "season": 2021,
     "week": 11,
@@ -363,7 +413,7 @@
     "home_points": null,
     "home_line_scores": null,
     "home_post_win_prob": null,
-    "home_pregame_elo": 1833,
+    "home_pregame_elo": 1758,
     "home_postgame_elo": null,
     "away_id": 6,
     "away_team": "South Alabama",
@@ -378,6 +428,11 @@
     "notes": null
   },
   {
+    "normalizedName": "south-alabama",
+    "opponent": "Tennessee",
+    "normalizedOpponent": "tennessee",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401282143,
     "season": 2021,
     "week": 12,
@@ -410,6 +465,11 @@
     "notes": null
   },
   {
+    "normalizedName": "south-alabama",
+    "opponent": "Coastal Carolina",
+    "normalizedOpponent": "coastal-carolina",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401309648,
     "season": 2021,
     "week": 13,

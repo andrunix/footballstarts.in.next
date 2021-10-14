@@ -1,5 +1,10 @@
 [
   {
+    "normalizedName": "miami-oh",
+    "opponent": "Cincinnati",
+    "normalizedOpponent": "cincinnati",
+    "homeGame": false,
+    "winLoss": "L",
     "id": 401300996,
     "season": 2021,
     "week": 1,
@@ -42,6 +47,11 @@
     "notes": null
   },
   {
+    "normalizedName": "miami-oh",
+    "opponent": "Minnesota",
+    "normalizedOpponent": "minnesota",
+    "homeGame": false,
+    "winLoss": "L",
     "id": 401282790,
     "season": 2021,
     "week": 2,
@@ -84,6 +94,11 @@
     "notes": null
   },
   {
+    "normalizedName": "miami-oh",
+    "opponent": "Long Island University",
+    "normalizedOpponent": "long-island-university",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401308843,
     "season": 2021,
     "week": 3,
@@ -126,6 +141,11 @@
     "notes": null
   },
   {
+    "normalizedName": "miami-oh",
+    "opponent": "Army",
+    "normalizedOpponent": "army",
+    "homeGame": false,
+    "winLoss": "L",
     "id": 401308834,
     "season": 2021,
     "week": 4,
@@ -168,6 +188,11 @@
     "notes": null
   },
   {
+    "normalizedName": "miami-oh",
+    "opponent": "Central Michigan",
+    "normalizedOpponent": "central-michigan",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401308835,
     "season": 2021,
     "week": 5,
@@ -210,6 +235,11 @@
     "notes": null
   },
   {
+    "normalizedName": "miami-oh",
+    "opponent": "Eastern Michigan",
+    "normalizedOpponent": "eastern-michigan",
+    "homeGame": false,
+    "winLoss": "L",
     "id": 401308836,
     "season": 2021,
     "week": 6,
@@ -252,6 +282,11 @@
     "notes": null
   },
   {
+    "normalizedName": "miami-oh",
+    "opponent": "Akron",
+    "normalizedOpponent": "akron",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401308837,
     "season": 2021,
     "week": 7,
@@ -284,6 +319,11 @@
     "notes": null
   },
   {
+    "normalizedName": "miami-oh",
+    "opponent": "Ball State",
+    "normalizedOpponent": "ball-state",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401308838,
     "season": 2021,
     "week": 8,
@@ -316,6 +356,11 @@
     "notes": null
   },
   {
+    "normalizedName": "miami-oh",
+    "opponent": "Ohio",
+    "normalizedOpponent": "ohio",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401308839,
     "season": 2021,
     "week": 9,
@@ -348,6 +393,11 @@
     "notes": null
   },
   {
+    "normalizedName": "miami-oh",
+    "opponent": "Buffalo",
+    "normalizedOpponent": "buffalo",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401308840,
     "season": 2021,
     "week": 10,
@@ -380,6 +430,11 @@
     "notes": null
   },
   {
+    "normalizedName": "miami-oh",
+    "opponent": "Bowling Green",
+    "normalizedOpponent": "bowling-green",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401308841,
     "season": 2021,
     "week": 11,
@@ -412,6 +467,11 @@
     "notes": null
   },
   {
+    "normalizedName": "miami-oh",
+    "opponent": "Kent State",
+    "normalizedOpponent": "kent-state",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401308842,
     "season": 2021,
     "week": 13,

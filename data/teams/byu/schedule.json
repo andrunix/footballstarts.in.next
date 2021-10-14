@@ -1,5 +1,10 @@
 [
   {
+    "normalizedName": "byu",
+    "opponent": "Arizona",
+    "normalizedOpponent": "arizona",
+    "homeGame": false,
+    "winLoss": "W",
     "id": 401309841,
     "season": 2021,
     "week": 1,
@@ -42,6 +47,11 @@
     "notes": null
   },
   {
+    "normalizedName": "byu",
+    "opponent": "Utah",
+    "normalizedOpponent": "utah",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401309848,
     "season": 2021,
     "week": 2,
@@ -84,6 +94,11 @@
     "notes": null
   },
   {
+    "normalizedName": "byu",
+    "opponent": "Arizona State",
+    "normalizedOpponent": "arizona-state",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401309854,
     "season": 2021,
     "week": 3,
@@ -126,6 +141,11 @@
     "notes": null
   },
   {
+    "normalizedName": "byu",
+    "opponent": "South Florida",
+    "normalizedOpponent": "south-florida",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401301009,
     "season": 2021,
     "week": 4,
@@ -168,6 +188,11 @@
     "notes": null
   },
   {
+    "normalizedName": "byu",
+    "opponent": "Utah State",
+    "normalizedOpponent": "utah-state",
+    "homeGame": false,
+    "winLoss": "W",
     "id": 401309912,
     "season": 2021,
     "week": 5,
@@ -210,6 +235,11 @@
     "notes": null
   },
   {
+    "normalizedName": "byu",
+    "opponent": "Boise State",
+    "normalizedOpponent": "boise-state",
+    "homeGame": true,
+    "winLoss": "L",
     "id": 401309913,
     "season": 2021,
     "week": 6,
@@ -252,6 +282,11 @@
     "notes": null
   },
   {
+    "normalizedName": "byu",
+    "opponent": "Baylor",
+    "normalizedOpponent": "baylor",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401287920,
     "season": 2021,
     "week": 7,
@@ -284,6 +319,11 @@
     "notes": null
   },
   {
+    "normalizedName": "byu",
+    "opponent": "Washington State",
+    "normalizedOpponent": "washington-state",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401309881,
     "season": 2021,
     "week": 8,
@@ -316,6 +356,11 @@
     "notes": null
   },
   {
+    "normalizedName": "byu",
+    "opponent": "Virginia",
+    "normalizedOpponent": "virginia",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401282669,
     "season": 2021,
     "week": 9,
@@ -348,6 +393,11 @@
     "notes": null
   },
   {
+    "normalizedName": "byu",
+    "opponent": "Idaho State",
+    "normalizedOpponent": "idaho-state",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401309914,
     "season": 2021,
     "week": 10,
@@ -380,6 +430,11 @@
     "notes": null
   },
   {
+    "normalizedName": "byu",
+    "opponent": "Georgia Southern",
+    "normalizedOpponent": "georgia-southern",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401309645,
     "season": 2021,
     "week": 12,
@@ -412,6 +467,11 @@
     "notes": null
   },
   {
+    "normalizedName": "byu",
+    "opponent": "USC",
+    "normalizedOpponent": "usc",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401309910,
     "season": 2021,
     "week": 13,

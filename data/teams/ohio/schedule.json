@@ -1,5 +1,10 @@
 [
   {
+    "normalizedName": "ohio",
+    "opponent": "Syracuse",
+    "normalizedOpponent": "syracuse",
+    "homeGame": true,
+    "winLoss": "L",
     "id": 401282611,
     "season": 2021,
     "week": 1,
@@ -42,6 +47,11 @@
     "notes": null
   },
   {
+    "normalizedName": "ohio",
+    "opponent": "Duquesne",
+    "normalizedOpponent": "duquesne",
+    "homeGame": true,
+    "winLoss": "L",
     "id": 401309753,
     "season": 2021,
     "week": 2,
@@ -84,6 +94,11 @@
     "notes": null
   },
   {
+    "normalizedName": "ohio",
+    "opponent": "Louisiana",
+    "normalizedOpponent": "louisiana",
+    "homeGame": false,
+    "winLoss": "L",
     "id": 401309606,
     "season": 2021,
     "week": 3,
@@ -126,6 +141,11 @@
     "notes": null
   },
   {
+    "normalizedName": "ohio",
+    "opponent": "Northwestern",
+    "normalizedOpponent": "northwestern",
+    "homeGame": false,
+    "winLoss": "L",
     "id": 401282805,
     "season": 2021,
     "week": 4,
@@ -168,6 +188,11 @@
     "notes": null
   },
   {
+    "normalizedName": "ohio",
+    "opponent": "Akron",
+    "normalizedOpponent": "akron",
+    "homeGame": false,
+    "winLoss": "W",
     "id": 401309560,
     "season": 2021,
     "week": 5,
@@ -210,6 +235,11 @@
     "notes": null
   },
   {
+    "normalizedName": "ohio",
+    "opponent": "Central Michigan",
+    "normalizedOpponent": "central-michigan",
+    "homeGame": true,
+    "winLoss": "L",
     "id": 401309567,
     "season": 2021,
     "week": 6,
@@ -252,6 +282,11 @@
     "notes": null
   },
   {
+    "normalizedName": "ohio",
+    "opponent": "Buffalo",
+    "normalizedOpponent": "buffalo",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401309571,
     "season": 2021,
     "week": 7,
@@ -284,12 +319,17 @@
     "notes": null
   },
   {
+    "normalizedName": "ohio",
+    "opponent": "Kent State",
+    "normalizedOpponent": "kent-state",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401309576,
     "season": 2021,
     "week": 8,
     "season_type": "regular",
-    "start_date": "2021-10-23T04:00:00.000Z",
-    "start_time_tbd": true,
+    "start_date": "2021-10-23T17:00:00.000Z",
+    "start_time_tbd": false,
     "neutral_site": false,
     "conference_game": true,
     "attendance": null,
@@ -316,6 +356,11 @@
     "notes": null
   },
   {
+    "normalizedName": "ohio",
+    "opponent": "Miami (OH)",
+    "normalizedOpponent": "miami-oh",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401308839,
     "season": 2021,
     "week": 9,
@@ -348,6 +393,11 @@
     "notes": null
   },
   {
+    "normalizedName": "ohio",
+    "opponent": "Eastern Michigan",
+    "normalizedOpponent": "eastern-michigan",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401309583,
     "season": 2021,
     "week": 10,
@@ -380,6 +430,11 @@
     "notes": null
   },
   {
+    "normalizedName": "ohio",
+    "opponent": "Toledo",
+    "normalizedOpponent": "toledo",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401309589,
     "season": 2021,
     "week": 11,
@@ -412,6 +467,11 @@
     "notes": null
   },
   {
+    "normalizedName": "ohio",
+    "opponent": "Bowling Green",
+    "normalizedOpponent": "bowling-green",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401309596,
     "season": 2021,
     "week": 13,

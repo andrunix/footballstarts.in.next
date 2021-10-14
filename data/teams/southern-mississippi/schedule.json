@@ -1,5 +1,10 @@
 [
   {
+    "normalizedName": "southern-mississippi",
+    "opponent": "South Alabama",
+    "normalizedOpponent": "south-alabama",
+    "homeGame": false,
+    "winLoss": "L",
     "id": 401282177,
     "season": 2021,
     "week": 1,
@@ -42,6 +47,11 @@
     "notes": null
   },
   {
+    "normalizedName": "southern-mississippi",
+    "opponent": "Grambling",
+    "normalizedOpponent": "grambling",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401282190,
     "season": 2021,
     "week": 2,
@@ -84,6 +94,11 @@
     "notes": null
   },
   {
+    "normalizedName": "southern-mississippi",
+    "opponent": "Troy",
+    "normalizedOpponent": "troy",
+    "homeGame": true,
+    "winLoss": "L",
     "id": 401282203,
     "season": 2021,
     "week": 3,
@@ -126,6 +141,11 @@
     "notes": null
   },
   {
+    "normalizedName": "southern-mississippi",
+    "opponent": "Alabama",
+    "normalizedOpponent": "alabama",
+    "homeGame": false,
+    "winLoss": "L",
     "id": 401282081,
     "season": 2021,
     "week": 4,
@@ -168,6 +188,11 @@
     "notes": null
   },
   {
+    "normalizedName": "southern-mississippi",
+    "opponent": "Rice",
+    "normalizedOpponent": "rice",
+    "homeGame": false,
+    "winLoss": "L",
     "id": 401282218,
     "season": 2021,
     "week": 5,
@@ -210,6 +235,11 @@
     "notes": null
   },
   {
+    "normalizedName": "southern-mississippi",
+    "opponent": "UTEP",
+    "normalizedOpponent": "utep",
+    "homeGame": true,
+    "winLoss": "L",
     "id": 401282227,
     "season": 2021,
     "week": 6,
@@ -252,6 +282,11 @@
     "notes": null
   },
   {
+    "normalizedName": "southern-mississippi",
+    "opponent": "UAB",
+    "normalizedOpponent": "uab",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401282234,
     "season": 2021,
     "week": 7,
@@ -284,6 +319,11 @@
     "notes": null
   },
   {
+    "normalizedName": "southern-mississippi",
+    "opponent": "Middle Tennessee",
+    "normalizedOpponent": "middle-tennessee",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401282245,
     "season": 2021,
     "week": 9,
@@ -316,6 +356,11 @@
     "notes": null
   },
   {
+    "normalizedName": "southern-mississippi",
+    "opponent": "North Texas",
+    "normalizedOpponent": "north-texas",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401282252,
     "season": 2021,
     "week": 10,
@@ -348,6 +393,11 @@
     "notes": null
   },
   {
+    "normalizedName": "southern-mississippi",
+    "opponent": "UT San Antonio",
+    "normalizedOpponent": "ut-san-antonio",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401282260,
     "season": 2021,
     "week": 11,
@@ -380,6 +430,11 @@
     "notes": null
   },
   {
+    "normalizedName": "southern-mississippi",
+    "opponent": "Louisiana Tech",
+    "normalizedOpponent": "louisiana-tech",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401282264,
     "season": 2021,
     "week": 12,
@@ -412,6 +467,11 @@
     "notes": null
   },
   {
+    "normalizedName": "southern-mississippi",
+    "opponent": "Florida International",
+    "normalizedOpponent": "florida-international",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401282269,
     "season": 2021,
     "week": 13,

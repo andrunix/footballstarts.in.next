@@ -1,5 +1,10 @@
 [
   {
+    "normalizedName": "florida-international",
+    "opponent": "Long Island University",
+    "normalizedOpponent": "long-island-university",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401282051,
     "season": 2021,
     "week": 1,
@@ -42,6 +47,11 @@
     "notes": null
   },
   {
+    "normalizedName": "florida-international",
+    "opponent": "Texas State",
+    "normalizedOpponent": "texas-state",
+    "homeGame": true,
+    "winLoss": "L",
     "id": 401282182,
     "season": 2021,
     "week": 2,
@@ -86,6 +96,11 @@
     "notes": null
   },
   {
+    "normalizedName": "florida-international",
+    "opponent": "Texas Tech",
+    "normalizedOpponent": "texas-tech",
+    "homeGame": false,
+    "winLoss": "L",
     "id": 401282197,
     "season": 2021,
     "week": 3,
@@ -128,6 +143,11 @@
     "notes": null
   },
   {
+    "normalizedName": "florida-international",
+    "opponent": "Central Michigan",
+    "normalizedOpponent": "central-michigan",
+    "homeGame": false,
+    "winLoss": "L",
     "id": 401282206,
     "season": 2021,
     "week": 4,
@@ -170,6 +190,11 @@
     "notes": null
   },
   {
+    "normalizedName": "florida-international",
+    "opponent": "Florida Atlantic",
+    "normalizedOpponent": "florida-atlantic",
+    "homeGame": false,
+    "winLoss": "L",
     "id": 401282215,
     "season": 2021,
     "week": 5,
@@ -212,6 +237,11 @@
     "notes": null
   },
   {
+    "normalizedName": "florida-international",
+    "opponent": "Charlotte",
+    "normalizedOpponent": "charlotte",
+    "homeGame": true,
+    "winLoss": "L",
     "id": 401282224,
     "season": 2021,
     "week": 6,
@@ -254,6 +284,11 @@
     "notes": null
   },
   {
+    "normalizedName": "florida-international",
+    "opponent": "Western Kentucky",
+    "normalizedOpponent": "western-kentucky",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401282236,
     "season": 2021,
     "week": 8,
@@ -286,6 +321,11 @@
     "notes": null
   },
   {
+    "normalizedName": "florida-international",
+    "opponent": "Marshall",
+    "normalizedOpponent": "marshall",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401282242,
     "season": 2021,
     "week": 9,
@@ -318,6 +358,11 @@
     "notes": null
   },
   {
+    "normalizedName": "florida-international",
+    "opponent": "Old Dominion",
+    "normalizedOpponent": "old-dominion",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401282248,
     "season": 2021,
     "week": 10,
@@ -350,6 +395,11 @@
     "notes": null
   },
   {
+    "normalizedName": "florida-international",
+    "opponent": "Middle Tennessee",
+    "normalizedOpponent": "middle-tennessee",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401282255,
     "season": 2021,
     "week": 11,
@@ -382,6 +432,11 @@
     "notes": null
   },
   {
+    "normalizedName": "florida-international",
+    "opponent": "North Texas",
+    "normalizedOpponent": "north-texas",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401282262,
     "season": 2021,
     "week": 12,
@@ -414,6 +469,11 @@
     "notes": null
   },
   {
+    "normalizedName": "florida-international",
+    "opponent": "Southern Mississippi",
+    "normalizedOpponent": "southern-mississippi",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401282269,
     "season": 2021,
     "week": 13,

@@ -1,26 +1,5 @@
-const homeGame = (team, home_team) => { 
-  return home_team.toLowerCase() === team.toLowerCase();
-};
-
-const opponent = (team, home_team, away_team) => { 
-  return home_team.toLowerCase() !== team ? `@${home_team}` : away_team;
-};
-
-function getScore(team, game) {
-  let score = '';
-  let wl = '';
-  const { home_points, away_points, home_team, away_team } = game;
-  if (home_points) {
-      if ((homeGame(team, home_team) && away_points > home_points)
-          || (!homeGame(team, home_team) && home_points > away_points)) {
-          wl = 'W';
-      } else {
-          wl = 'L';
-      }
-      score = `${home_points} - ${away_points} ${wl}`;
-  }
-  return score;
-}
+import Link from 'next/link';
+import styles from './schedule.module.css';
 
 const formatDate = (gameDate) => {
   const dt = new Date(gameDate);
@@ -30,8 +9,8 @@ const formatDate = (gameDate) => {
 export default function Schedule(props) {
 
   return (
-    <>
-      <table className="teamSchedule">
+    <div className="container">
+      <table className={styles.teamSchedule}>
         <thead>
           <tr>
             <th>Opponent</th>
@@ -44,14 +23,18 @@ export default function Schedule(props) {
 
           {props.schedule.map((game) => (
             <tr key={game.id}>
-              <td>{opponent(props.team, game.home_team, game.away_team)}</td>
+              <td>
+                <Link href={`/teams/${game.normalizedOpponent}`}>
+                  <a>{(game.homeGame) ? game.opponent : '@' + game.opponent}</a>
+                </Link>
+                </td>
               <td>{formatDate(game.start_date)}</td>
-              <td>{game.away_team}</td>
-              <td>{getScore(props.team, game)}</td>
+              <td>{(game.home_points) ? `${game.home_points} - ${game.away_points}` : ''}</td>
+              <td>{game.winLoss}</td>
             </tr>
           ))}
         </tbody>
       </table>
-    </>
+    </div>
   )
 }

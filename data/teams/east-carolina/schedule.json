@@ -1,5 +1,10 @@
 [
   {
+    "normalizedName": "east-carolina",
+    "opponent": "Appalachian State",
+    "normalizedOpponent": "appalachian-state",
+    "homeGame": false,
+    "winLoss": "L",
     "id": 401300993,
     "season": 2021,
     "week": 1,
@@ -42,6 +47,11 @@
     "notes": null
   },
   {
+    "normalizedName": "east-carolina",
+    "opponent": "South Carolina",
+    "normalizedOpponent": "south-carolina",
+    "homeGame": true,
+    "winLoss": "L",
     "id": 401282065,
     "season": 2021,
     "week": 2,
@@ -84,6 +94,11 @@
     "notes": null
   },
   {
+    "normalizedName": "east-carolina",
+    "opponent": "Marshall",
+    "normalizedOpponent": "marshall",
+    "homeGame": false,
+    "winLoss": "W",
     "id": 401282200,
     "season": 2021,
     "week": 3,
@@ -126,6 +141,11 @@
     "notes": null
   },
   {
+    "normalizedName": "east-carolina",
+    "opponent": "Charleston Southern",
+    "normalizedOpponent": "charleston-southern",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401301007,
     "season": 2021,
     "week": 4,
@@ -168,6 +188,11 @@
     "notes": null
   },
   {
+    "normalizedName": "east-carolina",
+    "opponent": "Tulane",
+    "normalizedOpponent": "tulane",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401301014,
     "season": 2021,
     "week": 5,
@@ -210,6 +235,11 @@
     "notes": null
   },
   {
+    "normalizedName": "east-carolina",
+    "opponent": "UCF",
+    "normalizedOpponent": "ucf",
+    "homeGame": false,
+    "winLoss": "L",
     "id": 401301019,
     "season": 2021,
     "week": 6,
@@ -252,12 +282,17 @@
     "notes": null
   },
   {
+    "normalizedName": "east-carolina",
+    "opponent": "Houston",
+    "normalizedOpponent": "houston",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401301028,
     "season": 2021,
     "week": 8,
     "season_type": "regular",
-    "start_date": "2021-10-23T04:00:00.000Z",
-    "start_time_tbd": true,
+    "start_date": "2021-10-23T20:00:00.000Z",
+    "start_time_tbd": false,
     "neutral_site": false,
     "conference_game": true,
     "attendance": null,
@@ -284,6 +319,11 @@
     "notes": null
   },
   {
+    "normalizedName": "east-carolina",
+    "opponent": "South Florida",
+    "normalizedOpponent": "south-florida",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401301033,
     "season": 2021,
     "week": 9,
@@ -316,6 +356,11 @@
     "notes": null
   },
   {
+    "normalizedName": "east-carolina",
+    "opponent": "Temple",
+    "normalizedOpponent": "temple",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401301035,
     "season": 2021,
     "week": 10,
@@ -348,6 +393,11 @@
     "notes": null
   },
   {
+    "normalizedName": "east-carolina",
+    "opponent": "Memphis",
+    "normalizedOpponent": "memphis",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401301042,
     "season": 2021,
     "week": 11,
@@ -380,6 +430,11 @@
     "notes": null
   },
   {
+    "normalizedName": "east-carolina",
+    "opponent": "Navy",
+    "normalizedOpponent": "navy",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401301047,
     "season": 2021,
     "week": 12,
@@ -412,6 +467,11 @@
     "notes": null
   },
   {
+    "normalizedName": "east-carolina",
+    "opponent": "Cincinnati",
+    "normalizedOpponent": "cincinnati",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401301051,
     "season": 2021,
     "week": 13,

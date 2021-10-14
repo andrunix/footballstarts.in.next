@@ -1,5 +1,10 @@
 [
   {
+    "normalizedName": "tulsa",
+    "opponent": "UC Davis",
+    "normalizedOpponent": "uc-davis",
+    "homeGame": true,
+    "winLoss": "L",
     "id": 401300994,
     "season": 2021,
     "week": 1,
@@ -42,6 +47,11 @@
     "notes": null
   },
   {
+    "normalizedName": "tulsa",
+    "opponent": "Oklahoma State",
+    "normalizedOpponent": "oklahoma-state",
+    "homeGame": false,
+    "winLoss": "L",
     "id": 401287899,
     "season": 2021,
     "week": 2,
@@ -84,6 +94,11 @@
     "notes": null
   },
   {
+    "normalizedName": "tulsa",
+    "opponent": "Ohio State",
+    "normalizedOpponent": "ohio-state",
+    "homeGame": false,
+    "winLoss": "L",
     "id": 401282810,
     "season": 2021,
     "week": 3,
@@ -126,6 +141,11 @@
     "notes": null
   },
   {
+    "normalizedName": "tulsa",
+    "opponent": "Arkansas State",
+    "normalizedOpponent": "arkansas-state",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401301011,
     "season": 2021,
     "week": 4,
@@ -168,6 +188,11 @@
     "notes": null
   },
   {
+    "normalizedName": "tulsa",
+    "opponent": "Houston",
+    "normalizedOpponent": "houston",
+    "homeGame": true,
+    "winLoss": "L",
     "id": 401301012,
     "season": 2021,
     "week": 5,
@@ -210,6 +235,11 @@
     "notes": null
   },
   {
+    "normalizedName": "tulsa",
+    "opponent": "Memphis",
+    "normalizedOpponent": "memphis",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401301020,
     "season": 2021,
     "week": 6,
@@ -252,6 +282,11 @@
     "notes": null
   },
   {
+    "normalizedName": "tulsa",
+    "opponent": "South Florida",
+    "normalizedOpponent": "south-florida",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401301024,
     "season": 2021,
     "week": 7,
@@ -284,6 +319,11 @@
     "notes": null
   },
   {
+    "normalizedName": "tulsa",
+    "opponent": "Navy",
+    "normalizedOpponent": "navy",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401301030,
     "season": 2021,
     "week": 9,
@@ -316,6 +356,11 @@
     "notes": null
   },
   {
+    "normalizedName": "tulsa",
+    "opponent": "Cincinnati",
+    "normalizedOpponent": "cincinnati",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401301037,
     "season": 2021,
     "week": 10,
@@ -348,6 +393,11 @@
     "notes": null
   },
   {
+    "normalizedName": "tulsa",
+    "opponent": "Tulane",
+    "normalizedOpponent": "tulane",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401301044,
     "season": 2021,
     "week": 11,
@@ -380,6 +430,11 @@
     "notes": null
   },
   {
+    "normalizedName": "tulsa",
+    "opponent": "Temple",
+    "normalizedOpponent": "temple",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401301049,
     "season": 2021,
     "week": 12,
@@ -412,6 +467,11 @@
     "notes": null
   },
   {
+    "normalizedName": "tulsa",
+    "opponent": "SMU",
+    "normalizedOpponent": "smu",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401301055,
     "season": 2021,
     "week": 13,

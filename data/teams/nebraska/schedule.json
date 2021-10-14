@@ -1,5 +1,10 @@
 [
   {
+    "normalizedName": "nebraska",
+    "opponent": "Illinois",
+    "normalizedOpponent": "illinois",
+    "homeGame": false,
+    "winLoss": "L",
     "id": 401282714,
     "season": 2021,
     "week": 1,
@@ -42,6 +47,11 @@
     "notes": null
   },
   {
+    "normalizedName": "nebraska",
+    "opponent": "Fordham",
+    "normalizedOpponent": "fordham",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401327913,
     "season": 2021,
     "week": 1,
@@ -84,6 +94,11 @@
     "notes": null
   },
   {
+    "normalizedName": "nebraska",
+    "opponent": "Buffalo",
+    "normalizedOpponent": "buffalo",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401282797,
     "season": 2021,
     "week": 2,
@@ -126,6 +141,11 @@
     "notes": null
   },
   {
+    "normalizedName": "nebraska",
+    "opponent": "Oklahoma",
+    "normalizedOpponent": "oklahoma",
+    "homeGame": false,
+    "winLoss": "L",
     "id": 401282798,
     "season": 2021,
     "week": 3,
@@ -168,6 +188,11 @@
     "notes": null
   },
   {
+    "normalizedName": "nebraska",
+    "opponent": "Michigan State",
+    "normalizedOpponent": "michigan-state",
+    "homeGame": false,
+    "winLoss": "L",
     "id": 401282784,
     "season": 2021,
     "week": 4,
@@ -212,6 +237,11 @@
     "notes": null
   },
   {
+    "normalizedName": "nebraska",
+    "opponent": "Northwestern",
+    "normalizedOpponent": "northwestern",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401282800,
     "season": 2021,
     "week": 5,
@@ -254,6 +284,11 @@
     "notes": null
   },
   {
+    "normalizedName": "nebraska",
+    "opponent": "Michigan",
+    "normalizedOpponent": "michigan",
+    "homeGame": true,
+    "winLoss": "L",
     "id": 401282778,
     "season": 2021,
     "week": 6,
@@ -296,6 +331,11 @@
     "notes": null
   },
   {
+    "normalizedName": "nebraska",
+    "opponent": "Minnesota",
+    "normalizedOpponent": "minnesota",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401282796,
     "season": 2021,
     "week": 7,
@@ -328,6 +368,11 @@
     "notes": null
   },
   {
+    "normalizedName": "nebraska",
+    "opponent": "Purdue",
+    "normalizedOpponent": "purdue",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401282801,
     "season": 2021,
     "week": 9,
@@ -360,6 +405,11 @@
     "notes": null
   },
   {
+    "normalizedName": "nebraska",
+    "opponent": "Ohio State",
+    "normalizedOpponent": "ohio-state",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401282799,
     "season": 2021,
     "week": 10,
@@ -392,6 +442,11 @@
     "notes": null
   },
   {
+    "normalizedName": "nebraska",
+    "opponent": "Wisconsin",
+    "normalizedOpponent": "wisconsin",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401282803,
     "season": 2021,
     "week": 12,
@@ -424,6 +479,11 @@
     "notes": null
   },
   {
+    "normalizedName": "nebraska",
+    "opponent": "Iowa",
+    "normalizedOpponent": "iowa",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401282761,
     "season": 2021,
     "week": 13,

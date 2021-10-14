@@ -1,5 +1,10 @@
 [
   {
+    "normalizedName": "louisiana-tech",
+    "opponent": "Mississippi State",
+    "normalizedOpponent": "mississippi-state",
+    "homeGame": false,
+    "winLoss": "L",
     "id": 401281949,
     "season": 2021,
     "week": 1,
@@ -42,6 +47,11 @@
     "notes": null
   },
   {
+    "normalizedName": "louisiana-tech",
+    "opponent": "Southeastern Louisiana",
+    "normalizedOpponent": "southeastern-louisiana",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401282184,
     "season": 2021,
     "week": 2,
@@ -84,6 +94,11 @@
     "notes": null
   },
   {
+    "normalizedName": "louisiana-tech",
+    "opponent": "SMU",
+    "normalizedOpponent": "smu",
+    "homeGame": true,
+    "winLoss": "L",
     "id": 401282199,
     "season": 2021,
     "week": 3,
@@ -126,6 +141,11 @@
     "notes": null
   },
   {
+    "normalizedName": "louisiana-tech",
+    "opponent": "North Texas",
+    "normalizedOpponent": "north-texas",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401282205,
     "season": 2021,
     "week": 4,
@@ -168,6 +188,11 @@
     "notes": null
   },
   {
+    "normalizedName": "louisiana-tech",
+    "opponent": "NC State",
+    "normalizedOpponent": "nc-state",
+    "homeGame": false,
+    "winLoss": "L",
     "id": 401282220,
     "season": 2021,
     "week": 5,
@@ -210,6 +235,11 @@
     "notes": null
   },
   {
+    "normalizedName": "louisiana-tech",
+    "opponent": "UTEP",
+    "normalizedOpponent": "utep",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401282230,
     "season": 2021,
     "week": 7,
@@ -242,6 +272,11 @@
     "notes": null
   },
   {
+    "normalizedName": "louisiana-tech",
+    "opponent": "UT San Antonio",
+    "normalizedOpponent": "ut-san-antonio",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401282237,
     "season": 2021,
     "week": 8,
@@ -274,6 +309,11 @@
     "notes": null
   },
   {
+    "normalizedName": "louisiana-tech",
+    "opponent": "Old Dominion",
+    "normalizedOpponent": "old-dominion",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401282244,
     "season": 2021,
     "week": 9,
@@ -306,6 +346,11 @@
     "notes": null
   },
   {
+    "normalizedName": "louisiana-tech",
+    "opponent": "UAB",
+    "normalizedOpponent": "uab",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401282250,
     "season": 2021,
     "week": 10,
@@ -338,6 +383,11 @@
     "notes": null
   },
   {
+    "normalizedName": "louisiana-tech",
+    "opponent": "Charlotte",
+    "normalizedOpponent": "charlotte",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401282254,
     "season": 2021,
     "week": 11,
@@ -370,6 +420,11 @@
     "notes": null
   },
   {
+    "normalizedName": "louisiana-tech",
+    "opponent": "Southern Mississippi",
+    "normalizedOpponent": "southern-mississippi",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401282264,
     "season": 2021,
     "week": 12,
@@ -402,6 +457,11 @@
     "notes": null
   },
   {
+    "normalizedName": "louisiana-tech",
+    "opponent": "Rice",
+    "normalizedOpponent": "rice",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401282271,
     "season": 2021,
     "week": 13,

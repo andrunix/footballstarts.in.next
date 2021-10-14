@@ -1,5 +1,10 @@
 [
   {
+    "normalizedName": "virginia",
+    "opponent": "William & Mary",
+    "normalizedOpponent": "william---mary",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401282613,
     "season": 2021,
     "week": 1,
@@ -42,6 +47,11 @@
     "notes": null
   },
   {
+    "normalizedName": "virginia",
+    "opponent": "Illinois",
+    "normalizedOpponent": "illinois",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401282624,
     "season": 2021,
     "week": 2,
@@ -84,6 +94,11 @@
     "notes": null
   },
   {
+    "normalizedName": "virginia",
+    "opponent": "North Carolina",
+    "normalizedOpponent": "north-carolina",
+    "homeGame": false,
+    "winLoss": "L",
     "id": 401282631,
     "season": 2021,
     "week": 3,
@@ -126,6 +141,11 @@
     "notes": null
   },
   {
+    "normalizedName": "virginia",
+    "opponent": "Wake Forest",
+    "normalizedOpponent": "wake-forest",
+    "homeGame": true,
+    "winLoss": "L",
     "id": 401282638,
     "season": 2021,
     "week": 4,
@@ -168,6 +188,11 @@
     "notes": null
   },
   {
+    "normalizedName": "virginia",
+    "opponent": "Miami",
+    "normalizedOpponent": "miami",
+    "homeGame": false,
+    "winLoss": "W",
     "id": 401282646,
     "season": 2021,
     "week": 5,
@@ -210,6 +235,11 @@
     "notes": null
   },
   {
+    "normalizedName": "virginia",
+    "opponent": "Louisville",
+    "normalizedOpponent": "louisville",
+    "homeGame": false,
+    "winLoss": "W",
     "id": 401282653,
     "season": 2021,
     "week": 6,
@@ -252,6 +282,11 @@
     "notes": null
   },
   {
+    "normalizedName": "virginia",
+    "opponent": "Duke",
+    "normalizedOpponent": "duke",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401282660,
     "season": 2021,
     "week": 7,
@@ -284,12 +319,17 @@
     "notes": null
   },
   {
+    "normalizedName": "virginia",
+    "opponent": "Georgia Tech",
+    "normalizedOpponent": "georgia-tech",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401282667,
     "season": 2021,
     "week": 8,
     "season_type": "regular",
-    "start_date": "2021-10-23T04:00:00.000Z",
-    "start_time_tbd": true,
+    "start_date": "2021-10-23T23:30:00.000Z",
+    "start_time_tbd": false,
     "neutral_site": false,
     "conference_game": true,
     "attendance": null,
@@ -316,6 +356,11 @@
     "notes": null
   },
   {
+    "normalizedName": "virginia",
+    "opponent": "BYU",
+    "normalizedOpponent": "byu",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401282669,
     "season": 2021,
     "week": 9,
@@ -348,6 +393,11 @@
     "notes": null
   },
   {
+    "normalizedName": "virginia",
+    "opponent": "Notre Dame",
+    "normalizedOpponent": "notre-dame",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401282688,
     "season": 2021,
     "week": 11,
@@ -380,6 +430,11 @@
     "notes": null
   },
   {
+    "normalizedName": "virginia",
+    "opponent": "Pittsburgh",
+    "normalizedOpponent": "pittsburgh",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401282698,
     "season": 2021,
     "week": 12,
@@ -412,6 +467,11 @@
     "notes": null
   },
   {
+    "normalizedName": "virginia",
+    "opponent": "Virginia Tech",
+    "normalizedOpponent": "virginia-tech",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401282703,
     "season": 2021,
     "week": 13,

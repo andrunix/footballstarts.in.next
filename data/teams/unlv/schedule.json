@@ -1,5 +1,10 @@
 [
   {
+    "normalizedName": "unlv",
+    "opponent": "Eastern Washington",
+    "normalizedOpponent": "eastern-washington",
+    "homeGame": true,
+    "winLoss": "L",
     "id": 401310694,
     "season": 2021,
     "week": 1,
@@ -46,6 +51,11 @@
     "notes": null
   },
   {
+    "normalizedName": "unlv",
+    "opponent": "Arizona State",
+    "normalizedOpponent": "arizona-state",
+    "homeGame": false,
+    "winLoss": "L",
     "id": 401309847,
     "season": 2021,
     "week": 2,
@@ -88,6 +98,11 @@
     "notes": null
   },
   {
+    "normalizedName": "unlv",
+    "opponent": "Iowa State",
+    "normalizedOpponent": "iowa-state",
+    "homeGame": true,
+    "winLoss": "L",
     "id": 401287906,
     "season": 2021,
     "week": 3,
@@ -130,6 +145,11 @@
     "notes": null
   },
   {
+    "normalizedName": "unlv",
+    "opponent": "Fresno State",
+    "normalizedOpponent": "fresno-state",
+    "homeGame": false,
+    "winLoss": "L",
     "id": 401310707,
     "season": 2021,
     "week": 4,
@@ -172,6 +192,11 @@
     "notes": null
   },
   {
+    "normalizedName": "unlv",
+    "opponent": "UT San Antonio",
+    "normalizedOpponent": "ut-san-antonio",
+    "homeGame": false,
+    "winLoss": "L",
     "id": 401282222,
     "season": 2021,
     "week": 5,
@@ -214,6 +239,11 @@
     "notes": null
   },
   {
+    "normalizedName": "unlv",
+    "opponent": "Utah State",
+    "normalizedOpponent": "utah-state",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401310720,
     "season": 2021,
     "week": 7,
@@ -246,6 +276,11 @@
     "notes": null
   },
   {
+    "normalizedName": "unlv",
+    "opponent": "San José State",
+    "normalizedOpponent": "san-jose-state",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401310729,
     "season": 2021,
     "week": 8,
@@ -278,6 +313,11 @@
     "notes": null
   },
   {
+    "normalizedName": "unlv",
+    "opponent": "Nevada",
+    "normalizedOpponent": "nevada",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401310734,
     "season": 2021,
     "week": 9,
@@ -310,6 +350,11 @@
     "notes": null
   },
   {
+    "normalizedName": "unlv",
+    "opponent": "New Mexico",
+    "normalizedOpponent": "new-mexico",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401310737,
     "season": 2021,
     "week": 10,
@@ -342,6 +387,11 @@
     "notes": null
   },
   {
+    "normalizedName": "unlv",
+    "opponent": "Hawai'i",
+    "normalizedOpponent": "hawaii",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401310745,
     "season": 2021,
     "week": 11,
@@ -374,6 +424,11 @@
     "notes": null
   },
   {
+    "normalizedName": "unlv",
+    "opponent": "San Diego State",
+    "normalizedOpponent": "san-diego-state",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401310751,
     "season": 2021,
     "week": 12,
@@ -406,6 +461,11 @@
     "notes": null
   },
   {
+    "normalizedName": "unlv",
+    "opponent": "Air Force",
+    "normalizedOpponent": "air-force",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401310752,
     "season": 2021,
     "week": 13,

@@ -1,5 +1,10 @@
 [
   {
+    "normalizedName": "bowling-green",
+    "opponent": "Tennessee",
+    "normalizedOpponent": "tennessee",
+    "homeGame": false,
+    "winLoss": "L",
     "id": 401281952,
     "season": 2021,
     "week": 1,
@@ -42,6 +47,11 @@
     "notes": null
   },
   {
+    "normalizedName": "bowling-green",
+    "opponent": "South Alabama",
+    "normalizedOpponent": "south-alabama",
+    "homeGame": true,
+    "winLoss": "L",
     "id": 401309546,
     "season": 2021,
     "week": 2,
@@ -84,6 +94,11 @@
     "notes": null
   },
   {
+    "normalizedName": "bowling-green",
+    "opponent": "Murray State",
+    "normalizedOpponent": "murray-state",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401309551,
     "season": 2021,
     "week": 3,
@@ -126,6 +141,11 @@
     "notes": null
   },
   {
+    "normalizedName": "bowling-green",
+    "opponent": "Minnesota",
+    "normalizedOpponent": "minnesota",
+    "homeGame": false,
+    "winLoss": "W",
     "id": 401282792,
     "season": 2021,
     "week": 4,
@@ -168,6 +188,11 @@
     "notes": null
   },
   {
+    "normalizedName": "bowling-green",
+    "opponent": "Kent State",
+    "normalizedOpponent": "kent-state",
+    "homeGame": false,
+    "winLoss": "L",
     "id": 401309562,
     "season": 2021,
     "week": 5,
@@ -210,6 +235,11 @@
     "notes": null
   },
   {
+    "normalizedName": "bowling-green",
+    "opponent": "Akron",
+    "normalizedOpponent": "akron",
+    "homeGame": true,
+    "winLoss": "L",
     "id": 401309566,
     "season": 2021,
     "week": 6,
@@ -252,6 +282,11 @@
     "notes": null
   },
   {
+    "normalizedName": "bowling-green",
+    "opponent": "Northern Illinois",
+    "normalizedOpponent": "northern-illinois",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401309570,
     "season": 2021,
     "week": 7,
@@ -284,12 +319,17 @@
     "notes": null
   },
   {
+    "normalizedName": "bowling-green",
+    "opponent": "Eastern Michigan",
+    "normalizedOpponent": "eastern-michigan",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401309574,
     "season": 2021,
     "week": 8,
     "season_type": "regular",
-    "start_date": "2021-10-23T04:00:00.000Z",
-    "start_time_tbd": true,
+    "start_date": "2021-10-23T16:00:00.000Z",
+    "start_time_tbd": false,
     "neutral_site": false,
     "conference_game": true,
     "attendance": null,
@@ -316,6 +356,11 @@
     "notes": null
   },
   {
+    "normalizedName": "bowling-green",
+    "opponent": "Buffalo",
+    "normalizedOpponent": "buffalo",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401309578,
     "season": 2021,
     "week": 9,
@@ -348,6 +393,11 @@
     "notes": null
   },
   {
+    "normalizedName": "bowling-green",
+    "opponent": "Toledo",
+    "normalizedOpponent": "toledo",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401309585,
     "season": 2021,
     "week": 11,
@@ -380,6 +430,11 @@
     "notes": null
   },
   {
+    "normalizedName": "bowling-green",
+    "opponent": "Miami (OH)",
+    "normalizedOpponent": "miami-oh",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401308841,
     "season": 2021,
     "week": 11,
@@ -412,6 +467,11 @@
     "notes": null
   },
   {
+    "normalizedName": "bowling-green",
+    "opponent": "Ohio",
+    "normalizedOpponent": "ohio",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401309596,
     "season": 2021,
     "week": 13,

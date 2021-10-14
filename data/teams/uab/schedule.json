@@ -1,5 +1,10 @@
 [
   {
+    "normalizedName": "uab",
+    "opponent": "Jacksonville State",
+    "normalizedOpponent": "jacksonville-state",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401282050,
     "season": 2021,
     "week": 1,
@@ -42,6 +47,11 @@
     "notes": "Montgomery Kickoff"
   },
   {
+    "normalizedName": "uab",
+    "opponent": "Georgia",
+    "normalizedOpponent": "georgia",
+    "homeGame": false,
+    "winLoss": "L",
     "id": 401282060,
     "season": 2021,
     "week": 2,
@@ -84,6 +94,11 @@
     "notes": null
   },
   {
+    "normalizedName": "uab",
+    "opponent": "North Texas",
+    "normalizedOpponent": "north-texas",
+    "homeGame": false,
+    "winLoss": "W",
     "id": 401282195,
     "season": 2021,
     "week": 3,
@@ -126,6 +141,11 @@
     "notes": null
   },
   {
+    "normalizedName": "uab",
+    "opponent": "Tulane",
+    "normalizedOpponent": "tulane",
+    "homeGame": false,
+    "winLoss": "W",
     "id": 401282211,
     "season": 2021,
     "week": 4,
@@ -168,6 +188,11 @@
     "notes": null
   },
   {
+    "normalizedName": "uab",
+    "opponent": "Liberty",
+    "normalizedOpponent": "liberty",
+    "homeGame": true,
+    "winLoss": "L",
     "id": 401282221,
     "season": 2021,
     "week": 5,
@@ -210,6 +235,11 @@
     "notes": null
   },
   {
+    "normalizedName": "uab",
+    "opponent": "Florida Atlantic",
+    "normalizedOpponent": "florida-atlantic",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401282225,
     "season": 2021,
     "week": 6,
@@ -252,6 +282,11 @@
     "notes": null
   },
   {
+    "normalizedName": "uab",
+    "opponent": "Southern Mississippi",
+    "normalizedOpponent": "southern-mississippi",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401282234,
     "season": 2021,
     "week": 7,
@@ -284,12 +319,17 @@
     "notes": null
   },
   {
+    "normalizedName": "uab",
+    "opponent": "Rice",
+    "normalizedOpponent": "rice",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401282238,
     "season": 2021,
     "week": 8,
     "season_type": "regular",
-    "start_date": "2021-10-23T04:00:00.000Z",
-    "start_time_tbd": true,
+    "start_date": "2021-10-23T19:30:00.000Z",
+    "start_time_tbd": false,
     "neutral_site": false,
     "conference_game": true,
     "attendance": null,
@@ -316,6 +356,11 @@
     "notes": null
   },
   {
+    "normalizedName": "uab",
+    "opponent": "Louisiana Tech",
+    "normalizedOpponent": "louisiana-tech",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401282250,
     "season": 2021,
     "week": 10,
@@ -348,6 +393,11 @@
     "notes": null
   },
   {
+    "normalizedName": "uab",
+    "opponent": "Marshall",
+    "normalizedOpponent": "marshall",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401282257,
     "season": 2021,
     "week": 11,
@@ -380,6 +430,11 @@
     "notes": null
   },
   {
+    "normalizedName": "uab",
+    "opponent": "UT San Antonio",
+    "normalizedOpponent": "ut-san-antonio",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401282267,
     "season": 2021,
     "week": 12,
@@ -412,6 +467,11 @@
     "notes": null
   },
   {
+    "normalizedName": "uab",
+    "opponent": "UTEP",
+    "normalizedOpponent": "utep",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401282274,
     "season": 2021,
     "week": 13,

@@ -1,5 +1,10 @@
 [
   {
+    "normalizedName": "baylor",
+    "opponent": "Texas State",
+    "normalizedOpponent": "texas-state",
+    "homeGame": false,
+    "winLoss": "W",
     "id": 401287893,
     "season": 2021,
     "week": 1,
@@ -42,6 +47,11 @@
     "notes": null
   },
   {
+    "normalizedName": "baylor",
+    "opponent": "Texas Southern",
+    "normalizedOpponent": "texas-southern",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401287895,
     "season": 2021,
     "week": 2,
@@ -84,6 +94,11 @@
     "notes": null
   },
   {
+    "normalizedName": "baylor",
+    "opponent": "Kansas",
+    "normalizedOpponent": "kansas",
+    "homeGame": false,
+    "winLoss": "W",
     "id": 401287904,
     "season": 2021,
     "week": 3,
@@ -126,6 +141,11 @@
     "notes": null
   },
   {
+    "normalizedName": "baylor",
+    "opponent": "Iowa State",
+    "normalizedOpponent": "iowa-state",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401287907,
     "season": 2021,
     "week": 4,
@@ -168,6 +188,11 @@
     "notes": null
   },
   {
+    "normalizedName": "baylor",
+    "opponent": "Oklahoma State",
+    "normalizedOpponent": "oklahoma-state",
+    "homeGame": false,
+    "winLoss": "L",
     "id": 401287914,
     "season": 2021,
     "week": 5,
@@ -210,6 +235,11 @@
     "notes": null
   },
   {
+    "normalizedName": "baylor",
+    "opponent": "West Virginia",
+    "normalizedOpponent": "west-virginia",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401287917,
     "season": 2021,
     "week": 6,
@@ -252,6 +282,11 @@
     "notes": null
   },
   {
+    "normalizedName": "baylor",
+    "opponent": "BYU",
+    "normalizedOpponent": "byu",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401287920,
     "season": 2021,
     "week": 7,
@@ -284,6 +319,11 @@
     "notes": null
   },
   {
+    "normalizedName": "baylor",
+    "opponent": "Texas",
+    "normalizedOpponent": "texas",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401287929,
     "season": 2021,
     "week": 9,
@@ -316,6 +356,11 @@
     "notes": null
   },
   {
+    "normalizedName": "baylor",
+    "opponent": "TCU",
+    "normalizedOpponent": "tcu",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401287936,
     "season": 2021,
     "week": 10,
@@ -348,6 +393,11 @@
     "notes": null
   },
   {
+    "normalizedName": "baylor",
+    "opponent": "Oklahoma",
+    "normalizedOpponent": "oklahoma",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401287938,
     "season": 2021,
     "week": 11,
@@ -380,6 +430,11 @@
     "notes": null
   },
   {
+    "normalizedName": "baylor",
+    "opponent": "Kansas State",
+    "normalizedOpponent": "kansas-state",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401287943,
     "season": 2021,
     "week": 12,
@@ -412,6 +467,11 @@
     "notes": null
   },
   {
+    "normalizedName": "baylor",
+    "opponent": "Texas Tech",
+    "normalizedOpponent": "texas-tech",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401287948,
     "season": 2021,
     "week": 13,

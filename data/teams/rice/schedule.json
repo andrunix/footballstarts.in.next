@@ -1,5 +1,10 @@
 [
   {
+    "normalizedName": "rice",
+    "opponent": "Arkansas",
+    "normalizedOpponent": "arkansas",
+    "homeGame": false,
+    "winLoss": "L",
     "id": 401281943,
     "season": 2021,
     "week": 1,
@@ -42,6 +47,11 @@
     "notes": null
   },
   {
+    "normalizedName": "rice",
+    "opponent": "Houston",
+    "normalizedOpponent": "houston",
+    "homeGame": true,
+    "winLoss": "L",
     "id": 401282189,
     "season": 2021,
     "week": 2,
@@ -84,6 +94,11 @@
     "notes": null
   },
   {
+    "normalizedName": "rice",
+    "opponent": "Texas",
+    "normalizedOpponent": "texas",
+    "homeGame": false,
+    "winLoss": "L",
     "id": 401282202,
     "season": 2021,
     "week": 3,
@@ -126,6 +141,11 @@
     "notes": null
   },
   {
+    "normalizedName": "rice",
+    "opponent": "Texas Southern",
+    "normalizedOpponent": "texas-southern",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401282210,
     "season": 2021,
     "week": 4,
@@ -168,6 +188,11 @@
     "notes": null
   },
   {
+    "normalizedName": "rice",
+    "opponent": "Southern Mississippi",
+    "normalizedOpponent": "southern-mississippi",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401282218,
     "season": 2021,
     "week": 5,
@@ -210,6 +235,11 @@
     "notes": null
   },
   {
+    "normalizedName": "rice",
+    "opponent": "UT San Antonio",
+    "normalizedOpponent": "ut-san-antonio",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401282233,
     "season": 2021,
     "week": 7,
@@ -242,12 +272,17 @@
     "notes": null
   },
   {
+    "normalizedName": "rice",
+    "opponent": "UAB",
+    "normalizedOpponent": "uab",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401282238,
     "season": 2021,
     "week": 8,
     "season_type": "regular",
-    "start_date": "2021-10-23T04:00:00.000Z",
-    "start_time_tbd": true,
+    "start_date": "2021-10-23T19:30:00.000Z",
+    "start_time_tbd": false,
     "neutral_site": false,
     "conference_game": true,
     "attendance": null,
@@ -274,6 +309,11 @@
     "notes": null
   },
   {
+    "normalizedName": "rice",
+    "opponent": "North Texas",
+    "normalizedOpponent": "north-texas",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401282246,
     "season": 2021,
     "week": 9,
@@ -306,6 +346,11 @@
     "notes": null
   },
   {
+    "normalizedName": "rice",
+    "opponent": "Charlotte",
+    "normalizedOpponent": "charlotte",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401282247,
     "season": 2021,
     "week": 10,
@@ -338,6 +383,11 @@
     "notes": null
   },
   {
+    "normalizedName": "rice",
+    "opponent": "Western Kentucky",
+    "normalizedOpponent": "western-kentucky",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401282259,
     "season": 2021,
     "week": 11,
@@ -370,6 +420,11 @@
     "notes": null
   },
   {
+    "normalizedName": "rice",
+    "opponent": "UTEP",
+    "normalizedOpponent": "utep",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401282266,
     "season": 2021,
     "week": 12,
@@ -402,6 +457,11 @@
     "notes": null
   },
   {
+    "normalizedName": "rice",
+    "opponent": "Louisiana Tech",
+    "normalizedOpponent": "louisiana-tech",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401282271,
     "season": 2021,
     "week": 13,

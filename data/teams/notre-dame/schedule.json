@@ -1,5 +1,10 @@
 [
   {
+    "normalizedName": "notre-dame",
+    "opponent": "Florida State",
+    "normalizedOpponent": "florida-state",
+    "homeGame": false,
+    "winLoss": "W",
     "id": 401282614,
     "season": 2021,
     "week": 1,
@@ -44,6 +49,11 @@
     "notes": null
   },
   {
+    "normalizedName": "notre-dame",
+    "opponent": "Toledo",
+    "normalizedOpponent": "toledo",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401282705,
     "season": 2021,
     "week": 2,
@@ -86,6 +96,11 @@
     "notes": null
   },
   {
+    "normalizedName": "notre-dame",
+    "opponent": "Purdue",
+    "normalizedOpponent": "purdue",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401282706,
     "season": 2021,
     "week": 3,
@@ -128,6 +143,11 @@
     "notes": null
   },
   {
+    "normalizedName": "notre-dame",
+    "opponent": "Wisconsin",
+    "normalizedOpponent": "wisconsin",
+    "homeGame": false,
+    "winLoss": "W",
     "id": 401282707,
     "season": 2021,
     "week": 4,
@@ -170,6 +190,11 @@
     "notes": null
   },
   {
+    "normalizedName": "notre-dame",
+    "opponent": "Cincinnati",
+    "normalizedOpponent": "cincinnati",
+    "homeGame": true,
+    "winLoss": "L",
     "id": 401282708,
     "season": 2021,
     "week": 5,
@@ -212,6 +237,11 @@
     "notes": null
   },
   {
+    "normalizedName": "notre-dame",
+    "opponent": "Virginia Tech",
+    "normalizedOpponent": "virginia-tech",
+    "homeGame": false,
+    "winLoss": "W",
     "id": 401282656,
     "season": 2021,
     "week": 6,
@@ -254,6 +284,11 @@
     "notes": null
   },
   {
+    "normalizedName": "notre-dame",
+    "opponent": "USC",
+    "normalizedOpponent": "usc",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401282709,
     "season": 2021,
     "week": 8,
@@ -286,6 +321,11 @@
     "notes": null
   },
   {
+    "normalizedName": "notre-dame",
+    "opponent": "North Carolina",
+    "normalizedOpponent": "north-carolina",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401282673,
     "season": 2021,
     "week": 9,
@@ -318,6 +358,11 @@
     "notes": null
   },
   {
+    "normalizedName": "notre-dame",
+    "opponent": "Navy",
+    "normalizedOpponent": "navy",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401282710,
     "season": 2021,
     "week": 10,
@@ -350,6 +395,11 @@
     "notes": null
   },
   {
+    "normalizedName": "notre-dame",
+    "opponent": "Virginia",
+    "normalizedOpponent": "virginia",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401282688,
     "season": 2021,
     "week": 11,
@@ -382,6 +432,11 @@
     "notes": null
   },
   {
+    "normalizedName": "notre-dame",
+    "opponent": "Georgia Tech",
+    "normalizedOpponent": "georgia-tech",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401282697,
     "season": 2021,
     "week": 12,
@@ -414,6 +469,11 @@
     "notes": null
   },
   {
+    "normalizedName": "notre-dame",
+    "opponent": "Stanford",
+    "normalizedOpponent": "stanford",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401282711,
     "season": 2021,
     "week": 13,

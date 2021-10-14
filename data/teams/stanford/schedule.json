@@ -1,5 +1,10 @@
 [
   {
+    "normalizedName": "stanford",
+    "opponent": "Kansas State",
+    "normalizedOpponent": "kansas-state",
+    "homeGame": false,
+    "winLoss": "L",
     "id": 401287889,
     "season": 2021,
     "week": 1,
@@ -42,6 +47,11 @@
     "notes": null
   },
   {
+    "normalizedName": "stanford",
+    "opponent": "USC",
+    "normalizedOpponent": "usc",
+    "homeGame": false,
+    "winLoss": "W",
     "id": 401309843,
     "season": 2021,
     "week": 2,
@@ -84,6 +94,11 @@
     "notes": null
   },
   {
+    "normalizedName": "stanford",
+    "opponent": "Vanderbilt",
+    "normalizedOpponent": "vanderbilt",
+    "homeGame": false,
+    "winLoss": "W",
     "id": 401282080,
     "season": 2021,
     "week": 3,
@@ -126,6 +141,11 @@
     "notes": null
   },
   {
+    "normalizedName": "stanford",
+    "opponent": "UCLA",
+    "normalizedOpponent": "ucla",
+    "homeGame": true,
+    "winLoss": "L",
     "id": 401309858,
     "season": 2021,
     "week": 4,
@@ -168,6 +188,11 @@
     "notes": null
   },
   {
+    "normalizedName": "stanford",
+    "opponent": "Oregon",
+    "normalizedOpponent": "oregon",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401309864,
     "season": 2021,
     "week": 5,
@@ -212,6 +237,11 @@
     "notes": null
   },
   {
+    "normalizedName": "stanford",
+    "opponent": "Arizona State",
+    "normalizedOpponent": "arizona-state",
+    "homeGame": false,
+    "winLoss": "L",
     "id": 401309868,
     "season": 2021,
     "week": 6,
@@ -254,6 +284,11 @@
     "notes": null
   },
   {
+    "normalizedName": "stanford",
+    "opponent": "Washington State",
+    "normalizedOpponent": "washington-state",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401309873,
     "season": 2021,
     "week": 7,
@@ -286,6 +321,11 @@
     "notes": null
   },
   {
+    "normalizedName": "stanford",
+    "opponent": "Washington",
+    "normalizedOpponent": "washington",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401309883,
     "season": 2021,
     "week": 9,
@@ -318,6 +358,11 @@
     "notes": null
   },
   {
+    "normalizedName": "stanford",
+    "opponent": "Utah",
+    "normalizedOpponent": "utah",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401309888,
     "season": 2021,
     "week": 10,
@@ -350,6 +395,11 @@
     "notes": null
   },
   {
+    "normalizedName": "stanford",
+    "opponent": "Oregon State",
+    "normalizedOpponent": "oregon-state",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401309894,
     "season": 2021,
     "week": 11,
@@ -382,6 +432,11 @@
     "notes": null
   },
   {
+    "normalizedName": "stanford",
+    "opponent": "California",
+    "normalizedOpponent": "california",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401309900,
     "season": 2021,
     "week": 12,
@@ -414,6 +469,11 @@
     "notes": null
   },
   {
+    "normalizedName": "stanford",
+    "opponent": "Notre Dame",
+    "normalizedOpponent": "notre-dame",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401282711,
     "season": 2021,
     "week": 13,

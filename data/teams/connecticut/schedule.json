@@ -1,5 +1,10 @@
 [
   {
+    "normalizedName": "connecticut",
+    "opponent": "Fresno State",
+    "normalizedOpponent": "fresno-state",
+    "homeGame": false,
+    "winLoss": "L",
     "id": 401286187,
     "season": 2021,
     "week": 1,
@@ -42,6 +47,11 @@
     "notes": null
   },
   {
+    "normalizedName": "connecticut",
+    "opponent": "Holy Cross",
+    "normalizedOpponent": "holy-cross",
+    "homeGame": true,
+    "winLoss": "L",
     "id": 401286188,
     "season": 2021,
     "week": 1,
@@ -84,6 +94,11 @@
     "notes": null
   },
   {
+    "normalizedName": "connecticut",
+    "opponent": "Purdue",
+    "normalizedOpponent": "purdue",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401282820,
     "season": 2021,
     "week": 2,
@@ -126,6 +141,11 @@
     "notes": null
   },
   {
+    "normalizedName": "connecticut",
+    "opponent": "Army",
+    "normalizedOpponent": "army",
+    "homeGame": false,
+    "winLoss": "L",
     "id": 401286189,
     "season": 2021,
     "week": 3,
@@ -168,6 +188,11 @@
     "notes": null
   },
   {
+    "normalizedName": "connecticut",
+    "opponent": "Wyoming",
+    "normalizedOpponent": "wyoming",
+    "homeGame": true,
+    "winLoss": "L",
     "id": 401286190,
     "season": 2021,
     "week": 4,
@@ -210,6 +235,11 @@
     "notes": null
   },
   {
+    "normalizedName": "connecticut",
+    "opponent": "Vanderbilt",
+    "normalizedOpponent": "vanderbilt",
+    "homeGame": false,
+    "winLoss": "L",
     "id": 401282096,
     "season": 2021,
     "week": 5,
@@ -252,6 +282,11 @@
     "notes": null
   },
   {
+    "normalizedName": "connecticut",
+    "opponent": "UMass",
+    "normalizedOpponent": "umass",
+    "homeGame": false,
+    "winLoss": "L",
     "id": 401286191,
     "season": 2021,
     "week": 6,
@@ -294,6 +329,11 @@
     "notes": null
   },
   {
+    "normalizedName": "connecticut",
+    "opponent": "Yale",
+    "normalizedOpponent": "yale",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401286192,
     "season": 2021,
     "week": 7,
@@ -326,6 +366,11 @@
     "notes": null
   },
   {
+    "normalizedName": "connecticut",
+    "opponent": "Middle Tennessee",
+    "normalizedOpponent": "middle-tennessee",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401282239,
     "season": 2021,
     "week": 8,
@@ -358,6 +403,11 @@
     "notes": null
   },
   {
+    "normalizedName": "connecticut",
+    "opponent": "Clemson",
+    "normalizedOpponent": "clemson",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401282684,
     "season": 2021,
     "week": 11,
@@ -390,6 +440,11 @@
     "notes": null
   },
   {
+    "normalizedName": "connecticut",
+    "opponent": "UCF",
+    "normalizedOpponent": "ucf",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401286293,
     "season": 2021,
     "week": 12,
@@ -422,6 +477,11 @@
     "notes": null
   },
   {
+    "normalizedName": "connecticut",
+    "opponent": "Houston",
+    "normalizedOpponent": "houston",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401301052,
     "season": 2021,
     "week": 13,

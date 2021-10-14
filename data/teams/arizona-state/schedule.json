@@ -1,5 +1,10 @@
 [
   {
+    "normalizedName": "arizona-state",
+    "opponent": "Southern Utah",
+    "normalizedOpponent": "southern-utah",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401309835,
     "season": 2021,
     "week": 1,
@@ -42,6 +47,11 @@
     "notes": null
   },
   {
+    "normalizedName": "arizona-state",
+    "opponent": "UNLV",
+    "normalizedOpponent": "unlv",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401309847,
     "season": 2021,
     "week": 2,
@@ -84,6 +94,11 @@
     "notes": null
   },
   {
+    "normalizedName": "arizona-state",
+    "opponent": "BYU",
+    "normalizedOpponent": "byu",
+    "homeGame": false,
+    "winLoss": "L",
     "id": 401309854,
     "season": 2021,
     "week": 3,
@@ -126,6 +141,11 @@
     "notes": null
   },
   {
+    "normalizedName": "arizona-state",
+    "opponent": "Colorado",
+    "normalizedOpponent": "colorado",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401309862,
     "season": 2021,
     "week": 4,
@@ -168,6 +188,11 @@
     "notes": null
   },
   {
+    "normalizedName": "arizona-state",
+    "opponent": "UCLA",
+    "normalizedOpponent": "ucla",
+    "homeGame": false,
+    "winLoss": "W",
     "id": 401309866,
     "season": 2021,
     "week": 5,
@@ -210,6 +235,11 @@
     "notes": null
   },
   {
+    "normalizedName": "arizona-state",
+    "opponent": "Stanford",
+    "normalizedOpponent": "stanford",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401309868,
     "season": 2021,
     "week": 6,
@@ -252,6 +282,11 @@
     "notes": null
   },
   {
+    "normalizedName": "arizona-state",
+    "opponent": "Utah",
+    "normalizedOpponent": "utah",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401309876,
     "season": 2021,
     "week": 7,
@@ -284,6 +319,11 @@
     "notes": null
   },
   {
+    "normalizedName": "arizona-state",
+    "opponent": "Washington State",
+    "normalizedOpponent": "washington-state",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401309885,
     "season": 2021,
     "week": 9,
@@ -316,6 +356,11 @@
     "notes": null
   },
   {
+    "normalizedName": "arizona-state",
+    "opponent": "USC",
+    "normalizedOpponent": "usc",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401309892,
     "season": 2021,
     "week": 10,
@@ -348,6 +393,11 @@
     "notes": null
   },
   {
+    "normalizedName": "arizona-state",
+    "opponent": "Washington",
+    "normalizedOpponent": "washington",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401309897,
     "season": 2021,
     "week": 11,
@@ -380,6 +430,11 @@
     "notes": null
   },
   {
+    "normalizedName": "arizona-state",
+    "opponent": "Oregon State",
+    "normalizedOpponent": "oregon-state",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401309902,
     "season": 2021,
     "week": 12,
@@ -412,6 +467,11 @@
     "notes": null
   },
   {
+    "normalizedName": "arizona-state",
+    "opponent": "Arizona",
+    "normalizedOpponent": "arizona",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401309909,
     "season": 2021,
     "week": 13,

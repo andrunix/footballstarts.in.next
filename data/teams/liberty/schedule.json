@@ -1,5 +1,10 @@
 [
   {
+    "normalizedName": "liberty",
+    "opponent": "Campbell",
+    "normalizedOpponent": "campbell",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401286294,
     "season": 2021,
     "week": 1,
@@ -42,6 +47,11 @@
     "notes": null
   },
   {
+    "normalizedName": "liberty",
+    "opponent": "Troy",
+    "normalizedOpponent": "troy",
+    "homeGame": false,
+    "winLoss": "W",
     "id": 401286295,
     "season": 2021,
     "week": 2,
@@ -84,6 +94,11 @@
     "notes": null
   },
   {
+    "normalizedName": "liberty",
+    "opponent": "Old Dominion",
+    "normalizedOpponent": "old-dominion",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401282201,
     "season": 2021,
     "week": 3,
@@ -126,6 +141,11 @@
     "notes": null
   },
   {
+    "normalizedName": "liberty",
+    "opponent": "Syracuse",
+    "normalizedOpponent": "syracuse",
+    "homeGame": false,
+    "winLoss": "L",
     "id": 401282637,
     "season": 2021,
     "week": 4,
@@ -168,6 +188,11 @@
     "notes": null
   },
   {
+    "normalizedName": "liberty",
+    "opponent": "UAB",
+    "normalizedOpponent": "uab",
+    "homeGame": false,
+    "winLoss": "W",
     "id": 401282221,
     "season": 2021,
     "week": 5,
@@ -210,6 +235,11 @@
     "notes": null
   },
   {
+    "normalizedName": "liberty",
+    "opponent": "Middle Tennessee",
+    "normalizedOpponent": "middle-tennessee",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401282229,
     "season": 2021,
     "week": 6,
@@ -252,6 +282,11 @@
     "notes": null
   },
   {
+    "normalizedName": "liberty",
+    "opponent": "Louisiana Monroe",
+    "normalizedOpponent": "louisiana-monroe",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401286296,
     "season": 2021,
     "week": 7,
@@ -284,6 +319,11 @@
     "notes": null
   },
   {
+    "normalizedName": "liberty",
+    "opponent": "North Texas",
+    "normalizedOpponent": "north-texas",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401282240,
     "season": 2021,
     "week": 8,
@@ -316,12 +356,17 @@
     "notes": null
   },
   {
+    "normalizedName": "liberty",
+    "opponent": "UMass",
+    "normalizedOpponent": "umass",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401286297,
     "season": 2021,
     "week": 9,
     "season_type": "regular",
-    "start_date": "2021-10-30T04:00:00.000Z",
-    "start_time_tbd": true,
+    "start_date": "2021-10-30T16:00:00.000Z",
+    "start_time_tbd": false,
     "neutral_site": false,
     "conference_game": false,
     "attendance": null,
@@ -348,6 +393,11 @@
     "notes": null
   },
   {
+    "normalizedName": "liberty",
+    "opponent": "Ole Miss",
+    "normalizedOpponent": "ole-miss",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401282124,
     "season": 2021,
     "week": 10,
@@ -380,6 +430,11 @@
     "notes": null
   },
   {
+    "normalizedName": "liberty",
+    "opponent": "Louisiana",
+    "normalizedOpponent": "louisiana",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401286298,
     "season": 2021,
     "week": 12,
@@ -405,13 +460,18 @@
     "away_points": null,
     "away_line_scores": null,
     "away_post_win_prob": null,
-    "away_pregame_elo": 1743,
+    "away_pregame_elo": 1818,
     "away_postgame_elo": null,
     "excitement_index": null,
     "highlights": null,
     "notes": null
   },
   {
+    "normalizedName": "liberty",
+    "opponent": "Army",
+    "normalizedOpponent": "army",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401286299,
     "season": 2021,
     "week": 13,

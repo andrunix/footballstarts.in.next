@@ -1,5 +1,10 @@
 [
   {
+    "normalizedName": "louisville",
+    "opponent": "Ole Miss",
+    "normalizedOpponent": "ole-miss",
+    "homeGame": false,
+    "winLoss": "L",
     "id": 401282055,
     "season": 2021,
     "week": 1,
@@ -42,6 +47,11 @@
     "notes": null
   },
   {
+    "normalizedName": "louisville",
+    "opponent": "Eastern Kentucky",
+    "normalizedOpponent": "eastern-kentucky",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401282619,
     "season": 2021,
     "week": 2,
@@ -84,6 +94,11 @@
     "notes": null
   },
   {
+    "normalizedName": "louisville",
+    "opponent": "UCF",
+    "normalizedOpponent": "ucf",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401282626,
     "season": 2021,
     "week": 3,
@@ -126,6 +141,11 @@
     "notes": null
   },
   {
+    "normalizedName": "louisville",
+    "opponent": "Florida State",
+    "normalizedOpponent": "florida-state",
+    "homeGame": false,
+    "winLoss": "W",
     "id": 401282640,
     "season": 2021,
     "week": 4,
@@ -168,6 +188,11 @@
     "notes": null
   },
   {
+    "normalizedName": "louisville",
+    "opponent": "Wake Forest",
+    "normalizedOpponent": "wake-forest",
+    "homeGame": false,
+    "winLoss": "L",
     "id": 401282651,
     "season": 2021,
     "week": 5,
@@ -210,6 +235,11 @@
     "notes": null
   },
   {
+    "normalizedName": "louisville",
+    "opponent": "Virginia",
+    "normalizedOpponent": "virginia",
+    "homeGame": true,
+    "winLoss": "L",
     "id": 401282653,
     "season": 2021,
     "week": 6,
@@ -252,12 +282,17 @@
     "notes": null
   },
   {
+    "normalizedName": "louisville",
+    "opponent": "Boston College",
+    "normalizedOpponent": "boston-college",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401282664,
     "season": 2021,
     "week": 8,
     "season_type": "regular",
-    "start_date": "2021-10-23T04:00:00.000Z",
-    "start_time_tbd": true,
+    "start_date": "2021-10-23T20:00:00.000Z",
+    "start_time_tbd": false,
     "neutral_site": false,
     "conference_game": true,
     "attendance": null,
@@ -284,6 +319,11 @@
     "notes": null
   },
   {
+    "normalizedName": "louisville",
+    "opponent": "NC State",
+    "normalizedOpponent": "nc-state",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401282672,
     "season": 2021,
     "week": 9,
@@ -316,6 +356,11 @@
     "notes": null
   },
   {
+    "normalizedName": "louisville",
+    "opponent": "Clemson",
+    "normalizedOpponent": "clemson",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401282680,
     "season": 2021,
     "week": 10,
@@ -348,6 +393,11 @@
     "notes": null
   },
   {
+    "normalizedName": "louisville",
+    "opponent": "Syracuse",
+    "normalizedOpponent": "syracuse",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401282687,
     "season": 2021,
     "week": 11,
@@ -380,6 +430,11 @@
     "notes": null
   },
   {
+    "normalizedName": "louisville",
+    "opponent": "Duke",
+    "normalizedOpponent": "duke",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401282691,
     "season": 2021,
     "week": 12,
@@ -412,6 +467,11 @@
     "notes": null
   },
   {
+    "normalizedName": "louisville",
+    "opponent": "Kentucky",
+    "normalizedOpponent": "kentucky",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401282149,
     "season": 2021,
     "week": 13,

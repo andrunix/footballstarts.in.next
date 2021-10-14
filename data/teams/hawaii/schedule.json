@@ -1,5 +1,10 @@
 [
   {
+    "normalizedName": "hawaii",
+    "opponent": "UCLA",
+    "normalizedOpponent": "ucla",
+    "homeGame": false,
+    "winLoss": "L",
     "id": 401309833,
     "season": 2021,
     "week": 1,
@@ -42,6 +47,11 @@
     "notes": null
   },
   {
+    "normalizedName": "hawaii",
+    "opponent": "Portland State",
+    "normalizedOpponent": "portland-state",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401310698,
     "season": 2021,
     "week": 1,
@@ -84,6 +94,11 @@
     "notes": null
   },
   {
+    "normalizedName": "hawaii",
+    "opponent": "Oregon State",
+    "normalizedOpponent": "oregon-state",
+    "homeGame": false,
+    "winLoss": "L",
     "id": 401309844,
     "season": 2021,
     "week": 2,
@@ -126,6 +141,11 @@
     "notes": null
   },
   {
+    "normalizedName": "hawaii",
+    "opponent": "San José State",
+    "normalizedOpponent": "san-jose-state",
+    "homeGame": true,
+    "winLoss": "L",
     "id": 401310705,
     "season": 2021,
     "week": 3,
@@ -168,6 +188,11 @@
     "notes": null
   },
   {
+    "normalizedName": "hawaii",
+    "opponent": "New Mexico State",
+    "normalizedOpponent": "new-mexico-state",
+    "homeGame": false,
+    "winLoss": "W",
     "id": 401310708,
     "season": 2021,
     "week": 4,
@@ -210,6 +235,11 @@
     "notes": null
   },
   {
+    "normalizedName": "hawaii",
+    "opponent": "Fresno State",
+    "normalizedOpponent": "fresno-state",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401310712,
     "season": 2021,
     "week": 5,
@@ -252,6 +282,11 @@
     "notes": null
   },
   {
+    "normalizedName": "hawaii",
+    "opponent": "Nevada",
+    "normalizedOpponent": "nevada",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401310722,
     "season": 2021,
     "week": 7,
@@ -284,6 +319,11 @@
     "notes": null
   },
   {
+    "normalizedName": "hawaii",
+    "opponent": "New Mexico State",
+    "normalizedOpponent": "new-mexico-state",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401310728,
     "season": 2021,
     "week": 8,
@@ -316,6 +356,11 @@
     "notes": null
   },
   {
+    "normalizedName": "hawaii",
+    "opponent": "Utah State",
+    "normalizedOpponent": "utah-state",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401310731,
     "season": 2021,
     "week": 9,
@@ -348,6 +393,11 @@
     "notes": null
   },
   {
+    "normalizedName": "hawaii",
+    "opponent": "San Diego State",
+    "normalizedOpponent": "san-diego-state",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401310739,
     "season": 2021,
     "week": 10,
@@ -380,6 +430,11 @@
     "notes": null
   },
   {
+    "normalizedName": "hawaii",
+    "opponent": "UNLV",
+    "normalizedOpponent": "unlv",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401310745,
     "season": 2021,
     "week": 11,
@@ -412,6 +467,11 @@
     "notes": null
   },
   {
+    "normalizedName": "hawaii",
+    "opponent": "Colorado State",
+    "normalizedOpponent": "colorado-state",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401310749,
     "season": 2021,
     "week": 12,
@@ -444,6 +504,11 @@
     "notes": null
   },
   {
+    "normalizedName": "hawaii",
+    "opponent": "Wyoming",
+    "normalizedOpponent": "wyoming",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401310756,
     "season": 2021,
     "week": 13,

@@ -1,5 +1,10 @@
 [
   {
+    "normalizedName": "san-diego-state",
+    "opponent": "New Mexico State",
+    "normalizedOpponent": "new-mexico-state",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401310699,
     "season": 2021,
     "week": 1,
@@ -42,6 +47,11 @@
     "notes": null
   },
   {
+    "normalizedName": "san-diego-state",
+    "opponent": "Arizona",
+    "normalizedOpponent": "arizona",
+    "homeGame": false,
+    "winLoss": "W",
     "id": 401309846,
     "season": 2021,
     "week": 2,
@@ -84,6 +94,11 @@
     "notes": null
   },
   {
+    "normalizedName": "san-diego-state",
+    "opponent": "Utah",
+    "normalizedOpponent": "utah",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401309856,
     "season": 2021,
     "week": 3,
@@ -132,6 +147,11 @@
     "notes": null
   },
   {
+    "normalizedName": "san-diego-state",
+    "opponent": "Towson",
+    "normalizedOpponent": "towson",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401310709,
     "season": 2021,
     "week": 4,
@@ -174,6 +194,11 @@
     "notes": null
   },
   {
+    "normalizedName": "san-diego-state",
+    "opponent": "New Mexico",
+    "normalizedOpponent": "new-mexico",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401310716,
     "season": 2021,
     "week": 6,
@@ -216,6 +241,11 @@
     "notes": null
   },
   {
+    "normalizedName": "san-diego-state",
+    "opponent": "San José State",
+    "normalizedOpponent": "san-jose-state",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401310723,
     "season": 2021,
     "week": 7,
@@ -248,6 +278,11 @@
     "notes": null
   },
   {
+    "normalizedName": "san-diego-state",
+    "opponent": "Air Force",
+    "normalizedOpponent": "air-force",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401310724,
     "season": 2021,
     "week": 8,
@@ -280,6 +315,11 @@
     "notes": null
   },
   {
+    "normalizedName": "san-diego-state",
+    "opponent": "Fresno State",
+    "normalizedOpponent": "fresno-state",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401310733,
     "season": 2021,
     "week": 9,
@@ -312,6 +352,11 @@
     "notes": null
   },
   {
+    "normalizedName": "san-diego-state",
+    "opponent": "Hawai'i",
+    "normalizedOpponent": "hawaii",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401310739,
     "season": 2021,
     "week": 10,
@@ -344,6 +389,11 @@
     "notes": null
   },
   {
+    "normalizedName": "san-diego-state",
+    "opponent": "Nevada",
+    "normalizedOpponent": "nevada",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401310746,
     "season": 2021,
     "week": 11,
@@ -376,6 +426,11 @@
     "notes": null
   },
   {
+    "normalizedName": "san-diego-state",
+    "opponent": "UNLV",
+    "normalizedOpponent": "unlv",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401310751,
     "season": 2021,
     "week": 12,
@@ -408,6 +463,11 @@
     "notes": null
   },
   {
+    "normalizedName": "san-diego-state",
+    "opponent": "Boise State",
+    "normalizedOpponent": "boise-state",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401310753,
     "season": 2021,
     "week": 13,

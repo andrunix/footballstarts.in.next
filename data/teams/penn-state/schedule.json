@@ -1,5 +1,10 @@
 [
   {
+    "normalizedName": "penn-state",
+    "opponent": "Wisconsin",
+    "normalizedOpponent": "wisconsin",
+    "homeGame": false,
+    "winLoss": "W",
     "id": 401282815,
     "season": 2021,
     "week": 1,
@@ -42,6 +47,11 @@
     "notes": null
   },
   {
+    "normalizedName": "penn-state",
+    "opponent": "Ball State",
+    "normalizedOpponent": "ball-state",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401282816,
     "season": 2021,
     "week": 2,
@@ -84,6 +94,11 @@
     "notes": null
   },
   {
+    "normalizedName": "penn-state",
+    "opponent": "Auburn",
+    "normalizedOpponent": "auburn",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401282070,
     "season": 2021,
     "week": 3,
@@ -126,6 +141,11 @@
     "notes": null
   },
   {
+    "normalizedName": "penn-state",
+    "opponent": "Villanova",
+    "normalizedOpponent": "villanova",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401282817,
     "season": 2021,
     "week": 4,
@@ -168,6 +188,11 @@
     "notes": null
   },
   {
+    "normalizedName": "penn-state",
+    "opponent": "Indiana",
+    "normalizedOpponent": "indiana",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401282729,
     "season": 2021,
     "week": 5,
@@ -210,6 +235,11 @@
     "notes": null
   },
   {
+    "normalizedName": "penn-state",
+    "opponent": "Iowa",
+    "normalizedOpponent": "iowa",
+    "homeGame": false,
+    "winLoss": "L",
     "id": 401282758,
     "season": 2021,
     "week": 6,
@@ -252,6 +282,11 @@
     "notes": null
   },
   {
+    "normalizedName": "penn-state",
+    "opponent": "Illinois",
+    "normalizedOpponent": "illinois",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401282717,
     "season": 2021,
     "week": 8,
@@ -284,6 +319,11 @@
     "notes": null
   },
   {
+    "normalizedName": "penn-state",
+    "opponent": "Ohio State",
+    "normalizedOpponent": "ohio-state",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401282814,
     "season": 2021,
     "week": 9,
@@ -316,6 +356,11 @@
     "notes": null
   },
   {
+    "normalizedName": "penn-state",
+    "opponent": "Maryland",
+    "normalizedOpponent": "maryland",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401282768,
     "season": 2021,
     "week": 10,
@@ -348,6 +393,11 @@
     "notes": null
   },
   {
+    "normalizedName": "penn-state",
+    "opponent": "Michigan",
+    "normalizedOpponent": "michigan",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401282780,
     "season": 2021,
     "week": 11,
@@ -380,6 +430,11 @@
     "notes": null
   },
   {
+    "normalizedName": "penn-state",
+    "opponent": "Rutgers",
+    "normalizedOpponent": "rutgers",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401282818,
     "season": 2021,
     "week": 12,
@@ -412,6 +467,11 @@
     "notes": null
   },
   {
+    "normalizedName": "penn-state",
+    "opponent": "Michigan State",
+    "normalizedOpponent": "michigan-state",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401282785,
     "season": 2021,
     "week": 13,

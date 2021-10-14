@@ -1,5 +1,10 @@
 [
   {
+    "normalizedName": "boston-college",
+    "opponent": "Colgate",
+    "normalizedOpponent": "colgate",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401282609,
     "season": 2021,
     "week": 1,
@@ -42,6 +47,11 @@
     "notes": null
   },
   {
+    "normalizedName": "boston-college",
+    "opponent": "UMass",
+    "normalizedOpponent": "umass",
+    "homeGame": false,
+    "winLoss": "W",
     "id": 401282623,
     "season": 2021,
     "week": 2,
@@ -84,6 +94,11 @@
     "notes": null
   },
   {
+    "normalizedName": "boston-college",
+    "opponent": "Temple",
+    "normalizedOpponent": "temple",
+    "homeGame": false,
+    "winLoss": "W",
     "id": 401282634,
     "season": 2021,
     "week": 3,
@@ -126,6 +141,11 @@
     "notes": null
   },
   {
+    "normalizedName": "boston-college",
+    "opponent": "Missouri",
+    "normalizedOpponent": "missouri",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401282086,
     "season": 2021,
     "week": 4,
@@ -170,6 +190,11 @@
     "notes": null
   },
   {
+    "normalizedName": "boston-college",
+    "opponent": "Clemson",
+    "normalizedOpponent": "clemson",
+    "homeGame": false,
+    "winLoss": "L",
     "id": 401282647,
     "season": 2021,
     "week": 5,
@@ -212,6 +237,11 @@
     "notes": null
   },
   {
+    "normalizedName": "boston-college",
+    "opponent": "NC State",
+    "normalizedOpponent": "nc-state",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401282658,
     "season": 2021,
     "week": 7,
@@ -244,12 +274,17 @@
     "notes": null
   },
   {
+    "normalizedName": "boston-college",
+    "opponent": "Louisville",
+    "normalizedOpponent": "louisville",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401282664,
     "season": 2021,
     "week": 8,
     "season_type": "regular",
-    "start_date": "2021-10-23T04:00:00.000Z",
-    "start_time_tbd": true,
+    "start_date": "2021-10-23T20:00:00.000Z",
+    "start_time_tbd": false,
     "neutral_site": false,
     "conference_game": true,
     "attendance": null,
@@ -276,6 +311,11 @@
     "notes": null
   },
   {
+    "normalizedName": "boston-college",
+    "opponent": "Syracuse",
+    "normalizedOpponent": "syracuse",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401282675,
     "season": 2021,
     "week": 9,
@@ -308,6 +348,11 @@
     "notes": null
   },
   {
+    "normalizedName": "boston-college",
+    "opponent": "Virginia Tech",
+    "normalizedOpponent": "virginia-tech",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401282677,
     "season": 2021,
     "week": 10,
@@ -340,6 +385,11 @@
     "notes": null
   },
   {
+    "normalizedName": "boston-college",
+    "opponent": "Georgia Tech",
+    "normalizedOpponent": "georgia-tech",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401282686,
     "season": 2021,
     "week": 11,
@@ -372,6 +422,11 @@
     "notes": null
   },
   {
+    "normalizedName": "boston-college",
+    "opponent": "Florida State",
+    "normalizedOpponent": "florida-state",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401282692,
     "season": 2021,
     "week": 12,
@@ -404,6 +459,11 @@
     "notes": null
   },
   {
+    "normalizedName": "boston-college",
+    "opponent": "Wake Forest",
+    "normalizedOpponent": "wake-forest",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401282700,
     "season": 2021,
     "week": 13,

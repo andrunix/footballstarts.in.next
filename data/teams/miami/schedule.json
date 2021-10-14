@@ -1,5 +1,10 @@
 [
   {
+    "normalizedName": "miami",
+    "opponent": "Alabama",
+    "normalizedOpponent": "alabama",
+    "homeGame": true,
+    "winLoss": "L",
     "id": 401281942,
     "season": 2021,
     "week": 1,
@@ -42,6 +47,11 @@
     "notes": null
   },
   {
+    "normalizedName": "miami",
+    "opponent": "Appalachian State",
+    "normalizedOpponent": "appalachian-state",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401282620,
     "season": 2021,
     "week": 2,
@@ -84,6 +94,11 @@
     "notes": null
   },
   {
+    "normalizedName": "miami",
+    "opponent": "Michigan State",
+    "normalizedOpponent": "michigan-state",
+    "homeGame": true,
+    "winLoss": "L",
     "id": 401282629,
     "season": 2021,
     "week": 3,
@@ -126,6 +141,11 @@
     "notes": null
   },
   {
+    "normalizedName": "miami",
+    "opponent": "Central Connecticut",
+    "normalizedOpponent": "central-connecticut",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401282642,
     "season": 2021,
     "week": 4,
@@ -168,6 +188,11 @@
     "notes": null
   },
   {
+    "normalizedName": "miami",
+    "opponent": "Virginia",
+    "normalizedOpponent": "virginia",
+    "homeGame": true,
+    "winLoss": "L",
     "id": 401282646,
     "season": 2021,
     "week": 5,
@@ -210,6 +235,11 @@
     "notes": null
   },
   {
+    "normalizedName": "miami",
+    "opponent": "North Carolina",
+    "normalizedOpponent": "north-carolina",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401282659,
     "season": 2021,
     "week": 7,
@@ -242,12 +272,17 @@
     "notes": null
   },
   {
+    "normalizedName": "miami",
+    "opponent": "NC State",
+    "normalizedOpponent": "nc-state",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401282665,
     "season": 2021,
     "week": 8,
     "season_type": "regular",
-    "start_date": "2021-10-23T04:00:00.000Z",
-    "start_time_tbd": true,
+    "start_date": "2021-10-23T23:30:00.000Z",
+    "start_time_tbd": false,
     "neutral_site": false,
     "conference_game": true,
     "attendance": null,
@@ -274,6 +309,11 @@
     "notes": null
   },
   {
+    "normalizedName": "miami",
+    "opponent": "Pittsburgh",
+    "normalizedOpponent": "pittsburgh",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401282674,
     "season": 2021,
     "week": 9,
@@ -306,6 +346,11 @@
     "notes": null
   },
   {
+    "normalizedName": "miami",
+    "opponent": "Georgia Tech",
+    "normalizedOpponent": "georgia-tech",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401282681,
     "season": 2021,
     "week": 10,
@@ -338,6 +383,11 @@
     "notes": null
   },
   {
+    "normalizedName": "miami",
+    "opponent": "Florida State",
+    "normalizedOpponent": "florida-state",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401282685,
     "season": 2021,
     "week": 11,
@@ -370,6 +420,11 @@
     "notes": null
   },
   {
+    "normalizedName": "miami",
+    "opponent": "Virginia Tech",
+    "normalizedOpponent": "virginia-tech",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401282694,
     "season": 2021,
     "week": 12,
@@ -402,6 +457,11 @@
     "notes": null
   },
   {
+    "normalizedName": "miami",
+    "opponent": "Duke",
+    "normalizedOpponent": "duke",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401282701,
     "season": 2021,
     "week": 13,

@@ -1,5 +1,10 @@
 [
   {
+    "normalizedName": "cincinnati",
+    "opponent": "Miami (OH)",
+    "normalizedOpponent": "miami-oh",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401300996,
     "season": 2021,
     "week": 1,
@@ -42,6 +47,11 @@
     "notes": null
   },
   {
+    "normalizedName": "cincinnati",
+    "opponent": "Murray State",
+    "normalizedOpponent": "murray-state",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401301002,
     "season": 2021,
     "week": 2,
@@ -84,6 +94,11 @@
     "notes": null
   },
   {
+    "normalizedName": "cincinnati",
+    "opponent": "Indiana",
+    "normalizedOpponent": "indiana",
+    "homeGame": false,
+    "winLoss": "W",
     "id": 401282725,
     "season": 2021,
     "week": 3,
@@ -126,6 +141,11 @@
     "notes": null
   },
   {
+    "normalizedName": "cincinnati",
+    "opponent": "Notre Dame",
+    "normalizedOpponent": "notre-dame",
+    "homeGame": false,
+    "winLoss": "W",
     "id": 401282708,
     "season": 2021,
     "week": 5,
@@ -168,6 +188,11 @@
     "notes": null
   },
   {
+    "normalizedName": "cincinnati",
+    "opponent": "Temple",
+    "normalizedOpponent": "temple",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401301018,
     "season": 2021,
     "week": 6,
@@ -210,6 +235,11 @@
     "notes": null
   },
   {
+    "normalizedName": "cincinnati",
+    "opponent": "UCF",
+    "normalizedOpponent": "ucf",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401301023,
     "season": 2021,
     "week": 7,
@@ -242,6 +272,11 @@
     "notes": null
   },
   {
+    "normalizedName": "cincinnati",
+    "opponent": "Navy",
+    "normalizedOpponent": "navy",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401301027,
     "season": 2021,
     "week": 8,
@@ -274,6 +309,11 @@
     "notes": null
   },
   {
+    "normalizedName": "cincinnati",
+    "opponent": "Tulane",
+    "normalizedOpponent": "tulane",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401301032,
     "season": 2021,
     "week": 9,
@@ -306,6 +346,11 @@
     "notes": null
   },
   {
+    "normalizedName": "cincinnati",
+    "opponent": "Tulsa",
+    "normalizedOpponent": "tulsa",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401301037,
     "season": 2021,
     "week": 10,
@@ -338,6 +383,11 @@
     "notes": null
   },
   {
+    "normalizedName": "cincinnati",
+    "opponent": "South Florida",
+    "normalizedOpponent": "south-florida",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401301040,
     "season": 2021,
     "week": 11,
@@ -370,6 +420,11 @@
     "notes": null
   },
   {
+    "normalizedName": "cincinnati",
+    "opponent": "SMU",
+    "normalizedOpponent": "smu",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401301046,
     "season": 2021,
     "week": 12,
@@ -402,6 +457,11 @@
     "notes": null
   },
   {
+    "normalizedName": "cincinnati",
+    "opponent": "East Carolina",
+    "normalizedOpponent": "east-carolina",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401301051,
     "season": 2021,
     "week": 13,

@@ -1,5 +1,10 @@
 [
   {
+    "normalizedName": "toledo",
+    "opponent": "Norfolk State",
+    "normalizedOpponent": "norfolk-state",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401309543,
     "season": 2021,
     "week": 1,
@@ -42,6 +47,11 @@
     "notes": null
   },
   {
+    "normalizedName": "toledo",
+    "opponent": "Notre Dame",
+    "normalizedOpponent": "notre-dame",
+    "homeGame": false,
+    "winLoss": "L",
     "id": 401282705,
     "season": 2021,
     "week": 2,
@@ -84,6 +94,11 @@
     "notes": null
   },
   {
+    "normalizedName": "toledo",
+    "opponent": "Colorado State",
+    "normalizedOpponent": "colorado-state",
+    "homeGame": true,
+    "winLoss": "L",
     "id": 401309553,
     "season": 2021,
     "week": 3,
@@ -126,6 +141,11 @@
     "notes": null
   },
   {
+    "normalizedName": "toledo",
+    "opponent": "Ball State",
+    "normalizedOpponent": "ball-state",
+    "homeGame": false,
+    "winLoss": "W",
     "id": 401309555,
     "season": 2021,
     "week": 4,
@@ -168,6 +188,11 @@
     "notes": null
   },
   {
+    "normalizedName": "toledo",
+    "opponent": "UMass",
+    "normalizedOpponent": "umass",
+    "homeGame": false,
+    "winLoss": "W",
     "id": 401286302,
     "season": 2021,
     "week": 5,
@@ -210,6 +235,11 @@
     "notes": null
   },
   {
+    "normalizedName": "toledo",
+    "opponent": "Northern Illinois",
+    "normalizedOpponent": "northern-illinois",
+    "homeGame": true,
+    "winLoss": "L",
     "id": 401309564,
     "season": 2021,
     "week": 6,
@@ -252,6 +282,11 @@
     "notes": null
   },
   {
+    "normalizedName": "toledo",
+    "opponent": "Central Michigan",
+    "normalizedOpponent": "central-michigan",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401309569,
     "season": 2021,
     "week": 7,
@@ -284,12 +319,17 @@
     "notes": null
   },
   {
+    "normalizedName": "toledo",
+    "opponent": "Western Michigan",
+    "normalizedOpponent": "western-michigan",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401309573,
     "season": 2021,
     "week": 8,
     "season_type": "regular",
-    "start_date": "2021-10-23T04:00:00.000Z",
-    "start_time_tbd": true,
+    "start_date": "2021-10-23T23:30:00.000Z",
+    "start_time_tbd": false,
     "neutral_site": false,
     "conference_game": true,
     "attendance": null,
@@ -316,6 +356,11 @@
     "notes": null
   },
   {
+    "normalizedName": "toledo",
+    "opponent": "Eastern Michigan",
+    "normalizedOpponent": "eastern-michigan",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401309580,
     "season": 2021,
     "week": 9,
@@ -348,6 +393,11 @@
     "notes": null
   },
   {
+    "normalizedName": "toledo",
+    "opponent": "Bowling Green",
+    "normalizedOpponent": "bowling-green",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401309585,
     "season": 2021,
     "week": 11,
@@ -380,6 +430,11 @@
     "notes": null
   },
   {
+    "normalizedName": "toledo",
+    "opponent": "Ohio",
+    "normalizedOpponent": "ohio",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401309589,
     "season": 2021,
     "week": 11,
@@ -412,6 +467,11 @@
     "notes": null
   },
   {
+    "normalizedName": "toledo",
+    "opponent": "Akron",
+    "normalizedOpponent": "akron",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401309597,
     "season": 2021,
     "week": 13,

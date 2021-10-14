@@ -1,5 +1,10 @@
 [
   {
+    "normalizedName": "air-force",
+    "opponent": "Lafayette",
+    "normalizedOpponent": "lafayette",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401310861,
     "season": 2021,
     "week": 1,
@@ -42,6 +47,11 @@
     "notes": null
   },
   {
+    "normalizedName": "air-force",
+    "opponent": "Navy",
+    "normalizedOpponent": "navy",
+    "homeGame": false,
+    "winLoss": "W",
     "id": 401301004,
     "season": 2021,
     "week": 2,
@@ -84,6 +94,11 @@
     "notes": null
   },
   {
+    "normalizedName": "air-force",
+    "opponent": "Utah State",
+    "normalizedOpponent": "utah-state",
+    "homeGame": true,
+    "winLoss": "L",
     "id": 401310704,
     "season": 2021,
     "week": 3,
@@ -126,6 +141,11 @@
     "notes": null
   },
   {
+    "normalizedName": "air-force",
+    "opponent": "Florida Atlantic",
+    "normalizedOpponent": "florida-atlantic",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401282207,
     "season": 2021,
     "week": 4,
@@ -168,6 +188,11 @@
     "notes": null
   },
   {
+    "normalizedName": "air-force",
+    "opponent": "New Mexico",
+    "normalizedOpponent": "new-mexico",
+    "homeGame": false,
+    "winLoss": "W",
     "id": 401310710,
     "season": 2021,
     "week": 5,
@@ -210,6 +235,11 @@
     "notes": null
   },
   {
+    "normalizedName": "air-force",
+    "opponent": "Wyoming",
+    "normalizedOpponent": "wyoming",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401310714,
     "season": 2021,
     "week": 6,
@@ -252,6 +282,11 @@
     "notes": null
   },
   {
+    "normalizedName": "air-force",
+    "opponent": "Boise State",
+    "normalizedOpponent": "boise-state",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401310718,
     "season": 2021,
     "week": 7,
@@ -284,6 +319,11 @@
     "notes": null
   },
   {
+    "normalizedName": "air-force",
+    "opponent": "San Diego State",
+    "normalizedOpponent": "san-diego-state",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401310724,
     "season": 2021,
     "week": 8,
@@ -316,6 +356,11 @@
     "notes": null
   },
   {
+    "normalizedName": "air-force",
+    "opponent": "Army",
+    "normalizedOpponent": "army",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401310253,
     "season": 2021,
     "week": 10,
@@ -348,6 +393,11 @@
     "notes": null
   },
   {
+    "normalizedName": "air-force",
+    "opponent": "Colorado State",
+    "normalizedOpponent": "colorado-state",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401310741,
     "season": 2021,
     "week": 11,
@@ -380,6 +430,11 @@
     "notes": null
   },
   {
+    "normalizedName": "air-force",
+    "opponent": "Nevada",
+    "normalizedOpponent": "nevada",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401310747,
     "season": 2021,
     "week": 12,
@@ -412,6 +467,11 @@
     "notes": null
   },
   {
+    "normalizedName": "air-force",
+    "opponent": "UNLV",
+    "normalizedOpponent": "unlv",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401310752,
     "season": 2021,
     "week": 13,

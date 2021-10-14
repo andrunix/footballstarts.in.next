@@ -1,5 +1,10 @@
 [
   {
+    "normalizedName": "florida-state",
+    "opponent": "Notre Dame",
+    "normalizedOpponent": "notre-dame",
+    "homeGame": true,
+    "winLoss": "L",
     "id": 401282614,
     "season": 2021,
     "week": 1,
@@ -44,6 +49,11 @@
     "notes": null
   },
   {
+    "normalizedName": "florida-state",
+    "opponent": "Jacksonville State",
+    "normalizedOpponent": "jacksonville-state",
+    "homeGame": true,
+    "winLoss": "L",
     "id": 401282617,
     "season": 2021,
     "week": 2,
@@ -86,6 +96,11 @@
     "notes": null
   },
   {
+    "normalizedName": "florida-state",
+    "opponent": "Wake Forest",
+    "normalizedOpponent": "wake-forest",
+    "homeGame": false,
+    "winLoss": "L",
     "id": 401282635,
     "season": 2021,
     "week": 3,
@@ -128,6 +143,11 @@
     "notes": null
   },
   {
+    "normalizedName": "florida-state",
+    "opponent": "Louisville",
+    "normalizedOpponent": "louisville",
+    "homeGame": true,
+    "winLoss": "L",
     "id": 401282640,
     "season": 2021,
     "week": 4,
@@ -170,6 +190,11 @@
     "notes": null
   },
   {
+    "normalizedName": "florida-state",
+    "opponent": "Syracuse",
+    "normalizedOpponent": "syracuse",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401282648,
     "season": 2021,
     "week": 5,
@@ -212,6 +237,11 @@
     "notes": null
   },
   {
+    "normalizedName": "florida-state",
+    "opponent": "North Carolina",
+    "normalizedOpponent": "north-carolina",
+    "homeGame": false,
+    "winLoss": "W",
     "id": 401282654,
     "season": 2021,
     "week": 6,
@@ -254,12 +284,17 @@
     "notes": null
   },
   {
+    "normalizedName": "florida-state",
+    "opponent": "UMass",
+    "normalizedOpponent": "umass",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401282663,
     "season": 2021,
     "week": 8,
     "season_type": "regular",
-    "start_date": "2021-10-23T04:00:00.000Z",
-    "start_time_tbd": true,
+    "start_date": "2021-10-23T16:00:00.000Z",
+    "start_time_tbd": false,
     "neutral_site": false,
     "conference_game": false,
     "attendance": null,
@@ -286,6 +321,11 @@
     "notes": null
   },
   {
+    "normalizedName": "florida-state",
+    "opponent": "Clemson",
+    "normalizedOpponent": "clemson",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401282670,
     "season": 2021,
     "week": 9,
@@ -318,6 +358,11 @@
     "notes": null
   },
   {
+    "normalizedName": "florida-state",
+    "opponent": "NC State",
+    "normalizedOpponent": "nc-state",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401282679,
     "season": 2021,
     "week": 10,
@@ -350,6 +395,11 @@
     "notes": null
   },
   {
+    "normalizedName": "florida-state",
+    "opponent": "Miami",
+    "normalizedOpponent": "miami",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401282685,
     "season": 2021,
     "week": 11,
@@ -382,6 +432,11 @@
     "notes": null
   },
   {
+    "normalizedName": "florida-state",
+    "opponent": "Boston College",
+    "normalizedOpponent": "boston-college",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401282692,
     "season": 2021,
     "week": 12,
@@ -414,6 +469,11 @@
     "notes": null
   },
   {
+    "normalizedName": "florida-state",
+    "opponent": "Florida",
+    "normalizedOpponent": "florida",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401282147,
     "season": 2021,
     "week": 13,

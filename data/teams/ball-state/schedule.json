@@ -1,5 +1,10 @@
 [
   {
+    "normalizedName": "ball-state",
+    "opponent": "Western Illinois",
+    "normalizedOpponent": "western-illinois",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401309540,
     "season": 2021,
     "week": 1,
@@ -42,6 +47,11 @@
     "notes": null
   },
   {
+    "normalizedName": "ball-state",
+    "opponent": "Penn State",
+    "normalizedOpponent": "penn-state",
+    "homeGame": false,
+    "winLoss": "L",
     "id": 401282816,
     "season": 2021,
     "week": 2,
@@ -84,6 +94,11 @@
     "notes": null
   },
   {
+    "normalizedName": "ball-state",
+    "opponent": "Wyoming",
+    "normalizedOpponent": "wyoming",
+    "homeGame": false,
+    "winLoss": "L",
     "id": 401309549,
     "season": 2021,
     "week": 3,
@@ -126,6 +141,11 @@
     "notes": null
   },
   {
+    "normalizedName": "ball-state",
+    "opponent": "Toledo",
+    "normalizedOpponent": "toledo",
+    "homeGame": true,
+    "winLoss": "L",
     "id": 401309555,
     "season": 2021,
     "week": 4,
@@ -168,6 +188,11 @@
     "notes": null
   },
   {
+    "normalizedName": "ball-state",
+    "opponent": "Army",
+    "normalizedOpponent": "army",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401309559,
     "season": 2021,
     "week": 5,
@@ -210,6 +235,11 @@
     "notes": null
   },
   {
+    "normalizedName": "ball-state",
+    "opponent": "Western Michigan",
+    "normalizedOpponent": "western-michigan",
+    "homeGame": false,
+    "winLoss": "W",
     "id": 401309563,
     "season": 2021,
     "week": 6,
@@ -252,6 +282,11 @@
     "notes": null
   },
   {
+    "normalizedName": "ball-state",
+    "opponent": "Eastern Michigan",
+    "normalizedOpponent": "eastern-michigan",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401309568,
     "season": 2021,
     "week": 7,
@@ -284,6 +319,11 @@
     "notes": null
   },
   {
+    "normalizedName": "ball-state",
+    "opponent": "Miami (OH)",
+    "normalizedOpponent": "miami-oh",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401308838,
     "season": 2021,
     "week": 8,
@@ -316,6 +356,11 @@
     "notes": null
   },
   {
+    "normalizedName": "ball-state",
+    "opponent": "Akron",
+    "normalizedOpponent": "akron",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401309579,
     "season": 2021,
     "week": 9,
@@ -348,6 +393,11 @@
     "notes": null
   },
   {
+    "normalizedName": "ball-state",
+    "opponent": "Northern Illinois",
+    "normalizedOpponent": "northern-illinois",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401309587,
     "season": 2021,
     "week": 11,
@@ -380,6 +430,11 @@
     "notes": null
   },
   {
+    "normalizedName": "ball-state",
+    "opponent": "Central Michigan",
+    "normalizedOpponent": "central-michigan",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401309591,
     "season": 2021,
     "week": 12,
@@ -412,6 +467,11 @@
     "notes": null
   },
   {
+    "normalizedName": "ball-state",
+    "opponent": "Buffalo",
+    "normalizedOpponent": "buffalo",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401309593,
     "season": 2021,
     "week": 13,

@@ -1,5 +1,10 @@
 [
   {
+    "normalizedName": "duke",
+    "opponent": "Charlotte",
+    "normalizedOpponent": "charlotte",
+    "homeGame": false,
+    "winLoss": "L",
     "id": 401282052,
     "season": 2021,
     "week": 1,
@@ -42,6 +47,11 @@
     "notes": null
   },
   {
+    "normalizedName": "duke",
+    "opponent": "North Carolina A&T",
+    "normalizedOpponent": "north-carolina-a-t",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401282616,
     "season": 2021,
     "week": 2,
@@ -84,6 +94,11 @@
     "notes": null
   },
   {
+    "normalizedName": "duke",
+    "opponent": "Northwestern",
+    "normalizedOpponent": "northwestern",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401282628,
     "season": 2021,
     "week": 3,
@@ -126,6 +141,11 @@
     "notes": null
   },
   {
+    "normalizedName": "duke",
+    "opponent": "Kansas",
+    "normalizedOpponent": "kansas",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401282639,
     "season": 2021,
     "week": 4,
@@ -168,6 +188,11 @@
     "notes": null
   },
   {
+    "normalizedName": "duke",
+    "opponent": "North Carolina",
+    "normalizedOpponent": "north-carolina",
+    "homeGame": false,
+    "winLoss": "L",
     "id": 401282650,
     "season": 2021,
     "week": 5,
@@ -210,6 +235,11 @@
     "notes": null
   },
   {
+    "normalizedName": "duke",
+    "opponent": "Georgia Tech",
+    "normalizedOpponent": "georgia-tech",
+    "homeGame": true,
+    "winLoss": "L",
     "id": 401282652,
     "season": 2021,
     "week": 6,
@@ -252,6 +282,11 @@
     "notes": null
   },
   {
+    "normalizedName": "duke",
+    "opponent": "Virginia",
+    "normalizedOpponent": "virginia",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401282660,
     "season": 2021,
     "week": 7,
@@ -284,6 +319,11 @@
     "notes": null
   },
   {
+    "normalizedName": "duke",
+    "opponent": "Wake Forest",
+    "normalizedOpponent": "wake-forest",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401282676,
     "season": 2021,
     "week": 9,
@@ -316,6 +356,11 @@
     "notes": null
   },
   {
+    "normalizedName": "duke",
+    "opponent": "Pittsburgh",
+    "normalizedOpponent": "pittsburgh",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401282678,
     "season": 2021,
     "week": 10,
@@ -348,6 +393,11 @@
     "notes": null
   },
   {
+    "normalizedName": "duke",
+    "opponent": "Virginia Tech",
+    "normalizedOpponent": "virginia-tech",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401282689,
     "season": 2021,
     "week": 11,
@@ -380,6 +430,11 @@
     "notes": null
   },
   {
+    "normalizedName": "duke",
+    "opponent": "Louisville",
+    "normalizedOpponent": "louisville",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401282691,
     "season": 2021,
     "week": 12,
@@ -412,6 +467,11 @@
     "notes": null
   },
   {
+    "normalizedName": "duke",
+    "opponent": "Miami",
+    "normalizedOpponent": "miami",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401282701,
     "season": 2021,
     "week": 13,

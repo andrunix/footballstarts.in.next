@@ -1,5 +1,10 @@
 [
   {
+    "normalizedName": "memphis",
+    "opponent": "Nicholls",
+    "normalizedOpponent": "nicholls",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401300997,
     "season": 2021,
     "week": 1,
@@ -42,6 +47,11 @@
     "notes": null
   },
   {
+    "normalizedName": "memphis",
+    "opponent": "Arkansas State",
+    "normalizedOpponent": "arkansas-state",
+    "homeGame": false,
+    "winLoss": "W",
     "id": 401301003,
     "season": 2021,
     "week": 2,
@@ -84,6 +94,11 @@
     "notes": null
   },
   {
+    "normalizedName": "memphis",
+    "opponent": "Mississippi State",
+    "normalizedOpponent": "mississippi-state",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401282076,
     "season": 2021,
     "week": 3,
@@ -126,6 +141,11 @@
     "notes": null
   },
   {
+    "normalizedName": "memphis",
+    "opponent": "UT San Antonio",
+    "normalizedOpponent": "ut-san-antonio",
+    "homeGame": true,
+    "winLoss": "L",
     "id": 401282213,
     "season": 2021,
     "week": 4,
@@ -168,6 +188,11 @@
     "notes": null
   },
   {
+    "normalizedName": "memphis",
+    "opponent": "Temple",
+    "normalizedOpponent": "temple",
+    "homeGame": false,
+    "winLoss": "L",
     "id": 401301015,
     "season": 2021,
     "week": 5,
@@ -210,6 +235,11 @@
     "notes": null
   },
   {
+    "normalizedName": "memphis",
+    "opponent": "Tulsa",
+    "normalizedOpponent": "tulsa",
+    "homeGame": false,
+    "winLoss": "L",
     "id": 401301020,
     "season": 2021,
     "week": 6,
@@ -252,6 +282,11 @@
     "notes": null
   },
   {
+    "normalizedName": "memphis",
+    "opponent": "Navy",
+    "normalizedOpponent": "navy",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401301022,
     "season": 2021,
     "week": 7,
@@ -284,6 +319,11 @@
     "notes": null
   },
   {
+    "normalizedName": "memphis",
+    "opponent": "UCF",
+    "normalizedOpponent": "ucf",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401301026,
     "season": 2021,
     "week": 8,
@@ -316,6 +356,11 @@
     "notes": null
   },
   {
+    "normalizedName": "memphis",
+    "opponent": "SMU",
+    "normalizedOpponent": "smu",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401301039,
     "season": 2021,
     "week": 10,
@@ -348,6 +393,11 @@
     "notes": null
   },
   {
+    "normalizedName": "memphis",
+    "opponent": "East Carolina",
+    "normalizedOpponent": "east-carolina",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401301042,
     "season": 2021,
     "week": 11,
@@ -380,6 +430,11 @@
     "notes": null
   },
   {
+    "normalizedName": "memphis",
+    "opponent": "Houston",
+    "normalizedOpponent": "houston",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401301045,
     "season": 2021,
     "week": 12,
@@ -412,6 +467,11 @@
     "notes": null
   },
   {
+    "normalizedName": "memphis",
+    "opponent": "Tulane",
+    "normalizedOpponent": "tulane",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401301053,
     "season": 2021,
     "week": 13,

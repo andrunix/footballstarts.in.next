@@ -1,5 +1,10 @@
 [
   {
+    "normalizedName": "clemson",
+    "opponent": "Georgia",
+    "normalizedOpponent": "georgia",
+    "homeGame": true,
+    "winLoss": "L",
     "id": 401281946,
     "season": 2021,
     "week": 1,
@@ -42,6 +47,11 @@
     "notes": null
   },
   {
+    "normalizedName": "clemson",
+    "opponent": "South Carolina State",
+    "normalizedOpponent": "south-carolina-state",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401282615,
     "season": 2021,
     "week": 2,
@@ -84,6 +94,11 @@
     "notes": null
   },
   {
+    "normalizedName": "clemson",
+    "opponent": "Georgia Tech",
+    "normalizedOpponent": "georgia-tech",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401282627,
     "season": 2021,
     "week": 3,
@@ -126,6 +141,11 @@
     "notes": null
   },
   {
+    "normalizedName": "clemson",
+    "opponent": "NC State",
+    "normalizedOpponent": "nc-state",
+    "homeGame": false,
+    "winLoss": "L",
     "id": 401282643,
     "season": 2021,
     "week": 4,
@@ -172,6 +192,11 @@
     "notes": null
   },
   {
+    "normalizedName": "clemson",
+    "opponent": "Boston College",
+    "normalizedOpponent": "boston-college",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401282647,
     "season": 2021,
     "week": 5,
@@ -214,6 +239,11 @@
     "notes": null
   },
   {
+    "normalizedName": "clemson",
+    "opponent": "Syracuse",
+    "normalizedOpponent": "syracuse",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401282657,
     "season": 2021,
     "week": 7,
@@ -246,12 +276,17 @@
     "notes": null
   },
   {
+    "normalizedName": "clemson",
+    "opponent": "Pittsburgh",
+    "normalizedOpponent": "pittsburgh",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401282666,
     "season": 2021,
     "week": 8,
     "season_type": "regular",
-    "start_date": "2021-10-23T04:00:00.000Z",
-    "start_time_tbd": true,
+    "start_date": "2021-10-23T19:30:00.000Z",
+    "start_time_tbd": false,
     "neutral_site": false,
     "conference_game": true,
     "attendance": null,
@@ -278,6 +313,11 @@
     "notes": null
   },
   {
+    "normalizedName": "clemson",
+    "opponent": "Florida State",
+    "normalizedOpponent": "florida-state",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401282670,
     "season": 2021,
     "week": 9,
@@ -310,6 +350,11 @@
     "notes": null
   },
   {
+    "normalizedName": "clemson",
+    "opponent": "Louisville",
+    "normalizedOpponent": "louisville",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401282680,
     "season": 2021,
     "week": 10,
@@ -342,6 +387,11 @@
     "notes": null
   },
   {
+    "normalizedName": "clemson",
+    "opponent": "Connecticut",
+    "normalizedOpponent": "connecticut",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401282684,
     "season": 2021,
     "week": 11,
@@ -374,6 +424,11 @@
     "notes": null
   },
   {
+    "normalizedName": "clemson",
+    "opponent": "Wake Forest",
+    "normalizedOpponent": "wake-forest",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401282693,
     "season": 2021,
     "week": 12,
@@ -406,6 +461,11 @@
     "notes": null
   },
   {
+    "normalizedName": "clemson",
+    "opponent": "South Carolina",
+    "normalizedOpponent": "south-carolina",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401282152,
     "season": 2021,
     "week": 13,

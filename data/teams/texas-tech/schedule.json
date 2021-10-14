@@ -1,5 +1,10 @@
 [
   {
+    "normalizedName": "texas-tech",
+    "opponent": "Houston",
+    "normalizedOpponent": "houston",
+    "homeGame": false,
+    "winLoss": "W",
     "id": 401287886,
     "season": 2021,
     "week": 1,
@@ -42,6 +47,11 @@
     "notes": null
   },
   {
+    "normalizedName": "texas-tech",
+    "opponent": "Stephen F. Austin",
+    "normalizedOpponent": "stephen-f.-austin",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401287901,
     "season": 2021,
     "week": 2,
@@ -84,6 +94,11 @@
     "notes": null
   },
   {
+    "normalizedName": "texas-tech",
+    "opponent": "Florida International",
+    "normalizedOpponent": "florida-international",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401282197,
     "season": 2021,
     "week": 3,
@@ -126,6 +141,11 @@
     "notes": null
   },
   {
+    "normalizedName": "texas-tech",
+    "opponent": "Texas",
+    "normalizedOpponent": "texas",
+    "homeGame": false,
+    "winLoss": "L",
     "id": 401287911,
     "season": 2021,
     "week": 4,
@@ -168,6 +188,11 @@
     "notes": null
   },
   {
+    "normalizedName": "texas-tech",
+    "opponent": "West Virginia",
+    "normalizedOpponent": "west-virginia",
+    "homeGame": false,
+    "winLoss": "W",
     "id": 401287916,
     "season": 2021,
     "week": 5,
@@ -210,6 +235,11 @@
     "notes": null
   },
   {
+    "normalizedName": "texas-tech",
+    "opponent": "TCU",
+    "normalizedOpponent": "tcu",
+    "homeGame": true,
+    "winLoss": "L",
     "id": 401287919,
     "season": 2021,
     "week": 6,
@@ -252,6 +282,11 @@
     "notes": null
   },
   {
+    "normalizedName": "texas-tech",
+    "opponent": "Kansas",
+    "normalizedOpponent": "kansas",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401287921,
     "season": 2021,
     "week": 7,
@@ -284,6 +319,11 @@
     "notes": null
   },
   {
+    "normalizedName": "texas-tech",
+    "opponent": "Kansas State",
+    "normalizedOpponent": "kansas-state",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401287928,
     "season": 2021,
     "week": 8,
@@ -316,6 +356,11 @@
     "notes": null
   },
   {
+    "normalizedName": "texas-tech",
+    "opponent": "Oklahoma",
+    "normalizedOpponent": "oklahoma",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401287931,
     "season": 2021,
     "week": 9,
@@ -348,6 +393,11 @@
     "notes": null
   },
   {
+    "normalizedName": "texas-tech",
+    "opponent": "Iowa State",
+    "normalizedOpponent": "iowa-state",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401287942,
     "season": 2021,
     "week": 11,
@@ -380,6 +430,11 @@
     "notes": null
   },
   {
+    "normalizedName": "texas-tech",
+    "opponent": "Oklahoma State",
+    "normalizedOpponent": "oklahoma-state",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401287946,
     "season": 2021,
     "week": 12,
@@ -412,6 +467,11 @@
     "notes": null
   },
   {
+    "normalizedName": "texas-tech",
+    "opponent": "Baylor",
+    "normalizedOpponent": "baylor",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401287948,
     "season": 2021,
     "week": 13,

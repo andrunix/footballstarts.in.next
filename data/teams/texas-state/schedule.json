@@ -1,5 +1,10 @@
 [
   {
+    "normalizedName": "texas-state",
+    "opponent": "Baylor",
+    "normalizedOpponent": "baylor",
+    "homeGame": true,
+    "winLoss": "L",
     "id": 401287893,
     "season": 2021,
     "week": 1,
@@ -42,6 +47,11 @@
     "notes": null
   },
   {
+    "normalizedName": "texas-state",
+    "opponent": "Florida International",
+    "normalizedOpponent": "florida-international",
+    "homeGame": false,
+    "winLoss": "W",
     "id": 401282182,
     "season": 2021,
     "week": 2,
@@ -86,6 +96,11 @@
     "notes": null
   },
   {
+    "normalizedName": "texas-state",
+    "opponent": "Incarnate Word",
+    "normalizedOpponent": "incarnate-word",
+    "homeGame": true,
+    "winLoss": "L",
     "id": 401309609,
     "season": 2021,
     "week": 3,
@@ -128,6 +143,11 @@
     "notes": null
   },
   {
+    "normalizedName": "texas-state",
+    "opponent": "Eastern Michigan",
+    "normalizedOpponent": "eastern-michigan",
+    "homeGame": false,
+    "winLoss": "L",
     "id": 401309557,
     "season": 2021,
     "week": 4,
@@ -170,6 +190,11 @@
     "notes": null
   },
   {
+    "normalizedName": "texas-state",
+    "opponent": "South Alabama",
+    "normalizedOpponent": "south-alabama",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401309619,
     "season": 2021,
     "week": 6,
@@ -220,6 +245,11 @@
     "notes": null
   },
   {
+    "normalizedName": "texas-state",
+    "opponent": "Troy",
+    "normalizedOpponent": "troy",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401309622,
     "season": 2021,
     "week": 7,
@@ -252,12 +282,17 @@
     "notes": null
   },
   {
+    "normalizedName": "texas-state",
+    "opponent": "Georgia State",
+    "normalizedOpponent": "georgia-state",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401309625,
     "season": 2021,
     "week": 8,
     "season_type": "regular",
-    "start_date": "2021-10-23T04:00:00.000Z",
-    "start_time_tbd": true,
+    "start_date": "2021-10-23T18:00:00.000Z",
+    "start_time_tbd": false,
     "neutral_site": false,
     "conference_game": true,
     "attendance": null,
@@ -284,6 +319,11 @@
     "notes": null
   },
   {
+    "normalizedName": "texas-state",
+    "opponent": "Louisiana",
+    "normalizedOpponent": "louisiana",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401309631,
     "season": 2021,
     "week": 9,
@@ -301,7 +341,7 @@
     "home_points": null,
     "home_line_scores": null,
     "home_post_win_prob": null,
-    "home_pregame_elo": 1743,
+    "home_pregame_elo": 1818,
     "home_postgame_elo": null,
     "away_id": 326,
     "away_team": "Texas State",
@@ -316,6 +356,11 @@
     "notes": null
   },
   {
+    "normalizedName": "texas-state",
+    "opponent": "Louisiana Monroe",
+    "normalizedOpponent": "louisiana-monroe",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401309635,
     "season": 2021,
     "week": 10,
@@ -348,6 +393,11 @@
     "notes": null
   },
   {
+    "normalizedName": "texas-state",
+    "opponent": "Georgia Southern",
+    "normalizedOpponent": "georgia-southern",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401309640,
     "season": 2021,
     "week": 11,
@@ -380,6 +430,11 @@
     "notes": null
   },
   {
+    "normalizedName": "texas-state",
+    "opponent": "Coastal Carolina",
+    "normalizedOpponent": "coastal-carolina",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401309644,
     "season": 2021,
     "week": 12,
@@ -412,6 +467,11 @@
     "notes": null
   },
   {
+    "normalizedName": "texas-state",
+    "opponent": "Arkansas State",
+    "normalizedOpponent": "arkansas-state",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401309647,
     "season": 2021,
     "week": 13,

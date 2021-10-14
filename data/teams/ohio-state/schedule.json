@@ -1,5 +1,10 @@
 [
   {
+    "normalizedName": "ohio-state",
+    "opponent": "Minnesota",
+    "normalizedOpponent": "minnesota",
+    "homeGame": false,
+    "winLoss": "W",
     "id": 401282789,
     "season": 2021,
     "week": 1,
@@ -42,6 +47,11 @@
     "notes": null
   },
   {
+    "normalizedName": "ohio-state",
+    "opponent": "Oregon",
+    "normalizedOpponent": "oregon",
+    "homeGame": true,
+    "winLoss": "L",
     "id": 401282809,
     "season": 2021,
     "week": 2,
@@ -84,6 +94,11 @@
     "notes": null
   },
   {
+    "normalizedName": "ohio-state",
+    "opponent": "Tulsa",
+    "normalizedOpponent": "tulsa",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401282810,
     "season": 2021,
     "week": 3,
@@ -126,6 +141,11 @@
     "notes": null
   },
   {
+    "normalizedName": "ohio-state",
+    "opponent": "Akron",
+    "normalizedOpponent": "akron",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401282811,
     "season": 2021,
     "week": 4,
@@ -168,6 +188,11 @@
     "notes": null
   },
   {
+    "normalizedName": "ohio-state",
+    "opponent": "Rutgers",
+    "normalizedOpponent": "rutgers",
+    "homeGame": false,
+    "winLoss": "W",
     "id": 401282813,
     "season": 2021,
     "week": 5,
@@ -210,6 +235,11 @@
     "notes": null
   },
   {
+    "normalizedName": "ohio-state",
+    "opponent": "Maryland",
+    "normalizedOpponent": "maryland",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401282769,
     "season": 2021,
     "week": 6,
@@ -252,12 +282,17 @@
     "notes": null
   },
   {
+    "normalizedName": "ohio-state",
+    "opponent": "Indiana",
+    "normalizedOpponent": "indiana",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401282730,
     "season": 2021,
     "week": 8,
     "season_type": "regular",
-    "start_date": "2021-10-23T04:00:00.000Z",
-    "start_time_tbd": true,
+    "start_date": "2021-10-23T23:30:00.000Z",
+    "start_time_tbd": false,
     "neutral_site": false,
     "conference_game": true,
     "attendance": null,
@@ -284,6 +319,11 @@
     "notes": null
   },
   {
+    "normalizedName": "ohio-state",
+    "opponent": "Penn State",
+    "normalizedOpponent": "penn-state",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401282814,
     "season": 2021,
     "week": 9,
@@ -316,6 +356,11 @@
     "notes": null
   },
   {
+    "normalizedName": "ohio-state",
+    "opponent": "Nebraska",
+    "normalizedOpponent": "nebraska",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401282799,
     "season": 2021,
     "week": 10,
@@ -348,6 +393,11 @@
     "notes": null
   },
   {
+    "normalizedName": "ohio-state",
+    "opponent": "Purdue",
+    "normalizedOpponent": "purdue",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401282812,
     "season": 2021,
     "week": 11,
@@ -380,6 +430,11 @@
     "notes": null
   },
   {
+    "normalizedName": "ohio-state",
+    "opponent": "Michigan State",
+    "normalizedOpponent": "michigan-state",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401282786,
     "season": 2021,
     "week": 12,
@@ -412,6 +467,11 @@
     "notes": null
   },
   {
+    "normalizedName": "ohio-state",
+    "opponent": "Michigan",
+    "normalizedOpponent": "michigan",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401282781,
     "season": 2021,
     "week": 13,

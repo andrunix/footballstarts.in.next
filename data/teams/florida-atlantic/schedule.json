@@ -1,5 +1,10 @@
 [
   {
+    "normalizedName": "florida-atlantic",
+    "opponent": "Florida",
+    "normalizedOpponent": "florida",
+    "homeGame": false,
+    "winLoss": "L",
     "id": 401281945,
     "season": 2021,
     "week": 1,
@@ -42,6 +47,11 @@
     "notes": null
   },
   {
+    "normalizedName": "florida-atlantic",
+    "opponent": "Georgia Southern",
+    "normalizedOpponent": "georgia-southern",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401282183,
     "season": 2021,
     "week": 2,
@@ -84,6 +94,11 @@
     "notes": null
   },
   {
+    "normalizedName": "florida-atlantic",
+    "opponent": "Fordham",
+    "normalizedOpponent": "fordham",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401282198,
     "season": 2021,
     "week": 3,
@@ -126,6 +141,11 @@
     "notes": null
   },
   {
+    "normalizedName": "florida-atlantic",
+    "opponent": "Air Force",
+    "normalizedOpponent": "air-force",
+    "homeGame": false,
+    "winLoss": "L",
     "id": 401282207,
     "season": 2021,
     "week": 4,
@@ -168,6 +188,11 @@
     "notes": null
   },
   {
+    "normalizedName": "florida-atlantic",
+    "opponent": "Florida International",
+    "normalizedOpponent": "florida-international",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401282215,
     "season": 2021,
     "week": 5,
@@ -210,6 +235,11 @@
     "notes": null
   },
   {
+    "normalizedName": "florida-atlantic",
+    "opponent": "UAB",
+    "normalizedOpponent": "uab",
+    "homeGame": false,
+    "winLoss": "L",
     "id": 401282225,
     "season": 2021,
     "week": 6,
@@ -252,6 +282,11 @@
     "notes": null
   },
   {
+    "normalizedName": "florida-atlantic",
+    "opponent": "Charlotte",
+    "normalizedOpponent": "charlotte",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401282235,
     "season": 2021,
     "week": 8,
@@ -284,6 +319,11 @@
     "notes": null
   },
   {
+    "normalizedName": "florida-atlantic",
+    "opponent": "UTEP",
+    "normalizedOpponent": "utep",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401282243,
     "season": 2021,
     "week": 9,
@@ -316,6 +356,11 @@
     "notes": null
   },
   {
+    "normalizedName": "florida-atlantic",
+    "opponent": "Marshall",
+    "normalizedOpponent": "marshall",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401282249,
     "season": 2021,
     "week": 10,
@@ -348,6 +393,11 @@
     "notes": null
   },
   {
+    "normalizedName": "florida-atlantic",
+    "opponent": "Old Dominion",
+    "normalizedOpponent": "old-dominion",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401282256,
     "season": 2021,
     "week": 11,
@@ -380,6 +430,11 @@
     "notes": null
   },
   {
+    "normalizedName": "florida-atlantic",
+    "opponent": "Western Kentucky",
+    "normalizedOpponent": "western-kentucky",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401282263,
     "season": 2021,
     "week": 12,
@@ -412,6 +467,11 @@
     "notes": null
   },
   {
+    "normalizedName": "florida-atlantic",
+    "opponent": "Middle Tennessee",
+    "normalizedOpponent": "middle-tennessee",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401282270,
     "season": 2021,
     "week": 13,

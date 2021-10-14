@@ -1,5 +1,10 @@
 [
   {
+    "normalizedName": "california",
+    "opponent": "Nevada",
+    "normalizedOpponent": "nevada",
+    "homeGame": true,
+    "winLoss": "L",
     "id": 401309837,
     "season": 2021,
     "week": 1,
@@ -42,6 +47,11 @@
     "notes": null
   },
   {
+    "normalizedName": "california",
+    "opponent": "TCU",
+    "normalizedOpponent": "tcu",
+    "homeGame": false,
+    "winLoss": "L",
     "id": 401287900,
     "season": 2021,
     "week": 2,
@@ -84,6 +94,11 @@
     "notes": null
   },
   {
+    "normalizedName": "california",
+    "opponent": "Sacramento State",
+    "normalizedOpponent": "sacramento-state",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401309849,
     "season": 2021,
     "week": 3,
@@ -126,6 +141,11 @@
     "notes": null
   },
   {
+    "normalizedName": "california",
+    "opponent": "Washington",
+    "normalizedOpponent": "washington",
+    "homeGame": false,
+    "winLoss": "L",
     "id": 401309857,
     "season": 2021,
     "week": 4,
@@ -170,6 +190,11 @@
     "notes": null
   },
   {
+    "normalizedName": "california",
+    "opponent": "Washington State",
+    "normalizedOpponent": "washington-state",
+    "homeGame": true,
+    "winLoss": "L",
     "id": 401309863,
     "season": 2021,
     "week": 5,
@@ -212,6 +237,11 @@
     "notes": null
   },
   {
+    "normalizedName": "california",
+    "opponent": "Oregon",
+    "normalizedOpponent": "oregon",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401309872,
     "season": 2021,
     "week": 7,
@@ -244,6 +274,11 @@
     "notes": null
   },
   {
+    "normalizedName": "california",
+    "opponent": "Colorado",
+    "normalizedOpponent": "colorado",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401309878,
     "season": 2021,
     "week": 8,
@@ -276,6 +311,11 @@
     "notes": null
   },
   {
+    "normalizedName": "california",
+    "opponent": "Oregon State",
+    "normalizedOpponent": "oregon-state",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401309882,
     "season": 2021,
     "week": 9,
@@ -308,6 +348,11 @@
     "notes": null
   },
   {
+    "normalizedName": "california",
+    "opponent": "Arizona",
+    "normalizedOpponent": "arizona",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401309889,
     "season": 2021,
     "week": 10,
@@ -340,6 +385,11 @@
     "notes": null
   },
   {
+    "normalizedName": "california",
+    "opponent": "USC",
+    "normalizedOpponent": "usc",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401309893,
     "season": 2021,
     "week": 11,
@@ -372,6 +422,11 @@
     "notes": null
   },
   {
+    "normalizedName": "california",
+    "opponent": "Stanford",
+    "normalizedOpponent": "stanford",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401309900,
     "season": 2021,
     "week": 12,
@@ -404,6 +459,11 @@
     "notes": null
   },
   {
+    "normalizedName": "california",
+    "opponent": "UCLA",
+    "normalizedOpponent": "ucla",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401309907,
     "season": 2021,
     "week": 13,

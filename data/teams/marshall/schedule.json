@@ -1,5 +1,10 @@
 [
   {
+    "normalizedName": "marshall",
+    "opponent": "Navy",
+    "normalizedOpponent": "navy",
+    "homeGame": false,
+    "winLoss": "W",
     "id": 401282174,
     "season": 2021,
     "week": 1,
@@ -42,6 +47,11 @@
     "notes": null
   },
   {
+    "normalizedName": "marshall",
+    "opponent": "North Carolina Central",
+    "normalizedOpponent": "north-carolina-central",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401282185,
     "season": 2021,
     "week": 2,
@@ -84,6 +94,11 @@
     "notes": null
   },
   {
+    "normalizedName": "marshall",
+    "opponent": "East Carolina",
+    "normalizedOpponent": "east-carolina",
+    "homeGame": true,
+    "winLoss": "L",
     "id": 401282200,
     "season": 2021,
     "week": 3,
@@ -126,6 +141,11 @@
     "notes": null
   },
   {
+    "normalizedName": "marshall",
+    "opponent": "Appalachian State",
+    "normalizedOpponent": "appalachian-state",
+    "homeGame": false,
+    "winLoss": "L",
     "id": 401282208,
     "season": 2021,
     "week": 4,
@@ -168,6 +188,11 @@
     "notes": null
   },
   {
+    "normalizedName": "marshall",
+    "opponent": "Middle Tennessee",
+    "normalizedOpponent": "middle-tennessee",
+    "homeGame": false,
+    "winLoss": "L",
     "id": 401282216,
     "season": 2021,
     "week": 5,
@@ -210,6 +235,11 @@
     "notes": null
   },
   {
+    "normalizedName": "marshall",
+    "opponent": "Old Dominion",
+    "normalizedOpponent": "old-dominion",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401282226,
     "season": 2021,
     "week": 6,
@@ -254,6 +284,11 @@
     "notes": null
   },
   {
+    "normalizedName": "marshall",
+    "opponent": "North Texas",
+    "normalizedOpponent": "north-texas",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401282231,
     "season": 2021,
     "week": 7,
@@ -286,6 +321,11 @@
     "notes": null
   },
   {
+    "normalizedName": "marshall",
+    "opponent": "Florida International",
+    "normalizedOpponent": "florida-international",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401282242,
     "season": 2021,
     "week": 9,
@@ -318,6 +358,11 @@
     "notes": null
   },
   {
+    "normalizedName": "marshall",
+    "opponent": "Florida Atlantic",
+    "normalizedOpponent": "florida-atlantic",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401282249,
     "season": 2021,
     "week": 10,
@@ -350,6 +395,11 @@
     "notes": null
   },
   {
+    "normalizedName": "marshall",
+    "opponent": "UAB",
+    "normalizedOpponent": "uab",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401282257,
     "season": 2021,
     "week": 11,
@@ -382,6 +432,11 @@
     "notes": null
   },
   {
+    "normalizedName": "marshall",
+    "opponent": "Charlotte",
+    "normalizedOpponent": "charlotte",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401282261,
     "season": 2021,
     "week": 12,
@@ -414,6 +469,11 @@
     "notes": null
   },
   {
+    "normalizedName": "marshall",
+    "opponent": "Western Kentucky",
+    "normalizedOpponent": "western-kentucky",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401282272,
     "season": 2021,
     "week": 13,

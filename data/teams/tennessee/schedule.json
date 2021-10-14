@@ -1,5 +1,10 @@
 [
   {
+    "normalizedName": "tennessee",
+    "opponent": "Bowling Green",
+    "normalizedOpponent": "bowling-green",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401281952,
     "season": 2021,
     "week": 1,
@@ -42,6 +47,11 @@
     "notes": null
   },
   {
+    "normalizedName": "tennessee",
+    "opponent": "Pittsburgh",
+    "normalizedOpponent": "pittsburgh",
+    "homeGame": true,
+    "winLoss": "L",
     "id": 401282066,
     "season": 2021,
     "week": 2,
@@ -84,6 +94,11 @@
     "notes": null
   },
   {
+    "normalizedName": "tennessee",
+    "opponent": "Tennessee Tech",
+    "normalizedOpponent": "tennessee-tech",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401282078,
     "season": 2021,
     "week": 3,
@@ -126,6 +141,11 @@
     "notes": null
   },
   {
+    "normalizedName": "tennessee",
+    "opponent": "Florida",
+    "normalizedOpponent": "florida",
+    "homeGame": false,
+    "winLoss": "L",
     "id": 401282084,
     "season": 2021,
     "week": 4,
@@ -168,6 +188,11 @@
     "notes": null
   },
   {
+    "normalizedName": "tennessee",
+    "opponent": "Missouri",
+    "normalizedOpponent": "missouri",
+    "homeGame": false,
+    "winLoss": "W",
     "id": 401282093,
     "season": 2021,
     "week": 5,
@@ -210,6 +235,11 @@
     "notes": null
   },
   {
+    "normalizedName": "tennessee",
+    "opponent": "South Carolina",
+    "normalizedOpponent": "south-carolina",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401282102,
     "season": 2021,
     "week": 6,
@@ -252,6 +282,11 @@
     "notes": null
   },
   {
+    "normalizedName": "tennessee",
+    "opponent": "Ole Miss",
+    "normalizedOpponent": "ole-miss",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401282110,
     "season": 2021,
     "week": 7,
@@ -284,12 +319,17 @@
     "notes": null
   },
   {
+    "normalizedName": "tennessee",
+    "opponent": "Alabama",
+    "normalizedOpponent": "alabama",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401282111,
     "season": 2021,
     "week": 8,
     "season_type": "regular",
-    "start_date": "2021-10-23T04:00:00.000Z",
-    "start_time_tbd": true,
+    "start_date": "2021-10-23T23:00:00.000Z",
+    "start_time_tbd": false,
     "neutral_site": false,
     "conference_game": true,
     "attendance": null,
@@ -316,6 +356,11 @@
     "notes": null
   },
   {
+    "normalizedName": "tennessee",
+    "opponent": "Kentucky",
+    "normalizedOpponent": "kentucky",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401282123,
     "season": 2021,
     "week": 10,
@@ -348,6 +393,11 @@
     "notes": null
   },
   {
+    "normalizedName": "tennessee",
+    "opponent": "Georgia",
+    "normalizedOpponent": "georgia",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401282133,
     "season": 2021,
     "week": 11,
@@ -380,6 +430,11 @@
     "notes": null
   },
   {
+    "normalizedName": "tennessee",
+    "opponent": "South Alabama",
+    "normalizedOpponent": "south-alabama",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401282143,
     "season": 2021,
     "week": 12,
@@ -412,6 +467,11 @@
     "notes": null
   },
   {
+    "normalizedName": "tennessee",
+    "opponent": "Vanderbilt",
+    "normalizedOpponent": "vanderbilt",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401282153,
     "season": 2021,
     "week": 13,

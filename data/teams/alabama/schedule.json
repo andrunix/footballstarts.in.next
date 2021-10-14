@@ -1,5 +1,10 @@
 [
   {
+    "normalizedName": "alabama",
+    "opponent": "Miami",
+    "normalizedOpponent": "miami",
+    "homeGame": false,
+    "winLoss": "W",
     "id": 401281942,
     "season": 2021,
     "week": 1,
@@ -42,6 +47,11 @@
     "notes": null
   },
   {
+    "normalizedName": "alabama",
+    "opponent": "Mercer",
+    "normalizedOpponent": "mercer",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401282056,
     "season": 2021,
     "week": 2,
@@ -84,6 +94,11 @@
     "notes": null
   },
   {
+    "normalizedName": "alabama",
+    "opponent": "Florida",
+    "normalizedOpponent": "florida",
+    "homeGame": false,
+    "winLoss": "W",
     "id": 401282071,
     "season": 2021,
     "week": 3,
@@ -126,6 +141,11 @@
     "notes": null
   },
   {
+    "normalizedName": "alabama",
+    "opponent": "Southern Mississippi",
+    "normalizedOpponent": "southern-mississippi",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401282081,
     "season": 2021,
     "week": 4,
@@ -168,6 +188,11 @@
     "notes": null
   },
   {
+    "normalizedName": "alabama",
+    "opponent": "Ole Miss",
+    "normalizedOpponent": "ole-miss",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401282089,
     "season": 2021,
     "week": 5,
@@ -210,6 +235,11 @@
     "notes": null
   },
   {
+    "normalizedName": "alabama",
+    "opponent": "Texas A&M",
+    "normalizedOpponent": "texas-a-m",
+    "homeGame": false,
+    "winLoss": "L",
     "id": 401282103,
     "season": 2021,
     "week": 6,
@@ -252,6 +282,11 @@
     "notes": null
   },
   {
+    "normalizedName": "alabama",
+    "opponent": "Mississippi State",
+    "normalizedOpponent": "mississippi-state",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401282107,
     "season": 2021,
     "week": 7,
@@ -284,12 +319,17 @@
     "notes": null
   },
   {
+    "normalizedName": "alabama",
+    "opponent": "Tennessee",
+    "normalizedOpponent": "tennessee",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401282111,
     "season": 2021,
     "week": 8,
     "season_type": "regular",
-    "start_date": "2021-10-23T04:00:00.000Z",
-    "start_time_tbd": true,
+    "start_date": "2021-10-23T23:00:00.000Z",
+    "start_time_tbd": false,
     "neutral_site": false,
     "conference_game": true,
     "attendance": null,
@@ -316,6 +356,11 @@
     "notes": null
   },
   {
+    "normalizedName": "alabama",
+    "opponent": "LSU",
+    "normalizedOpponent": "lsu",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401282120,
     "season": 2021,
     "week": 10,
@@ -348,6 +393,11 @@
     "notes": null
   },
   {
+    "normalizedName": "alabama",
+    "opponent": "New Mexico State",
+    "normalizedOpponent": "new-mexico-state",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401282127,
     "season": 2021,
     "week": 11,
@@ -380,6 +430,11 @@
     "notes": null
   },
   {
+    "normalizedName": "alabama",
+    "opponent": "Arkansas",
+    "normalizedOpponent": "arkansas",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401282135,
     "season": 2021,
     "week": 12,
@@ -412,6 +467,11 @@
     "notes": null
   },
   {
+    "normalizedName": "alabama",
+    "opponent": "Auburn",
+    "normalizedOpponent": "auburn",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401282146,
     "season": 2021,
     "week": 13,

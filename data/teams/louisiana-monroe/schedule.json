@@ -1,5 +1,10 @@
 [
   {
+    "normalizedName": "louisiana-monroe",
+    "opponent": "Kentucky",
+    "normalizedOpponent": "kentucky",
+    "homeGame": false,
+    "winLoss": "L",
     "id": 401281947,
     "season": 2021,
     "week": 1,
@@ -42,6 +47,11 @@
     "notes": null
   },
   {
+    "normalizedName": "louisiana-monroe",
+    "opponent": "Jackson State",
+    "normalizedOpponent": "jackson-state",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401309607,
     "season": 2021,
     "week": 3,
@@ -84,6 +94,11 @@
     "notes": null
   },
   {
+    "normalizedName": "louisiana-monroe",
+    "opponent": "Troy",
+    "normalizedOpponent": "troy",
+    "homeGame": true,
+    "winLoss": "W",
     "id": 401309611,
     "season": 2021,
     "week": 4,
@@ -126,6 +141,11 @@
     "notes": null
   },
   {
+    "normalizedName": "louisiana-monroe",
+    "opponent": "Coastal Carolina",
+    "normalizedOpponent": "coastal-carolina",
+    "homeGame": false,
+    "winLoss": "L",
     "id": 401309614,
     "season": 2021,
     "week": 5,
@@ -168,6 +188,11 @@
     "notes": null
   },
   {
+    "normalizedName": "louisiana-monroe",
+    "opponent": "Georgia State",
+    "normalizedOpponent": "georgia-state",
+    "homeGame": true,
+    "winLoss": "L",
     "id": 401309618,
     "season": 2021,
     "week": 6,
@@ -210,6 +235,11 @@
     "notes": null
   },
   {
+    "normalizedName": "louisiana-monroe",
+    "opponent": "Liberty",
+    "normalizedOpponent": "liberty",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401286296,
     "season": 2021,
     "week": 7,
@@ -242,6 +272,11 @@
     "notes": null
   },
   {
+    "normalizedName": "louisiana-monroe",
+    "opponent": "South Alabama",
+    "normalizedOpponent": "south-alabama",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401309626,
     "season": 2021,
     "week": 8,
@@ -274,6 +309,11 @@
     "notes": null
   },
   {
+    "normalizedName": "louisiana-monroe",
+    "opponent": "Appalachian State",
+    "normalizedOpponent": "appalachian-state",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401309628,
     "season": 2021,
     "week": 9,
@@ -291,7 +331,7 @@
     "home_points": null,
     "home_line_scores": null,
     "home_post_win_prob": null,
-    "home_pregame_elo": 1833,
+    "home_pregame_elo": 1758,
     "home_postgame_elo": null,
     "away_id": 2433,
     "away_team": "Louisiana Monroe",
@@ -306,6 +346,11 @@
     "notes": null
   },
   {
+    "normalizedName": "louisiana-monroe",
+    "opponent": "Texas State",
+    "normalizedOpponent": "texas-state",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401309635,
     "season": 2021,
     "week": 10,
@@ -338,6 +383,11 @@
     "notes": null
   },
   {
+    "normalizedName": "louisiana-monroe",
+    "opponent": "Arkansas State",
+    "normalizedOpponent": "arkansas-state",
+    "homeGame": true,
+    "winLoss": "",
     "id": 401309638,
     "season": 2021,
     "week": 11,
@@ -370,6 +420,11 @@
     "notes": null
   },
   {
+    "normalizedName": "louisiana-monroe",
+    "opponent": "LSU",
+    "normalizedOpponent": "lsu",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401282138,
     "season": 2021,
     "week": 12,
@@ -402,6 +457,11 @@
     "notes": null
   },
   {
+    "normalizedName": "louisiana-monroe",
+    "opponent": "Louisiana",
+    "normalizedOpponent": "louisiana",
+    "homeGame": false,
+    "winLoss": "",
     "id": 401309650,
     "season": 2021,
     "week": 13,
@@ -419,7 +479,7 @@
     "home_points": null,
     "home_line_scores": null,
     "home_post_win_prob": null,
-    "home_pregame_elo": 1743,
+    "home_pregame_elo": 1818,
     "home_postgame_elo": null,
     "away_id": 2433,
     "away_team": "Louisiana Monroe",
