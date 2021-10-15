@@ -1,3 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/*
 html {
   background: url(/images/background-2k.jpg) no-repeat center center fixed;
   -webkit-background-size: cover;
@@ -171,7 +176,6 @@ h2 {
   .welcome {
       padding: 10px 20px;
       width: 800px;
-      /* margin-top: 4px; */
   }
   .schedule {
       padding: 10px 20px;
@@ -179,4 +183,4 @@ h2 {
   }
 }
 
-            
+*/
