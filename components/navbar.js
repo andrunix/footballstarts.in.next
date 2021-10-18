@@ -1,30 +1,16 @@
-import { useState } from 'react';
-import style from "./navbar.module.css";
+import Autocomplete from './autocomplete.js';
 
 export default function Navbar() {
-  const [searchTeam, setState] = useState('');
-
-  const handler = (event) => {
-    setState(event.key);
-  };
-
   return (
-    <div className={style.navbar}>
-    <div className={style.col}>
-      <div>
-      ------- {searchTeam} ------
-        {/* This needs to be a separate component */}
-        <input type="text"
-              id="searchtext"
-              placeholder="team name" 
-              onKeyPress={(e) => handler(e)}
-              />
-              
+    <div className=" bg-blue-400 p-4 h-20 flex items-stretch place-content-center">
+
+      <div className="place-items-end align-middle">
+        <Autocomplete />
       </div>
-    </div>
-    <div className={style.col}>
-      .footballstarts.in
-    </div>
+      <div className="text-2xl">
+        .footballstarts.in
+      </div>
+
     </div>
   )
 }

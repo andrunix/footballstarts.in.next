@@ -2,6 +2,31 @@
 @tailwind components;
 @tailwind utilities;
 
+
+.autocomplete-items {
+  border: 1px solid #d4d4d4;
+  border-bottom: none;
+  border-top: none;
+  z-index: 9999;
+  top: 100%;
+  left: 0;
+  right: 0;
+  color: #999;
+  font-size: 1rem;
+}
+
+.autocomplete-items div {
+  padding: 10px;
+  cursor: pointer;
+  background-color: #fff;
+  border-bottom: 1px solid #d4d4d4;
+}
+
+.autocomplete-active {
+  background-color: dodgerblue;
+  color: #fff;
+}
+
 /*
 html {
   background: url(/images/background-2k.jpg) no-repeat center center fixed;

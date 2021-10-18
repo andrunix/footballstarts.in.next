@@ -1,5 +1,4 @@
 import Link from 'next/link';
-import styles from './schedule.module.css';
 
 const formatDate = (gameDate) => {
   const dt = new Date(gameDate);
@@ -9,8 +8,13 @@ const formatDate = (gameDate) => {
 export default function Schedule(props) {
 
   return (
-    <div className="container">
-      <table className={styles.teamSchedule}>
+    <>
+    <div className="bg-white px-20">
+      <h2 className="text-4xl font-bold border-b-2 text-blue-500">Schedule</h2>
+    </div>
+    <div className="bg-white flex justify-center">
+
+      <table className="">
         <thead>
           <tr>
             <th>Opponent</th>
@@ -25,16 +29,19 @@ export default function Schedule(props) {
             <tr key={game.id}>
               <td>
                 <Link href={`/teams/${game.normalizedOpponent}`}>
-                  <a>{(game.homeGame) ? game.opponent : '@' + game.opponent}</a>
+                  <a className="text-blue-600 hover:text-blue-900">{(game.homeGame) ? game.opponent : '@' + game.opponent}</a>
                 </Link>
                 </td>
               <td>{formatDate(game.start_date)}</td>
               <td>{(game.home_points) ? `${game.home_points} - ${game.away_points}` : ''}</td>
               <td>{game.winLoss}</td>
+    
             </tr>
           ))}
         </tbody>
       </table>
     </div>
+    </>
   )
 }
+

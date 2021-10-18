@@ -1,9 +1,12 @@
 import Image from 'next/image';
+import Link from 'next/link';
 import Layout from '../components/layout.js';
 import Countdown from '../components/countdown.js';
 import About from '../components/about.js';
+import UpcomingGames from '../components/upcominggames.js';
+
 import { getThisWeeksSchedule } from '../lib/schedule.js';
-import styles from '../styles/Home.module.css';
+import { getDaysUntilNextGame } from '../lib/dateUtils.js';
 
 export async function getStaticProps() {
   const schedule = getThisWeeksSchedule();
@@ -13,15 +16,14 @@ export async function getStaticProps() {
 }
 
 export default function Home({schedule}) {
+  const diffDays = getDaysUntilNextGame(schedule);
+
   return (
     <Layout>
-    <div className={styles.container}>
-      <Countdown />
-      <pre>
-        {schedule.map(t => t.team)}
-      </pre>
-
-    </div>
+      <div>
+        <Countdown days={diffDays}/>
+        <UpcomingGames schedule={schedule} />
+      </div>
       <About />
     </Layout>
   )
