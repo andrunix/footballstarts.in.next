@@ -1,0 +1,912 @@
+[
+  {
+    "name": "boston-college",
+    "values": [
+      "Boston College",
+      "Eagles (Boston College)"
+    ]
+  },
+  {
+    "name": "clemson",
+    "values": [
+      "Clemson",
+      "Tigers (Clemson)"
+    ]
+  },
+  {
+    "name": "duke",
+    "values": [
+      "Duke",
+      "Blue Devils (Duke)"
+    ]
+  },
+  {
+    "name": "florida-state",
+    "values": [
+      "Florida State",
+      "Seminoles (Florida State)"
+    ]
+  },
+  {
+    "name": "georgia-tech",
+    "values": [
+      "Georgia Tech",
+      "Yellow Jackets (Georgia Tech)"
+    ]
+  },
+  {
+    "name": "louisville",
+    "values": [
+      "Louisville",
+      "Cardinals (Louisville)"
+    ]
+  },
+  {
+    "name": "miami",
+    "values": [
+      "Miami",
+      "Hurricanes (Miami)"
+    ]
+  },
+  {
+    "name": "nc-state",
+    "values": [
+      "NC State",
+      "Wolfpack (NC State)"
+    ]
+  },
+  {
+    "name": "north-carolina",
+    "values": [
+      "North Carolina",
+      "Tar Heels (North Carolina)"
+    ]
+  },
+  {
+    "name": "pittsburgh",
+    "values": [
+      "Pittsburgh",
+      "Panthers (Pittsburgh)"
+    ]
+  },
+  {
+    "name": "syracuse",
+    "values": [
+      "Syracuse",
+      "Orange (Syracuse)"
+    ]
+  },
+  {
+    "name": "virginia",
+    "values": [
+      "Virginia",
+      "Cavaliers (Virginia)"
+    ]
+  },
+  {
+    "name": "virginia-tech",
+    "values": [
+      "Virginia Tech",
+      "Hokies (Virginia Tech)"
+    ]
+  },
+  {
+    "name": "wake-forest",
+    "values": [
+      "Wake Forest",
+      "Demon Deacons (Wake Forest)"
+    ]
+  },
+  {
+    "name": "baylor",
+    "values": [
+      "Baylor",
+      "Bears (Baylor)"
+    ]
+  },
+  {
+    "name": "iowa-state",
+    "values": [
+      "Iowa State",
+      "Cyclones (Iowa State)"
+    ]
+  },
+  {
+    "name": "kansas",
+    "values": [
+      "Kansas",
+      "Jayhawks (Kansas)"
+    ]
+  },
+  {
+    "name": "kansas-state",
+    "values": [
+      "Kansas State",
+      "Wildcats (Kansas State)"
+    ]
+  },
+  {
+    "name": "oklahoma",
+    "values": [
+      "Oklahoma",
+      "Sooners (Oklahoma)"
+    ]
+  },
+  {
+    "name": "oklahoma-state",
+    "values": [
+      "Oklahoma State",
+      "Cowboys (Oklahoma State)"
+    ]
+  },
+  {
+    "name": "tcu",
+    "values": [
+      "TCU",
+      "Horned Frogs (TCU)"
+    ]
+  },
+  {
+    "name": "texas",
+    "values": [
+      "Texas",
+      "Longhorns (Texas)"
+    ]
+  },
+  {
+    "name": "texas-tech",
+    "values": [
+      "Texas Tech",
+      "Red Raiders (Texas Tech)"
+    ]
+  },
+  {
+    "name": "west-virginia",
+    "values": [
+      "West Virginia",
+      "Mountaineers (West Virginia)"
+    ]
+  },
+  {
+    "name": "illinois",
+    "values": [
+      "Illinois",
+      "Fighting Illini (Illinois)"
+    ]
+  },
+  {
+    "name": "indiana",
+    "values": [
+      "Indiana",
+      "Hoosiers (Indiana)"
+    ]
+  },
+  {
+    "name": "iowa",
+    "values": [
+      "Iowa",
+      "Hawkeyes (Iowa)"
+    ]
+  },
+  {
+    "name": "maryland",
+    "values": [
+      "Maryland",
+      "Terrapins (Maryland)"
+    ]
+  },
+  {
+    "name": "michigan",
+    "values": [
+      "Michigan",
+      "Wolverines (Michigan)"
+    ]
+  },
+  {
+    "name": "michigan-state",
+    "values": [
+      "Michigan State",
+      "Spartans (Michigan State)"
+    ]
+  },
+  {
+    "name": "minnesota",
+    "values": [
+      "Minnesota",
+      "Golden Gophers (Minnesota)"
+    ]
+  },
+  {
+    "name": "nebraska",
+    "values": [
+      "Nebraska",
+      "Cornhuskers (Nebraska)"
+    ]
+  },
+  {
+    "name": "northwestern",
+    "values": [
+      "Northwestern",
+      "Wildcats (Northwestern)"
+    ]
+  },
+  {
+    "name": "ohio-state",
+    "values": [
+      "Ohio State",
+      "Buckeyes (Ohio State)"
+    ]
+  },
+  {
+    "name": "penn-state",
+    "values": [
+      "Penn State",
+      "Nittany Lions (Penn State)"
+    ]
+  },
+  {
+    "name": "purdue",
+    "values": [
+      "Purdue",
+      "Boilermakers (Purdue)"
+    ]
+  },
+  {
+    "name": "rutgers",
+    "values": [
+      "Rutgers",
+      "Scarlet Knights (Rutgers)"
+    ]
+  },
+  {
+    "name": "wisconsin",
+    "values": [
+      "Wisconsin",
+      "Badgers (Wisconsin)"
+    ]
+  },
+  {
+    "name": "alabama",
+    "values": [
+      "Alabama",
+      "Crimson Tide (Alabama)"
+    ]
+  },
+  {
+    "name": "arkansas",
+    "values": [
+      "Arkansas",
+      "Razorbacks (Arkansas)"
+    ]
+  },
+  {
+    "name": "auburn",
+    "values": [
+      "Auburn",
+      "Tigers (Auburn)"
+    ]
+  },
+  {
+    "name": "florida",
+    "values": [
+      "Florida",
+      "Gators (Florida)"
+    ]
+  },
+  {
+    "name": "georgia",
+    "values": [
+      "Georgia",
+      "Bulldogs (Georgia)"
+    ]
+  },
+  {
+    "name": "kentucky",
+    "values": [
+      "Kentucky",
+      "Wildcats (Kentucky)"
+    ]
+  },
+  {
+    "name": "lsu",
+    "values": [
+      "LSU",
+      "Tigers (LSU)"
+    ]
+  },
+  {
+    "name": "mississippi-state",
+    "values": [
+      "Mississippi State",
+      "Bulldogs (Mississippi State)"
+    ]
+  },
+  {
+    "name": "missouri",
+    "values": [
+      "Missouri",
+      "Tigers (Missouri)"
+    ]
+  },
+  {
+    "name": "ole-miss",
+    "values": [
+      "Ole Miss",
+      "Rebels (Ole Miss)"
+    ]
+  },
+  {
+    "name": "south-carolina",
+    "values": [
+      "South Carolina",
+      "Gamecocks (South Carolina)"
+    ]
+  },
+  {
+    "name": "tennessee",
+    "values": [
+      "Tennessee",
+      "Volunteers (Tennessee)"
+    ]
+  },
+  {
+    "name": "texas-a-m",
+    "values": [
+      "Texas A&M",
+      "Aggies (Texas A&M)"
+    ]
+  },
+  {
+    "name": "vanderbilt",
+    "values": [
+      "Vanderbilt",
+      "Commodores (Vanderbilt)"
+    ]
+  },
+  {
+    "name": "arizona",
+    "values": [
+      "Arizona",
+      "Wildcats (Arizona)"
+    ]
+  },
+  {
+    "name": "arizona-state",
+    "values": [
+      "Arizona State",
+      "Sun Devils (Arizona State)"
+    ]
+  },
+  {
+    "name": "california",
+    "values": [
+      "California",
+      "Golden Bears (California)"
+    ]
+  },
+  {
+    "name": "colorado",
+    "values": [
+      "Colorado",
+      "Buffaloes (Colorado)"
+    ]
+  },
+  {
+    "name": "oregon",
+    "values": [
+      "Oregon",
+      "Ducks (Oregon)"
+    ]
+  },
+  {
+    "name": "oregon-state",
+    "values": [
+      "Oregon State",
+      "Beavers (Oregon State)"
+    ]
+  },
+  {
+    "name": "stanford",
+    "values": [
+      "Stanford",
+      "Cardinal (Stanford)"
+    ]
+  },
+  {
+    "name": "ucla",
+    "values": [
+      "UCLA",
+      "Bruins (UCLA)"
+    ]
+  },
+  {
+    "name": "usc",
+    "values": [
+      "USC",
+      "Trojans (USC)"
+    ]
+  },
+  {
+    "name": "utah",
+    "values": [
+      "Utah",
+      "Utes (Utah)"
+    ]
+  },
+  {
+    "name": "washington",
+    "values": [
+      "Washington",
+      "Huskies (Washington)"
+    ]
+  },
+  {
+    "name": "washington-state",
+    "values": [
+      "Washington State",
+      "Cougars (Washington State)"
+    ]
+  },
+  {
+    "name": "charlotte",
+    "values": [
+      "Charlotte",
+      "49ers (Charlotte)"
+    ]
+  },
+  {
+    "name": "florida-atlantic",
+    "values": [
+      "Florida Atlantic",
+      "Owls (Florida Atlantic)"
+    ]
+  },
+  {
+    "name": "florida-international",
+    "values": [
+      "Florida International",
+      "Golden Panthers (Florida International)"
+    ]
+  },
+  {
+    "name": "louisiana-tech",
+    "values": [
+      "Louisiana Tech",
+      "Bulldogs (Louisiana Tech)"
+    ]
+  },
+  {
+    "name": "marshall",
+    "values": [
+      "Marshall",
+      "Thundering Herd (Marshall)"
+    ]
+  },
+  {
+    "name": "middle-tennessee",
+    "values": [
+      "Middle Tennessee",
+      "Blue Raiders (Middle Tennessee)"
+    ]
+  },
+  {
+    "name": "north-texas",
+    "values": [
+      "North Texas",
+      "Mean Green (North Texas)"
+    ]
+  },
+  {
+    "name": "old-dominion",
+    "values": [
+      "Old Dominion",
+      "Monarchs (Old Dominion)"
+    ]
+  },
+  {
+    "name": "rice",
+    "values": [
+      "Rice",
+      "Owls (Rice)"
+    ]
+  },
+  {
+    "name": "southern-mississippi",
+    "values": [
+      "Southern Mississippi",
+      "Golden Eagles (Southern Mississippi)"
+    ]
+  },
+  {
+    "name": "uab",
+    "values": [
+      "UAB",
+      "Blazers (UAB)"
+    ]
+  },
+  {
+    "name": "utep",
+    "values": [
+      "UTEP",
+      "Miners (UTEP)"
+    ]
+  },
+  {
+    "name": "ut-san-antonio",
+    "values": [
+      "UT San Antonio",
+      "Roadrunners (UT San Antonio)"
+    ]
+  },
+  {
+    "name": "western-kentucky",
+    "values": [
+      "Western Kentucky",
+      "Hilltoppers (Western Kentucky)"
+    ]
+  },
+  {
+    "name": "akron",
+    "values": [
+      "Akron",
+      "Zips (Akron)"
+    ]
+  },
+  {
+    "name": "ball-state",
+    "values": [
+      "Ball State",
+      "Cardinals (Ball State)"
+    ]
+  },
+  {
+    "name": "bowling-green",
+    "values": [
+      "Bowling Green",
+      "Falcons (Bowling Green)"
+    ]
+  },
+  {
+    "name": "buffalo",
+    "values": [
+      "Buffalo",
+      "Bulls (Buffalo)"
+    ]
+  },
+  {
+    "name": "central-michigan",
+    "values": [
+      "Central Michigan",
+      "Chippewas (Central Michigan)"
+    ]
+  },
+  {
+    "name": "eastern-michigan",
+    "values": [
+      "Eastern Michigan",
+      "Eagles (Eastern Michigan)"
+    ]
+  },
+  {
+    "name": "kent-state",
+    "values": [
+      "Kent State",
+      "Golden Flashes (Kent State)"
+    ]
+  },
+  {
+    "name": "miami-oh",
+    "values": [
+      "Miami (OH)",
+      "RedHawks (Miami (OH))"
+    ]
+  },
+  {
+    "name": "northern-illinois",
+    "values": [
+      "Northern Illinois",
+      "Huskies (Northern Illinois)"
+    ]
+  },
+  {
+    "name": "ohio",
+    "values": [
+      "Ohio",
+      "Bobcats (Ohio)"
+    ]
+  },
+  {
+    "name": "toledo",
+    "values": [
+      "Toledo",
+      "Rockets (Toledo)"
+    ]
+  },
+  {
+    "name": "western-michigan",
+    "values": [
+      "Western Michigan",
+      "Broncos (Western Michigan)"
+    ]
+  },
+  {
+    "name": "air-force",
+    "values": [
+      "Air Force",
+      "Falcons (Air Force)"
+    ]
+  },
+  {
+    "name": "boise-state",
+    "values": [
+      "Boise State",
+      "Broncos (Boise State)"
+    ]
+  },
+  {
+    "name": "colorado-state",
+    "values": [
+      "Colorado State",
+      "Rams (Colorado State)"
+    ]
+  },
+  {
+    "name": "fresno-state",
+    "values": [
+      "Fresno State",
+      "Bulldogs (Fresno State)"
+    ]
+  },
+  {
+    "name": "hawaii",
+    "values": [
+      "Hawai'i",
+      "Rainbow Warriors (Hawai'i)"
+    ]
+  },
+  {
+    "name": "nevada",
+    "values": [
+      "Nevada",
+      "Wolf Pack (Nevada)"
+    ]
+  },
+  {
+    "name": "new-mexico",
+    "values": [
+      "New Mexico",
+      "Lobos (New Mexico)"
+    ]
+  },
+  {
+    "name": "san-diego-state",
+    "values": [
+      "San Diego State",
+      "Aztecs (San Diego State)"
+    ]
+  },
+  {
+    "name": "san-jose-state",
+    "values": [
+      "San José State",
+      "Spartans (San José State)"
+    ]
+  },
+  {
+    "name": "unlv",
+    "values": [
+      "UNLV",
+      "Rebels (UNLV)"
+    ]
+  },
+  {
+    "name": "utah-state",
+    "values": [
+      "Utah State",
+      "Aggies (Utah State)"
+    ]
+  },
+  {
+    "name": "wyoming",
+    "values": [
+      "Wyoming",
+      "Cowboys (Wyoming)"
+    ]
+  },
+  {
+    "name": "army",
+    "values": [
+      "Army",
+      "Black Knights (Army)"
+    ]
+  },
+  {
+    "name": "byu",
+    "values": [
+      "BYU",
+      "Cougars (BYU)"
+    ]
+  },
+  {
+    "name": "liberty",
+    "values": [
+      "Liberty",
+      "Flames (Liberty)"
+    ]
+  },
+  {
+    "name": "new-mexico-state",
+    "values": [
+      "New Mexico State",
+      "Aggies (New Mexico State)"
+    ]
+  },
+  {
+    "name": "notre-dame",
+    "values": [
+      "Notre Dame",
+      "Fighting Irish (Notre Dame)"
+    ]
+  },
+  {
+    "name": "umass",
+    "values": [
+      "UMass",
+      "Minutemen (UMass)"
+    ]
+  },
+  {
+    "name": "appalachian-state",
+    "values": [
+      "Appalachian State",
+      "Mountaineers (Appalachian State)"
+    ]
+  },
+  {
+    "name": "arkansas-state",
+    "values": [
+      "Arkansas State",
+      "Red Wolves (Arkansas State)"
+    ]
+  },
+  {
+    "name": "coastal-carolina",
+    "values": [
+      "Coastal Carolina",
+      "Chanticleers (Coastal Carolina)"
+    ]
+  },
+  {
+    "name": "georgia-southern",
+    "values": [
+      "Georgia Southern",
+      "Eagles (Georgia Southern)"
+    ]
+  },
+  {
+    "name": "georgia-state",
+    "values": [
+      "Georgia State",
+      "Panthers (Georgia State)"
+    ]
+  },
+  {
+    "name": "louisiana",
+    "values": [
+      "Louisiana",
+      "Ragin' Cajuns (Louisiana)"
+    ]
+  },
+  {
+    "name": "louisiana-monroe",
+    "values": [
+      "Louisiana Monroe",
+      "Warhawks (Louisiana Monroe)"
+    ]
+  },
+  {
+    "name": "south-alabama",
+    "values": [
+      "South Alabama",
+      "Jaguars (South Alabama)"
+    ]
+  },
+  {
+    "name": "texas-state",
+    "values": [
+      "Texas State",
+      "Bobcats (Texas State)"
+    ]
+  },
+  {
+    "name": "troy",
+    "values": [
+      "Troy",
+      "Trojans (Troy)"
+    ]
+  },
+  {
+    "name": "cincinnati",
+    "values": [
+      "Cincinnati",
+      "Bearcats (Cincinnati)"
+    ]
+  },
+  {
+    "name": "connecticut",
+    "values": [
+      "Connecticut",
+      "Huskies (Connecticut)"
+    ]
+  },
+  {
+    "name": "east-carolina",
+    "values": [
+      "East Carolina",
+      "Pirates (East Carolina)"
+    ]
+  },
+  {
+    "name": "houston",
+    "values": [
+      "Houston",
+      "Cougars (Houston)"
+    ]
+  },
+  {
+    "name": "memphis",
+    "values": [
+      "Memphis",
+      "Tigers (Memphis)"
+    ]
+  },
+  {
+    "name": "navy",
+    "values": [
+      "Navy",
+      "Midshipmen (Navy)"
+    ]
+  },
+  {
+    "name": "smu",
+    "values": [
+      "SMU",
+      "Mustangs (SMU)"
+    ]
+  },
+  {
+    "name": "south-florida",
+    "values": [
+      "South Florida",
+      "Bulls (South Florida)"
+    ]
+  },
+  {
+    "name": "temple",
+    "values": [
+      "Temple",
+      "Owls (Temple)"
+    ]
+  },
+  {
+    "name": "tulane",
+    "values": [
+      "Tulane",
+      "Green Wave (Tulane)"
+    ]
+  },
+  {
+    "name": "tulsa",
+    "values": [
+      "Tulsa",
+      "Golden Hurricane (Tulsa)"
+    ]
+  },
+  {
+    "name": "ucf",
+    "values": [
+      "UCF",
+      "Knights (UCF)"
+    ]
+  }
+]

@@ -19,15 +19,14 @@ export default function Autocomplete() {
 
   const itemClicked = (event) => {
     console.log('Clicked item: ', event.target.getAttribute('data-name'));
-    
-  }
+  };
 
 
   const handleSubmit = () => {
     console.log('Searching for ', searchTeam);
-  }
+  };
 
-  const handler = (event) => {
+  const handleInput = (event) => {
     console.log('event.code', event);
 
     // do some handling of the enter, backspace, etc here....
@@ -45,18 +44,17 @@ export default function Autocomplete() {
         setSearchMatches(matches);
       }
     }
-  }
+  };
 
   return (
     <>
       <input type="text" className="text-xl align-right"
         id="searchtext"
         placeholder="team name"  
-        onInput={(e) => handler(e)}
+        onInput={(e) => handleInput(e)}
         />
         <div id="searchtextautocomplete-list" className="autocomplete-items" >
           
-
           {searchMatches.map((match) => (
             match.values.map((val) => (
             <div key={val} data-name={match.name} onClick={(e) => itemClicked(e)}>
@@ -66,7 +64,6 @@ export default function Autocomplete() {
           ))}
         </div>
       </>
-  )
-
+  );
 }
 
