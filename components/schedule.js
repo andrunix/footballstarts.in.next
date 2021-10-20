@@ -6,25 +6,23 @@ const formatDate = (gameDate) => {
 }
 
 export default function Schedule(props) {
-
   return (
     <>
-    <div className="bg-white px-20">
-      <h2 className="text-4xl font-bold border-b-2 text-blue-500">Schedule</h2>
+    <div className="bg-white px-4 py-2">
+      <h2 className="text-2xl font-bold border-b-2 text-blue-500">Schedule</h2>
     </div>
-    <div className="bg-white flex justify-center">
 
-      <table className="">
+    <div className="bg-white px-4">
+      <table className="table-fixed">
         <thead>
           <tr>
-            <th>Opponent</th>
-            <th>Date</th>
-            <th>Score</th>
-            <th>&nbsp;</th>
+            <th className="w-1/2">Opponent</th>
+            <th className="w-1/6">Date</th>
+            <th className="w-1/6">Score</th>
+            <th className="w-1/6">&nbsp;</th>
           </tr>
         </thead>
         <tbody>
-
           {props.schedule.map((game) => (
             <tr key={game.id}>
               <td>
