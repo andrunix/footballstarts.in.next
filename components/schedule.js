@@ -34,8 +34,7 @@ export default function Schedule(props) {
                 </td>
               <td>{formatDate(game.start_date)}</td>
               <td>{(game.home_points) ? `${game.home_points} - ${game.away_points}` : ''}</td>
-              <td>{game.winLoss}</td>
-    
+              <td className={`${game.winLoss}`}>{game.winLoss}</td>
             </tr>
           ))}
         </tbody>
