@@ -1,6 +1,5 @@
 import Head from 'next/head';
 import Navbar from './navbar.js';
-// import styles from './layout.module.css';
 
 export default function Layout ({children}) {
   return (
@@ -11,19 +10,17 @@ export default function Layout ({children}) {
         <meta name="description" content="I want to know when the next college football game is." />
         <link rel="icon" href="/favicon.ico" />
       </Head>
+      <Navbar/>
       <div className="bg-hero-pattern w-full h-full bg-no-repeat bg-cover">
-        <Navbar/>
-
-        <div className="px-8 py-4">
+        <div className="p-2">
           {children}
         </div>
-
-        <footer className="bg-gray-200 p-4">
-          <a href="https://xoso.io" target="_blank" rel="noopener noreferrer">
-            Powered by xoso.io
-          </a>
-        </footer>
       </div>
+      <footer className="bg-gray-200 p-4 bg-transparent">
+        <a href="https://xoso.io" target="_blank" rel="noopener noreferrer">
+          &copy; 2019-2021, xoso
+        </a>
+      </footer>
     </>
   )
 };

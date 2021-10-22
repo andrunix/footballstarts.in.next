@@ -7,10 +7,12 @@ export default function UpcomingGames({schedule}) {
   const firstDate = schedule[0].start_date;
 
   return (
-    <div className="bg-blue-50 px-20 m-20">
-      <h2 className="text-4xl font-bold border-b-2 text-blue-500">Upcoming games</h2>
-
-      <div className="p-20 bg-blue-900 grid grid-cols-3 rounded-lg drop-shadow-lg">
+    <>
+    <div className="bg-white px-4 py-2">
+      <h2 className="text-2xl font-bold border-b-2 text-blue-500">Upcoming games</h2>
+    </div>
+    <div className="bg-white px-4">
+      <div className="px-4 py-6 bg-blue-400 text-white grid grid-cols-3 rounded-md drop-shadow-lg">
         {schedule.filter(game => game.start_date <= firstDate).map(game => (
           <>
           <div key={game.team}>
@@ -20,7 +22,7 @@ export default function UpcomingGames({schedule}) {
           </div>
           <div>
             <Link href={`/teams/${normalizeName(game.away_team)}`}>
-              <a className="text-blue-600 hover:text-blue-900">{game.away_team}</a>
+              <a className="text-white hover:text-blue-50">{game.away_team}</a>
             </Link>
           </div>
           <div>{formatDate(game.start_date)}</div>
@@ -28,5 +30,6 @@ export default function UpcomingGames({schedule}) {
         ))}
       </div>
     </div>
+    </>
   )
 }
