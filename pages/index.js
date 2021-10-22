@@ -20,10 +20,8 @@ export default function Home({schedule}) {
 
   return (
     <Layout>
-      <div>
-        <Countdown days={diffDays}/>
-        <UpcomingGames schedule={schedule} />
-      </div>
+      <Countdown days={diffDays}/>
+      <UpcomingGames schedule={schedule} />
       <About />
     </Layout>
   )

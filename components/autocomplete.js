@@ -1058,14 +1058,8 @@ export default function Autocomplete() {
   };
 
   const itemClicked = (event) => {
-    console.log('Clicked item: ', event.target.getAttribute('data-name'));
     const team = event.target.getAttribute('data-name');
     window.location.href = `${window.location.origin}/teams/${team}`;
-  };
-
-
-  const handleSubmit = () => {
-    console.log('Searching for ', searchTeam);
   };
 
   const handleInput = (event) => {
@@ -1080,11 +1074,6 @@ export default function Autocomplete() {
   };
   
   const handleKeyDown = (event) => {
-    console.log(event.keyCode);
-
-    if (searchMatches.length) {
-      console.log('searchMatches 0: ', searchMatches[0]);
-    }
     if (event.keyCode == 40) {
         setCurrentFocus(currentFocus + 1);
     } else if (event.keyCode == 38) { //up
@@ -1095,7 +1084,6 @@ export default function Autocomplete() {
         // If the ENTER key is pressed, prevent the form from being submitted
         event.preventDefault();
         if (currentFocus > -1) {
-          console.log(`Selected item: `, searchMatches[currentFocus])
           const url = `${window.location.origin}/teams/${searchMatches[currentFocus].name}`;
           document.location = url;
         }

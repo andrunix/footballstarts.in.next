@@ -27,10 +27,10 @@ export default function Team({teamSchedule}) {
 
   return (
       <Layout>
-        <>
+        <div className="max-w-md mx-auto sm:max-w-xl">
           <Countdown team={teamSchedule.team} days={diffDays}/>
           <Schedule {...teamSchedule} />
-        </>
+        </div>
       </Layout>
     )
 }
