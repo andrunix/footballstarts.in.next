@@ -1,7 +1,20 @@
 import Link from 'next/link';
 import { formatDate, formatTime } from '../lib/dateUtils.js';
 
-export default function Schedule(props) {
+const findNextGame = (sched) => {
+  let nextId = 0;
+  const now = new Date();
+  const nextGames = sched.filter(g => new Date(g.start_date) > now);
+  if (nextGames.length) {
+    nextId = nextGames[0].id;
+  }
+  return nextId;
+};
+
+export default function Schedule({schedule}) {
+
+  const nextGame = findNextGame(schedule);
+  
   return (
     <div className="bg-white pb-2 rounded-b-md sm:px-4">
       <div className="bg-white px-4 py-2">
@@ -20,8 +33,8 @@ export default function Schedule(props) {
             </tr>
           </thead>
           <tbody>
-            {props.schedule.map((game) => (
-              <tr key={game.id}>
+            {schedule.map((game) => (
+              <tr key={game.id} className={game.id === nextGame ? "bg-green-100 border border-green-400" : ""}>
                 <td>
                   <Link href={`/teams/${game.normalizedOpponent}`}>
                     <a className="text-blue-600 hover:text-blue-900">{(game.homeGame) ? game.opponent : '@' + game.opponent}</a>

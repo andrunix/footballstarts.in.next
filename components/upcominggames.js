@@ -13,17 +13,17 @@ export default function UpcomingGames({schedule}) {
       <div className="px-4 py-6 bg-blue-500 text-white grid grid-cols-3 rounded-md drop-shadow-xl">
         {schedule.filter(game => new Date(game.start_date).getTime() >= now).map(game => (
           <>
-          <div>
-            <Link href={`/teams/${normalizeName(game.home_team)}`}>
-              <a className="text-white hover:text-blue-50">{game.home_team}</a>
-            </Link>
-          </div>
-          <div>
-            <Link href={`/teams/${normalizeName(game.away_team)}`}>
-              <a className="text-white hover:text-blue-50">{game.away_team}</a>
-            </Link>
-          </div>
-          <div>{formatDate(game.start_date)}</div>
+            <div>
+              <Link href={`/teams/${normalizeName(game.home_team)}`}>
+                <a className="text-white hover:text-blue-50">{game.home_team}</a>
+              </Link>
+            </div>
+            <div>
+              <Link href={`/teams/${normalizeName(game.away_team)}`}>
+                <a className="text-white hover:text-blue-50">{game.away_team}</a>
+              </Link>
+            </div>
+            <div>{formatDate(game.start_date, false, true)}</div>
           </>
         ))}
       </div>
