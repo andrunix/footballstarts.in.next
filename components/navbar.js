@@ -1,3 +1,4 @@
+import Link from 'next/link';
 import Autocomplete from './autocomplete.js';
 
 export default function Navbar() {
@@ -7,8 +8,10 @@ export default function Navbar() {
         <Autocomplete />
       </div>
       <div className="invisible sm:visible text-xl tracking-wider p-2 pt-4 place-self-stretch">
-        .footballstarts.in
+        <Link href="/">
+          <a>.footballstarts.in</a>
+        </Link>
       </div>
     </div>
-  )
+  );
 }
