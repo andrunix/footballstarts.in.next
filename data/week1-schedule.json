@@ -1,15 +1,5 @@
 [
   {
-    "start_date": "2021-10-28T23:30:00.000Z",
-    "home_team": "Coastal Carolina",
-    "away_team": "Troy"
-  },
-  {
-    "start_date": "2021-10-28T23:30:00.000Z",
-    "home_team": "East Carolina",
-    "away_team": "South Florida"
-  },
-  {
     "start_date": "2021-10-29T23:30:00.000Z",
     "home_team": "Tulsa",
     "away_team": "Navy"
@@ -265,18 +255,28 @@
     "away_team": "Fresno State"
   },
   {
-    "start_date": "2021-11-02T04:00:00.000Z",
+    "start_date": "2021-11-02T23:00:00.000Z",
     "home_team": "Akron",
     "away_team": "Ball State"
   },
   {
-    "start_date": "2021-11-02T04:00:00.000Z",
+    "start_date": "2021-11-02T23:30:00.000Z",
     "home_team": "Ohio",
     "away_team": "Miami (OH)"
   },
   {
-    "start_date": "2021-11-02T04:00:00.000Z",
+    "start_date": "2021-11-02T23:30:00.000Z",
     "home_team": "Toledo",
     "away_team": "Eastern Michigan"
+  },
+  {
+    "start_date": "2021-11-03T23:00:00.000Z",
+    "home_team": "Kent State",
+    "away_team": "Northern Illinois"
+  },
+  {
+    "start_date": "2021-11-03T23:00:00.000Z",
+    "home_team": "Western Michigan",
+    "away_team": "Central Michigan"
   }
 ]
