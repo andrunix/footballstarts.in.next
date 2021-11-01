@@ -53,6 +53,16 @@
     font-weight: bold;
     color: #900000;
   }
+
+  .teamlogo img {
+      display: inline;
+      width: 35px;
+      padding: 4px;
+  }
+
+  .teamlogo a {
+      font-size: 1.25rem;
+  }
 }
 
 
