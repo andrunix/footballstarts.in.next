@@ -1088,11 +1088,11 @@ export default function Autocomplete() {
           document.location = url;
         }
     }
-  }
+  };
 
   return (
     <>
-      <input type="text" className="text-xl text-gray-800 -p2 rounded-md"
+      <input type="text" className="md:text-lg text-gray-800 rounded-sm"
         id="searchtext"
         placeholder="team name"  
         onInput={(e) => handleInput(e)}

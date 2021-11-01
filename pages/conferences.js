@@ -18,14 +18,14 @@ export default function Conferences({conferences}) {
   return (
     <Layout>
       <div className="max-w-md mx-auto sm:max-w-xl">
-        <div className="bg-white pb-2 rounded-b-md sm:px-4">
+        <div className="bg-white pb-2 rounded-md sm:px-4">
           <div className="bg-white px-4 py-2">
             <h2 className="text-2xl font-bold border-b-2 text-blue-500">Conferences</h2>
           </div>
 
-          <div className="bg-white px-1 md:px-4">
+          <div className="bg-white px-1 md:px-4 flex-wrap text-xl">
             {conferences.conferences.map((conf) => (
-              <div key={conf.id}>
+              <div className="hover:bg-blue-100 p-2 m-2  border border-gray-200 rounded-sm" key={conf.id}>
                 <Link href={`/conference/${conf.abbreviation.toLowerCase()}`}>
                   <a>{conf.short_name}</a>
                 </Link>

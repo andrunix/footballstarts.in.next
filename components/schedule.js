@@ -22,7 +22,7 @@ export default function Schedule({schedule}) {
       </div>
 
       <div className="bg-white px-1 md:px-4">
-        <table className="table-fixed">
+        <table className="table-fixed text-xl">
           <thead>
             <tr>
               <th className="w-1/3 text-left">Opponent</th>
@@ -34,7 +34,7 @@ export default function Schedule({schedule}) {
           </thead>
           <tbody>
             {schedule.map((game) => (
-              <tr key={game.id} className={game.id === nextGame ? "bg-green-100 border border-green-400" : ""}>
+              <tr key={game.id} className={game.id === nextGame ? "bg-green-100 border border-green-400" : "border-t"}>
                 <td>
                   <Link href={`/teams/${game.normalizedOpponent}`}>
                     <a className="text-blue-600 hover:text-blue-900">{(game.homeGame) ? game.opponent : '@' + game.opponent}</a>

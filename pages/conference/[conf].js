@@ -34,9 +34,9 @@ export default function Conference({teams, conference}) {
             <h2 className="text-2xl font-bold border-b-2 text-blue-500">{conference.short_name}</h2>
           </div>
 
-          <div className="bg-white px-1 md:px-4">
-        {teams.map((team) => (
-          <div className="teamlogo">
+          <div className="bg-white px-1 md:px-4 flex-row">
+            {teams.map((team) => (
+              <div className="teamlogo hover:bg-blue-100 m-2 border border-gray-200 rounded-sm">
             <img src={team.logos[0]}/>
             <Link href={`/teams/${team.normalizedName}`}>
               <a>{team.school}</a>
