@@ -12,7 +12,7 @@ export default function UpcomingGames({schedule}) {
     <div className="bg-white px-4">
       <div className="px-4 py-6 flex-row rounded-md drop-shadow-xl">
         {schedule.filter(game => new Date(game.start_date).getTime() >= now).map(game => (
-          <div className="m-2 p-2 hover:bg-blue-100 border rounded-sm">
+          <div key={game.id} className="m-2 p-2 hover:bg-blue-100 border rounded-sm">
             <div className="inline-block flex-none w-1/3 p-2">
               <Link href={`/teams/${normalizeName(game.home_team)}`}>
                 <a className="text-blue-500 hover:text-blue-400">{game.home_team}</a>
