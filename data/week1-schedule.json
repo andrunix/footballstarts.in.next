@@ -40,16 +40,6 @@
     "away_team": "Utah"
   },
   {
-    "start_date": "2021-11-06T04:00:00.000Z",
-    "home_team": "Iowa State",
-    "away_team": "Texas"
-  },
-  {
-    "start_date": "2021-11-06T04:00:00.000Z",
-    "home_team": "Hawai'i",
-    "away_team": "San Diego State"
-  },
-  {
     "start_date": "2021-11-06T15:30:00.000Z",
     "home_team": "Air Force",
     "away_team": "Army"
@@ -271,6 +261,11 @@
   },
   {
     "start_date": "2021-11-06T23:30:00.000Z",
+    "home_team": "Iowa State",
+    "away_team": "Texas"
+  },
+  {
+    "start_date": "2021-11-06T23:30:00.000Z",
     "home_team": "Michigan",
     "away_team": "Indiana"
   },
@@ -303,5 +298,20 @@
     "start_date": "2021-11-07T02:30:00.000Z",
     "home_team": "Arizona State",
     "away_team": "USC"
+  },
+  {
+    "start_date": "2021-11-07T03:00:00.000Z",
+    "home_team": "Hawai'i",
+    "away_team": "San Diego State"
+  },
+  {
+    "start_date": "2021-11-09T05:00:00.000Z",
+    "home_team": "Eastern Michigan",
+    "away_team": "Ohio"
+  },
+  {
+    "start_date": "2021-11-09T05:00:00.000Z",
+    "home_team": "Miami (OH)",
+    "away_team": "Buffalo"
   }
 ]

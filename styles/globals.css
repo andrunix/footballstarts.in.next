@@ -3,6 +3,7 @@
 @tailwind utilities;
 
 @layer base {
+   /* body { @apply flex flex-col min-h-screen } */
 
   .autocomplete-items {
     position:relative;
@@ -63,6 +64,14 @@
   .teamlogo a {
       font-size: 1.25rem;
   }
+}
+
+html { 
+  background: url(/images/background-2k.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 
 
