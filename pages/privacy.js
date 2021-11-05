@@ -91,7 +91,7 @@ export default function Privacy() {
           when you link to other websites you should read their own privacy policies.
         </div>
 
-        <h2>Children's Privacy</h2>
+        <h2>Children&apos;s Privacy</h2>
         <div>
           We do not knowingly collect personal information from children under the age of 13. If we learn that
           we have personal information on a child under the age of 13, we will delete that information from our systems.
