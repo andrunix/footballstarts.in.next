@@ -1,6 +1,7 @@
 import Head from 'next/head';
 import Link from 'next/link';
 import Navbar from './navbar.js';
+import Footer from './footer.js';
 
 export default function Layout ({children}) {
   return (
@@ -23,19 +24,7 @@ export default function Layout ({children}) {
           </div>
         </div>
       </main>
-      
-      <footer className="bg-gray-800 text-white opacity-60 border-t p-4  w-full flex flex-row">
-        <div className="px-2">
-          <Link href="/">
-            <a>footballstarts.in</a>
-          </Link>
-        </div>
-        <div className="px-2">
-          <a href="https://xoso.io" target="_blank" rel="noopener noreferrer">
-            &copy; 2019-2021, xoso
-          </a>
-        </div>
-      </footer>
+      <Footer/>
     </div>
   );
 };
