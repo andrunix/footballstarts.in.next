@@ -76,8 +76,8 @@ export default function Privacy() {
             website and to compile statistical reports on website activity.
           </p>
           <p>
-            For further information visit <a href="https://www.aboutcookies.org" target="_blank">www.aboutcookies.org</a> or
-            <a href="https://www.allaboutcookies.org" target="_blank">www.allaboutcookies.org</a>.
+            For further information visit <a href="https://www.aboutcookies.org" target="_blank" rel="noreferrer">www.aboutcookies.org</a> or
+            <a href="https://www.allaboutcookies.org" target="_blank" rel="noreferrer">www.allaboutcookies.org</a>.
           </p>
           <p>
             You can set your browser not to accept cookies and the above websites tell you how to remove cookies
