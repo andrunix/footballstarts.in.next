@@ -404,7 +404,7 @@
         8,
         13
       ],
-      "home_post_win_prob": "0.9959248849302406",
+      "home_post_win_prob": "0.9972535972825914",
       "home_pregame_elo": 1535,
       "home_postgame_elo": 1527,
       "away_id": 2199,
@@ -417,10 +417,10 @@
         21,
         7
       ],
-      "away_post_win_prob": "0.0040751150697594385",
+      "away_post_win_prob": "0.002746402717408558",
       "away_pregame_elo": 1490,
       "away_postgame_elo": 1498,
-      "excitement_index": "6.4263227034",
+      "excitement_index": "6.6910554518",
       "highlights": null,
       "notes": null
     },

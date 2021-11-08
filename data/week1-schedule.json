@@ -1,317 +1,322 @@
 [
   {
-    "start_date": "2021-11-02T23:00:00.000Z",
-    "home_team": "Akron",
-    "away_team": "Ball State"
+    "start_date": "2021-11-10T00:00:00.000Z",
+    "home_team": "Miami (OH)",
+    "away_team": "Buffalo"
   },
   {
-    "start_date": "2021-11-02T23:30:00.000Z",
-    "home_team": "Ohio",
-    "away_team": "Miami (OH)"
-  },
-  {
-    "start_date": "2021-11-02T23:30:00.000Z",
-    "home_team": "Toledo",
-    "away_team": "Eastern Michigan"
-  },
-  {
-    "start_date": "2021-11-03T23:00:00.000Z",
-    "home_team": "Kent State",
-    "away_team": "Northern Illinois"
-  },
-  {
-    "start_date": "2021-11-03T23:00:00.000Z",
+    "start_date": "2021-11-10T00:00:00.000Z",
     "home_team": "Western Michigan",
-    "away_team": "Central Michigan"
+    "away_team": "Akron"
   },
   {
-    "start_date": "2021-11-04T23:30:00.000Z",
-    "home_team": "Louisiana",
-    "away_team": "Georgia State"
-  },
-  {
-    "start_date": "2021-11-05T23:30:00.000Z",
-    "home_team": "Boston College",
-    "away_team": "Virginia Tech"
-  },
-  {
-    "start_date": "2021-11-06T02:30:00.000Z",
-    "home_team": "Stanford",
-    "away_team": "Utah"
-  },
-  {
-    "start_date": "2021-11-06T15:30:00.000Z",
-    "home_team": "Air Force",
-    "away_team": "Army"
-  },
-  {
-    "start_date": "2021-11-06T16:00:00.000Z",
-    "home_team": "Duke",
-    "away_team": "Pittsburgh"
-  },
-  {
-    "start_date": "2021-11-06T16:00:00.000Z",
-    "home_team": "North Carolina",
-    "away_team": "Wake Forest"
-  },
-  {
-    "start_date": "2021-11-06T16:00:00.000Z",
-    "home_team": "Kansas",
-    "away_team": "Kansas State"
-  },
-  {
-    "start_date": "2021-11-06T16:00:00.000Z",
-    "home_team": "Minnesota",
-    "away_team": "Illinois"
-  },
-  {
-    "start_date": "2021-11-06T16:00:00.000Z",
-    "home_team": "Nebraska",
-    "away_team": "Ohio State"
-  },
-  {
-    "start_date": "2021-11-06T16:00:00.000Z",
-    "home_team": "Georgia",
-    "away_team": "Missouri"
-  },
-  {
-    "start_date": "2021-11-06T16:00:00.000Z",
-    "home_team": "Ole Miss",
-    "away_team": "Liberty"
-  },
-  {
-    "start_date": "2021-11-06T16:00:00.000Z",
-    "home_team": "UAB",
-    "away_team": "Louisiana Tech"
-  },
-  {
-    "start_date": "2021-11-06T16:00:00.000Z",
-    "home_team": "Memphis",
-    "away_team": "SMU"
-  },
-  {
-    "start_date": "2021-11-06T16:30:00.000Z",
-    "home_team": "Miami",
-    "away_team": "Georgia Tech"
-  },
-  {
-    "start_date": "2021-11-06T18:00:00.000Z",
-    "home_team": "Arkansas State",
-    "away_team": "Appalachian State"
-  },
-  {
-    "start_date": "2021-11-06T19:00:00.000Z",
-    "home_team": "Arizona",
-    "away_team": "California"
-  },
-  {
-    "start_date": "2021-11-06T19:00:00.000Z",
-    "home_team": "Southern Mississippi",
-    "away_team": "North Texas"
-  },
-  {
-    "start_date": "2021-11-06T19:00:00.000Z",
-    "home_team": "BYU",
-    "away_team": "Idaho State"
-  },
-  {
-    "start_date": "2021-11-06T19:00:00.000Z",
-    "home_team": "Texas State",
-    "away_team": "Louisiana Monroe"
-  },
-  {
-    "start_date": "2021-11-06T19:00:00.000Z",
-    "home_team": "East Carolina",
-    "away_team": "Temple"
-  },
-  {
-    "start_date": "2021-11-06T19:30:00.000Z",
-    "home_team": "TCU",
-    "away_team": "Baylor"
-  },
-  {
-    "start_date": "2021-11-06T19:30:00.000Z",
-    "home_team": "West Virginia",
-    "away_team": "Oklahoma State"
-  },
-  {
-    "start_date": "2021-11-06T19:30:00.000Z",
-    "home_team": "Maryland",
-    "away_team": "Penn State"
-  },
-  {
-    "start_date": "2021-11-06T19:30:00.000Z",
-    "home_team": "Purdue",
-    "away_team": "Michigan State"
-  },
-  {
-    "start_date": "2021-11-06T19:30:00.000Z",
-    "home_team": "Rutgers",
-    "away_team": "Wisconsin"
-  },
-  {
-    "start_date": "2021-11-06T19:30:00.000Z",
-    "home_team": "Texas A&M",
-    "away_team": "Auburn"
-  },
-  {
-    "start_date": "2021-11-06T19:30:00.000Z",
-    "home_team": "Charlotte",
-    "away_team": "Rice"
-  },
-  {
-    "start_date": "2021-11-06T19:30:00.000Z",
-    "home_team": "Western Kentucky",
-    "away_team": "Middle Tennessee"
-  },
-  {
-    "start_date": "2021-11-06T19:30:00.000Z",
-    "home_team": "Wyoming",
-    "away_team": "Colorado State"
-  },
-  {
-    "start_date": "2021-11-06T19:30:00.000Z",
-    "home_team": "Notre Dame",
-    "away_team": "Navy"
-  },
-  {
-    "start_date": "2021-11-06T19:30:00.000Z",
-    "home_team": "UMass",
-    "away_team": "Rhode Island"
-  },
-  {
-    "start_date": "2021-11-06T19:30:00.000Z",
-    "home_team": "Troy",
-    "away_team": "South Alabama"
-  },
-  {
-    "start_date": "2021-11-06T19:30:00.000Z",
-    "home_team": "Cincinnati",
-    "away_team": "Tulsa"
-  },
-  {
-    "start_date": "2021-11-06T20:00:00.000Z",
-    "home_team": "Florida State",
-    "away_team": "NC State"
-  },
-  {
-    "start_date": "2021-11-06T20:00:00.000Z",
-    "home_team": "Arkansas",
-    "away_team": "Mississippi State"
-  },
-  {
-    "start_date": "2021-11-06T20:00:00.000Z",
-    "home_team": "New Mexico State",
-    "away_team": "Utah State"
-  },
-  {
-    "start_date": "2021-11-06T20:00:00.000Z",
-    "home_team": "UCF",
-    "away_team": "Tulane"
-  },
-  {
-    "start_date": "2021-11-06T22:00:00.000Z",
-    "home_team": "Florida Atlantic",
-    "away_team": "Marshall"
-  },
-  {
-    "start_date": "2021-11-06T22:00:00.000Z",
-    "home_team": "Georgia Southern",
-    "away_team": "Coastal Carolina"
-  },
-  {
-    "start_date": "2021-11-06T23:00:00.000Z",
-    "home_team": "Northwestern",
-    "away_team": "Iowa"
-  },
-  {
-    "start_date": "2021-11-06T23:00:00.000Z",
-    "home_team": "Alabama",
-    "away_team": "LSU"
-  },
-  {
-    "start_date": "2021-11-06T23:00:00.000Z",
-    "home_team": "Kentucky",
-    "away_team": "Tennessee"
-  },
-  {
-    "start_date": "2021-11-06T23:00:00.000Z",
-    "home_team": "Colorado",
-    "away_team": "Oregon State"
-  },
-  {
-    "start_date": "2021-11-06T23:00:00.000Z",
-    "home_team": "Florida International",
-    "away_team": "Old Dominion"
-  },
-  {
-    "start_date": "2021-11-06T23:00:00.000Z",
-    "home_team": "Fresno State",
-    "away_team": "Boise State"
-  },
-  {
-    "start_date": "2021-11-06T23:00:00.000Z",
-    "home_team": "New Mexico",
-    "away_team": "UNLV"
-  },
-  {
-    "start_date": "2021-11-06T23:30:00.000Z",
-    "home_team": "Louisville",
-    "away_team": "Clemson"
-  },
-  {
-    "start_date": "2021-11-06T23:30:00.000Z",
-    "home_team": "Iowa State",
-    "away_team": "Texas"
-  },
-  {
-    "start_date": "2021-11-06T23:30:00.000Z",
-    "home_team": "Michigan",
-    "away_team": "Indiana"
-  },
-  {
-    "start_date": "2021-11-06T23:30:00.000Z",
-    "home_team": "South Carolina",
-    "away_team": "Florida"
-  },
-  {
-    "start_date": "2021-11-06T23:30:00.000Z",
-    "home_team": "Washington",
-    "away_team": "Oregon"
-  },
-  {
-    "start_date": "2021-11-06T23:30:00.000Z",
-    "home_team": "South Florida",
-    "away_team": "Houston"
-  },
-  {
-    "start_date": "2021-11-07T02:00:00.000Z",
-    "home_team": "Nevada",
-    "away_team": "San José State"
-  },
-  {
-    "start_date": "2021-11-07T02:15:00.000Z",
-    "home_team": "UTEP",
-    "away_team": "UT San Antonio"
-  },
-  {
-    "start_date": "2021-11-07T02:30:00.000Z",
-    "home_team": "Arizona State",
-    "away_team": "USC"
-  },
-  {
-    "start_date": "2021-11-07T03:00:00.000Z",
-    "home_team": "Hawai'i",
-    "away_team": "San Diego State"
-  },
-  {
-    "start_date": "2021-11-09T05:00:00.000Z",
+    "start_date": "2021-11-10T01:00:00.000Z",
     "home_team": "Eastern Michigan",
     "away_team": "Ohio"
   },
   {
-    "start_date": "2021-11-09T05:00:00.000Z",
-    "home_team": "Miami (OH)",
-    "away_team": "Buffalo"
+    "start_date": "2021-11-11T00:00:00.000Z",
+    "home_team": "Bowling Green",
+    "away_team": "Toledo"
+  },
+  {
+    "start_date": "2021-11-11T00:00:00.000Z",
+    "home_team": "Northern Illinois",
+    "away_team": "Ball State"
+  },
+  {
+    "start_date": "2021-11-11T01:00:00.000Z",
+    "home_team": "Central Michigan",
+    "away_team": "Kent State"
+  },
+  {
+    "start_date": "2021-11-12T00:30:00.000Z",
+    "home_team": "Pittsburgh",
+    "away_team": "North Carolina"
+  },
+  {
+    "start_date": "2021-11-12T23:00:00.000Z",
+    "home_team": "South Florida",
+    "away_team": "Cincinnati"
+  },
+  {
+    "start_date": "2021-11-13T02:00:00.000Z",
+    "home_team": "Boise State",
+    "away_team": "Wyoming"
+  },
+  {
+    "start_date": "2021-11-13T17:00:00.000Z",
+    "home_team": "Clemson",
+    "away_team": "Connecticut"
+  },
+  {
+    "start_date": "2021-11-13T17:00:00.000Z",
+    "home_team": "Louisville",
+    "away_team": "Syracuse"
+  },
+  {
+    "start_date": "2021-11-13T17:00:00.000Z",
+    "home_team": "Baylor",
+    "away_team": "Oklahoma"
+  },
+  {
+    "start_date": "2021-11-13T17:00:00.000Z",
+    "home_team": "Kansas State",
+    "away_team": "West Virginia"
+  },
+  {
+    "start_date": "2021-11-13T17:00:00.000Z",
+    "home_team": "Indiana",
+    "away_team": "Rutgers"
+  },
+  {
+    "start_date": "2021-11-13T17:00:00.000Z",
+    "home_team": "Penn State",
+    "away_team": "Michigan"
+  },
+  {
+    "start_date": "2021-11-13T17:00:00.000Z",
+    "home_team": "Wisconsin",
+    "away_team": "Northwestern"
+  },
+  {
+    "start_date": "2021-11-13T17:00:00.000Z",
+    "home_team": "Alabama",
+    "away_team": "New Mexico State"
+  },
+  {
+    "start_date": "2021-11-13T17:00:00.000Z",
+    "home_team": "Auburn",
+    "away_team": "Mississippi State"
+  },
+  {
+    "start_date": "2021-11-13T17:00:00.000Z",
+    "home_team": "Florida",
+    "away_team": "Samford"
+  },
+  {
+    "start_date": "2021-11-13T17:00:00.000Z",
+    "home_team": "Army",
+    "away_team": "Bucknell"
+  },
+  {
+    "start_date": "2021-11-13T17:00:00.000Z",
+    "home_team": "UMass",
+    "away_team": "Maine"
+  },
+  {
+    "start_date": "2021-11-13T17:00:00.000Z",
+    "home_team": "Memphis",
+    "away_team": "East Carolina"
+  },
+  {
+    "start_date": "2021-11-13T17:00:00.000Z",
+    "home_team": "SMU",
+    "away_team": "UCF"
+  },
+  {
+    "start_date": "2021-11-13T17:00:00.000Z",
+    "home_team": "Temple",
+    "away_team": "Houston"
+  },
+  {
+    "start_date": "2021-11-13T19:00:00.000Z",
+    "home_team": "Arizona",
+    "away_team": "Utah"
+  },
+  {
+    "start_date": "2021-11-13T19:00:00.000Z",
+    "home_team": "Rice",
+    "away_team": "Western Kentucky"
+  },
+  {
+    "start_date": "2021-11-13T19:00:00.000Z",
+    "home_team": "Coastal Carolina",
+    "away_team": "Georgia State"
+  },
+  {
+    "start_date": "2021-11-13T19:30:00.000Z",
+    "home_team": "Appalachian State",
+    "away_team": "South Alabama"
+  },
+  {
+    "start_date": "2021-11-13T20:00:00.000Z",
+    "home_team": "Texas State",
+    "away_team": "Georgia Southern"
+  },
+  {
+    "start_date": "2021-11-13T20:30:00.000Z",
+    "home_team": "Florida State",
+    "away_team": "Miami"
+  },
+  {
+    "start_date": "2021-11-13T20:30:00.000Z",
+    "home_team": "Georgia Tech",
+    "away_team": "Boston College"
+  },
+  {
+    "start_date": "2021-11-13T20:30:00.000Z",
+    "home_team": "Virginia Tech",
+    "away_team": "Duke"
+  },
+  {
+    "start_date": "2021-11-13T20:30:00.000Z",
+    "home_team": "Texas Tech",
+    "away_team": "Iowa State"
+  },
+  {
+    "start_date": "2021-11-13T20:30:00.000Z",
+    "home_team": "Iowa",
+    "away_team": "Minnesota"
+  },
+  {
+    "start_date": "2021-11-13T20:30:00.000Z",
+    "home_team": "Ohio State",
+    "away_team": "Purdue"
+  },
+  {
+    "start_date": "2021-11-13T20:30:00.000Z",
+    "home_team": "Tennessee",
+    "away_team": "Georgia"
+  },
+  {
+    "start_date": "2021-11-13T20:30:00.000Z",
+    "home_team": "California",
+    "away_team": "USC"
+  },
+  {
+    "start_date": "2021-11-13T20:30:00.000Z",
+    "home_team": "Louisiana Tech",
+    "away_team": "Charlotte"
+  },
+  {
+    "start_date": "2021-11-13T20:30:00.000Z",
+    "home_team": "Marshall",
+    "away_team": "UAB"
+  },
+  {
+    "start_date": "2021-11-13T20:30:00.000Z",
+    "home_team": "Middle Tennessee",
+    "away_team": "Florida International"
+  },
+  {
+    "start_date": "2021-11-13T20:30:00.000Z",
+    "home_team": "Old Dominion",
+    "away_team": "Florida Atlantic"
+  },
+  {
+    "start_date": "2021-11-13T20:30:00.000Z",
+    "home_team": "UT San Antonio",
+    "away_team": "Southern Mississippi"
+  },
+  {
+    "start_date": "2021-11-13T20:30:00.000Z",
+    "home_team": "Troy",
+    "away_team": "Louisiana"
+  },
+  {
+    "start_date": "2021-11-13T21:00:00.000Z",
+    "home_team": "Michigan State",
+    "away_team": "Maryland"
+  },
+  {
+    "start_date": "2021-11-13T21:00:00.000Z",
+    "home_team": "Missouri",
+    "away_team": "South Carolina"
+  },
+  {
+    "start_date": "2021-11-13T21:00:00.000Z",
+    "home_team": "North Texas",
+    "away_team": "UTEP"
+  },
+  {
+    "start_date": "2021-11-13T21:00:00.000Z",
+    "home_team": "UNLV",
+    "away_team": "Hawai'i"
+  },
+  {
+    "start_date": "2021-11-13T21:00:00.000Z",
+    "home_team": "Tulane",
+    "away_team": "Tulsa"
+  },
+  {
+    "start_date": "2021-11-13T22:00:00.000Z",
+    "home_team": "Louisiana Monroe",
+    "away_team": "Arkansas State"
+  },
+  {
+    "start_date": "2021-11-13T22:30:00.000Z",
+    "home_team": "Oregon State",
+    "away_team": "Stanford"
+  },
+  {
+    "start_date": "2021-11-14T00:00:00.000Z",
+    "home_team": "Ole Miss",
+    "away_team": "Texas A&M"
+  },
+  {
+    "start_date": "2021-11-14T00:00:00.000Z",
+    "home_team": "Vanderbilt",
+    "away_team": "Kentucky"
+  },
+  {
+    "start_date": "2021-11-14T00:00:00.000Z",
+    "home_team": "Washington",
+    "away_team": "Arizona State"
+  },
+  {
+    "start_date": "2021-11-14T00:00:00.000Z",
+    "home_team": "Colorado State",
+    "away_team": "Air Force"
+  },
+  {
+    "start_date": "2021-11-14T00:00:00.000Z",
+    "home_team": "Fresno State",
+    "away_team": "New Mexico"
+  },
+  {
+    "start_date": "2021-11-14T00:30:00.000Z",
+    "home_team": "Virginia",
+    "away_team": "Notre Dame"
+  },
+  {
+    "start_date": "2021-11-14T00:30:00.000Z",
+    "home_team": "Wake Forest",
+    "away_team": "NC State"
+  },
+  {
+    "start_date": "2021-11-14T00:30:00.000Z",
+    "home_team": "Texas",
+    "away_team": "Kansas"
+  },
+  {
+    "start_date": "2021-11-14T00:30:00.000Z",
+    "home_team": "LSU",
+    "away_team": "Arkansas"
+  },
+  {
+    "start_date": "2021-11-14T01:00:00.000Z",
+    "home_team": "Oklahoma State",
+    "away_team": "TCU"
+  },
+  {
+    "start_date": "2021-11-14T02:00:00.000Z",
+    "home_team": "UCLA",
+    "away_team": "Colorado"
+  },
+  {
+    "start_date": "2021-11-14T03:30:00.000Z",
+    "home_team": "Oregon",
+    "away_team": "Washington State"
+  },
+  {
+    "start_date": "2021-11-14T03:30:00.000Z",
+    "home_team": "San Diego State",
+    "away_team": "Nevada"
+  },
+  {
+    "start_date": "2021-11-14T03:30:00.000Z",
+    "home_team": "San José State",
+    "away_team": "Utah State"
   }
 ]
