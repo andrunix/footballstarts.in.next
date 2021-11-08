@@ -59,10 +59,8 @@
     color: #900000;
   }
 
-  .teamlogo img {
-      display: inline;
-      width: 35px;
-      padding: 4px;
+  .teamLogoImg {
+      @apply inline p-4 pb-2
   }
 
   .teamlogo a {
