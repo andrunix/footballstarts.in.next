@@ -36,22 +36,24 @@ export default function Conference({teams, conference}) {
 
           <div className="bg-white px-1 md:px-4 flex-row">
             {teams.map((team) => (
-              <div key={team.id} className="teamlogo hover:bg-blue-100 m-2 border border-gray-200 rounded-sm">
-            <img src={team.logos[0]}/>
-            <Link href={`/teams/${team.normalizedName}`}>
-              <a>{team.school}</a>
-            </Link>
-          </div>
-        ))}
+              <div key={team.id} className="teamlogo hover:bg-blue-100 m-2 border border-gray-200 rounded-sm flex flex-row content-center align-middle">
+
+                <div className="teamLogoImg">
+                  <Image src={`/images/${team.normalizedName}/${team.id}.png`} width="35px" height="35px"/>
+                </div>
+
+                <div className="align-middle p-4">
+                  <Link href={`/teams/${team.normalizedName}`}>
+                    <a>{team.school}</a>
+                  </Link>
+                </div>
+              </div>
+            ))}
             
           </div>
         </div>
       </div>
-
-
-
       
-
     </Layout>
   );
 }
