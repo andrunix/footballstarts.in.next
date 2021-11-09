@@ -1,5 +1,7 @@
 {
+  "teamId": 52,
   "team": "Florida State",
+  "normalizedName": "florida-state",
   "schedule": [
     {
       "normalizedName": "florida-state",

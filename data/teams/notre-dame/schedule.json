@@ -1,5 +1,7 @@
 {
+  "teamId": 87,
   "team": "Notre Dame",
+  "normalizedName": "notre-dame",
   "schedule": [
     {
       "normalizedName": "notre-dame",

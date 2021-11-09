@@ -1,5 +1,7 @@
 {
+  "teamId": 2006,
   "team": "Akron",
+  "normalizedName": "akron",
   "schedule": [
     {
       "normalizedName": "akron",

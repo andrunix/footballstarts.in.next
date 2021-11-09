@@ -1,5 +1,7 @@
 {
+  "teamId": 6,
   "team": "South Alabama",
+  "normalizedName": "south-alabama",
   "schedule": [
     {
       "normalizedName": "south-alabama",
@@ -479,8 +481,8 @@
       "season": 2021,
       "week": 12,
       "season_type": "regular",
-      "start_date": "2021-11-20T05:00:00.000Z",
-      "start_time_tbd": true,
+      "start_date": "2021-11-21T00:30:00.000Z",
+      "start_time_tbd": false,
       "neutral_site": false,
       "conference_game": false,
       "attendance": null,

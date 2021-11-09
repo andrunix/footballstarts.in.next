@@ -1,5 +1,7 @@
 {
+  "teamId": 36,
   "team": "Colorado State",
+  "normalizedName": "colorado-state",
   "schedule": [
     {
       "normalizedName": "colorado-state",

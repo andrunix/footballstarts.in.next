@@ -1,5 +1,7 @@
 {
+  "teamId": 23,
   "team": "San José State",
+  "normalizedName": "san-jose-state",
   "schedule": [
     {
       "normalizedName": "san-jose-state",

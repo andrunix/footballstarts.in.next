@@ -1,5 +1,7 @@
 {
+  "teamId": 245,
   "team": "Texas A&M",
+  "normalizedName": "texas-a-m",
   "schedule": [
     {
       "normalizedName": "texas-a-m",

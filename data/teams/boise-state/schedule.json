@@ -1,5 +1,7 @@
 {
+  "teamId": 68,
   "team": "Boise State",
+  "normalizedName": "boise-state",
   "schedule": [
     {
       "normalizedName": "boise-state",

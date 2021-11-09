@@ -1,5 +1,7 @@
 {
+  "teamId": 2005,
   "team": "Air Force",
+  "normalizedName": "air-force",
   "schedule": [
     {
       "normalizedName": "air-force",

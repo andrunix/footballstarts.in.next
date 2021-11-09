@@ -1,5 +1,7 @@
 {
+  "teamId": 113,
   "team": "UMass",
+  "normalizedName": "umass",
   "schedule": [
     {
       "normalizedName": "umass",

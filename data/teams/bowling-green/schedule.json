@@ -1,5 +1,7 @@
 {
+  "teamId": 189,
   "team": "Bowling Green",
+  "normalizedName": "bowling-green",
   "schedule": [
     {
       "normalizedName": "bowling-green",

@@ -1,5 +1,7 @@
 {
+  "teamId": 265,
   "team": "Washington State",
+  "normalizedName": "washington-state",
   "schedule": [
     {
       "normalizedName": "washington-state",

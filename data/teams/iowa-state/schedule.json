@@ -1,5 +1,7 @@
 {
+  "teamId": 66,
   "team": "Iowa State",
+  "normalizedName": "iowa-state",
   "schedule": [
     {
       "normalizedName": "iowa-state",

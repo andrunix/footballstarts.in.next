@@ -17,6 +17,7 @@ export async function getStaticProps() {
 
 export default function Home({schedule}) {
   const diffDays = getDaysUntilNextGame(schedule);
+  console.log('diffDays ', diffDays);
 
   return (
     <Layout>
@@ -24,5 +25,5 @@ export default function Home({schedule}) {
       <UpcomingGames schedule={schedule} />
       <About />
     </Layout>
-  )
+  );
 }

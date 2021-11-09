@@ -1,5 +1,7 @@
 {
+  "teamId": 152,
   "team": "NC State",
+  "normalizedName": "nc-state",
   "schedule": [
     {
       "normalizedName": "nc-state",

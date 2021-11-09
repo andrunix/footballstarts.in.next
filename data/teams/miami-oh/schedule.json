@@ -1,5 +1,7 @@
 {
+  "teamId": 193,
   "team": "Miami (OH)",
+  "normalizedName": "miami-oh",
   "schedule": [
     {
       "normalizedName": "miami-oh",

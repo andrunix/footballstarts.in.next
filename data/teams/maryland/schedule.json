@@ -1,5 +1,7 @@
 {
+  "teamId": 120,
   "team": "Maryland",
+  "normalizedName": "maryland",
   "schedule": [
     {
       "normalizedName": "maryland",

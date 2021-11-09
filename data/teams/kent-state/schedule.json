@@ -1,5 +1,7 @@
 {
+  "teamId": 2309,
   "team": "Kent State",
+  "normalizedName": "kent-state",
   "schedule": [
     {
       "normalizedName": "kent-state",

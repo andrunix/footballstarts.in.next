@@ -1,5 +1,7 @@
 {
+  "teamId": 135,
   "team": "Minnesota",
+  "normalizedName": "minnesota",
   "schedule": [
     {
       "normalizedName": "minnesota",

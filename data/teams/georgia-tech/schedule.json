@@ -1,5 +1,7 @@
 {
+  "teamId": 59,
   "team": "Georgia Tech",
+  "normalizedName": "georgia-tech",
   "schedule": [
     {
       "normalizedName": "georgia-tech",

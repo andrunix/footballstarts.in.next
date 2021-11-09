@@ -1,5 +1,7 @@
 {
+  "teamId": 25,
   "team": "California",
+  "normalizedName": "california",
   "schedule": [
     {
       "normalizedName": "california",

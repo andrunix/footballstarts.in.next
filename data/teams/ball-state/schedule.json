@@ -1,5 +1,7 @@
 {
+  "teamId": 2050,
   "team": "Ball State",
+  "normalizedName": "ball-state",
   "schedule": [
     {
       "normalizedName": "ball-state",

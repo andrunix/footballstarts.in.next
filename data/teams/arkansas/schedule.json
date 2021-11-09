@@ -1,5 +1,7 @@
 {
+  "teamId": 8,
   "team": "Arkansas",
+  "normalizedName": "arkansas",
   "schedule": [
     {
       "normalizedName": "arkansas",

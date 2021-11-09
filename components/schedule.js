@@ -25,7 +25,7 @@ export default function Schedule({schedule}) {
           {schedule.map((game) => (
             <div key={game.id} className={["m-1 p-2 hover:bg-blue-100 border rounded-sm", game.id === nextGame ? "bg-green-100 border border-green-400" : "border-t"].join(" ")}>
               
-              <div className="inline-block flex-none w-1/4">
+              <div className="inline-block flex-none w-1/3">
                 <Link href={`/teams/${game.normalizedOpponent}`}>
                   <a className="text-blue-600 hover:text-blue-900">{(game.homeGame) ? game.opponent : '@' + game.opponent}</a>
                 </Link>

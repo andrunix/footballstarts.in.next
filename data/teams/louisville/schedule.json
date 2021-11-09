@@ -1,5 +1,7 @@
 {
+  "teamId": 97,
   "team": "Louisville",
+  "normalizedName": "louisville",
   "schedule": [
     {
       "normalizedName": "louisville",

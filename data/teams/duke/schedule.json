@@ -1,5 +1,7 @@
 {
+  "teamId": 150,
   "team": "Duke",
+  "normalizedName": "duke",
   "schedule": [
     {
       "normalizedName": "duke",

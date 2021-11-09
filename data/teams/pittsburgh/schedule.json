@@ -1,5 +1,7 @@
 {
+  "teamId": 221,
   "team": "Pittsburgh",
+  "normalizedName": "pittsburgh",
   "schedule": [
     {
       "normalizedName": "pittsburgh",

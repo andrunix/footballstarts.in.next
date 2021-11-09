@@ -1,5 +1,7 @@
 {
+  "teamId": 103,
   "team": "Boston College",
+  "normalizedName": "boston-college",
   "schedule": [
     {
       "normalizedName": "boston-college",

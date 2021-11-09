@@ -1,5 +1,7 @@
 {
+  "teamId": 2567,
   "team": "SMU",
+  "normalizedName": "smu",
   "schedule": [
     {
       "normalizedName": "smu",

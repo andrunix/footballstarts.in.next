@@ -1,13 +1,22 @@
-export default function Countdown({team, days}) {
+import Image from 'next/image';
+
+export default function Countdown({teamId, normalized, team, days}) {
   return (
-    <div className="text-black text-center p-1 bg-opacity-50 bg-blue-500 rounded-t-2xl mx-auto">
-      <div className="uppercase text-white text-center text-bold text-2xl">
-        {team ? team : 'College'} football starts in
+    <div className="text-black text-center bg-opacity-50 bg-blue-500 rounded-t-2xl mx-auto">
+      
+      <div className="flex justify-center">
+        <div className="flex flex-col p-2">
+          <Image src={`/images/${normalized}/${teamId}.png`} width="45px" height="45px"/>
+        </div>
+        <div className="uppercase text-white text-bold text-2xl align-middle flex flex-col p-2">
+          {team ? team : 'College'} football starts in
+        </div>
       </div>
+      
       <div className="flex text-5xl md:text-6xl lg:text-7xl xl:text-8xl justify-center mx-auto">
-          <div className="bg-white border-2 border-r-0 border-black rounded-l-xl my-2 p-6">{days}</div>
-          <div className="bg-yellow-600 border-2 border-black rounded-r-xl my-2 p-6">days</div>
+          <div className="flex flex-col bg-white border-2 border-r-0 border-black rounded-l-xl my-2 p-6">{days}</div>
+          <div className="flex flex-col bg-yellow-600 border-2 border-black rounded-r-xl my-2 p-6">days</div>
       </div>
     </div>
-  )
+  );
 }

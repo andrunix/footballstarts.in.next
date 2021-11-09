@@ -1,5 +1,7 @@
 {
+  "teamId": 242,
   "team": "Rice",
+  "normalizedName": "rice",
   "schedule": [
     {
       "normalizedName": "rice",

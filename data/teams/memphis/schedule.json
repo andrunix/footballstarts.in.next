@@ -1,5 +1,7 @@
 {
+  "teamId": 235,
   "team": "Memphis",
+  "normalizedName": "memphis",
   "schedule": [
     {
       "normalizedName": "memphis",

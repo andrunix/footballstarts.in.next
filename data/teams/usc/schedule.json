@@ -1,5 +1,7 @@
 {
+  "teamId": 30,
   "team": "USC",
+  "normalizedName": "usc",
   "schedule": [
     {
       "normalizedName": "usc",

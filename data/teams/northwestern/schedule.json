@@ -1,5 +1,7 @@
 {
+  "teamId": 77,
   "team": "Northwestern",
+  "normalizedName": "northwestern",
   "schedule": [
     {
       "normalizedName": "northwestern",
