@@ -1,7 +1,6 @@
 import Image from 'next/image';
 import Link from 'next/link';
 import Layout from '../components/layout.js';
-// import { getAllOrgNames, getOrgSchedule } from '../lib/schedule.js';
 
 import { getConferences } from '../lib/schedule.js';
 
