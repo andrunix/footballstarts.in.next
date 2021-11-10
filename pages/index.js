@@ -2,7 +2,6 @@ import Image from 'next/image';
 import Link from 'next/link';
 import Layout from '../components/layout.js';
 import Countdown from '../components/countdown.js';
-import About from '../components/about.js';
 import UpcomingGames from '../components/upcominggames.js';
 
 import { getThisWeeksSchedule } from '../lib/schedule.js';
@@ -23,7 +22,6 @@ export default function Home({schedule}) {
     <Layout>
       <Countdown days={diffDays}/>
       <UpcomingGames schedule={schedule} />
-      <About />
     </Layout>
   );
 }
