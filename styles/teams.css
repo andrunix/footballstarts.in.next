@@ -1,0 +1,2340 @@
+.bostonCollegeColor { 
+    --hue: 349;
+    --sat: 100;
+    --light: 27;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.bostonCollegeAltColor { 
+    --althue: 44;
+    --altsat: 26;
+    --altlight: 51;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.clemsonColor { 
+    --hue: 16;
+    --sat: 92;
+    --light: 58;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.clemsonAltColor { 
+    --althue: 267;
+    --altsat: 48;
+    --altlight: 34;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.dukeColor { 
+    --hue: 222;
+    --sat: 100;
+    --light: 17;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.dukeAltColor { 
+    --althue: 210;
+    --altsat: 8;
+    --altlight: 95;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.floridaStateColor { 
+    --hue: 346;
+    --sat: 44;
+    --light: 33;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.floridaStateAltColor { 
+    --althue: 41;
+    --altsat: 42;
+    --altlight: 67;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.georgiaTechColor { 
+    --hue: 207;
+    --sat: 100;
+    --light: 12;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.georgiaTechAltColor { 
+    --althue: 209;
+    --altsat: 100;
+    --altlight: 17;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.louisvilleColor { 
+    --hue: 357;
+    --sat: 100;
+    --light: 34;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.louisvilleAltColor { 
+    --althue: 0;
+    --altsat: 0;
+    --altlight: 80;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.miamiColor { 
+    --hue: 153;
+    --sat: 100;
+    --light: 13;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.miamiAltColor { 
+    --althue: 0;
+    --altsat: 0;
+    --altlight: 94;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.ncStateColor { 
+    --hue: 359;
+    --sat: 87;
+    --light: 50;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.ncStateAltColor { 
+    --althue: 345;
+    --altsat: 6;
+    --altlight: 13;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.northCarolinaColor { 
+    --hue: 210;
+    --sat: 59;
+    --light: 75;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.northCarolinaAltColor { 
+    --althue: 216;
+    --altsat: 60;
+    --altlight: 18;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.pittsburghColor { 
+    --hue: 210;
+    --sat: 100;
+    --light: 19;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.pittsburghAltColor { 
+    --althue: 345;
+    --altsat: 6;
+    --altlight: 13;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.syracuseColor { 
+    --hue: 23;
+    --sat: 90;
+    --light: 54;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.syracuseAltColor { 
+    --althue: 217;
+    --altsat: 62;
+    --altlight: 13;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.virginiaColor { 
+    --hue: 13;
+    --sat: 94;
+    --light: 55;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.virginiaAltColor { 
+    --althue: 0;
+    --altsat: 0;
+    --altlight: 100;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.virginiaTechColor { 
+    --hue: 353;
+    --sat: 54;
+    --light: 30;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.virginiaTechAltColor { 
+    --althue: 53;
+    --altsat: 6;
+    --altlight: 75;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.wakeForestColor { 
+    --hue: 41;
+    --sat: 48;
+    --light: 42;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.wakeForestAltColor { 
+    --althue: 0;
+    --altsat: 0;
+    --altlight: 0;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.baylorColor { 
+    --hue: 163;
+    --sat: 100;
+    --light: 14;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.baylorAltColor { 
+    --althue: 41;
+    --altsat: 100;
+    --altlight: 55;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.iowaStateColor { 
+    --hue: 348;
+    --sat: 100;
+    --light: 20;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.iowaStateAltColor { 
+    --althue: 344;
+    --altsat: 85;
+    --altlight: 28;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.kansasColor { 
+    --hue: 229;
+    --sat: 100;
+    --light: 35;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.kansasAltColor { 
+    --althue: 357;
+    --altsat: 100;
+    --altlight: 45;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.kansasStateColor { 
+    --hue: 270;
+    --sat: 50;
+    --light: 39;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.kansasStateAltColor { 
+    --althue: 38;
+    --altsat: 55;
+    --altlight: 79;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.oklahomaColor { 
+    --hue: 0;
+    --sat: 100;
+    --light: 24;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.oklahomaAltColor { 
+    --althue: 0;
+    --altsat: 0;
+    --altlight: 80;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.oklahomaStateColor { 
+    --hue: 24;
+    --sat: 100;
+    --light: 50;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.oklahomaStateAltColor { 
+    --althue: 36;
+    --altsat: 100;
+    --altlight: 50;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.tcuColor { 
+    --hue: 244;
+    --sat: 39;
+    --light: 35;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.tcuAltColor { 
+    --althue: 210;
+    --altsat: 8;
+    --altlight: 95;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.texasColor { 
+    --hue: 24;
+    --sat: 86;
+    --light: 54;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.texasAltColor { 
+    --althue: 0;
+    --altsat: 0;
+    --altlight: 94;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.texasTechColor { 
+    --hue: 349;
+    --sat: 100;
+    --light: 39;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.texasTechAltColor { 
+    --althue: 345;
+    --altsat: 6;
+    --altlight: 13;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.westVirginiaColor { 
+    --hue: 47;
+    --sat: 100;
+    --light: 50;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.westVirginiaAltColor { 
+    --althue: 44;
+    --altsat: 100;
+    --altlight: 46;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.illinoisColor { 
+    --hue: 22;
+    --sat: 93;
+    --light: 56;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.illinoisAltColor { 
+    --althue: 24;
+    --altsat: 100;
+    --altlight: 49;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.indianaColor { 
+    --hue: 3;
+    --sat: 82;
+    --light: 27;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.indianaAltColor { 
+    --althue: 40;
+    --altsat: 8;
+    --altlight: 93;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.iowaColor { 
+    --hue: 0;
+    --sat: 0;
+    --light: 0;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.iowaAltColor { 
+    --althue: 53;
+    --altsat: 100;
+    --altlight: 50;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.marylandColor { 
+    --hue: 348;
+    --sat: 100;
+    --light: 42;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.marylandAltColor { 
+    --althue: 48;
+    --altsat: 100;
+    --altlight: 50;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.michiganColor { 
+    --hue: 209;
+    --sat: 100;
+    --light: 15;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.michiganAltColor { 
+    --althue: 209;
+    --altsat: 100;
+    --altlight: 15;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.michiganStateColor { 
+    --hue: 167;
+    --sat: 48;
+    --light: 18;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.michiganStateAltColor { 
+    --althue: 0;
+    --altsat: 0;
+    --altlight: 100;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.minnesotaColor { 
+    --hue: 349;
+    --sat: 71;
+    --light: 35;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.minnesotaAltColor { 
+    --althue: 349;
+    --altsat: 71;
+    --altlight: 35;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.nebraskaColor { 
+    --hue: 354;
+    --sat: 100;
+    --light: 47;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.nebraskaAltColor { 
+    --althue: 43;
+    --altsat: 41;
+    --altlight: 93;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.northwesternColor { 
+    --hue: 253;
+    --sat: 60;
+    --light: 33;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.northwesternAltColor { 
+    --althue: 26;
+    --altsat: 20;
+    --altlight: 80;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.ohioStateColor { 
+    --hue: 5;
+    --sat: 74;
+    --light: 50;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.ohioStateAltColor { 
+    --althue: 0;
+    --altsat: 0;
+    --altlight: 40;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.pennStateColor { 
+    --hue: 215;
+    --sat: 100;
+    --light: 18;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.pennStateAltColor { 
+    --althue: 210;
+    --altsat: 100;
+    --altlight: 18;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.purdueColor { 
+    --hue: 49;
+    --sat: 64;
+    --light: 44;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.purdueAltColor { 
+    --althue: 207;
+    --altsat: 5;
+    --altlight: 66;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.rutgersColor { 
+    --hue: 349;
+    --sat: 86;
+    --light: 44;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.rutgersAltColor { 
+    --althue: 0;
+    --altsat: 0;
+    --altlight: 100;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.wisconsinColor { 
+    --hue: 0;
+    --sat: 100;
+    --light: 31;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.wisconsinAltColor { 
+    --althue: 0;
+    --altsat: 0;
+    --altlight: 97;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.alabamaColor { 
+    --hue: 349;
+    --sat: 100;
+    --light: 21;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.alabamaAltColor { 
+    --althue: 210;
+    --altsat: 8;
+    --altlight: 95;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.arkansasColor { 
+    --hue: 349;
+    --sat: 73;
+    --light: 35;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.arkansasAltColor { 
+    --althue: 0;
+    --altsat: 0;
+    --altlight: 0;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.auburnColor { 
+    --hue: 213;
+    --sat: 93;
+    --light: 16;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.auburnAltColor { 
+    --althue: 210;
+    --altsat: 8;
+    --altlight: 95;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.floridaColor { 
+    --hue: 228;
+    --sat: 100;
+    --light: 32;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.floridaAltColor { 
+    --althue: 228;
+    --altsat: 100;
+    --altlight: 32;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.georgiaColor { 
+    --hue: 0;
+    --sat: 100;
+    --light: 40;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.georgiaAltColor { 
+    --althue: 0;
+    --altsat: 0;
+    --altlight: 0;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.kentuckyColor { 
+    --hue: 207;
+    --sat: 100;
+    --light: 33;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.kentuckyAltColor { 
+    --althue: 0;
+    --altsat: 0;
+    --altlight: 100;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.lsuColor { 
+    --hue: 48;
+    --sat: 98;
+    --light: 56;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.lsuAltColor { 
+    --althue: 264;
+    --altsat: 74;
+    --altlight: 20;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.mississippiStateColor { 
+    --hue: 359;
+    --sat: 56;
+    --light: 30;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.mississippiStateAltColor { 
+    --althue: 0;
+    --altsat: 0;
+    --altlight: 78;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.missouriColor { 
+    --hue: 0;
+    --sat: 0;
+    --light: 0;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.missouriAltColor { 
+    --althue: 0;
+    --altsat: 0;
+    --altlight: 0;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.oleMissColor { 
+    --hue: 226;
+    --sat: 100;
+    --light: 14;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.oleMissAltColor { 
+    --althue: 219;
+    --altsat: 100;
+    --altlight: 18;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.southCarolinaColor { 
+    --hue: 351;
+    --sat: 100;
+    --light: 20;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.southCarolinaAltColor { 
+    --althue: 0;
+    --altsat: 0;
+    --altlight: 0;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.tennesseeColor { 
+    --hue: 33;
+    --sat: 85;
+    --light: 54;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.tennesseeAltColor { 
+    --althue: 0;
+    --altsat: 0;
+    --altlight: 100;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.texasAMColor { 
+    --hue: 336;
+    --sat: 100;
+    --light: 18;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.texasAMAltColor { 
+    --althue: 0;
+    --altsat: 0;
+    --altlight: 100;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.vanderbiltColor { 
+    --hue: 0;
+    --sat: 0;
+    --light: 0;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.vanderbiltAltColor { 
+    --althue: 345;
+    --altsat: 6;
+    --altlight: 13;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.arizonaColor { 
+    --hue: 210;
+    --sat: 100;
+    --light: 14;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.arizonaAltColor { 
+    --althue: 219;
+    --altsat: 100;
+    --altlight: 18;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.arizonaStateColor { 
+    --hue: 347;
+    --sat: 64;
+    --light: 35;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.arizonaStateAltColor { 
+    --althue: 210;
+    --altsat: 8;
+    --altlight: 95;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.californiaColor { 
+    --hue: 205;
+    --sat: 84;
+    --light: 7;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.californiaAltColor { 
+    --althue: 44;
+    --altsat: 100;
+    --altlight: 57;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.coloradoColor { 
+    --hue: 51;
+    --sat: 47;
+    --light: 66;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.coloradoAltColor { 
+    --althue: 49;
+    --altsat: 100;
+    --altlight: 50;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.oregonColor { 
+    --hue: 146;
+    --sat: 89;
+    --light: 14;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.oregonAltColor { 
+    --althue: 52;
+    --altsat: 99;
+    --altlight: 57;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.oregonStateColor { 
+    --hue: 21;
+    --sat: 100;
+    --light: 38;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.oregonStateAltColor { 
+    --althue: 24;
+    --altsat: 61;
+    --altlight: 67;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.stanfordColor { 
+    --hue: 343;
+    --sat: 94;
+    --light: 34;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.stanfordAltColor { 
+    --althue: 0;
+    --altsat: 0;
+    --altlight: 100;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.uclaColor { 
+    --hue: 201;
+    --sat: 100;
+    --light: 28;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.uclaAltColor { 
+    --althue: 44;
+    --altsat: 100;
+    --altlight: 59;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.uscColor { 
+    --hue: 44;
+    --sat: 100;
+    --light: 59;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.uscAltColor { 
+    --althue: 355;
+    --altsat: 65;
+    --altlight: 41;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.utahColor { 
+    --hue: 352;
+    --sat: 100;
+    --light: 27;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.utahAltColor { 
+    --althue: 216;
+    --altsat: 2;
+    --altlight: 50;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.washingtonColor { 
+    --hue: 236;
+    --sat: 40;
+    --light: 28;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.washingtonAltColor { 
+    --althue: 46;
+    --altsat: 31;
+    --altlight: 87;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.washingtonStateColor { 
+    --hue: 344;
+    --sat: 97;
+    --light: 29;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.washingtonStateAltColor { 
+    --althue: 207;
+    --altsat: 8;
+    --altlight: 45;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.charlotteColor { 
+    --hue: 35;
+    --sat: 47;
+    --light: 65;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.charlotteAltColor { 
+    --althue: 0;
+    --altsat: 0;
+    --altlight: 100;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.floridaAtlanticColor { 
+    --hue: 206;
+    --sat: 100;
+    --light: 26;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.floridaAtlanticAltColor { 
+    --althue: 348;
+    --altsat: 60;
+    --altlight: 46;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.floridaInternationalColor { 
+    --hue: 218;
+    --sat: 100;
+    --light: 11;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.floridaInternationalAltColor { 
+    --althue: 45;
+    --altsat: 89;
+    --altlight: 41;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.louisianaTechColor { 
+    --hue: 213;
+    --sat: 100;
+    --light: 20;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.louisianaTechAltColor { 
+    --althue: 357;
+    --altsat: 65;
+    --altlight: 51;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.marshallColor { 
+    --hue: 134;
+    --sat: 61;
+    --light: 24;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.marshallAltColor { 
+    --althue: 30;
+    --altsat: 47;
+    --altlight: 52;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.middleTennesseeColor { 
+    --hue: 203;
+    --sat: 100;
+    --light: 38;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.middleTennesseeAltColor { 
+    --althue: 216;
+    --altsat: 4;
+    --altlight: 77;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.northTexasColor { 
+    --hue: 148;
+    --sat: 100;
+    --light: 26;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.northTexasAltColor { 
+    --althue: 0;
+    --altsat: 0;
+    --altlight: 0;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.oldDominionColor { 
+    --hue: 202;
+    --sat: 100;
+    --light: 25;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.oldDominionAltColor { 
+    --althue: 203;
+    --altsat: 74;
+    --altlight: 79;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.riceColor { 
+    --hue: 211;
+    --sat: 100;
+    --light: 25;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.riceAltColor { 
+    --althue: 206;
+    --altsat: 8;
+    --altlight: 83;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.southernMississippiColor { 
+    --hue: 34;
+    --sat: 100;
+    --light: 62;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.southernMississippiAltColor { 
+    --althue: 44;
+    --altsat: 100;
+    --altlight: 57;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.uabColor { 
+    --hue: 161;
+    --sat: 100;
+    --light: 12;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.uabAltColor { 
+    --althue: 42;
+    --altsat: 100;
+    --altlight: 64;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.utepColor { 
+    --hue: 31;
+    --sat: 100;
+    --light: 50;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.utepAltColor { 
+    --althue: 215;
+    --altsat: 89;
+    --altlight: 14;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.utSanAntonioColor { 
+    --hue: 213;
+    --sat: 100;
+    --light: 18;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.utSanAntonioAltColor { 
+    --althue: 23;
+    --altsat: 91;
+    --altlight: 54;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.westernKentuckyColor { 
+    --hue: 358;
+    --sat: 90;
+    --light: 54;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.westernKentuckyAltColor { 
+    --althue: 216;
+    --altsat: 3;
+    --altlight: 71;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.akronColor { 
+    --hue: 214;
+    --sat: 100;
+    --light: 18;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.akronAltColor { 
+    --althue: 43;
+    --altsat: 26;
+    --altlight: 41;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.ballStateColor { 
+    --hue: 0;
+    --sat: 100;
+    --light: 43;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.ballStateAltColor { 
+    --althue: 0;
+    --altsat: 0;
+    --altlight: 100;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.bowlingGreenColor { 
+    --hue: 22;
+    --sat: 100;
+    --light: 8;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.bowlingGreenAltColor { 
+    --althue: 26;
+    --altsat: 100;
+    --altlight: 14;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.buffaloColor { 
+    --hue: 231;
+    --sat: 95;
+    --light: 31;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.buffaloAltColor { 
+    --althue: 0;
+    --altsat: 0;
+    --altlight: 92;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.centralMichiganColor { 
+    --hue: 332;
+    --sat: 100;
+    --light: 21;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.centralMichiganAltColor { 
+    --althue: 0;
+    --altsat: 0;
+    --altlight: 100;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.easternMichiganColor { 
+    --hue: 152;
+    --sat: 100;
+    --light: 10;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.easternMichiganAltColor { 
+    --althue: 0;
+    --altsat: 0;
+    --altlight: 94;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.kentStateColor { 
+    --hue: 209;
+    --sat: 100;
+    --light: 14;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.kentStateAltColor { 
+    --althue: 44;
+    --altsat: 88;
+    --altlight: 50;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.miamiOhColor { 
+    --hue: 356;
+    --sat: 100;
+    --light: 32;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.miamiOhAltColor { 
+    --althue: 0;
+    --altsat: 0;
+    --altlight: 94;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.northernIllinoisColor { 
+    --hue: 353;
+    --sat: 89;
+    --light: 51;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.northernIllinoisAltColor { 
+    --althue: 0;
+    --altsat: 100;
+    --altlight: 40;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.ohioColor { 
+    --hue: 120;
+    --sat: 37;
+    --light: 26;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.ohioAltColor { 
+    --althue: 34;
+    --altsat: 64;
+    --altlight: 71;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.toledoColor { 
+    --hue: 0;
+    --sat: 0;
+    --light: 100;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.toledoAltColor { 
+    --althue: 49;
+    --altsat: 100;
+    --altlight: 56;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.westernMichiganColor { 
+    --hue: 17;
+    --sat: 46;
+    --light: 22;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.westernMichiganAltColor { 
+    --althue: 20;
+    --altsat: 7;
+    --altlight: 51;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.airForceColor { 
+    --hue: 204;
+    --sat: 100;
+    --light: 24;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.airForceAltColor { 
+    --althue: 0;
+    --altsat: 0;
+    --altlight: 100;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.boiseStateColor { 
+    --hue: 217;
+    --sat: 86;
+    --light: 26;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.boiseStateAltColor { 
+    --althue: 210;
+    --altsat: 3;
+    --altlight: 85;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.coloradoStateColor { 
+    --hue: 168;
+    --sat: 100;
+    --light: 14;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.coloradoStateAltColor { 
+    --althue: 44;
+    --altsat: 100;
+    --altlight: 57;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.fresnoStateColor { 
+    --hue: 350;
+    --sat: 83;
+    --light: 42;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.fresnoStateAltColor { 
+    --althue: 345;
+    --altsat: 6;
+    --altlight: 13;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.hawaiiColor { 
+    --hue: 157;
+    --sat: 100;
+    --light: 10;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.hawaiiAltColor { 
+    --althue: 0;
+    --altsat: 0;
+    --altlight: 100;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.nevadaColor { 
+    --hue: 207;
+    --sat: 64;
+    --light: 23;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.nevadaAltColor { 
+    --althue: 206;
+    --altsat: 3;
+    --altlight: 57;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.newMexicoColor { 
+    --hue: 0;
+    --sat: 0;
+    --light: 0;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.newMexicoAltColor { 
+    --althue: 345;
+    --altsat: 6;
+    --altlight: 13;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.sanDiegoStateColor { 
+    --hue: 356;
+    --sat: 63;
+    --light: 46;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.sanDiegoStateAltColor { 
+    --althue: 44;
+    --altsat: 25;
+    --altlight: 55;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.sanJoseStateColor { 
+    --hue: 204;
+    --sat: 100;
+    --light: 29;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.sanJoseStateAltColor { 
+    --althue: 40;
+    --altsat: 98;
+    --altlight: 59;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.unlvColor { 
+    --hue: 0;
+    --sat: 0;
+    --light: 0;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.unlvAltColor { 
+    --althue: 210;
+    --altsat: 3;
+    --altlight: 77;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.utahStateColor { 
+    --hue: 210;
+    --sat: 100;
+    --light: 19;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.utahStateAltColor { 
+    --althue: 203;
+    --altsat: 6;
+    --altlight: 61;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.wyomingColor { 
+    --hue: 31;
+    --sat: 42;
+    --light: 23;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.wyomingAltColor { 
+    --althue: 0;
+    --altsat: 0;
+    --altlight: 100;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.armyColor { 
+    --hue: 45;
+    --sat: 100;
+    --light: 40;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.armyAltColor { 
+    --althue: 345;
+    --altsat: 6;
+    --altlight: 13;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.byuColor { 
+    --hue: 216;
+    --sat: 100;
+    --light: 15;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.byuAltColor { 
+    --althue: 0;
+    --altsat: 0;
+    --altlight: 100;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.libertyColor { 
+    --hue: 223;
+    --sat: 80;
+    --light: 14;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.libertyAltColor { 
+    --althue: 359;
+    --altsat: 69;
+    --altlight: 39;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.newMexicoStateColor { 
+    --hue: 358;
+    --sat: 77;
+    --light: 30;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.newMexicoStateAltColor { 
+    --althue: 0;
+    --altsat: 0;
+    --altlight: 0;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.notreDameColor { 
+    --hue: 215;
+    --sat: 100;
+    --light: 8;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.notreDameAltColor { 
+    --althue: 44;
+    --altsat: 45;
+    --altlight: 47;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.umassColor { 
+    --hue: 357;
+    --sat: 100;
+    --light: 27;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.umassAltColor { 
+    --althue: 0;
+    --altsat: 0;
+    --altlight: 100;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.appalachianStateColor { 
+    --hue: 0;
+    --sat: 0;
+    --light: 0;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.appalachianStateAltColor { 
+    --althue: 48;
+    --altsat: 100;
+    --altlight: 50;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.arkansasStateColor { 
+    --hue: 358;
+    --sat: 87;
+    --light: 49;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.arkansasStateAltColor { 
+    --althue: 0;
+    --altsat: 0;
+    --altlight: 0;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.coastalCarolinaColor { 
+    --hue: 182;
+    --sat: 100;
+    --light: 23;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.coastalCarolinaAltColor { 
+    --althue: 27;
+    --altsat: 31;
+    --altlight: 40;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.georgiaSouthernColor { 
+    --hue: 212;
+    --sat: 100;
+    --light: 23;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.georgiaSouthernAltColor { 
+    --althue: 0;
+    --altsat: 0;
+    --altlight: 94;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.georgiaStateColor { 
+    --hue: 214;
+    --sat: 67;
+    --light: 36;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.georgiaStateAltColor { 
+    --althue: 0;
+    --altsat: 0;
+    --altlight: 92;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.louisianaColor { 
+    --hue: 351;
+    --sat: 67;
+    --light: 48;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.louisianaAltColor { 
+    --althue: 0;
+    --altsat: 0;
+    --altlight: 100;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.louisianaMonroeColor { 
+    --hue: 345;
+    --sat: 6;
+    --light: 13;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.louisianaMonroeAltColor { 
+    --althue: 35;
+    --altsat: 44;
+    --altlight: 48;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.southAlabamaColor { 
+    --hue: 210;
+    --sat: 100;
+    --light: 25;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.southAlabamaAltColor { 
+    --althue: 0;
+    --altsat: 0;
+    --altlight: 100;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.texasStateColor { 
+    --hue: 358;
+    --sat: 54;
+    --light: 20;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.texasStateAltColor { 
+    --althue: 41;
+    --altsat: 38;
+    --altlight: 53;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.troyColor { 
+    --hue: 355;
+    --sat: 98;
+    --light: 35;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.troyAltColor { 
+    --althue: 225;
+    --altsat: 2;
+    --altlight: 54;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.cincinnatiColor { 
+    --hue: 0;
+    --sat: 0;
+    --light: 0;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.cincinnatiAltColor { 
+    --althue: 260;
+    --altsat: 1;
+    --altlight: 45;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.connecticutColor { 
+    --hue: 213;
+    --sat: 100;
+    --light: 13;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.connecticutAltColor { 
+    --althue: 210;
+    --altsat: 8;
+    --altlight: 95;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.eastCarolinaColor { 
+    --hue: 278;
+    --sat: 63;
+    --light: 25;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.eastCarolinaAltColor { 
+    --althue: 11;
+    --altsat: 80;
+    --altlight: 71;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.houstonColor { 
+    --hue: 352;
+    --sat: 92;
+    --light: 41;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.houstonAltColor { 
+    --althue: 345;
+    --altsat: 6;
+    --altlight: 13;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.memphisColor { 
+    --hue: 219;
+    --sat: 100;
+    --light: 26;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.memphisAltColor { 
+    --althue: 180;
+    --altsat: 2;
+    --altlight: 55;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.navyColor { 
+    --hue: 234;
+    --sat: 43;
+    --light: 13;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.navyAltColor { 
+    --althue: 44;
+    --altsat: 28;
+    --altlight: 60;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.smuColor { 
+    --hue: 357;
+    --sat: 76;
+    --light: 54;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.smuAltColor { 
+    --althue: 41;
+    --altsat: 57;
+    --altlight: 83;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.southFloridaColor { 
+    --hue: 164;
+    --sat: 100;
+    --light: 15;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.southFloridaAltColor { 
+    --althue: 345;
+    --altsat: 6;
+    --altlight: 13;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.templeColor { 
+    --hue: 343;
+    --sat: 94;
+    --light: 34;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.templeAltColor { 
+    --althue: 216;
+    --altsat: 3;
+    --altlight: 66;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.tulaneColor { 
+    --hue: 158;
+    --sat: 100;
+    --light: 17;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.tulaneAltColor { 
+    --althue: 112;
+    --altsat: 62;
+    --altlight: 42;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.tulsaColor { 
+    --hue: 204;
+    --sat: 100;
+    --light: 22;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.tulsaAltColor { 
+    --althue: 3;
+    --altsat: 85;
+    --altlight: 57;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
+.ucfColor { 
+    --hue: 0;
+    --sat: 0;
+    --light: 0;
+    --threshold: 60;
+    background: hsl(var(--hue), calc(var(--sat) *1%), calc(var(--light) * 1%));
+    --switch: calc((var(--light) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+ }
+.ucfAltColor { 
+    --althue: 345;
+    --altsat: 6;
+    --altlight: 13;
+    --threshold: 60;
+    background: hsl(var(--althue), calc(var(--altsat) *1%), calc(var(--altlight) * 1%));
+    --switch: calc((var(--altlight) - var(--threshold)) * -100%);
+    color: hsl(0, 0%, var(--switch));
+}
