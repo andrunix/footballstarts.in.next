@@ -7,7 +7,7 @@ export default function Layout ({children}) {
   return (
     <div className="flex flex-col h-screen justify-between">
       <Head>
-        <meta charset="UTF-8"/>
+        <meta charSet="UTF-8"/>
         <meta name="google" content="notranslate"/>
         <meta httpEquiv="Content-Language" content="en"/>
         <meta httpEquiv="Cache-Control" content="no-cache, no-store, must-revalidate" />

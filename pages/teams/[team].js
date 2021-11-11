@@ -25,15 +25,15 @@ export async function getStaticProps({ params }) {
 }
 
 export default function Team({teamSchedule}) {
-  const diffDays = getDaysUntilNextGame(teamSchedule.schedule);
+    const diffDays = getDaysUntilNextGame(teamSchedule.schedule);
 
-  return (
-      <Layout>
-        <div className="max-w-md mx-auto sm:max-w-xl">
-          <Countdown teamId={teamSchedule.teamId} normalized={teamSchedule.normalized}
-                     team={teamSchedule.team} days={diffDays}/>
-          <Schedule {...teamSchedule} />
-        </div>
-      </Layout>
-  );
+    return (
+        <Layout>
+          <div className="max-w-md mx-auto sm:max-w-xl">
+            <Countdown teamId={teamSchedule.teamId} normalized={teamSchedule.normalized}
+                       team={teamSchedule.team} days={diffDays}/>
+            <Schedule {...teamSchedule} />
+          </div>
+        </Layout>
+    );
 }

@@ -25,7 +25,7 @@ export default function Conferences({conferences}) {
           <div className="bg-white px-1 md:px-4 flex-wrap text-xl">
             
             {conferences.conferences.map((conf) => (
-                <div>
+                <div key={conf.id}>
                   <div className="hover:bg-blue-100 p-2 m-2  border border-gray-200 rounded-sm" key={conf.id}>
                   <div className="inline align-center p-4">
                     <Image src={`/images/${conf.abbreviation.toLowerCase()}_logo.svg`} width="45px" height="45px"/>
