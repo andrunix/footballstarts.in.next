@@ -1,0 +1,33 @@
+[
+  {
+    "year": 2021,
+    "team": "Iowa State",
+    "conference": "Big 12",
+    "division": "",
+    "expectedWins": 6.3,
+    "total": {
+      "games": 10,
+      "wins": 6,
+      "losses": 4,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 7,
+      "wins": 4,
+      "losses": 3,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 5,
+      "wins": 4,
+      "losses": 1,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 5,
+      "wins": 2,
+      "losses": 3,
+      "ties": 0
+    }
+  }
+]

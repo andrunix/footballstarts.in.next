@@ -1,0 +1,33 @@
+[
+  {
+    "year": 2021,
+    "team": "Appalachian State",
+    "conference": "Sun Belt",
+    "division": "",
+    "expectedWins": 8.6,
+    "total": {
+      "games": 10,
+      "wins": 8,
+      "losses": 2,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 6,
+      "wins": 5,
+      "losses": 1,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 6,
+      "wins": 6,
+      "losses": 0,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 4,
+      "wins": 2,
+      "losses": 2,
+      "ties": 0
+    }
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "year": 2021,
+    "team": "Oregon State",
+    "conference": "Pac-12",
+    "division": "North",
+    "expectedWins": 7.1,
+    "total": {
+      "games": 10,
+      "wins": 6,
+      "losses": 4,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 7,
+      "wins": 4,
+      "losses": 3,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 5,
+      "wins": 5,
+      "losses": 0,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 5,
+      "wins": 1,
+      "losses": 4,
+      "ties": 0
+    }
+  }
+]

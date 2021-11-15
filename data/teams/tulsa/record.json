@@ -1,0 +1,33 @@
+[
+  {
+    "year": 2021,
+    "team": "Tulsa",
+    "conference": "American Athletic",
+    "division": "West",
+    "expectedWins": 3.9,
+    "total": {
+      "games": 10,
+      "wins": 4,
+      "losses": 6,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 6,
+      "wins": 3,
+      "losses": 3,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 5,
+      "wins": 2,
+      "losses": 3,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 5,
+      "wins": 2,
+      "losses": 3,
+      "ties": 0
+    }
+  }
+]

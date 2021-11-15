@@ -1,0 +1,33 @@
+[
+  {
+    "year": 2021,
+    "team": "Michigan",
+    "conference": "Big Ten",
+    "division": "East",
+    "expectedWins": 8.8,
+    "total": {
+      "games": 10,
+      "wins": 9,
+      "losses": 1,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 7,
+      "wins": 6,
+      "losses": 1,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 6,
+      "wins": 6,
+      "losses": 0,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 4,
+      "wins": 3,
+      "losses": 1,
+      "ties": 0
+    }
+  }
+]

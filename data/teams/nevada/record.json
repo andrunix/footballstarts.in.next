@@ -1,0 +1,33 @@
+[
+  {
+    "year": 2021,
+    "team": "Nevada",
+    "conference": "Mountain West",
+    "division": "West",
+    "expectedWins": 5.5,
+    "total": {
+      "games": 10,
+      "wins": 7,
+      "losses": 3,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 6,
+      "wins": 4,
+      "losses": 2,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 5,
+      "wins": 5,
+      "losses": 0,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 5,
+      "wins": 2,
+      "losses": 3,
+      "ties": 0
+    }
+  }
+]

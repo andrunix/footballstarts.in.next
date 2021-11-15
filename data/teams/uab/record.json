@@ -1,0 +1,33 @@
+[
+  {
+    "year": 2021,
+    "team": "UAB",
+    "conference": "Conference USA",
+    "division": "West",
+    "expectedWins": 7,
+    "total": {
+      "games": 10,
+      "wins": 7,
+      "losses": 3,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 6,
+      "wins": 5,
+      "losses": 1,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 4,
+      "wins": 2,
+      "losses": 2,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 5,
+      "wins": 4,
+      "losses": 1,
+      "ties": 0
+    }
+  }
+]

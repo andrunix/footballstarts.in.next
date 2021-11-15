@@ -1,0 +1,33 @@
+[
+  {
+    "year": 2021,
+    "team": "UTEP",
+    "conference": "Conference USA",
+    "division": "West",
+    "expectedWins": 6.7,
+    "total": {
+      "games": 10,
+      "wins": 6,
+      "losses": 4,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 6,
+      "wins": 3,
+      "losses": 3,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 5,
+      "wins": 4,
+      "losses": 1,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 5,
+      "wins": 2,
+      "losses": 3,
+      "ties": 0
+    }
+  }
+]

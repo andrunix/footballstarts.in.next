@@ -1,0 +1,33 @@
+[
+  {
+    "year": 2021,
+    "team": "Air Force",
+    "conference": "Mountain West",
+    "division": "Mountain",
+    "expectedWins": 7.2,
+    "total": {
+      "games": 10,
+      "wins": 7,
+      "losses": 3,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 6,
+      "wins": 4,
+      "losses": 2,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 5,
+      "wins": 3,
+      "losses": 2,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 4,
+      "wins": 4,
+      "losses": 0,
+      "ties": 0
+    }
+  }
+]

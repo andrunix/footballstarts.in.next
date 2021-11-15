@@ -1,0 +1,33 @@
+[
+  {
+    "year": 2021,
+    "team": "Washington State",
+    "conference": "Pac-12",
+    "division": "North",
+    "expectedWins": 3.5,
+    "total": {
+      "games": 10,
+      "wins": 5,
+      "losses": 5,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 7,
+      "wins": 4,
+      "losses": 3,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 6,
+      "wins": 3,
+      "losses": 3,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 4,
+      "wins": 2,
+      "losses": 2,
+      "ties": 0
+    }
+  }
+]

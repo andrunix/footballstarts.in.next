@@ -1,0 +1,33 @@
+[
+  {
+    "year": 2021,
+    "team": "Vanderbilt",
+    "conference": "SEC",
+    "division": "East",
+    "expectedWins": 0.9,
+    "total": {
+      "games": 10,
+      "wins": 2,
+      "losses": 8,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 6,
+      "wins": 0,
+      "losses": 6,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 7,
+      "wins": 1,
+      "losses": 6,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 3,
+      "wins": 1,
+      "losses": 2,
+      "ties": 0
+    }
+  }
+]

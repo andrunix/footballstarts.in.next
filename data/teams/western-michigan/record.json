@@ -1,0 +1,33 @@
+[
+  {
+    "year": 2021,
+    "team": "Western Michigan",
+    "conference": "Mid-American",
+    "division": "West",
+    "expectedWins": 6.6,
+    "total": {
+      "games": 10,
+      "wins": 6,
+      "losses": 4,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 6,
+      "wins": 3,
+      "losses": 3,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 6,
+      "wins": 4,
+      "losses": 2,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 4,
+      "wins": 2,
+      "losses": 2,
+      "ties": 0
+    }
+  }
+]

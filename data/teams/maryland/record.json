@@ -1,0 +1,33 @@
+[
+  {
+    "year": 2021,
+    "team": "Maryland",
+    "conference": "Big Ten",
+    "division": "East",
+    "expectedWins": 4.2,
+    "total": {
+      "games": 10,
+      "wins": 5,
+      "losses": 5,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 7,
+      "wins": 2,
+      "losses": 5,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 6,
+      "wins": 4,
+      "losses": 2,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 4,
+      "wins": 1,
+      "losses": 3,
+      "ties": 0
+    }
+  }
+]

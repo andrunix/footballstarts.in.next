@@ -1,0 +1,33 @@
+[
+  {
+    "year": 2021,
+    "team": "Kentucky",
+    "conference": "SEC",
+    "division": "East",
+    "expectedWins": 5.7,
+    "total": {
+      "games": 10,
+      "wins": 7,
+      "losses": 3,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 8,
+      "wins": 5,
+      "losses": 3,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 6,
+      "wins": 5,
+      "losses": 1,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 4,
+      "wins": 2,
+      "losses": 2,
+      "ties": 0
+    }
+  }
+]

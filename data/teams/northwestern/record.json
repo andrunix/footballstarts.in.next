@@ -1,0 +1,33 @@
+[
+  {
+    "year": 2021,
+    "team": "Northwestern",
+    "conference": "Big Ten",
+    "division": "West",
+    "expectedWins": 3.3,
+    "total": {
+      "games": 10,
+      "wins": 3,
+      "losses": 7,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 7,
+      "wins": 1,
+      "losses": 6,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 6,
+      "wins": 3,
+      "losses": 3,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 4,
+      "wins": 0,
+      "losses": 4,
+      "ties": 0
+    }
+  }
+]

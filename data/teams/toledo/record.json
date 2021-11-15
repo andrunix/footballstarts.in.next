@@ -1,0 +1,33 @@
+[
+  {
+    "year": 2021,
+    "team": "Toledo",
+    "conference": "Mid-American",
+    "division": "West",
+    "expectedWins": 5.8,
+    "total": {
+      "games": 10,
+      "wins": 5,
+      "losses": 5,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 6,
+      "wins": 3,
+      "losses": 3,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 5,
+      "wins": 2,
+      "losses": 3,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 5,
+      "wins": 3,
+      "losses": 2,
+      "ties": 0
+    }
+  }
+]

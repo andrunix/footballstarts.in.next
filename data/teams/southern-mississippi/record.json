@@ -1,0 +1,33 @@
+[
+  {
+    "year": 2021,
+    "team": "Southern Mississippi",
+    "conference": "Conference USA",
+    "division": "West",
+    "expectedWins": 2.3,
+    "total": {
+      "games": 10,
+      "wins": 1,
+      "losses": 9,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 6,
+      "wins": 0,
+      "losses": 6,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 5,
+      "wins": 1,
+      "losses": 4,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 5,
+      "wins": 0,
+      "losses": 5,
+      "ties": 0
+    }
+  }
+]

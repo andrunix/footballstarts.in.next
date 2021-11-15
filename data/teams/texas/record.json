@@ -1,0 +1,33 @@
+[
+  {
+    "year": 2021,
+    "team": "Texas",
+    "conference": "Big 12",
+    "division": "",
+    "expectedWins": 3.3,
+    "total": {
+      "games": 10,
+      "wins": 4,
+      "losses": 6,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 7,
+      "wins": 2,
+      "losses": 5,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 5,
+      "wins": 3,
+      "losses": 2,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 4,
+      "wins": 1,
+      "losses": 3,
+      "ties": 0
+    }
+  }
+]

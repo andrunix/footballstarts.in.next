@@ -1,0 +1,33 @@
+[
+  {
+    "year": 2021,
+    "team": "Oklahoma",
+    "conference": "Big 12",
+    "division": "",
+    "expectedWins": 6.3,
+    "total": {
+      "games": 10,
+      "wins": 9,
+      "losses": 1,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 7,
+      "wins": 6,
+      "losses": 1,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 6,
+      "wins": 6,
+      "losses": 0,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 3,
+      "wins": 2,
+      "losses": 1,
+      "ties": 0
+    }
+  }
+]

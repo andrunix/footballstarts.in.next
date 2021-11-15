@@ -1,0 +1,33 @@
+[
+  {
+    "year": 2021,
+    "team": "Hawai'i",
+    "conference": "Mountain West",
+    "division": "West",
+    "expectedWins": 3.8,
+    "total": {
+      "games": 11,
+      "wins": 4,
+      "losses": 7,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 6,
+      "wins": 1,
+      "losses": 5,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 5,
+      "wins": 3,
+      "losses": 2,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 6,
+      "wins": 1,
+      "losses": 5,
+      "ties": 0
+    }
+  }
+]

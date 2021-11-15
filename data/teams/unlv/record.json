@@ -1,0 +1,33 @@
+[
+  {
+    "year": 2021,
+    "team": "UNLV",
+    "conference": "Mountain West",
+    "division": "West",
+    "expectedWins": 1.6,
+    "total": {
+      "games": 10,
+      "wins": 2,
+      "losses": 8,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 6,
+      "wins": 2,
+      "losses": 4,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 5,
+      "wins": 1,
+      "losses": 4,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 5,
+      "wins": 1,
+      "losses": 4,
+      "ties": 0
+    }
+  }
+]

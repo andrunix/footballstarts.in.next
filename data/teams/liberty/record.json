@@ -1,0 +1,33 @@
+[
+  {
+    "year": 2021,
+    "team": "Liberty",
+    "conference": "FBS Independents",
+    "division": "",
+    "expectedWins": 6.7,
+    "total": {
+      "games": 10,
+      "wins": 7,
+      "losses": 3,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 0,
+      "wins": 0,
+      "losses": 0,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 4,
+      "wins": 4,
+      "losses": 0,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 6,
+      "wins": 3,
+      "losses": 3,
+      "ties": 0
+    }
+  }
+]

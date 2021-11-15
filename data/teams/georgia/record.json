@@ -1,0 +1,33 @@
+[
+  {
+    "year": 2021,
+    "team": "Georgia",
+    "conference": "SEC",
+    "division": "East",
+    "expectedWins": 10,
+    "total": {
+      "games": 10,
+      "wins": 10,
+      "losses": 0,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 8,
+      "wins": 8,
+      "losses": 0,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 5,
+      "wins": 5,
+      "losses": 0,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 3,
+      "wins": 3,
+      "losses": 0,
+      "ties": 0
+    }
+  }
+]

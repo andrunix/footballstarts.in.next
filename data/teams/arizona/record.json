@@ -1,0 +1,33 @@
+[
+  {
+    "year": 2021,
+    "team": "Arizona",
+    "conference": "Pac-12",
+    "division": "South",
+    "expectedWins": 1.9,
+    "total": {
+      "games": 10,
+      "wins": 1,
+      "losses": 9,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 7,
+      "wins": 1,
+      "losses": 6,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 6,
+      "wins": 1,
+      "losses": 5,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 3,
+      "wins": 0,
+      "losses": 3,
+      "ties": 0
+    }
+  }
+]

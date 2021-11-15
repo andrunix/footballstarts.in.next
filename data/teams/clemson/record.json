@@ -1,0 +1,33 @@
+[
+  {
+    "year": 2021,
+    "team": "Clemson",
+    "conference": "ACC",
+    "division": "Atlantic",
+    "expectedWins": 5.7,
+    "total": {
+      "games": 10,
+      "wins": 7,
+      "losses": 3,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 7,
+      "wins": 5,
+      "losses": 2,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 5,
+      "wins": 5,
+      "losses": 0,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 4,
+      "wins": 2,
+      "losses": 2,
+      "ties": 0
+    }
+  }
+]
