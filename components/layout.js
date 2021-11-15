@@ -7,7 +7,12 @@ export default function Layout ({children}) {
   return (
     <div className="flex flex-col h-screen justify-between">
       <Head>
+        <link rel="shortcut icon" href="/images/favicon.ico" />
+        <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png" />
+        <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png"/>
+        <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png"/>
         <meta charSet="UTF-8"/>
+        
         <meta name="google" content="notranslate"/>
         <meta httpEquiv="Content-Language" content="en"/>
         <meta httpEquiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
