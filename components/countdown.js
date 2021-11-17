@@ -6,10 +6,12 @@ export default function Countdown({teamId, normalized, team, days}) {
     <div className="text-black text-center bg-opacity-50 bg-blue-500 rounded-t-2xl mx-auto">
       
       <div className="flex justify-center">
-        
+
+        {team &&
         <div className="flex flex-col p-2">
           <Image src={`/images/${normalized}/${teamId}.png`} width="45px" height="45px"/>
         </div>
+        }
         <div className="uppercase text-white text-bold text-2xl align-middle flex flex-col p-2">
           {team ? team : 'College'} football starts in
         </div>

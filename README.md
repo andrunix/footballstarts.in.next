@@ -2,46 +2,44 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-First, run the development server:
+Run the development server
 
 ```bash
 npm run dev
-# or
-yarn dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+By default, the app runs locally on [http://localhost:3000](http://localhost:3000).
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+## Deploying
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+Currently this app is configured to deploy to [Vercel](https://vercel.com). I may change
+this in the future but this is fine for now given the low traffic
+and minimal requirements.
 
-## Learn More
+## Structure and Architecture
 
-To learn more about Next.js, take a look at the following resources:
+This is a pretty simple server-side rendered React app. All data
+is imported into the `data` directory by a separate process that is not
+part of this project. Everything is built statically from that data set.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+In the future I might make all of that dynamic using [SWR](https://swr.vercel.app/) for
+fetching data client-side.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
+## React Usage
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+[React](https://reactjs.org) version 17.0.2 is used. There is no dependency on Redux or other 
+state management libraries because the site is pretty much static.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Where any state is used, I am using [React State Hooks](https://reactjs.org/docs/hooks-state.html).
 
-# TODO List
+I have tried to keep this using React Functional components as those are 
+just cleaner. So far I have not found anything I cannot do with functional 
+components, especially with React Hooks. 
 
-[ ] Get "this week's schedule" and display it in the home page
-[ ] Handle per-team pages
-[ ] Get the schedule per team
-[ ] Typeahead implementation for team search
-[ ] Styling on the countdown boxes
-[ ] Choose UI library - Material UI, Tailwind, Ant Design
-[ ] Implement UI library
-[ ] Dockerize
-[ ] Deploy to AWS
+## More to come!
+
+This is a passion project so updates are not terribly frequent and I add
+things when I can. If you like or want to contribute, let me know. 
 

@@ -1,23 +1,5 @@
 [
   {
-    "id": 401309589,
-    "start_date": "2021-11-17T00:00:00.000Z",
-    "home_team": "Ohio",
-    "away_team": "Toledo"
-  },
-  {
-    "id": 401309588,
-    "start_date": "2021-11-17T00:30:00.000Z",
-    "home_team": "Eastern Michigan",
-    "away_team": "Western Michigan"
-  },
-  {
-    "id": 401308841,
-    "start_date": "2021-11-17T01:00:00.000Z",
-    "home_team": "Miami (OH)",
-    "away_team": "Bowling Green"
-  },
-  {
     "id": 401309591,
     "start_date": "2021-11-18T00:00:00.000Z",
     "home_team": "Ball State",
@@ -394,5 +376,11 @@
     "start_date": "2021-11-21T04:00:00.000Z",
     "home_team": "Hawai'i",
     "away_team": "Colorado State"
+  },
+  {
+    "id": 401309594,
+    "start_date": "2021-11-24T00:00:00.000Z",
+    "home_team": "Northern Illinois",
+    "away_team": "Western Michigan"
   }
 ]

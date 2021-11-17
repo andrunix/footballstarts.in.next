@@ -4,21 +4,21 @@
     "team": "Ohio",
     "conference": "Mid-American",
     "division": "East",
-    "expectedWins": 3.5,
+    "expectedWins": 3.8,
     "total": {
-      "games": 10,
+      "games": 11,
       "wins": 3,
       "losses": 7,
       "ties": 0
     },
     "conferenceGames": {
-      "games": 6,
+      "games": 7,
       "wins": 3,
       "losses": 3,
       "ties": 0
     },
     "homeGames": {
-      "games": 5,
+      "games": 6,
       "wins": 1,
       "losses": 4,
       "ties": 0
