@@ -8,13 +8,13 @@
     "total": {
       "games": 11,
       "wins": 6,
-      "losses": 4,
+      "losses": 5,
       "ties": 0
     },
     "conferenceGames": {
       "games": 7,
       "wins": 3,
-      "losses": 3,
+      "losses": 4,
       "ties": 0
     },
     "homeGames": {
@@ -26,7 +26,7 @@
     "awayGames": {
       "games": 5,
       "wins": 2,
-      "losses": 2,
+      "losses": 3,
       "ties": 0
     }
   }

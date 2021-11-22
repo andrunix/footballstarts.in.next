@@ -4,22 +4,22 @@
     "team": "Notre Dame",
     "conference": "FBS Independents",
     "division": "",
-    "expectedWins": 7.6,
+    "expectedWins": 8.6,
     "total": {
-      "games": 10,
-      "wins": 9,
+      "games": 11,
+      "wins": 10,
       "losses": 1,
       "ties": 0
     },
     "conferenceGames": {
-      "games": 4,
-      "wins": 4,
+      "games": 5,
+      "wins": 5,
       "losses": 0,
       "ties": 0
     },
     "homeGames": {
-      "games": 6,
-      "wins": 5,
+      "games": 7,
+      "wins": 6,
       "losses": 1,
       "ties": 0
     },

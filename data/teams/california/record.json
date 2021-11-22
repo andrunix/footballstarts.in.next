@@ -4,16 +4,16 @@
     "team": "California",
     "conference": "Pac-12",
     "division": "North",
-    "expectedWins": 4.5,
+    "expectedWins": 5.5,
     "total": {
-      "games": 9,
-      "wins": 3,
+      "games": 10,
+      "wins": 4,
       "losses": 6,
       "ties": 0
     },
     "conferenceGames": {
-      "games": 6,
-      "wins": 2,
+      "games": 7,
+      "wins": 3,
       "losses": 4,
       "ties": 0
     },
@@ -24,8 +24,8 @@
       "ties": 0
     },
     "awayGames": {
-      "games": 4,
-      "wins": 0,
+      "games": 5,
+      "wins": 1,
       "losses": 4,
       "ties": 0
     }

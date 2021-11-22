@@ -6,20 +6,20 @@
     "division": "",
     "expectedWins": 4.9,
     "total": {
-      "games": 10,
-      "wins": 5,
+      "games": 11,
+      "wins": 6,
       "losses": 5,
       "ties": 0
     },
     "conferenceGames": {
-      "games": 6,
-      "wins": 4,
+      "games": 7,
+      "wins": 5,
       "losses": 2,
       "ties": 0
     },
     "homeGames": {
-      "games": 4,
-      "wins": 2,
+      "games": 5,
+      "wins": 3,
       "losses": 2,
       "ties": 0
     },

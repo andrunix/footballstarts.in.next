@@ -4,23 +4,23 @@
     "team": "Boston College",
     "conference": "ACC",
     "division": "Atlantic",
-    "expectedWins": 5.9,
+    "expectedWins": 6.2,
     "total": {
-      "games": 10,
+      "games": 11,
       "wins": 6,
-      "losses": 4,
+      "losses": 5,
       "ties": 0
     },
     "conferenceGames": {
-      "games": 6,
+      "games": 7,
       "wins": 2,
-      "losses": 4,
+      "losses": 5,
       "ties": 0
     },
     "homeGames": {
-      "games": 4,
+      "games": 5,
       "wins": 3,
-      "losses": 1,
+      "losses": 2,
       "ties": 0
     },
     "awayGames": {

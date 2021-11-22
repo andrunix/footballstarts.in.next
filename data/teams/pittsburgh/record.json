@@ -4,22 +4,22 @@
     "team": "Pittsburgh",
     "conference": "ACC",
     "division": "Coastal",
-    "expectedWins": 8.1,
+    "expectedWins": 8.8,
     "total": {
-      "games": 10,
-      "wins": 8,
+      "games": 11,
+      "wins": 9,
       "losses": 2,
       "ties": 0
     },
     "conferenceGames": {
-      "games": 6,
-      "wins": 5,
+      "games": 7,
+      "wins": 6,
       "losses": 1,
       "ties": 0
     },
     "homeGames": {
-      "games": 6,
-      "wins": 4,
+      "games": 7,
+      "wins": 5,
       "losses": 2,
       "ties": 0
     },

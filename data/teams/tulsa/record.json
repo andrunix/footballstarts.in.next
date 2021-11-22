@@ -4,22 +4,22 @@
     "team": "Tulsa",
     "conference": "American Athletic",
     "division": "West",
-    "expectedWins": 3.9,
+    "expectedWins": 4.9,
     "total": {
-      "games": 10,
-      "wins": 4,
+      "games": 11,
+      "wins": 5,
       "losses": 6,
       "ties": 0
     },
     "conferenceGames": {
-      "games": 6,
-      "wins": 3,
+      "games": 7,
+      "wins": 4,
       "losses": 3,
       "ties": 0
     },
     "homeGames": {
-      "games": 5,
-      "wins": 2,
+      "games": 6,
+      "wins": 3,
       "losses": 3,
       "ties": 0
     },

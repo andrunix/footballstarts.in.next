@@ -4,22 +4,22 @@
     "team": "Iowa",
     "conference": "Big Ten",
     "division": "West",
-    "expectedWins": 5.7,
+    "expectedWins": 6.6,
     "total": {
-      "games": 10,
-      "wins": 8,
+      "games": 11,
+      "wins": 9,
       "losses": 2,
       "ties": 0
     },
     "conferenceGames": {
-      "games": 7,
-      "wins": 5,
+      "games": 8,
+      "wins": 6,
       "losses": 2,
       "ties": 0
     },
     "homeGames": {
-      "games": 6,
-      "wins": 5,
+      "games": 7,
+      "wins": 6,
       "losses": 1,
       "ties": 0
     },

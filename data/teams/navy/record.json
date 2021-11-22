@@ -4,23 +4,23 @@
     "team": "Navy",
     "conference": "American Athletic",
     "division": "West",
-    "expectedWins": 4.1,
+    "expectedWins": 5.1,
     "total": {
-      "games": 9,
+      "games": 10,
       "wins": 2,
-      "losses": 7,
+      "losses": 8,
       "ties": 0
     },
     "conferenceGames": {
-      "games": 6,
+      "games": 7,
       "wins": 2,
-      "losses": 4,
+      "losses": 5,
       "ties": 0
     },
     "homeGames": {
-      "games": 5,
+      "games": 6,
       "wins": 1,
-      "losses": 4,
+      "losses": 5,
       "ties": 0
     },
     "awayGames": {

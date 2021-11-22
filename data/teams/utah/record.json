@@ -4,22 +4,22 @@
     "team": "Utah",
     "conference": "Pac-12",
     "division": "South",
-    "expectedWins": 6.9,
+    "expectedWins": 7.9,
     "total": {
-      "games": 10,
-      "wins": 7,
+      "games": 11,
+      "wins": 8,
       "losses": 3,
       "ties": 0
     },
     "conferenceGames": {
-      "games": 7,
-      "wins": 6,
+      "games": 8,
+      "wins": 7,
       "losses": 1,
       "ties": 0
     },
     "homeGames": {
-      "games": 4,
-      "wins": 4,
+      "games": 5,
+      "wins": 5,
       "losses": 0,
       "ties": 0
     },

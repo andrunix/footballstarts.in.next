@@ -4,17 +4,17 @@
     "team": "Arizona State",
     "conference": "Pac-12",
     "division": "South",
-    "expectedWins": 8.1,
+    "expectedWins": 8.2,
     "total": {
-      "games": 10,
+      "games": 11,
       "wins": 7,
-      "losses": 3,
+      "losses": 4,
       "ties": 0
     },
     "conferenceGames": {
-      "games": 7,
+      "games": 8,
       "wins": 5,
-      "losses": 2,
+      "losses": 3,
       "ties": 0
     },
     "homeGames": {
@@ -24,9 +24,9 @@
       "ties": 0
     },
     "awayGames": {
-      "games": 4,
+      "games": 5,
       "wins": 2,
-      "losses": 2,
+      "losses": 3,
       "ties": 0
     }
   }

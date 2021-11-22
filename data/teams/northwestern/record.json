@@ -4,17 +4,17 @@
     "team": "Northwestern",
     "conference": "Big Ten",
     "division": "West",
-    "expectedWins": 3.3,
+    "expectedWins": 3.4,
     "total": {
-      "games": 10,
+      "games": 11,
       "wins": 3,
-      "losses": 7,
+      "losses": 8,
       "ties": 0
     },
     "conferenceGames": {
-      "games": 7,
+      "games": 8,
       "wins": 1,
-      "losses": 6,
+      "losses": 7,
       "ties": 0
     },
     "homeGames": {

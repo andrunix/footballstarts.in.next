@@ -4,22 +4,22 @@
     "team": "South Carolina",
     "conference": "SEC",
     "division": "East",
-    "expectedWins": 5,
+    "expectedWins": 5.9,
     "total": {
-      "games": 10,
-      "wins": 5,
+      "games": 11,
+      "wins": 6,
       "losses": 5,
       "ties": 0
     },
     "conferenceGames": {
-      "games": 7,
-      "wins": 2,
+      "games": 8,
+      "wins": 3,
       "losses": 5,
       "ties": 0
     },
     "homeGames": {
-      "games": 5,
-      "wins": 4,
+      "games": 6,
+      "wins": 5,
       "losses": 1,
       "ties": 0
     },

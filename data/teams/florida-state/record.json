@@ -4,16 +4,16 @@
     "team": "Florida State",
     "conference": "ACC",
     "division": "Atlantic",
-    "expectedWins": 5.2,
+    "expectedWins": 5.9,
     "total": {
-      "games": 10,
-      "wins": 4,
+      "games": 11,
+      "wins": 5,
       "losses": 6,
       "ties": 0
     },
     "conferenceGames": {
-      "games": 8,
-      "wins": 3,
+      "games": 9,
+      "wins": 4,
       "losses": 5,
       "ties": 0
     },
@@ -24,8 +24,8 @@
       "ties": 0
     },
     "awayGames": {
-      "games": 3,
-      "wins": 1,
+      "games": 4,
+      "wins": 2,
       "losses": 2,
       "ties": 0
     }

@@ -4,16 +4,16 @@
     "team": "San Diego State",
     "conference": "Mountain West",
     "division": "West",
-    "expectedWins": 8,
+    "expectedWins": 8.5,
     "total": {
-      "games": 10,
-      "wins": 9,
+      "games": 11,
+      "wins": 10,
       "losses": 1,
       "ties": 0
     },
     "conferenceGames": {
-      "games": 6,
-      "wins": 5,
+      "games": 7,
+      "wins": 6,
       "losses": 1,
       "ties": 0
     },
@@ -24,8 +24,8 @@
       "ties": 0
     },
     "awayGames": {
-      "games": 4,
-      "wins": 4,
+      "games": 5,
+      "wins": 5,
       "losses": 0,
       "ties": 0
     }

@@ -4,10 +4,10 @@
     "team": "Tennessee",
     "conference": "SEC",
     "division": "East",
-    "expectedWins": 5.2,
+    "expectedWins": 6.2,
     "total": {
-      "games": 10,
-      "wins": 5,
+      "games": 11,
+      "wins": 6,
       "losses": 5,
       "ties": 0
     },
@@ -18,8 +18,8 @@
       "ties": 0
     },
     "homeGames": {
-      "games": 6,
-      "wins": 3,
+      "games": 7,
+      "wins": 4,
       "losses": 3,
       "ties": 0
     },

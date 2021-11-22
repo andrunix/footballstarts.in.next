@@ -4,22 +4,22 @@
     "team": "Hawai'i",
     "conference": "Mountain West",
     "division": "West",
-    "expectedWins": 3.8,
+    "expectedWins": 4.3,
     "total": {
-      "games": 11,
-      "wins": 4,
+      "games": 12,
+      "wins": 5,
       "losses": 7,
       "ties": 0
     },
     "conferenceGames": {
-      "games": 6,
-      "wins": 1,
+      "games": 7,
+      "wins": 2,
       "losses": 5,
       "ties": 0
     },
     "homeGames": {
-      "games": 5,
-      "wins": 3,
+      "games": 6,
+      "wins": 4,
       "losses": 2,
       "ties": 0
     },

@@ -4,16 +4,16 @@
     "team": "North Texas",
     "conference": "Conference USA",
     "division": "West",
-    "expectedWins": 4,
+    "expectedWins": 5,
     "total": {
-      "games": 10,
-      "wins": 4,
+      "games": 11,
+      "wins": 5,
       "losses": 6,
       "ties": 0
     },
     "conferenceGames": {
-      "games": 6,
-      "wins": 3,
+      "games": 7,
+      "wins": 4,
       "losses": 3,
       "ties": 0
     },
@@ -24,8 +24,8 @@
       "ties": 0
     },
     "awayGames": {
-      "games": 5,
-      "wins": 2,
+      "games": 6,
+      "wins": 3,
       "losses": 3,
       "ties": 0
     }

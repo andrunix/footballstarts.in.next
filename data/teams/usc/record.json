@@ -6,21 +6,21 @@
     "division": "South",
     "expectedWins": 2.7,
     "total": {
-      "games": 9,
+      "games": 10,
       "wins": 4,
-      "losses": 5,
+      "losses": 6,
       "ties": 0
     },
     "conferenceGames": {
-      "games": 7,
+      "games": 8,
       "wins": 3,
-      "losses": 4,
+      "losses": 5,
       "ties": 0
     },
     "homeGames": {
-      "games": 5,
+      "games": 6,
       "wins": 2,
-      "losses": 3,
+      "losses": 4,
       "ties": 0
     },
     "awayGames": {
