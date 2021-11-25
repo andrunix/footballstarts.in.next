@@ -4,9 +4,8 @@ import Layout from '../components/layout.js';
 export default function Privacy() {
   return (
     <Layout>
-      <div className="privacy">
+      <div className="container">
         <h1>Privacy Policy</h1>
-
         <p>
           FootballStarts.in is part of XOSO, LLC. This privacy policy explains how we
           use any personal information we collect about you.

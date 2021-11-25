@@ -18,6 +18,12 @@ export default function Footer () {
             <a>Privacy</a>
           </Link>
         </div>
+        <div className="px-2">
+          <Link href="/about">
+            <a>About</a>
+          </Link>
+        </div>
+        
       </footer>
   );
 }
