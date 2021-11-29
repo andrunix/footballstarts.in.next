@@ -4,17 +4,17 @@
     "team": "Oklahoma",
     "conference": "Big 12",
     "division": "",
-    "expectedWins": 7.3,
+    "expectedWins": 7.5,
     "total": {
-      "games": 11,
+      "games": 12,
       "wins": 10,
-      "losses": 1,
+      "losses": 2,
       "ties": 0
     },
     "conferenceGames": {
-      "games": 8,
+      "games": 9,
       "wins": 7,
-      "losses": 1,
+      "losses": 2,
       "ties": 0
     },
     "homeGames": {
@@ -24,9 +24,9 @@
       "ties": 0
     },
     "awayGames": {
-      "games": 3,
+      "games": 4,
       "wins": 2,
-      "losses": 1,
+      "losses": 2,
       "ties": 0
     }
   }

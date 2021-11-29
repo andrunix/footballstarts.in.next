@@ -4,22 +4,22 @@
     "team": "Michigan State",
     "conference": "Big Ten",
     "division": "East",
-    "expectedWins": 7.6,
+    "expectedWins": 8.4,
     "total": {
-      "games": 11,
-      "wins": 9,
+      "games": 12,
+      "wins": 10,
       "losses": 2,
       "ties": 0
     },
     "conferenceGames": {
-      "games": 8,
-      "wins": 6,
+      "games": 9,
+      "wins": 7,
       "losses": 2,
       "ties": 0
     },
     "homeGames": {
-      "games": 5,
-      "wins": 5,
+      "games": 6,
+      "wins": 6,
       "losses": 0,
       "ties": 0
     },

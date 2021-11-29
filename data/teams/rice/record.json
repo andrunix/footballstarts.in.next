@@ -4,22 +4,22 @@
     "team": "Rice",
     "conference": "Conference USA",
     "division": "West",
-    "expectedWins": 4,
+    "expectedWins": 4.9,
     "total": {
-      "games": 11,
-      "wins": 3,
+      "games": 12,
+      "wins": 4,
       "losses": 8,
       "ties": 0
     },
     "conferenceGames": {
-      "games": 7,
-      "wins": 2,
+      "games": 8,
+      "wins": 3,
       "losses": 5,
       "ties": 0
     },
     "homeGames": {
-      "games": 5,
-      "wins": 2,
+      "games": 6,
+      "wins": 3,
       "losses": 3,
       "ties": 0
     },

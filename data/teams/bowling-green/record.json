@@ -4,22 +4,22 @@
     "team": "Bowling Green",
     "conference": "Mid-American",
     "division": "East",
-    "expectedWins": 2.1,
+    "expectedWins": 3,
     "total": {
-      "games": 11,
-      "wins": 3,
+      "games": 12,
+      "wins": 4,
       "losses": 8,
       "ties": 0
     },
     "conferenceGames": {
-      "games": 7,
-      "wins": 1,
+      "games": 8,
+      "wins": 2,
       "losses": 6,
       "ties": 0
     },
     "homeGames": {
-      "games": 5,
-      "wins": 1,
+      "games": 6,
+      "wins": 2,
       "losses": 4,
       "ties": 0
     },

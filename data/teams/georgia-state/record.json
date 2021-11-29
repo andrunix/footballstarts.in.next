@@ -4,22 +4,22 @@
     "team": "Georgia State",
     "conference": "Sun Belt",
     "division": "",
-    "expectedWins": 4.9,
+    "expectedWins": 5.9,
     "total": {
-      "games": 11,
-      "wins": 6,
+      "games": 12,
+      "wins": 7,
       "losses": 5,
       "ties": 0
     },
     "conferenceGames": {
-      "games": 7,
-      "wins": 5,
+      "games": 8,
+      "wins": 6,
       "losses": 2,
       "ties": 0
     },
     "homeGames": {
-      "games": 5,
-      "wins": 3,
+      "games": 6,
+      "wins": 4,
       "losses": 2,
       "ties": 0
     },

@@ -4,16 +4,16 @@
     "team": "Maryland",
     "conference": "Big Ten",
     "division": "East",
-    "expectedWins": 4.2,
+    "expectedWins": 5.2,
     "total": {
-      "games": 11,
-      "wins": 5,
+      "games": 12,
+      "wins": 6,
       "losses": 6,
       "ties": 0
     },
     "conferenceGames": {
-      "games": 8,
-      "wins": 2,
+      "games": 9,
+      "wins": 3,
       "losses": 6,
       "ties": 0
     },
@@ -24,8 +24,8 @@
       "ties": 0
     },
     "awayGames": {
-      "games": 4,
-      "wins": 1,
+      "games": 5,
+      "wins": 2,
       "losses": 3,
       "ties": 0
     }

@@ -4,22 +4,22 @@
     "team": "UAB",
     "conference": "Conference USA",
     "division": "West",
-    "expectedWins": 8,
+    "expectedWins": 8.9,
     "total": {
-      "games": 11,
-      "wins": 7,
+      "games": 12,
+      "wins": 8,
       "losses": 4,
       "ties": 0
     },
     "conferenceGames": {
-      "games": 7,
-      "wins": 5,
+      "games": 8,
+      "wins": 6,
       "losses": 2,
       "ties": 0
     },
     "homeGames": {
-      "games": 4,
-      "wins": 2,
+      "games": 5,
+      "wins": 3,
       "losses": 2,
       "ties": 0
     },

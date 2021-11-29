@@ -4,23 +4,23 @@
     "team": "Arkansas State",
     "conference": "Sun Belt",
     "division": "",
-    "expectedWins": 2,
+    "expectedWins": 2.9,
     "total": {
-      "games": 11,
+      "games": 12,
       "wins": 2,
-      "losses": 9,
+      "losses": 10,
       "ties": 0
     },
     "conferenceGames": {
-      "games": 7,
+      "games": 8,
       "wins": 1,
-      "losses": 6,
+      "losses": 7,
       "ties": 0
     },
     "homeGames": {
-      "games": 5,
+      "games": 6,
       "wins": 1,
-      "losses": 4,
+      "losses": 5,
       "ties": 0
     },
     "awayGames": {

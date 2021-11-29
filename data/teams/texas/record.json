@@ -4,22 +4,22 @@
     "team": "Texas",
     "conference": "Big 12",
     "division": "",
-    "expectedWins": 3.6,
+    "expectedWins": 4.6,
     "total": {
-      "games": 11,
-      "wins": 4,
+      "games": 12,
+      "wins": 5,
       "losses": 7,
       "ties": 0
     },
     "conferenceGames": {
-      "games": 8,
-      "wins": 2,
+      "games": 9,
+      "wins": 3,
       "losses": 6,
       "ties": 0
     },
     "homeGames": {
-      "games": 5,
-      "wins": 3,
+      "games": 6,
+      "wins": 4,
       "losses": 2,
       "ties": 0
     },

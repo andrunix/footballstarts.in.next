@@ -4,16 +4,16 @@
     "team": "Virginia Tech",
     "conference": "ACC",
     "division": "Coastal",
-    "expectedWins": 4.8,
+    "expectedWins": 5.8,
     "total": {
-      "games": 11,
-      "wins": 5,
+      "games": 12,
+      "wins": 6,
       "losses": 6,
       "ties": 0
     },
     "conferenceGames": {
-      "games": 8,
-      "wins": 3,
+      "games": 9,
+      "wins": 4,
       "losses": 5,
       "ties": 0
     },
@@ -24,8 +24,8 @@
       "ties": 0
     },
     "awayGames": {
-      "games": 4,
-      "wins": 1,
+      "games": 5,
+      "wins": 2,
       "losses": 3,
       "ties": 0
     }

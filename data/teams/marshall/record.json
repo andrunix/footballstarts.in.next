@@ -4,23 +4,23 @@
     "team": "Marshall",
     "conference": "Conference USA",
     "division": "East",
-    "expectedWins": 5.7,
+    "expectedWins": 6.3,
     "total": {
-      "games": 11,
+      "games": 12,
       "wins": 7,
-      "losses": 4,
+      "losses": 5,
       "ties": 0
     },
     "conferenceGames": {
-      "games": 7,
+      "games": 8,
       "wins": 5,
-      "losses": 2,
+      "losses": 3,
       "ties": 0
     },
     "homeGames": {
-      "games": 5,
+      "games": 6,
       "wins": 3,
-      "losses": 2,
+      "losses": 3,
       "ties": 0
     },
     "awayGames": {

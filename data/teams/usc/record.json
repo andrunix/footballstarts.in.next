@@ -4,11 +4,11 @@
     "team": "USC",
     "conference": "Pac-12",
     "division": "South",
-    "expectedWins": 2.7,
+    "expectedWins": 3,
     "total": {
-      "games": 10,
+      "games": 11,
       "wins": 4,
-      "losses": 6,
+      "losses": 7,
       "ties": 0
     },
     "conferenceGames": {
@@ -18,9 +18,9 @@
       "ties": 0
     },
     "homeGames": {
-      "games": 6,
+      "games": 7,
       "wins": 2,
-      "losses": 4,
+      "losses": 5,
       "ties": 0
     },
     "awayGames": {

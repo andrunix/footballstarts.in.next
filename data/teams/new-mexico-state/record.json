@@ -4,10 +4,10 @@
     "team": "New Mexico State",
     "conference": "FBS Independents",
     "division": "",
-    "expectedWins": 1.1,
+    "expectedWins": 2.1,
     "total": {
-      "games": 11,
-      "wins": 1,
+      "games": 12,
+      "wins": 2,
       "losses": 10,
       "ties": 0
     },
@@ -18,8 +18,8 @@
       "ties": 0
     },
     "homeGames": {
-      "games": 4,
-      "wins": 1,
+      "games": 5,
+      "wins": 2,
       "losses": 3,
       "ties": 0
     },

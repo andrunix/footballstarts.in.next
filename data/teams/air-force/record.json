@@ -6,20 +6,20 @@
     "division": "Mountain",
     "expectedWins": 8.2,
     "total": {
-      "games": 11,
-      "wins": 8,
+      "games": 12,
+      "wins": 9,
       "losses": 3,
       "ties": 0
     },
     "conferenceGames": {
-      "games": 7,
-      "wins": 5,
+      "games": 8,
+      "wins": 6,
       "losses": 2,
       "ties": 0
     },
     "homeGames": {
-      "games": 5,
-      "wins": 3,
+      "games": 6,
+      "wins": 4,
       "losses": 2,
       "ties": 0
     },

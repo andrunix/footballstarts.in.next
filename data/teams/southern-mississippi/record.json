@@ -4,22 +4,22 @@
     "team": "Southern Mississippi",
     "conference": "Conference USA",
     "division": "West",
-    "expectedWins": 2.3,
+    "expectedWins": 3.3,
     "total": {
-      "games": 11,
-      "wins": 2,
+      "games": 12,
+      "wins": 3,
       "losses": 9,
       "ties": 0
     },
     "conferenceGames": {
-      "games": 7,
-      "wins": 1,
+      "games": 8,
+      "wins": 2,
       "losses": 6,
       "ties": 0
     },
     "homeGames": {
-      "games": 5,
-      "wins": 1,
+      "games": 6,
+      "wins": 2,
       "losses": 4,
       "ties": 0
     },

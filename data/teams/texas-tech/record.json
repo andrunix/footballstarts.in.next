@@ -4,17 +4,17 @@
     "team": "Texas Tech",
     "conference": "Big 12",
     "division": "",
-    "expectedWins": 4.2,
+    "expectedWins": 5,
     "total": {
-      "games": 11,
+      "games": 12,
       "wins": 6,
-      "losses": 5,
+      "losses": 6,
       "ties": 0
     },
     "conferenceGames": {
-      "games": 8,
+      "games": 9,
       "wins": 3,
-      "losses": 5,
+      "losses": 6,
       "ties": 0
     },
     "homeGames": {
@@ -24,9 +24,9 @@
       "ties": 0
     },
     "awayGames": {
-      "games": 4,
+      "games": 5,
       "wins": 2,
-      "losses": 2,
+      "losses": 3,
       "ties": 0
     }
   }

@@ -4,10 +4,10 @@
     "team": "Clemson",
     "conference": "ACC",
     "division": "Atlantic",
-    "expectedWins": 6.7,
+    "expectedWins": 7.7,
     "total": {
-      "games": 11,
-      "wins": 8,
+      "games": 12,
+      "wins": 9,
       "losses": 3,
       "ties": 0
     },
@@ -24,8 +24,8 @@
       "ties": 0
     },
     "awayGames": {
-      "games": 4,
-      "wins": 2,
+      "games": 5,
+      "wins": 3,
       "losses": 2,
       "ties": 0
     }

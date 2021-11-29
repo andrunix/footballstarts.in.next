@@ -4,17 +4,17 @@
     "team": "Miami (OH)",
     "conference": "Mid-American",
     "division": "East",
-    "expectedWins": 5.3,
+    "expectedWins": 5.4,
     "total": {
-      "games": 11,
+      "games": 12,
       "wins": 6,
-      "losses": 5,
+      "losses": 6,
       "ties": 0
     },
     "conferenceGames": {
-      "games": 7,
+      "games": 8,
       "wins": 5,
-      "losses": 2,
+      "losses": 3,
       "ties": 0
     },
     "homeGames": {
@@ -24,9 +24,9 @@
       "ties": 0
     },
     "awayGames": {
-      "games": 6,
+      "games": 7,
       "wins": 1,
-      "losses": 5,
+      "losses": 6,
       "ties": 0
     }
   }

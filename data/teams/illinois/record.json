@@ -4,22 +4,22 @@
     "team": "Illinois",
     "conference": "Big Ten",
     "division": "West",
-    "expectedWins": 5.1,
+    "expectedWins": 6.1,
     "total": {
-      "games": 11,
-      "wins": 4,
+      "games": 12,
+      "wins": 5,
       "losses": 7,
       "ties": 0
     },
     "conferenceGames": {
-      "games": 8,
-      "wins": 3,
+      "games": 9,
+      "wins": 4,
       "losses": 5,
       "ties": 0
     },
     "homeGames": {
-      "games": 6,
-      "wins": 2,
+      "games": 7,
+      "wins": 3,
       "losses": 4,
       "ties": 0
     },

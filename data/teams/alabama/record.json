@@ -4,16 +4,16 @@
     "team": "Alabama",
     "conference": "SEC",
     "division": "West",
-    "expectedWins": 8.1,
+    "expectedWins": 9,
     "total": {
-      "games": 11,
-      "wins": 10,
+      "games": 12,
+      "wins": 11,
       "losses": 1,
       "ties": 0
     },
     "conferenceGames": {
-      "games": 7,
-      "wins": 6,
+      "games": 8,
+      "wins": 7,
       "losses": 1,
       "ties": 0
     },
@@ -24,8 +24,8 @@
       "ties": 0
     },
     "awayGames": {
-      "games": 3,
-      "wins": 2,
+      "games": 4,
+      "wins": 3,
       "losses": 1,
       "ties": 0
     }

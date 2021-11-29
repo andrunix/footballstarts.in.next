@@ -4,22 +4,22 @@
     "team": "Michigan",
     "conference": "Big Ten",
     "division": "East",
-    "expectedWins": 9.7,
+    "expectedWins": 10.7,
     "total": {
-      "games": 11,
-      "wins": 10,
+      "games": 12,
+      "wins": 11,
       "losses": 1,
       "ties": 0
     },
     "conferenceGames": {
-      "games": 8,
-      "wins": 7,
+      "games": 9,
+      "wins": 8,
       "losses": 1,
       "ties": 0
     },
     "homeGames": {
-      "games": 6,
-      "wins": 6,
+      "games": 7,
+      "wins": 7,
       "losses": 0,
       "ties": 0
     },

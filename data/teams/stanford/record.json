@@ -6,9 +6,9 @@
     "division": "North",
     "expectedWins": 2.8,
     "total": {
-      "games": 11,
+      "games": 12,
       "wins": 3,
-      "losses": 8,
+      "losses": 9,
       "ties": 0
     },
     "conferenceGames": {
@@ -18,9 +18,9 @@
       "ties": 0
     },
     "homeGames": {
-      "games": 5,
+      "games": 6,
       "wins": 1,
-      "losses": 4,
+      "losses": 5,
       "ties": 0
     },
     "awayGames": {

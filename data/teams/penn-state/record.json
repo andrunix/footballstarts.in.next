@@ -4,17 +4,17 @@
     "team": "Penn State",
     "conference": "Big Ten",
     "division": "East",
-    "expectedWins": 6.8,
+    "expectedWins": 7,
     "total": {
-      "games": 11,
+      "games": 12,
       "wins": 7,
-      "losses": 4,
+      "losses": 5,
       "ties": 0
     },
     "conferenceGames": {
-      "games": 8,
+      "games": 9,
       "wins": 4,
-      "losses": 4,
+      "losses": 5,
       "ties": 0
     },
     "homeGames": {
@@ -24,9 +24,9 @@
       "ties": 0
     },
     "awayGames": {
-      "games": 4,
+      "games": 5,
       "wins": 2,
-      "losses": 2,
+      "losses": 3,
       "ties": 0
     }
   }

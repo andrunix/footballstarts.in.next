@@ -6,9 +6,9 @@
     "division": "Atlantic",
     "expectedWins": 8.7,
     "total": {
-      "games": 11,
+      "games": 12,
       "wins": 6,
-      "losses": 5,
+      "losses": 6,
       "ties": 0
     },
     "conferenceGames": {
@@ -18,9 +18,9 @@
       "ties": 0
     },
     "homeGames": {
-      "games": 6,
+      "games": 7,
       "wins": 4,
-      "losses": 2,
+      "losses": 3,
       "ties": 0
     },
     "awayGames": {

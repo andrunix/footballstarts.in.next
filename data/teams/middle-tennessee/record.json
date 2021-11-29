@@ -4,16 +4,16 @@
     "team": "Middle Tennessee",
     "conference": "Conference USA",
     "division": "East",
-    "expectedWins": 2.8,
+    "expectedWins": 3.5,
     "total": {
-      "games": 11,
-      "wins": 5,
+      "games": 12,
+      "wins": 6,
       "losses": 6,
       "ties": 0
     },
     "conferenceGames": {
-      "games": 7,
-      "wins": 3,
+      "games": 8,
+      "wins": 4,
       "losses": 4,
       "ties": 0
     },
@@ -24,8 +24,8 @@
       "ties": 0
     },
     "awayGames": {
-      "games": 6,
-      "wins": 1,
+      "games": 7,
+      "wins": 2,
       "losses": 5,
       "ties": 0
     }

@@ -4,22 +4,22 @@
     "team": "Baylor",
     "conference": "Big 12",
     "division": "",
-    "expectedWins": 8.3,
+    "expectedWins": 8.5,
     "total": {
-      "games": 11,
-      "wins": 9,
+      "games": 12,
+      "wins": 10,
       "losses": 2,
       "ties": 0
     },
     "conferenceGames": {
-      "games": 8,
-      "wins": 6,
+      "games": 9,
+      "wins": 7,
       "losses": 2,
       "ties": 0
     },
     "homeGames": {
-      "games": 6,
-      "wins": 6,
+      "games": 7,
+      "wins": 7,
       "losses": 0,
       "ties": 0
     },

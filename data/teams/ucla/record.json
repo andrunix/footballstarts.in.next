@@ -4,22 +4,22 @@
     "team": "UCLA",
     "conference": "Pac-12",
     "division": "South",
-    "expectedWins": 7.8,
+    "expectedWins": 8.8,
     "total": {
-      "games": 11,
-      "wins": 7,
+      "games": 12,
+      "wins": 8,
       "losses": 4,
       "ties": 0
     },
     "conferenceGames": {
-      "games": 8,
-      "wins": 5,
+      "games": 9,
+      "wins": 6,
       "losses": 3,
       "ties": 0
     },
     "homeGames": {
-      "games": 6,
-      "wins": 3,
+      "games": 7,
+      "wins": 4,
       "losses": 3,
       "ties": 0
     },

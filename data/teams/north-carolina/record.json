@@ -4,17 +4,17 @@
     "team": "North Carolina",
     "conference": "ACC",
     "division": "Coastal",
-    "expectedWins": 5.4,
+    "expectedWins": 5.8,
     "total": {
-      "games": 11,
+      "games": 12,
       "wins": 6,
-      "losses": 5,
+      "losses": 6,
       "ties": 0
     },
     "conferenceGames": {
-      "games": 9,
+      "games": 10,
       "wins": 4,
-      "losses": 5,
+      "losses": 6,
       "ties": 0
     },
     "homeGames": {
@@ -24,9 +24,9 @@
       "ties": 0
     },
     "awayGames": {
-      "games": 3,
+      "games": 4,
       "wins": 0,
-      "losses": 3,
+      "losses": 4,
       "ties": 0
     }
   }

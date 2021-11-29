@@ -4,16 +4,16 @@
     "team": "Miami",
     "conference": "ACC",
     "division": "Coastal",
-    "expectedWins": 5,
+    "expectedWins": 6,
     "total": {
-      "games": 11,
-      "wins": 6,
+      "games": 12,
+      "wins": 7,
       "losses": 5,
       "ties": 0
     },
     "conferenceGames": {
-      "games": 7,
-      "wins": 4,
+      "games": 8,
+      "wins": 5,
       "losses": 3,
       "ties": 0
     },
@@ -24,8 +24,8 @@
       "ties": 0
     },
     "awayGames": {
-      "games": 3,
-      "wins": 1,
+      "games": 4,
+      "wins": 2,
       "losses": 2,
       "ties": 0
     }

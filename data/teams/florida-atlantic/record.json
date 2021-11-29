@@ -4,23 +4,23 @@
     "team": "Florida Atlantic",
     "conference": "Conference USA",
     "division": "East",
-    "expectedWins": 6.1,
+    "expectedWins": 6.4,
     "total": {
-      "games": 11,
+      "games": 12,
       "wins": 5,
-      "losses": 6,
+      "losses": 7,
       "ties": 0
     },
     "conferenceGames": {
-      "games": 7,
+      "games": 8,
       "wins": 3,
-      "losses": 4,
+      "losses": 5,
       "ties": 0
     },
     "homeGames": {
-      "games": 5,
+      "games": 6,
       "wins": 4,
-      "losses": 1,
+      "losses": 2,
       "ties": 0
     },
     "awayGames": {
