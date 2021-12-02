@@ -6,7 +6,6 @@ export default function Countdown({teamId, normalized, team, days}) {
     <div className="text-black text-center bg-opacity-50 bg-blue-500 rounded-t-2xl mx-auto">
       
       <div className="flex justify-center">
-
         {team &&
         <div className="flex flex-col p-2">
           <Image src={`/images/${normalized}/${teamId}.png`} width="45px" height="45px"/>
@@ -16,8 +15,10 @@ export default function Countdown({teamId, normalized, team, days}) {
           {team ? team : 'College'} football starts in
         </div>
       </div>
-      
+
       <div className="flex text-5xl md:text-6xl lg:text-7xl xl:text-8xl justify-center mx-auto">
+
+        
         <div className={["flex flex-col border-2 border-r-0 border-black rounded-l-xl my-2 p-6",
                          team ? `${camelCase(normalized)}AltColor` : "bg-white"]
                         .join(' ')}>
@@ -29,6 +30,7 @@ export default function Countdown({teamId, normalized, team, days}) {
           
           days
         </div>
+
       </div>
     </div>
   );
