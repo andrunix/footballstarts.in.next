@@ -1,17 +1,5 @@
 [
   {
-    "id": 401282156,
-    "start_date": "2021-12-04T00:00:00.000Z",
-    "home_team": "UT San Antonio",
-    "away_team": "Western Kentucky"
-  },
-  {
-    "id": 401331159,
-    "start_date": "2021-12-04T01:00:00.000Z",
-    "home_team": "Utah",
-    "away_team": "Oregon"
-  },
-  {
     "id": 401287953,
     "start_date": "2021-12-04T17:00:00.000Z",
     "home_team": "Oklahoma State",
