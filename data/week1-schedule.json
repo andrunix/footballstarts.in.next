@@ -1,56 +1,8 @@
 [
   {
-    "id": 401287953,
-    "start_date": "2021-12-04T17:00:00.000Z",
-    "home_team": "Oklahoma State",
-    "away_team": "Baylor"
-  },
-  {
-    "id": 401331160,
-    "start_date": "2021-12-04T17:00:00.000Z",
-    "home_team": "Northern Illinois",
-    "away_team": "Kent State"
-  },
-  {
-    "id": 401310676,
-    "start_date": "2021-12-04T20:00:00.000Z",
-    "home_team": "San Diego State",
-    "away_team": "Utah State"
-  },
-  {
-    "id": 401331161,
-    "start_date": "2021-12-04T20:30:00.000Z",
-    "home_team": "Louisiana",
-    "away_team": "Appalachian State"
-  },
-  {
-    "id": 401282154,
-    "start_date": "2021-12-04T21:00:00.000Z",
-    "home_team": "Alabama",
-    "away_team": "Georgia"
-  },
-  {
-    "id": 401331162,
-    "start_date": "2021-12-04T21:00:00.000Z",
-    "home_team": "Cincinnati",
-    "away_team": "Houston"
-  },
-  {
-    "id": 401331163,
-    "start_date": "2021-12-05T01:00:00.000Z",
-    "home_team": "Wake Forest",
-    "away_team": "Pittsburgh"
-  },
-  {
-    "id": 401331447,
-    "start_date": "2021-12-05T01:00:00.000Z",
-    "home_team": "Michigan",
-    "away_team": "Iowa"
-  },
-  {
-    "id": 401387250,
-    "start_date": "2021-12-05T04:00:00.000Z",
-    "home_team": "California",
-    "away_team": "USC"
+    "id": 401301056,
+    "start_date": "2021-12-11T20:00:00.000Z",
+    "home_team": "Army",
+    "away_team": "Navy"
   }
 ]
