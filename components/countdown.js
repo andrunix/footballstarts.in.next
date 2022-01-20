@@ -16,22 +16,32 @@ export default function Countdown({teamId, normalized, team, days}) {
         </div>
       </div>
 
-      <div className="flex text-5xl md:text-6xl lg:text-7xl xl:text-8xl justify-center mx-auto">
-
-        
-        <div className={["flex flex-col border-2 border-r-0 border-black rounded-l-xl my-2 p-6",
-                         team ? `${camelCase(normalized)}AltColor` : "bg-white"]
-                        .join(' ')}>
-          {days}
-        </div>
-        <div className={["flex flex-col border-2 border-black rounded-r-xl my-2 p-6",
-                         team ? `${camelCase(normalized)}Color` : "bg-yellow-600"]
-                        .join(' ')}>
-          
-          days
-        </div>
-
-      </div>
+      {days >= 0 &&
+       <div className="flex text-5xl md:text-6xl lg:text-7xl xl:text-8xl justify-center mx-auto">
+         <div className={["flex flex-col border-2 border-r-0 border-black rounded-l-xl my-2 p-6",
+                          team ? `${camelCase(normalized)}AltColor` : "bg-white"]
+                         .join(' ')}>
+           {days}
+         </div>
+         <div className={["flex flex-col border-2 border-black rounded-r-xl my-2 p-6",
+                          team ? `${camelCase(normalized)}Color` : "bg-yellow-600"]
+                         .join(' ')}>
+           days
+         </div>
+       </div>
+      }
+      {days < 0 &&
+       <div className="flex text-3xl md:text-4xl justify-center mx-auto">
+         <div className="flex flex-col border-2 border-black rounded m-2 p-6 bg-white">
+           <p>
+             Oh dear. It looks like there are no games scheduled in the near future.
+           </p>
+           <p>
+             Check back soon for updates.
+           </p>
+         </div>
+       </div>
+      }
     </div>
   );
 }

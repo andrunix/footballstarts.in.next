@@ -21,7 +21,10 @@ export default function Home({schedule}) {
   return (
     <Layout>
       <Countdown days={diffDays}/>
-      <UpcomingGames schedule={schedule} />
+
+      {diffDays > 0 &&
+       <UpcomingGames schedule={schedule} />
+      }
     </Layout>
   );
 }
