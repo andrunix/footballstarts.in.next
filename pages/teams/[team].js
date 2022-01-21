@@ -18,6 +18,8 @@ export async function getStaticPaths() {
 export async function getStaticProps({ params }) {
     const teamSchedule = getOrgSchedule(params.team);
     const record = getOrgRecord(params.team);
+    
+    console.log(record);
     return {
         props: {
             teamSchedule,
@@ -34,8 +36,10 @@ export default function Team({teamSchedule, record}) {
             
             <Countdown teamId={teamSchedule.teamId} normalized={teamSchedule.normalized}
                        team={teamSchedule.team} days={diffDays}/>
-            
-            <Schedule {...teamSchedule} record={record}/>
+
+            {record.wins && 
+             <Schedule {...teamSchedule} record={record}/>
+            }
           </div>
         </Layout>
     );

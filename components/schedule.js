@@ -2,8 +2,12 @@ import Link from 'next/link';
 import ScheduleDetail from './ScheduleDetail.js';
 import Record from './record.js';
 
-// export default function Schedule({schedule, record}) {
 export default function Schedule({schedule, record}) {
+    if (!record.hasOwnProperty('total')) {
+        return (
+            <></>
+        );
+    }
     return (
         <>
           <div className="flex w-full border-b-2">
