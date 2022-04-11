@@ -136,40 +136,6 @@
     }
   },
   {
-    "normalizedName": "marshall",
-    "id": 276,
-    "school": "Marshall",
-    "mascot": "Thundering Herd",
-    "abbreviation": "MRSH",
-    "alt_name1": null,
-    "alt_name2": "MRSH",
-    "alt_name3": "Marshall",
-    "conference": "Conference USA",
-    "division": "East",
-    "color": "#186329",
-    "alt_color": "#be854c",
-    "logos": [
-      "http://a.espncdn.com/i/teamlogos/ncaa/500/276.png",
-      "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/276.png"
-    ],
-    "location": {
-      "venue_id": 3775,
-      "name": "Joan C. Edwards Stadium",
-      "city": "Huntington",
-      "state": "WV",
-      "zip": "25755",
-      "country_code": "US",
-      "timezone": "America/New_York",
-      "latitude": 38.4247042,
-      "longitude": -82.4214412,
-      "elevation": "163.7328186",
-      "capacity": 38016,
-      "year_constructed": 1991,
-      "grass": false,
-      "dome": false
-    }
-  },
-  {
     "normalizedName": "middle-tennessee",
     "id": 2393,
     "school": "Middle Tennessee",
@@ -238,40 +204,6 @@
     }
   },
   {
-    "normalizedName": "old-dominion",
-    "id": 295,
-    "school": "Old Dominion",
-    "mascot": "Monarchs",
-    "abbreviation": "ODU",
-    "alt_name1": null,
-    "alt_name2": "ODU",
-    "alt_name3": "Old Dominion",
-    "conference": "Conference USA",
-    "division": "East",
-    "color": "#00507d",
-    "alt_color": "#a1d2f1",
-    "logos": [
-      "http://a.espncdn.com/i/teamlogos/ncaa/500/295.png",
-      "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/295.png"
-    ],
-    "location": {
-      "venue_id": 3918,
-      "name": "Foreman Field",
-      "city": "Norfolk",
-      "state": "VA",
-      "zip": "23551",
-      "country_code": "US",
-      "timezone": "America/New_York",
-      "latitude": 36.8889533,
-      "longitude": -76.3049175,
-      "elevation": "3.147987843",
-      "capacity": 20118,
-      "year_constructed": 1936,
-      "grass": false,
-      "dome": false
-    }
-  },
-  {
     "normalizedName": "rice",
     "id": 242,
     "school": "Rice",
@@ -301,40 +233,6 @@
       "elevation": "7.148301601",
       "capacity": 47000,
       "year_constructed": 1950,
-      "grass": false,
-      "dome": false
-    }
-  },
-  {
-    "normalizedName": "southern-mississippi",
-    "id": 2572,
-    "school": "Southern Mississippi",
-    "mascot": "Golden Eagles",
-    "abbreviation": "USM",
-    "alt_name1": null,
-    "alt_name2": "USM",
-    "alt_name3": "Southern Miss",
-    "conference": "Conference USA",
-    "division": "West",
-    "color": "#FFAA3C",
-    "alt_color": "#ffc423",
-    "logos": [
-      "http://a.espncdn.com/i/teamlogos/ncaa/500/2572.png",
-      "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2572.png"
-    ],
-    "location": {
-      "venue_id": 3815,
-      "name": "M. M. Roberts Stadium",
-      "city": "Hattiesburg",
-      "state": "MS",
-      "zip": "39402",
-      "country_code": "US",
-      "timezone": "America/Chicago",
-      "latitude": 31.3289321,
-      "longitude": -89.3318118,
-      "elevation": "64.52726746",
-      "capacity": 36000,
-      "year_constructed": 1932,
       "grass": false,
       "dome": false
     }
