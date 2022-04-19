@@ -187,20 +187,20 @@
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/256.png"
     ],
     "location": {
-      "venue_id": null,
-      "name": null,
-      "city": null,
-      "state": null,
-      "zip": null,
-      "country_code": null,
-      "timezone": null,
-      "latitude": null,
-      "longitude": null,
-      "elevation": null,
-      "capacity": null,
-      "year_constructed": null,
-      "grass": null,
-      "dome": null
+      "venue_id": 3651,
+      "name": "Bridgeforth Stadium",
+      "city": "Harrisonburg",
+      "state": "VA",
+      "zip": "22807",
+      "country_code": "US",
+      "timezone": "America/New_York",
+      "latitude": 38.4352919,
+      "longitude": -78.8729349,
+      "elevation": "399.303009",
+      "capacity": 24877,
+      "year_constructed": 1975,
+      "grass": false,
+      "dome": false
     }
   },
   {
