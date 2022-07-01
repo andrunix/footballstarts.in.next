@@ -3,6 +3,8 @@ import ScheduleDetail from './ScheduleDetail.js';
 import Record from './record.js';
 
 export default function Schedule({schedule, record}) {
+    console.log('Record: ', record);
+    
     if (!record.hasOwnProperty('total')) {
         return (
             <></>
