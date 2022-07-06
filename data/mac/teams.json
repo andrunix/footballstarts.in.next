@@ -9,7 +9,7 @@
     "alt_name2": "AKR",
     "alt_name3": "Akron",
     "conference": "Mid-American",
-    "division": "East",
+    "classification": "fbs",
     "color": "#00285e",
     "alt_color": "#84754e",
     "logos": [
@@ -43,7 +43,7 @@
     "alt_name2": "BALL",
     "alt_name3": "Ball State",
     "conference": "Mid-American",
-    "division": "West",
+    "classification": "fbs",
     "color": "#DA0000",
     "alt_color": "#ffffff",
     "logos": [
@@ -77,7 +77,7 @@
     "alt_name2": "BGSU",
     "alt_name3": "Bowling Green",
     "conference": "Mid-American",
-    "division": "East",
+    "classification": "fbs",
     "color": "#2b1000",
     "alt_color": "#492000",
     "logos": [
@@ -111,7 +111,7 @@
     "alt_name2": "BUFF",
     "alt_name3": "Buffalo",
     "conference": "Mid-American",
-    "division": "East",
+    "classification": "fbs",
     "color": "#041A9B",
     "alt_color": "#ebebeb",
     "logos": [
@@ -145,7 +145,7 @@
     "alt_name2": "CMU",
     "alt_name3": "Cent Michigan",
     "conference": "Mid-American",
-    "division": "West",
+    "classification": "fbs",
     "color": "#6a0032",
     "alt_color": "#ffffff",
     "logos": [
@@ -179,7 +179,7 @@
     "alt_name2": "EMU",
     "alt_name3": "E Michigan",
     "conference": "Mid-American",
-    "division": "West",
+    "classification": "fbs",
     "color": "#00331b",
     "alt_color": "#f0f0f0",
     "logos": [
@@ -213,7 +213,7 @@
     "alt_name2": "KENT",
     "alt_name3": "Kent State",
     "conference": "Mid-American",
-    "division": "East",
+    "classification": "fbs",
     "color": "#002445",
     "alt_color": "#f0b510",
     "logos": [
@@ -247,7 +247,7 @@
     "alt_name2": "M-OH",
     "alt_name3": "Miami (OH)",
     "conference": "Mid-American",
-    "division": "East",
+    "classification": "fbs",
     "color": "#a4000c",
     "alt_color": "#f0f0f0",
     "logos": [
@@ -281,7 +281,7 @@
     "alt_name2": "NIU",
     "alt_name3": "N Illinois",
     "conference": "Mid-American",
-    "division": "West",
+    "classification": "fbs",
     "color": "#F1122C",
     "alt_color": "#cc0000",
     "logos": [
@@ -315,7 +315,7 @@
     "alt_name2": "OHIO",
     "alt_name3": "Ohio",
     "conference": "Mid-American",
-    "division": "East",
+    "classification": "fbs",
     "color": "#295A29",
     "alt_color": "#e4bb85",
     "logos": [
@@ -349,7 +349,7 @@
     "alt_name2": "TOL",
     "alt_name3": "Toledo",
     "conference": "Mid-American",
-    "division": "West",
+    "classification": "fbs",
     "color": "#ffffff",
     "alt_color": "#ffd51d",
     "logos": [
@@ -383,7 +383,7 @@
     "alt_name2": "WMU",
     "alt_name3": "W Michigan",
     "conference": "Mid-American",
-    "division": "West",
+    "classification": "fbs",
     "color": "#532e1f",
     "alt_color": "#8b7f79",
     "logos": [

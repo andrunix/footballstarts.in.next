@@ -24,6 +24,12 @@
     "away_team": "Idaho State"
   },
   {
+    "id": 401413213,
+    "start_date": "2022-08-27T19:30:00.000Z",
+    "home_team": "Jacksonville State",
+    "away_team": "Stephen F. Austin"
+  },
+  {
     "id": 401405058,
     "start_date": "2022-08-27T20:00:00.000Z",
     "home_team": "Illinois",
@@ -136,6 +142,36 @@
     "start_date": "2022-09-02T00:00:00.000Z",
     "home_team": "Northern Illinois",
     "away_team": "Eastern Illinois"
+  },
+  {
+    "id": 401420877,
+    "start_date": "2022-09-02T00:00:00.000Z",
+    "home_team": "Southern Utah",
+    "away_team": "St. Thomas (MN)"
+  },
+  {
+    "id": 401420880,
+    "start_date": "2022-09-02T00:00:00.000Z",
+    "home_team": "Tarleton State",
+    "away_team": "Mississippi Valley State"
+  },
+  {
+    "id": 401420806,
+    "start_date": "2022-09-02T00:00:00.000Z",
+    "home_team": "Central Arkansas",
+    "away_team": "Missouri State"
+  },
+  {
+    "id": 401420877,
+    "start_date": "2022-09-02T00:00:00.000Z",
+    "home_team": "Southern Utah",
+    "away_team": "St. Thomas (MN)"
+  },
+  {
+    "id": 401420880,
+    "start_date": "2022-09-02T00:00:00.000Z",
+    "home_team": "Tarleton State",
+    "away_team": "Mississippi Valley State"
   },
   {
     "id": 401405060,
@@ -468,6 +504,12 @@
     "away_team": "UMass"
   },
   {
+    "id": 401418609,
+    "start_date": "2022-09-03T23:00:00.000Z",
+    "home_team": "Austin Peay",
+    "away_team": "Presbyterian College"
+  },
+  {
     "id": 401404124,
     "start_date": "2022-09-03T23:30:00.000Z",
     "home_team": "Ohio State",
@@ -544,6 +586,30 @@
     "start_date": "2022-09-06T00:00:00.000Z",
     "home_team": "Georgia Tech",
     "away_team": "Clemson"
+  },
+  {
+    "id": 401418783,
+    "start_date": "2022-09-10T04:00:00.000Z",
+    "home_team": "Abilene Christian",
+    "away_team": "Prairie View"
+  },
+  {
+    "id": 401420856,
+    "start_date": "2022-09-10T04:00:00.000Z",
+    "home_team": "Dixie State",
+    "away_team": "Chadron State"
+  },
+  {
+    "id": 401418783,
+    "start_date": "2022-09-10T04:00:00.000Z",
+    "home_team": "Abilene Christian",
+    "away_team": "Prairie View"
+  },
+  {
+    "id": 401420856,
+    "start_date": "2022-09-10T04:00:00.000Z",
+    "home_team": "Dixie State",
+    "away_team": "Chadron State"
   },
   {
     "id": 401405073,
@@ -672,6 +738,12 @@
     "away_team": "Stephen F. Austin"
   },
   {
+    "id": 401415170,
+    "start_date": "2022-09-10T23:00:00.000Z",
+    "home_team": "Sam Houston State",
+    "away_team": "Northern Arizona"
+  },
+  {
     "id": 401426544,
     "start_date": "2022-09-10T23:00:00.000Z",
     "home_team": "Texas State",
@@ -694,6 +766,12 @@
     "start_date": "2022-09-10T23:00:00.000Z",
     "home_team": "Tulsa",
     "away_team": "Northern Illinois"
+  },
+  {
+    "id": 401415170,
+    "start_date": "2022-09-10T23:00:00.000Z",
+    "home_team": "Sam Houston State",
+    "away_team": "Northern Arizona"
   },
   {
     "id": 401403873,
@@ -744,10 +822,28 @@
     "away_team": "Florida State"
   },
   {
+    "id": 401415178,
+    "start_date": "2022-09-17T04:00:00.000Z",
+    "home_team": "Lamar",
+    "away_team": "Northern Colorado"
+  },
+  {
     "id": 401414780,
     "start_date": "2022-09-17T04:00:00.000Z",
     "home_team": "UMass",
     "away_team": "Stony Brook"
+  },
+  {
+    "id": 401418637,
+    "start_date": "2022-09-17T04:00:00.000Z",
+    "home_team": "Eastern Kentucky",
+    "away_team": "Charleston Southern"
+  },
+  {
+    "id": 401415178,
+    "start_date": "2022-09-17T04:00:00.000Z",
+    "home_team": "Lamar",
+    "away_team": "Northern Colorado"
   },
   {
     "id": 401416603,
@@ -784,5 +880,23 @@
     "start_date": "2022-09-17T23:30:00.000Z",
     "home_team": "Western Michigan",
     "away_team": "Pittsburgh"
+  },
+  {
+    "id": 401413205,
+    "start_date": "2022-09-24T22:00:00.000Z",
+    "home_team": "Kennesaw State",
+    "away_team": "Wofford"
+  },
+  {
+    "id": 401420849,
+    "start_date": "2022-10-08T04:00:00.000Z",
+    "home_team": "Stephen F. Austin",
+    "away_team": "Incarnate Word"
+  },
+  {
+    "id": 401420849,
+    "start_date": "2022-10-08T04:00:00.000Z",
+    "home_team": "Stephen F. Austin",
+    "away_team": "Incarnate Word"
   }
 ]

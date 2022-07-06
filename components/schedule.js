@@ -10,6 +10,13 @@ export default function Schedule({schedule, record}) {
             <></>
         );
     }
+
+    if (!record.hasOwnProperty('conferenceGames')) {
+        return (
+            <></>
+        );
+    }
+    
     return (
         <>
           <div className="flex w-full border-b-2">

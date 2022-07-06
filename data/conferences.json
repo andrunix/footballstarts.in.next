@@ -56,6 +56,14 @@
     "hasTeams": true
   },
   {
+    "id": 16,
+    "name": "Western Athletic",
+    "short_name": "Western Athletic Conference",
+    "abbreviation": "WAC",
+    "classification": "fcs",
+    "hasTeams": true
+  },
+  {
     "id": 17,
     "name": "Mountain West",
     "short_name": "Mountain West Conference",
@@ -84,6 +92,22 @@
     "name": "American Athletic",
     "short_name": "American Athletic Conference",
     "abbreviation": "AAC",
+    "classification": "fbs",
+    "hasTeams": true
+  },
+  {
+    "id": 176,
+    "name": "Atlantic Sun",
+    "short_name": "Atlantic Sun Conference",
+    "abbreviation": "ASUN",
+    "classification": "fcs",
+    "hasTeams": true
+  },
+  {
+    "id": 215,
+    "name": "Western Athletic",
+    "short_name": "Western Athletic Conference",
+    "abbreviation": "WAC",
     "classification": "fbs",
     "hasTeams": true
   }

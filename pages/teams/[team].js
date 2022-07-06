@@ -16,9 +16,7 @@ export async function getStaticPaths() {
 }
 
 export async function getStaticProps({ params }) {
-    console.log(`getStaticProps ${params.team}`);
     const teamSchedule = getOrgSchedule(params.team);
-    console.log('schedule: ', teamSchedule);
     const record = getOrgRecord(params.team);
     
     console.log(record);
@@ -45,10 +43,3 @@ export default function Team({teamSchedule, record}) {
         </Layout>
     );
 }
-
-/*
-            {record.wins && 
-             <Schedule {...teamSchedule} record={record}/>
-            }
-
- */
