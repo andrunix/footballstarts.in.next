@@ -10,7 +10,7 @@ export default function Footer () {
         </div>
         <div className="px-2">
           <a href="https://xoso.io" target="_blank" rel="noopener noreferrer">
-            &copy; 2019-2021, xoso
+            &copy; 2019-2022, xoso
           </a>
         </div>
         <div className="px-2">
