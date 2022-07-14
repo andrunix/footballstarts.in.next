@@ -1,10 +1,33 @@
-{
-  "total": {
-    "wins": 0,
-    "losses": 0
-  },
-  "conferenceGames": {
-    "wins": 0,
-    "losses": 0
+[
+  {
+    "year": 2021,
+    "team": "Connecticut",
+    "conference": "FBS Independents",
+    "division": "",
+    "expectedWins": 1.5,
+    "total": {
+      "games": 12,
+      "wins": 1,
+      "losses": 11,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 0,
+      "wins": 0,
+      "losses": 0,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 6,
+      "wins": 1,
+      "losses": 5,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 6,
+      "wins": 0,
+      "losses": 6,
+      "ties": 0
+    }
   }
-}
+]

@@ -1,10 +1,33 @@
-{
-  "total": {
-    "wins": 0,
-    "losses": 0
-  },
-  "conferenceGames": {
-    "wins": 0,
-    "losses": 0
+[
+  {
+    "year": 2021,
+    "team": "Cincinnati",
+    "conference": "American Athletic",
+    "division": "East",
+    "expectedWins": 10.9,
+    "total": {
+      "games": 14,
+      "wins": 13,
+      "losses": 1,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 9,
+      "wins": 9,
+      "losses": 0,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 7,
+      "wins": 7,
+      "losses": 0,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 6,
+      "wins": 6,
+      "losses": 0,
+      "ties": 0
+    }
   }
-}
+]

@@ -1,10 +1,33 @@
-{
-  "total": {
-    "wins": 0,
-    "losses": 0
-  },
-  "conferenceGames": {
-    "wins": 0,
-    "losses": 0
+[
+  {
+    "year": 2021,
+    "team": "Virginia",
+    "conference": "ACC",
+    "division": "Coastal",
+    "expectedWins": 4.6,
+    "total": {
+      "games": 12,
+      "wins": 6,
+      "losses": 6,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 9,
+      "wins": 4,
+      "losses": 5,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 7,
+      "wins": 4,
+      "losses": 3,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 5,
+      "wins": 2,
+      "losses": 3,
+      "ties": 0
+    }
   }
-}
+]

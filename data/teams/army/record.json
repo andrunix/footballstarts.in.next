@@ -1,10 +1,33 @@
-{
-  "total": {
-    "wins": 0,
-    "losses": 0
-  },
-  "conferenceGames": {
-    "wins": 0,
-    "losses": 0
+[
+  {
+    "year": 2021,
+    "team": "Army",
+    "conference": "FBS Independents",
+    "division": "",
+    "expectedWins": 10,
+    "total": {
+      "games": 13,
+      "wins": 9,
+      "losses": 4,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 0,
+      "wins": 0,
+      "losses": 0,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 7,
+      "wins": 5,
+      "losses": 2,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 4,
+      "wins": 2,
+      "losses": 2,
+      "ties": 0
+    }
   }
-}
+]

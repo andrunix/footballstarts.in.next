@@ -1,10 +1,33 @@
-{
-  "total": {
-    "wins": 0,
-    "losses": 0
-  },
-  "conferenceGames": {
-    "wins": 0,
-    "losses": 0
+[
+  {
+    "year": 2021,
+    "team": "Florida Atlantic",
+    "conference": "Conference USA",
+    "division": "East",
+    "expectedWins": 6.4,
+    "total": {
+      "games": 12,
+      "wins": 5,
+      "losses": 7,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 8,
+      "wins": 3,
+      "losses": 5,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 6,
+      "wins": 4,
+      "losses": 2,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 6,
+      "wins": 1,
+      "losses": 5,
+      "ties": 0
+    }
   }
-}
+]

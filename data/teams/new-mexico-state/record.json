@@ -1,10 +1,33 @@
-{
-  "total": {
-    "wins": 0,
-    "losses": 0
-  },
-  "conferenceGames": {
-    "wins": 0,
-    "losses": 0
+[
+  {
+    "year": 2021,
+    "team": "New Mexico State",
+    "conference": "FBS Independents",
+    "division": "",
+    "expectedWins": 2.1,
+    "total": {
+      "games": 12,
+      "wins": 2,
+      "losses": 10,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 0,
+      "wins": 0,
+      "losses": 0,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 5,
+      "wins": 2,
+      "losses": 3,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 7,
+      "wins": 0,
+      "losses": 7,
+      "ties": 0
+    }
   }
-}
+]
