@@ -187,20 +187,20 @@
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2627.png"
     ],
     "location": {
-      "venue_id": null,
-      "name": null,
-      "city": null,
-      "state": null,
+      "venue_id": 3827,
+      "name": "Memorial Stadium (Stephenville, TX)",
+      "city": "Stephenville",
+      "state": "TX",
       "zip": null,
-      "country_code": null,
+      "country_code": "US",
       "timezone": null,
-      "latitude": null,
-      "longitude": null,
+      "latitude": 32.2191836,
+      "longitude": -98.2130634,
       "elevation": null,
-      "capacity": null,
+      "capacity": 12000,
       "year_constructed": null,
       "grass": null,
-      "dome": null
+      "dome": false
     }
   },
   {
