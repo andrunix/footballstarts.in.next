@@ -1,33 +1,10 @@
-[
-  {
-    "year": 2021,
-    "team": "Louisiana",
-    "conference": "Sun Belt",
-    "division": "",
-    "expectedWins": 8.7,
-    "total": {
-      "games": 14,
-      "wins": 13,
-      "losses": 1,
-      "ties": 0
-    },
-    "conferenceGames": {
-      "games": 9,
-      "wins": 9,
-      "losses": 0,
-      "ties": 0
-    },
-    "homeGames": {
-      "games": 7,
-      "wins": 7,
-      "losses": 0,
-      "ties": 0
-    },
-    "awayGames": {
-      "games": 6,
-      "wins": 5,
-      "losses": 1,
-      "ties": 0
-    }
+{
+  "total": {
+    "wins": 0,
+    "losses": 0
+  },
+  "conferenceGames": {
+    "wins": 0,
+    "losses": 0
   }
-]
+}

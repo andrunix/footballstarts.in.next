@@ -1,33 +1,10 @@
-[
-  {
-    "year": 2021,
-    "team": "Arizona State",
-    "conference": "Pac-12",
-    "division": "South",
-    "expectedWins": 9.2,
-    "total": {
-      "games": 13,
-      "wins": 8,
-      "losses": 5,
-      "ties": 0
-    },
-    "conferenceGames": {
-      "games": 9,
-      "wins": 6,
-      "losses": 3,
-      "ties": 0
-    },
-    "homeGames": {
-      "games": 7,
-      "wins": 6,
-      "losses": 1,
-      "ties": 0
-    },
-    "awayGames": {
-      "games": 5,
-      "wins": 2,
-      "losses": 3,
-      "ties": 0
-    }
+{
+  "total": {
+    "wins": 0,
+    "losses": 0
+  },
+  "conferenceGames": {
+    "wins": 0,
+    "losses": 0
   }
-]
+}

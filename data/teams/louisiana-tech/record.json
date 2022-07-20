@@ -1,33 +1,10 @@
-[
-  {
-    "year": 2021,
-    "team": "Louisiana Tech",
-    "conference": "Conference USA",
-    "division": "West",
-    "expectedWins": 4.1,
-    "total": {
-      "games": 12,
-      "wins": 3,
-      "losses": 9,
-      "ties": 0
-    },
-    "conferenceGames": {
-      "games": 8,
-      "wins": 2,
-      "losses": 6,
-      "ties": 0
-    },
-    "homeGames": {
-      "games": 6,
-      "wins": 3,
-      "losses": 3,
-      "ties": 0
-    },
-    "awayGames": {
-      "games": 6,
-      "wins": 0,
-      "losses": 6,
-      "ties": 0
-    }
+{
+  "total": {
+    "wins": 0,
+    "losses": 0
+  },
+  "conferenceGames": {
+    "wins": 0,
+    "losses": 0
   }
-]
+}

@@ -1,1 +1,10 @@
-[]
+{
+  "total": {
+    "wins": 0,
+    "losses": 0
+  },
+  "conferenceGames": {
+    "wins": 0,
+    "losses": 0
+  }
+}

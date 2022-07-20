@@ -1,33 +1,10 @@
-[
-  {
-    "year": 2021,
-    "team": "Ole Miss",
-    "conference": "SEC",
-    "division": "West",
-    "expectedWins": 9,
-    "total": {
-      "games": 13,
-      "wins": 10,
-      "losses": 3,
-      "ties": 0
-    },
-    "conferenceGames": {
-      "games": 8,
-      "wins": 6,
-      "losses": 2,
-      "ties": 0
-    },
-    "homeGames": {
-      "games": 7,
-      "wins": 7,
-      "losses": 0,
-      "ties": 0
-    },
-    "awayGames": {
-      "games": 4,
-      "wins": 2,
-      "losses": 2,
-      "ties": 0
-    }
+{
+  "total": {
+    "wins": 0,
+    "losses": 0
+  },
+  "conferenceGames": {
+    "wins": 0,
+    "losses": 0
   }
-]
+}

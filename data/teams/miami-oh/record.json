@@ -1,33 +1,10 @@
-[
-  {
-    "year": 2021,
-    "team": "Miami (OH)",
-    "conference": "Mid-American",
-    "division": "East",
-    "expectedWins": 6.3,
-    "total": {
-      "games": 13,
-      "wins": 7,
-      "losses": 6,
-      "ties": 0
-    },
-    "conferenceGames": {
-      "games": 8,
-      "wins": 5,
-      "losses": 3,
-      "ties": 0
-    },
-    "homeGames": {
-      "games": 5,
-      "wins": 5,
-      "losses": 0,
-      "ties": 0
-    },
-    "awayGames": {
-      "games": 7,
-      "wins": 1,
-      "losses": 6,
-      "ties": 0
-    }
+{
+  "total": {
+    "wins": 0,
+    "losses": 0
+  },
+  "conferenceGames": {
+    "wins": 0,
+    "losses": 0
   }
-]
+}
