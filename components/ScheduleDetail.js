@@ -11,6 +11,14 @@ const findNextGame = (sched) => {
   return nextId;
 };
 
+const calcDays = (d) => {
+    const now = new Date();
+    const gd = new Date(d);
+    const oneDay = 24*60*60*1000;
+    const diffDays = Math.round( Math.abs( (gd.getTime() - now.getTime() ) / oneDay ) );
+    return diffDays >= 0 ? diffDays: '';
+};
+
 export default function ScheduleDetail({schedule}) {
     const nextGame = findNextGame(schedule);
     
@@ -32,7 +40,7 @@ export default function ScheduleDetail({schedule}) {
                 </div>
                 <div className="inline-block flex-none w-1/6 text-center">{formatDate(game.start_date)}</div>
                 <div className="inline-block flex-none w-1/6 text-left">{formatTime(game.start_date)}</div>
-                <div className="inline-block flex-none w-1/6 text-center">{(game.home_points) ? `${game.home_points}-${game.away_points}` : ''}</div>
+                <div className="inline-block flex-none w-1/6 text-center">{(game.home_points) ? `${game.home_points}-${game.away_points}` :  `${calcDays(game.start_date)} days` }</div>
                 <div className={["inline-block flex-none w-1/8 text-left", game.winLoss === 'W' ? "win" : "loss"].join(" ")}>{game.winLoss}</div>
               </div>
           ))}
