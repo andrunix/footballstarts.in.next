@@ -16,6 +16,7 @@
       "http://a.espncdn.com/i/teamlogos/ncaa/500/356.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/356.png"
     ],
+    "twitter": "@IlliniFootball",
     "location": {
       "venue_id": 3832,
       "name": "Memorial Stadium",
@@ -50,6 +51,7 @@
       "http://a.espncdn.com/i/teamlogos/ncaa/500/84.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/84.png"
     ],
+    "twitter": "@IndianaFootball",
     "location": {
       "venue_id": 3830,
       "name": "Memorial Stadium",
@@ -84,6 +86,7 @@
       "http://a.espncdn.com/i/teamlogos/ncaa/500/2294.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2294.png"
     ],
+    "twitter": "@HawkeyeFootball",
     "location": {
       "venue_id": 3793,
       "name": "Kinnick Stadium",
@@ -118,6 +121,7 @@
       "http://a.espncdn.com/i/teamlogos/ncaa/500/120.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/120.png"
     ],
+    "twitter": "@TerpsFootball",
     "location": {
       "venue_id": 3665,
       "name": "Maryland Stadium",
@@ -147,11 +151,12 @@
     "conference": "Big Ten",
     "classification": "fbs",
     "color": "#00274c",
-    "alt_color": "#00274c",
+    "alt_color": "#FFCB05",
     "logos": [
       "http://a.espncdn.com/i/teamlogos/ncaa/500/130.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/130.png"
     ],
+    "twitter": "@UMichFootball",
     "location": {
       "venue_id": 3558,
       "name": "Michigan Stadium",
@@ -186,6 +191,7 @@
       "http://a.espncdn.com/i/teamlogos/ncaa/500/127.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/127.png"
     ],
+    "twitter": "@MSU_Football",
     "location": {
       "venue_id": 3936,
       "name": "Spartan Stadium",
@@ -199,7 +205,7 @@
       "elevation": "254.8794861",
       "capacity": 75005,
       "year_constructed": 1923,
-      "grass": false,
+      "grass": true,
       "dome": false
     }
   },
@@ -220,6 +226,7 @@
       "http://a.espncdn.com/i/teamlogos/ncaa/500/135.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/135.png"
     ],
+    "twitter": "@GopherFootball",
     "location": {
       "venue_id": 3953,
       "name": "TCF Bank Stadium",
@@ -254,6 +261,7 @@
       "http://a.espncdn.com/i/teamlogos/ncaa/500/158.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/158.png"
     ],
+    "twitter": "@HuskerFBNation",
     "location": {
       "venue_id": 3834,
       "name": "Memorial Stadium",
@@ -288,6 +296,7 @@
       "http://a.espncdn.com/i/teamlogos/ncaa/500/77.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/77.png"
     ],
+    "twitter": "@NUFBFamily",
     "location": {
       "venue_id": 3911,
       "name": "Ryan Field",
@@ -301,7 +310,7 @@
       "elevation": "181.2376099",
       "capacity": 47130,
       "year_constructed": 1926,
-      "grass": false,
+      "grass": true,
       "dome": false
     }
   },
@@ -322,6 +331,7 @@
       "http://a.espncdn.com/i/teamlogos/ncaa/500/194.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/194.png"
     ],
+    "twitter": "@OhioStateFB",
     "location": {
       "venue_id": 3861,
       "name": "Ohio Stadium",
@@ -356,6 +366,7 @@
       "http://a.espncdn.com/i/teamlogos/ncaa/500/213.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/213.png"
     ],
+    "twitter": "@PennStateFball",
     "location": {
       "venue_id": 3632,
       "name": "Beaver Stadium",
@@ -369,7 +380,7 @@
       "elevation": "354.1551514",
       "capacity": 106572,
       "year_constructed": 1960,
-      "grass": false,
+      "grass": true,
       "dome": false
     }
   },
@@ -390,6 +401,7 @@
       "http://a.espncdn.com/i/teamlogos/ncaa/500/2509.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2509.png"
     ],
+    "twitter": "@BoilerFootball",
     "location": {
       "venue_id": 3907,
       "name": "Ross-Ade Stadium",
@@ -403,7 +415,7 @@
       "elevation": "197.5337677",
       "capacity": 57282,
       "year_constructed": 1924,
-      "grass": false,
+      "grass": true,
       "dome": false
     }
   },
@@ -424,19 +436,20 @@
       "http://a.espncdn.com/i/teamlogos/ncaa/500/164.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/164.png"
     ],
+    "twitter": "@Rfootball",
     "location": {
-      "venue_id": 3754,
-      "name": "High Point Solutions Stadium",
+      "venue_id": 6577,
+      "name": "SHI Stadium",
       "city": "Piscataway",
       "state": "NJ",
-      "zip": "8854 ",
+      "zip": "08854",
       "country_code": "US",
-      "timezone": "America/New_York",
-      "latitude": 40.5136754,
-      "longitude": -74.4655737,
-      "elevation": "8.543146133",
+      "timezone": null,
+      "latitude": 40.5462553,
+      "longitude": -74.4660408,
+      "elevation": null,
       "capacity": 52454,
-      "year_constructed": 1994,
+      "year_constructed": null,
       "grass": false,
       "dome": false
     }
@@ -458,6 +471,7 @@
       "http://a.espncdn.com/i/teamlogos/ncaa/500/275.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/275.png"
     ],
+    "twitter": "@BadgerFootball",
     "location": {
       "venue_id": 347,
       "name": "Camp Randall Stadium",

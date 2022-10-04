@@ -16,6 +16,7 @@
       "http://a.espncdn.com/i/teamlogos/ncaa/500/333.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/333.png"
     ],
+    "twitter": "@AlabamaFTBL",
     "location": {
       "venue_id": 3657,
       "name": "Bryant Denny Stadium",
@@ -50,6 +51,7 @@
       "http://a.espncdn.com/i/teamlogos/ncaa/500/8.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/8.png"
     ],
+    "twitter": "@RazorbackFB",
     "location": {
       "venue_id": 3887,
       "name": "Donald W. Reynolds Razorback Stadium Frank Broyles Field",
@@ -84,6 +86,7 @@
       "http://a.espncdn.com/i/teamlogos/ncaa/500/2.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2.png"
     ],
+    "twitter": "@AuburnFootball",
     "location": {
       "venue_id": 3785,
       "name": "Jordan-Hare Stadium",
@@ -118,6 +121,7 @@
       "http://a.espncdn.com/i/teamlogos/ncaa/500/57.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/57.png"
     ],
+    "twitter": "@GatorsFB",
     "location": {
       "venue_id": 3634,
       "name": "Ben Hill Griffin Stadium",
@@ -152,6 +156,7 @@
       "http://a.espncdn.com/i/teamlogos/ncaa/500/61.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/61.png"
     ],
+    "twitter": "@GeorgiaFootball",
     "location": {
       "venue_id": 3917,
       "name": "Sanford Stadium",
@@ -186,6 +191,7 @@
       "http://a.espncdn.com/i/teamlogos/ncaa/500/96.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/96.png"
     ],
+    "twitter": "@UKFootball",
     "location": {
       "venue_id": 3683,
       "name": "Commonwealth Stadium",
@@ -199,7 +205,7 @@
       "elevation": "307.4248962",
       "capacity": 61000,
       "year_constructed": 1973,
-      "grass": true,
+      "grass": false,
       "dome": false
     }
   },
@@ -220,6 +226,7 @@
       "http://a.espncdn.com/i/teamlogos/ncaa/500/99.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/99.png"
     ],
+    "twitter": "@LSUFootball",
     "location": {
       "venue_id": 3958,
       "name": "Tiger Stadium",
@@ -254,6 +261,7 @@
       "http://a.espncdn.com/i/teamlogos/ncaa/500/344.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/344.png"
     ],
+    "twitter": "@HailStateFB",
     "location": {
       "venue_id": 3693,
       "name": "Davis Wade Stadium",
@@ -288,6 +296,7 @@
       "http://a.espncdn.com/i/teamlogos/ncaa/500/142.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/142.png"
     ],
+    "twitter": "@MizzouFootball",
     "location": {
       "venue_id": 3838,
       "name": "Faurot Field",
@@ -322,6 +331,7 @@
       "http://a.espncdn.com/i/teamlogos/ncaa/500/145.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/145.png"
     ],
+    "twitter": "@OleMissFB",
     "location": {
       "venue_id": 3974,
       "name": "Vaught-Hemingway Stadium",
@@ -356,6 +366,7 @@
       "http://a.espncdn.com/i/teamlogos/ncaa/500/2579.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2579.png"
     ],
+    "twitter": "@GamecockFB",
     "location": {
       "venue_id": 3994,
       "name": "Williams-Brice Stadium",
@@ -390,6 +401,7 @@
       "http://a.espncdn.com/i/teamlogos/ncaa/500/2633.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2633.png"
     ],
+    "twitter": "@Vol_Football",
     "location": {
       "venue_id": 3853,
       "name": "Neyland Stadium",
@@ -424,6 +436,7 @@
       "http://a.espncdn.com/i/teamlogos/ncaa/500/245.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/245.png"
     ],
+    "twitter": "@AggieFootball",
     "location": {
       "venue_id": 3795,
       "name": "Kyle Field",
@@ -458,6 +471,7 @@
       "http://a.espncdn.com/i/teamlogos/ncaa/500/238.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/238.png"
     ],
+    "twitter": "@VandyFootball",
     "location": {
       "venue_id": 3973,
       "name": "Vanderbilt Stadium",

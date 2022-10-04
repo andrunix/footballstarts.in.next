@@ -16,6 +16,7 @@
       "http://a.espncdn.com/i/teamlogos/ncaa/500/239.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/239.png"
     ],
+    "twitter": "@BUFootball",
     "location": {
       "venue_id": 4727,
       "name": "McLane Stadium",
@@ -45,11 +46,12 @@
     "conference": "Big 12",
     "classification": "fbs",
     "color": "#660015",
-    "alt_color": "#830b2c",
+    "alt_color": "#FDCA2F",
     "logos": [
       "http://a.espncdn.com/i/teamlogos/ncaa/500/66.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/66.png"
     ],
+    "twitter": "@CycloneFB",
     "location": {
       "venue_id": 3772,
       "name": "Jack Trice Stadium",
@@ -63,7 +65,7 @@
       "elevation": "274.9135437",
       "capacity": 61500,
       "year_constructed": 1975,
-      "grass": false,
+      "grass": true,
       "dome": false
     }
   },
@@ -84,6 +86,7 @@
       "http://a.espncdn.com/i/teamlogos/ncaa/500/2305.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2305.png"
     ],
+    "twitter": "@KU_Football",
     "location": {
       "venue_id": 3833,
       "name": "Memorial Stadium",
@@ -118,6 +121,7 @@
       "http://a.espncdn.com/i/teamlogos/ncaa/500/2306.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2306.png"
     ],
+    "twitter": "@KStateFB",
     "location": {
       "venue_id": 3636,
       "name": "Bill Snyder Family Football Stadium",
@@ -152,6 +156,7 @@
       "http://a.espncdn.com/i/teamlogos/ncaa/500/201.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/201.png"
     ],
+    "twitter": "@OU_Football",
     "location": {
       "venue_id": 3835,
       "name": "Gaylord Family Oklahoma Memorial Stadium",
@@ -165,7 +170,7 @@
       "elevation": "355.0962524",
       "capacity": 86112,
       "year_constructed": 1925,
-      "grass": false,
+      "grass": true,
       "dome": false
     }
   },
@@ -186,6 +191,7 @@
       "http://a.espncdn.com/i/teamlogos/ncaa/500/197.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/197.png"
     ],
+    "twitter": "@CowboyFB",
     "location": {
       "venue_id": 3646,
       "name": "Boone Pickens Stadium",
@@ -220,6 +226,7 @@
       "http://a.espncdn.com/i/teamlogos/ncaa/500/2628.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2628.png"
     ],
+    "twitter": "@TCUFootball",
     "location": {
       "venue_id": 3616,
       "name": "Amon G. Carter Stadium",
@@ -233,7 +240,7 @@
       "elevation": "185.4387054",
       "capacity": 46000,
       "year_constructed": 1929,
-      "grass": false,
+      "grass": true,
       "dome": false
     }
   },
@@ -254,6 +261,7 @@
       "http://a.espncdn.com/i/teamlogos/ncaa/500/251.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/251.png"
     ],
+    "twitter": "@TexasFootball",
     "location": {
       "venue_id": 3910,
       "name": "Darrell K Royal-Texas Memorial Stadium",
@@ -288,6 +296,7 @@
       "http://a.espncdn.com/i/teamlogos/ncaa/500/2641.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2641.png"
     ],
+    "twitter": "@TexasTechFB",
     "location": {
       "venue_id": 3784,
       "name": "Jones AT&T Stadium",
@@ -322,6 +331,7 @@
       "http://a.espncdn.com/i/teamlogos/ncaa/500/277.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/277.png"
     ],
+    "twitter": "@WVUFootball",
     "location": {
       "venue_id": 3842,
       "name": "Mountaineer Field at Milan Puskar Stadium",

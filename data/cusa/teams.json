@@ -16,6 +16,7 @@
       "http://a.espncdn.com/i/teamlogos/ncaa/500/2429.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2429.png"
     ],
+    "twitter": "@CharlotteFTBL",
     "location": {
       "venue_id": 4418,
       "name": "Jerry Richardson Stadium",
@@ -50,6 +51,7 @@
       "http://a.espncdn.com/i/teamlogos/ncaa/500/2226.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2226.png"
     ],
+    "twitter": "@FAUFootball",
     "location": {
       "venue_id": 3715,
       "name": "FAU Stadium",
@@ -84,6 +86,7 @@
       "http://a.espncdn.com/i/teamlogos/ncaa/500/2229.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2229.png"
     ],
+    "twitter": "@FIUFootball",
     "location": {
       "venue_id": 218,
       "name": "FIU Stadium",
@@ -118,6 +121,7 @@
       "http://a.espncdn.com/i/teamlogos/ncaa/500/2348.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2348.png"
     ],
+    "twitter": "@LATechFB",
     "location": {
       "venue_id": 3776,
       "name": "Joe Aillet Stadium",
@@ -152,6 +156,7 @@
       "http://a.espncdn.com/i/teamlogos/ncaa/500/2393.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2393.png"
     ],
+    "twitter": "@MT_FB",
     "location": {
       "venue_id": 3725,
       "name": "Johnny Red\"\" Floyd Stadium\"\"",
@@ -186,6 +191,7 @@
       "http://a.espncdn.com/i/teamlogos/ncaa/500/249.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/249.png"
     ],
+    "twitter": "@MeanGreenFB",
     "location": {
       "venue_id": 3825,
       "name": "Apogee Stadium",
@@ -220,6 +226,7 @@
       "http://a.espncdn.com/i/teamlogos/ncaa/500/242.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/242.png"
     ],
+    "twitter": "@RiceFootball",
     "location": {
       "venue_id": 3895,
       "name": "Rice Stadium",
@@ -254,19 +261,20 @@
       "http://a.espncdn.com/i/teamlogos/ncaa/500/5.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/5.png"
     ],
+    "twitter": "@UAB_FB",
     "location": {
-      "venue_id": 3803,
-      "name": "Legion Field",
+      "venue_id": 7221,
+      "name": "Protective Stadium",
       "city": "Birmingham",
       "state": "AL",
-      "zip": "35294",
+      "zip": "35203",
       "country_code": "US",
-      "timezone": "America/Chicago",
-      "latitude": 33.511389,
-      "longitude": -86.842778,
-      "elevation": "174.6382141",
-      "capacity": 72000,
-      "year_constructed": 1927,
+      "timezone": null,
+      "latitude": 33.5206824,
+      "longitude": -86.8024326,
+      "elevation": null,
+      "capacity": 0,
+      "year_constructed": null,
       "grass": false,
       "dome": false
     }
@@ -288,6 +296,7 @@
       "http://a.espncdn.com/i/teamlogos/ncaa/500/2638.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2638.png"
     ],
+    "twitter": "@UTEPFB",
     "location": {
       "venue_id": 3946,
       "name": "Sun Bowl Stadium",
@@ -322,6 +331,7 @@
       "http://a.espncdn.com/i/teamlogos/ncaa/500/2636.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2636.png"
     ],
+    "twitter": null,
     "location": {
       "venue_id": 3604,
       "name": "Alamodome",
@@ -356,6 +366,7 @@
       "http://a.espncdn.com/i/teamlogos/ncaa/500/98.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/98.png"
     ],
+    "twitter": "@WKUFootball",
     "location": {
       "venue_id": 3796,
       "name": "Houchens Industries-L. T. Smith Stadium",

@@ -16,6 +16,7 @@
       "http://a.espncdn.com/i/teamlogos/ncaa/500/349.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/349.png"
     ],
+    "twitter": "@ArmyWP_Football",
     "location": {
       "venue_id": 3841,
       "name": "Blaik Field at Michie Stadium",
@@ -50,6 +51,7 @@
       "http://a.espncdn.com/i/teamlogos/ncaa/500/252.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/252.png"
     ],
+    "twitter": "@BYUFootball",
     "location": {
       "venue_id": 3801,
       "name": "LaVell Edwards Stadium",
@@ -63,7 +65,7 @@
       "elevation": "1412.097046",
       "capacity": 63470,
       "year_constructed": 1964,
-      "grass": false,
+      "grass": true,
       "dome": false
     }
   },
@@ -84,6 +86,7 @@
       "http://a.espncdn.com/i/teamlogos/ncaa/500/41.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/41.png"
     ],
+    "twitter": "@UConnFootball",
     "location": {
       "venue_id": 3892,
       "name": "Rentschler Field",
@@ -97,7 +100,7 @@
       "elevation": "6.515614986",
       "capacity": 40000,
       "year_constructed": 2003,
-      "grass": false,
+      "grass": true,
       "dome": false
     }
   },
@@ -118,6 +121,7 @@
       "http://a.espncdn.com/i/teamlogos/ncaa/500/2335.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2335.png"
     ],
+    "twitter": "@LibertyFootball",
     "location": {
       "venue_id": 3992,
       "name": "Williams Stadium",
@@ -152,6 +156,7 @@
       "http://a.espncdn.com/i/teamlogos/ncaa/500/166.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/166.png"
     ],
+    "twitter": "@NMStateFootball",
     "location": {
       "venue_id": 3601,
       "name": "Aggie Memorial Stadium",
@@ -186,6 +191,7 @@
       "http://a.espncdn.com/i/teamlogos/ncaa/500/87.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/87.png"
     ],
+    "twitter": "@NDFootball",
     "location": {
       "venue_id": 3855,
       "name": "Notre Dame Stadium",
@@ -220,6 +226,7 @@
       "http://a.espncdn.com/i/teamlogos/ncaa/500/113.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/113.png"
     ],
+    "twitter": "@UMassFootball",
     "location": {
       "venue_id": 3985,
       "name": "Warren McGuirk Alumni Stadium",

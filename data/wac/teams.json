@@ -16,6 +16,7 @@
       "http://a.espncdn.com/i/teamlogos/ncaa/500/2000.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2000.png"
     ],
+    "twitter": "@ACUFootball",
     "location": {
       "venue_id": 5440,
       "name": "Wildcat Stadium (TX)",
@@ -29,40 +30,6 @@
       "elevation": "520.9",
       "capacity": 12000,
       "year_constructed": 2017,
-      "grass": false,
-      "dome": false
-    }
-  },
-  {
-    "normalizedName": "lamar",
-    "id": 2320,
-    "school": "Lamar",
-    "mascot": "Cardinals",
-    "abbreviation": "LAM",
-    "alt_name1": null,
-    "alt_name2": "LAM",
-    "alt_name3": "Lamar",
-    "conference": "Western Athletic",
-    "classification": "fcs",
-    "color": "#000000",
-    "alt_color": "#ebebeb",
-    "logos": [
-      "http://a.espncdn.com/i/teamlogos/ncaa/500/2320.png",
-      "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2320.png"
-    ],
-    "location": {
-      "venue_id": 3882,
-      "name": "Provost Umphrey Stadium",
-      "city": "Beaumont",
-      "state": "TX",
-      "zip": "77705",
-      "country_code": "US",
-      "timezone": "America/Chicago",
-      "latitude": 30.04313,
-      "longitude": -94.069963,
-      "elevation": "3.981505394",
-      "capacity": 16000,
-      "year_constructed": 1964,
       "grass": false,
       "dome": false
     }
@@ -84,6 +51,7 @@
       "http://a.espncdn.com/i/teamlogos/ncaa/500/2534.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2534.png"
     ],
+    "twitter": "@BearkatsFB",
     "location": {
       "venue_id": 3647,
       "name": "Bowers Stadium",
@@ -118,6 +86,7 @@
       "http://a.espncdn.com/i/teamlogos/ncaa/500/253.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/253.png"
     ],
+    "twitter": "@SUUFB",
     "location": {
       "venue_id": 3706,
       "name": "Eccles Coliseum",
@@ -152,6 +121,7 @@
       "http://a.espncdn.com/i/teamlogos/ncaa/500/2617.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2617.png"
     ],
+    "twitter": "@SFA_Football",
     "location": {
       "venue_id": 3756,
       "name": "Homer Bryce Stadium",
@@ -186,6 +156,7 @@
       "http://a.espncdn.com/i/teamlogos/ncaa/500/2627.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2627.png"
     ],
+    "twitter": "@TarletonFB",
     "location": {
       "venue_id": 3827,
       "name": "Memorial Stadium (Stephenville, TX)",
@@ -204,13 +175,13 @@
     }
   },
   {
-    "normalizedName": "dixie-state",
+    "normalizedName": "utah-tech",
     "id": 3101,
-    "school": "Dixie State",
-    "mascot": "Red Storm",
-    "abbreviation": "DIX",
-    "alt_name1": null,
-    "alt_name2": "DIX",
+    "school": "Utah Tech",
+    "mascot": "Trailblazers",
+    "abbreviation": "UT",
+    "alt_name1": "Dixie State",
+    "alt_name2": "UT",
     "alt_name3": "Dixie St",
     "conference": "Western Athletic",
     "classification": "fcs",
@@ -220,6 +191,7 @@
       "http://a.espncdn.com/i/teamlogos/ncaa/500/3101.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/3101.png"
     ],
+    "twitter": "@UtahTechFB",
     "location": {
       "venue_id": 3745,
       "name": "Greater Zion Stadium",

@@ -16,6 +16,7 @@
       "http://a.espncdn.com/i/teamlogos/ncaa/500/103.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/103.png"
     ],
+    "twitter": "@BCFootball",
     "location": {
       "venue_id": 3615,
       "name": "Alumni Stadium",
@@ -50,6 +51,7 @@
       "http://a.espncdn.com/i/teamlogos/ncaa/500/228.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/228.png"
     ],
+    "twitter": "@ClemsonFB",
     "location": {
       "venue_id": 3836,
       "name": "Memorial Stadium",
@@ -63,7 +65,7 @@
       "elevation": "205.6452179",
       "capacity": 81500,
       "year_constructed": 1942,
-      "grass": false,
+      "grass": true,
       "dome": false
     }
   },
@@ -84,6 +86,7 @@
       "http://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/150.png"
     ],
+    "twitter": "@DukeFootball",
     "location": {
       "venue_id": 3982,
       "name": "Wallace Wade Stadium",
@@ -97,7 +100,7 @@
       "elevation": "103.0028152",
       "capacity": 40004,
       "year_constructed": 1929,
-      "grass": false,
+      "grass": true,
       "dome": false
     }
   },
@@ -118,6 +121,7 @@
       "http://a.espncdn.com/i/teamlogos/ncaa/500/52.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/52.png"
     ],
+    "twitter": "@FSUFootball",
     "location": {
       "venue_id": 3697,
       "name": "Bobby Bowden Field at Doak Campbell Stadium",
@@ -131,7 +135,7 @@
       "elevation": "19.55942535",
       "capacity": 79560,
       "year_constructed": 1950,
-      "grass": false,
+      "grass": true,
       "dome": false
     }
   },
@@ -152,6 +156,7 @@
       "http://a.espncdn.com/i/teamlogos/ncaa/500/59.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/59.png"
     ],
+    "twitter": "@GeorgiaTechFB",
     "location": {
       "venue_id": 721,
       "name": "Bobby Dodd Stadium at Historic Grant Field",
@@ -165,7 +170,7 @@
       "elevation": "279.300415",
       "capacity": 55000,
       "year_constructed": 1913,
-      "grass": true,
+      "grass": false,
       "dome": false
     }
   },
@@ -186,6 +191,7 @@
       "http://a.espncdn.com/i/teamlogos/ncaa/500/97.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/97.png"
     ],
+    "twitter": "@LouisvilleFB",
     "location": {
       "venue_id": 3873,
       "name": "Papa John's Cardinal Stadium",
@@ -220,6 +226,7 @@
       "http://a.espncdn.com/i/teamlogos/ncaa/500/2390.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2390.png"
     ],
+    "twitter": "@CanesFootball",
     "location": {
       "venue_id": 3948,
       "name": "Hard Rock Stadium",
@@ -233,7 +240,7 @@
       "elevation": "2.624486446",
       "capacity": 64767,
       "year_constructed": 1987,
-      "grass": true,
+      "grass": false,
       "dome": false
     }
   },
@@ -254,6 +261,7 @@
       "http://a.espncdn.com/i/teamlogos/ncaa/500/152.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/152.png"
     ],
+    "twitter": "@PackFootball",
     "location": {
       "venue_id": 3670,
       "name": "Carter-Finley Stadium",
@@ -267,7 +275,7 @@
       "elevation": "117.0089951",
       "capacity": 58000,
       "year_constructed": 1966,
-      "grass": false,
+      "grass": true,
       "dome": false
     }
   },
@@ -288,6 +296,7 @@
       "http://a.espncdn.com/i/teamlogos/ncaa/500/153.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/153.png"
     ],
+    "twitter": "@UNCFootball",
     "location": {
       "venue_id": 3787,
       "name": "Kenan Memorial Stadium",
@@ -322,6 +331,7 @@
       "http://a.espncdn.com/i/teamlogos/ncaa/500/221.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/221.png"
     ],
+    "twitter": "@Pitt_FB",
     "location": {
       "venue_id": 3752,
       "name": "Heinz Field",
@@ -335,7 +345,7 @@
       "elevation": "220.5887146",
       "capacity": 68400,
       "year_constructed": 2001,
-      "grass": false,
+      "grass": true,
       "dome": false
     }
   },
@@ -356,6 +366,7 @@
       "http://a.espncdn.com/i/teamlogos/ncaa/500/183.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/183.png"
     ],
+    "twitter": "@CuseFootball",
     "location": {
       "venue_id": 1964,
       "name": "Carrier Dome",
@@ -390,6 +401,7 @@
       "http://a.espncdn.com/i/teamlogos/ncaa/500/258.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/258.png"
     ],
+    "twitter": "@UVAFootball",
     "location": {
       "venue_id": 3923,
       "name": "Scott Stadium",
@@ -403,7 +415,7 @@
       "elevation": "170.4677429",
       "capacity": 61500,
       "year_constructed": 1931,
-      "grass": false,
+      "grass": true,
       "dome": false
     }
   },
@@ -424,6 +436,7 @@
       "http://a.espncdn.com/i/teamlogos/ncaa/500/259.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/259.png"
     ],
+    "twitter": "@VT_Football",
     "location": {
       "venue_id": 3799,
       "name": "Lane Stadium",
@@ -437,7 +450,7 @@
       "elevation": "632.2631226",
       "capacity": 65632,
       "year_constructed": 1965,
-      "grass": false,
+      "grass": true,
       "dome": false
     }
   },
@@ -458,6 +471,7 @@
       "http://a.espncdn.com/i/teamlogos/ncaa/500/154.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/154.png"
     ],
+    "twitter": "@WakeFB",
     "location": {
       "venue_id": 3630,
       "name": "BB&T Field",
