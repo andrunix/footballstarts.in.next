@@ -35,41 +35,6 @@
     }
   },
   {
-    "normalizedName": "sam-houston-state",
-    "id": 2534,
-    "school": "Sam Houston State",
-    "mascot": "Bearkats",
-    "abbreviation": "SHSU",
-    "alt_name1": null,
-    "alt_name2": "SHSU",
-    "alt_name3": "Sam Houston",
-    "conference": "Western Athletic",
-    "classification": "fcs",
-    "color": "#fe5000",
-    "alt_color": "#000000",
-    "logos": [
-      "http://a.espncdn.com/i/teamlogos/ncaa/500/2534.png",
-      "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2534.png"
-    ],
-    "twitter": "@BearkatsFB",
-    "location": {
-      "venue_id": 3647,
-      "name": "Bowers Stadium",
-      "city": "Huntsville",
-      "state": "TX",
-      "zip": "77340",
-      "country_code": "US",
-      "timezone": "America/Chicago",
-      "latitude": 30.713926,
-      "longitude": -95.5419802,
-      "elevation": "127.6225204",
-      "capacity": 14000,
-      "year_constructed": 1986,
-      "grass": false,
-      "dome": false
-    }
-  },
-  {
     "normalizedName": "southern-utah",
     "id": 253,
     "school": "Southern Utah",

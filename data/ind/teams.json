@@ -35,41 +35,6 @@
     }
   },
   {
-    "normalizedName": "byu",
-    "id": 252,
-    "school": "BYU",
-    "mascot": "Cougars",
-    "abbreviation": "BYU",
-    "alt_name1": "Brigham Young",
-    "alt_name2": "BYU",
-    "alt_name3": "BYU",
-    "conference": "FBS Independents",
-    "classification": "fbs",
-    "color": "#001E4C",
-    "alt_color": "#ffffff",
-    "logos": [
-      "http://a.espncdn.com/i/teamlogos/ncaa/500/252.png",
-      "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/252.png"
-    ],
-    "twitter": "@BYUFootball",
-    "location": {
-      "venue_id": 3801,
-      "name": "LaVell Edwards Stadium",
-      "city": "Provo",
-      "state": "UT",
-      "zip": "84602",
-      "country_code": "US",
-      "timezone": "America/Denver",
-      "latitude": 40.2575347,
-      "longitude": -111.6545247,
-      "elevation": "1412.097046",
-      "capacity": 63470,
-      "year_constructed": 1964,
-      "grass": true,
-      "dome": false
-    }
-  },
-  {
     "normalizedName": "connecticut",
     "id": 41,
     "school": "Connecticut",
@@ -101,76 +66,6 @@
       "capacity": 40000,
       "year_constructed": 2003,
       "grass": true,
-      "dome": false
-    }
-  },
-  {
-    "normalizedName": "liberty",
-    "id": 2335,
-    "school": "Liberty",
-    "mascot": "Flames",
-    "abbreviation": "LIB",
-    "alt_name1": null,
-    "alt_name2": "LIB",
-    "alt_name3": "Liberty",
-    "conference": "FBS Independents",
-    "classification": "fbs",
-    "color": "#071740",
-    "alt_color": "#a61f21",
-    "logos": [
-      "http://a.espncdn.com/i/teamlogos/ncaa/500/2335.png",
-      "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2335.png"
-    ],
-    "twitter": "@LibertyFootball",
-    "location": {
-      "venue_id": 3992,
-      "name": "Williams Stadium",
-      "city": "Lynchburg",
-      "state": "VA",
-      "zip": "24502",
-      "country_code": "US",
-      "timezone": "America/New_York",
-      "latitude": 37.3544305,
-      "longitude": -79.1750239,
-      "elevation": "272.9237061",
-      "capacity": 25000,
-      "year_constructed": 1989,
-      "grass": false,
-      "dome": false
-    }
-  },
-  {
-    "normalizedName": "new-mexico-state",
-    "id": 166,
-    "school": "New Mexico State",
-    "mascot": "Aggies",
-    "abbreviation": "NMSU",
-    "alt_name1": null,
-    "alt_name2": "NMSU",
-    "alt_name3": "New Mexico St",
-    "conference": "FBS Independents",
-    "classification": "fbs",
-    "color": "#891216",
-    "alt_color": "#000000",
-    "logos": [
-      "http://a.espncdn.com/i/teamlogos/ncaa/500/166.png",
-      "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/166.png"
-    ],
-    "twitter": "@NMStateFootball",
-    "location": {
-      "venue_id": 3601,
-      "name": "Aggie Memorial Stadium",
-      "city": "Las Cruces",
-      "state": "NM",
-      "zip": "88003",
-      "country_code": "US",
-      "timezone": "America/Denver",
-      "latitude": 32.2796202,
-      "longitude": -106.7411148,
-      "elevation": "1208.201294",
-      "capacity": 28853,
-      "year_constructed": 1978,
-      "grass": false,
       "dome": false
     }
   },
