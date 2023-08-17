@@ -204,6 +204,12 @@
     "away_team": "Louisiana Tech"
   },
   {
+    "id": 401532570,
+    "start_date": "2023-09-02T17:00:00.000Z",
+    "home_team": "Air Force",
+    "away_team": "Robert Morris"
+  },
+  {
     "id": 401525820,
     "start_date": "2023-09-02T18:00:00.000Z",
     "home_team": "Iowa State",
@@ -220,12 +226,6 @@
     "start_date": "2023-09-02T18:00:00.000Z",
     "home_team": "Ohio",
     "away_team": "Long Island University"
-  },
-  {
-    "id": 401532570,
-    "start_date": "2023-09-02T18:00:00.000Z",
-    "home_team": "Air Force",
-    "away_team": "Robert Morris"
   },
   {
     "id": 401531387,

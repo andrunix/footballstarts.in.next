@@ -1,3 +1,4 @@
+import Cookies from 'js-cookie';
 import Layout from '../../components/layout.js';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -29,6 +30,9 @@ export async function getStaticProps({ params }) {
 }
 
 export default function Team({teamSchedule, record}) {
+
+  Cookies.set("lastVisited", teamSchedule.normalized);
+  
     const diffDays = getDaysUntilNextGame(teamSchedule.schedule);
     return (
         <Layout>

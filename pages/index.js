@@ -1,3 +1,5 @@
+import Cookies from "js-cookie";
+
 import Image from 'next/image';
 import Link from 'next/link';
 import Layout from '../components/layout.js';
@@ -15,9 +17,16 @@ export async function getStaticProps() {
 }
 
 export default function Home({schedule}) {
+
+  const SetCookie = () => {
+    Cookies.set("visits", "1");
+  };
+
+  SetCookie();
+  
   const diffDays = getDaysUntilNextGame(schedule);
   console.log('diffDays ', diffDays);
-
+    
   return (
     <Layout>
       <Countdown days={diffDays}/>
