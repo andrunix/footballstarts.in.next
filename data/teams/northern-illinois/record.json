@@ -1,1 +1,34 @@
-[]
+[
+  {
+    "year": 2023,
+    "teamId": 2459,
+    "team": "Northern Illinois",
+    "conference": "Mid-American",
+    "division": "West",
+    "expectedWins": 7,
+    "total": {
+      "games": 12,
+      "wins": 6,
+      "losses": 6,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 8,
+      "wins": 5,
+      "losses": 3,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 6,
+      "wins": 3,
+      "losses": 3,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 6,
+      "wins": 3,
+      "losses": 3,
+      "ties": 0
+    }
+  }
+]

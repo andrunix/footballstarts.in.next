@@ -1,1 +1,34 @@
-[]
+[
+  {
+    "year": 2023,
+    "teamId": 349,
+    "team": "Army",
+    "conference": "FBS Independents",
+    "division": "",
+    "expectedWins": 5.9,
+    "total": {
+      "games": 11,
+      "wins": 5,
+      "losses": 6,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 1,
+      "wins": 0,
+      "losses": 1,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 6,
+      "wins": 3,
+      "losses": 3,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 4,
+      "wins": 1,
+      "losses": 3,
+      "ties": 0
+    }
+  }
+]

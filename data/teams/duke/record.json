@@ -1,1 +1,34 @@
-[]
+[
+  {
+    "year": 2023,
+    "teamId": 150,
+    "team": "Duke",
+    "conference": "ACC",
+    "division": "Coastal",
+    "expectedWins": 6.1,
+    "total": {
+      "games": 12,
+      "wins": 7,
+      "losses": 5,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 8,
+      "wins": 4,
+      "losses": 4,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 7,
+      "wins": 6,
+      "losses": 1,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 5,
+      "wins": 1,
+      "losses": 4,
+      "ties": 0
+    }
+  }
+]

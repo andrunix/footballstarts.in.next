@@ -1,1 +1,34 @@
-[]
+[
+  {
+    "year": 2023,
+    "teamId": 202,
+    "team": "Tulsa",
+    "conference": "American Athletic",
+    "division": "",
+    "expectedWins": 5.4,
+    "total": {
+      "games": 12,
+      "wins": 4,
+      "losses": 8,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 8,
+      "wins": 2,
+      "losses": 6,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 6,
+      "wins": 2,
+      "losses": 4,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 6,
+      "wins": 2,
+      "losses": 4,
+      "ties": 0
+    }
+  }
+]

@@ -1,1 +1,34 @@
-[]
+[
+  {
+    "year": 2023,
+    "teamId": 201,
+    "team": "Oklahoma",
+    "conference": "Big 12",
+    "division": "",
+    "expectedWins": 10,
+    "total": {
+      "games": 12,
+      "wins": 10,
+      "losses": 2,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 9,
+      "wins": 7,
+      "losses": 2,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 6,
+      "wins": 6,
+      "losses": 0,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 5,
+      "wins": 3,
+      "losses": 2,
+      "ties": 0
+    }
+  }
+]

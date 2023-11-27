@@ -1,1 +1,34 @@
-[]
+[
+  {
+    "year": 2023,
+    "teamId": 2006,
+    "team": "Akron",
+    "conference": "Mid-American",
+    "division": "East",
+    "expectedWins": 3.8,
+    "total": {
+      "games": 12,
+      "wins": 2,
+      "losses": 10,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 8,
+      "wins": 1,
+      "losses": 7,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 5,
+      "wins": 2,
+      "losses": 3,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 7,
+      "wins": 0,
+      "losses": 7,
+      "ties": 0
+    }
+  }
+]

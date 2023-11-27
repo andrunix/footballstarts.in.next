@@ -1,1 +1,34 @@
-[]
+[
+  {
+    "year": 2023,
+    "teamId": 9,
+    "team": "Arizona State",
+    "conference": "Pac-12",
+    "division": "",
+    "expectedWins": 3.6,
+    "total": {
+      "games": 12,
+      "wins": 3,
+      "losses": 9,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 9,
+      "wins": 2,
+      "losses": 7,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 8,
+      "wins": 2,
+      "losses": 6,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 4,
+      "wins": 1,
+      "losses": 3,
+      "ties": 0
+    }
+  }
+]

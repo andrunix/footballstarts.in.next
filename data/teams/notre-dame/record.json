@@ -1,1 +1,34 @@
-[]
+[
+  {
+    "year": 2023,
+    "teamId": 87,
+    "team": "Notre Dame",
+    "conference": "FBS Independents",
+    "division": "",
+    "expectedWins": 9.6,
+    "total": {
+      "games": 12,
+      "wins": 9,
+      "losses": 3,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 0,
+      "wins": 0,
+      "losses": 0,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 6,
+      "wins": 5,
+      "losses": 1,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 5,
+      "wins": 3,
+      "losses": 2,
+      "ties": 0
+    }
+  }
+]

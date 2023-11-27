@@ -1,1 +1,34 @@
-[]
+[
+  {
+    "year": 2023,
+    "teamId": 252,
+    "team": "BYU",
+    "conference": "Big 12",
+    "division": "",
+    "expectedWins": 3.6,
+    "total": {
+      "games": 12,
+      "wins": 5,
+      "losses": 7,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 9,
+      "wins": 2,
+      "losses": 7,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 6,
+      "wins": 4,
+      "losses": 2,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 6,
+      "wins": 1,
+      "losses": 5,
+      "ties": 0
+    }
+  }
+]

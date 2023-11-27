@@ -1,1 +1,34 @@
-[]
+[
+  {
+    "year": 2023,
+    "teamId": 2426,
+    "team": "Navy",
+    "conference": "American Athletic",
+    "division": "",
+    "expectedWins": 5.5,
+    "total": {
+      "games": 11,
+      "wins": 5,
+      "losses": 6,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 8,
+      "wins": 4,
+      "losses": 4,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 6,
+      "wins": 4,
+      "losses": 2,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 4,
+      "wins": 1,
+      "losses": 3,
+      "ties": 0
+    }
+  }
+]

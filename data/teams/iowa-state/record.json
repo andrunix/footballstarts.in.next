@@ -1,1 +1,34 @@
-[]
+[
+  {
+    "year": 2023,
+    "teamId": 66,
+    "team": "Iowa State",
+    "conference": "Big 12",
+    "division": "",
+    "expectedWins": 8,
+    "total": {
+      "games": 12,
+      "wins": 7,
+      "losses": 5,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 9,
+      "wins": 6,
+      "losses": 3,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 6,
+      "wins": 3,
+      "losses": 3,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 6,
+      "wins": 4,
+      "losses": 2,
+      "ties": 0
+    }
+  }
+]

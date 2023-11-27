@@ -1,1 +1,34 @@
-[]
+[
+  {
+    "year": 2023,
+    "teamId": 58,
+    "team": "South Florida",
+    "conference": "American Athletic",
+    "division": "",
+    "expectedWins": 5.8,
+    "total": {
+      "games": 12,
+      "wins": 6,
+      "losses": 6,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 8,
+      "wins": 4,
+      "losses": 4,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 6,
+      "wins": 4,
+      "losses": 2,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 6,
+      "wins": 2,
+      "losses": 4,
+      "ties": 0
+    }
+  }
+]

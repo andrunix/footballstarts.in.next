@@ -1,1 +1,34 @@
-[]
+[
+  {
+    "year": 2023,
+    "teamId": 2309,
+    "team": "Kent State",
+    "conference": "Mid-American",
+    "division": "East",
+    "expectedWins": 2.1,
+    "total": {
+      "games": 12,
+      "wins": 1,
+      "losses": 11,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 8,
+      "wins": 0,
+      "losses": 8,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 5,
+      "wins": 1,
+      "losses": 4,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 7,
+      "wins": 0,
+      "losses": 7,
+      "ties": 0
+    }
+  }
+]

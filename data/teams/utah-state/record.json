@@ -1,1 +1,34 @@
-[]
+[
+  {
+    "year": 2023,
+    "teamId": 328,
+    "team": "Utah State",
+    "conference": "Mountain West",
+    "division": "Mountain",
+    "expectedWins": 6.2,
+    "total": {
+      "games": 12,
+      "wins": 6,
+      "losses": 6,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 8,
+      "wins": 4,
+      "losses": 4,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 6,
+      "wins": 3,
+      "losses": 3,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 6,
+      "wins": 3,
+      "losses": 3,
+      "ties": 0
+    }
+  }
+]
