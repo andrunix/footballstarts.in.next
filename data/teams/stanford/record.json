@@ -1,10 +1,34 @@
-{
-  "total": {
-    "wins": 0,
-    "losses": 0
-  },
-  "conferenceGames": {
-    "wins": 0,
-    "losses": 0
+[
+  {
+    "year": 2023,
+    "teamId": 24,
+    "team": "Stanford",
+    "conference": "Pac-12",
+    "division": "",
+    "expectedWins": 2.4,
+    "total": {
+      "games": 12,
+      "wins": 3,
+      "losses": 9,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 9,
+      "wins": 2,
+      "losses": 7,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 7,
+      "wins": 0,
+      "losses": 7,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 5,
+      "wins": 3,
+      "losses": 2,
+      "ties": 0
+    }
   }
-}
+]

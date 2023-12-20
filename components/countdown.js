@@ -1,13 +1,8 @@
 import Image from 'next/image';
 import { camelCase } from '../lib/teamUtils';
+import FavoriteButton from './favorite-button';
 
 export default function Countdown({teamId, normalized, team, days, fav, onClickFav}) {
-
-  const toggleFav = () => {
-    console.log('Toggle it baby');
-    onClickFav(true);
-  };
-  
   return (
     <div className="text-black text-center bg-opacity-50 bg-blue-500 rounded-t-2xl mx-auto">
       
@@ -21,10 +16,13 @@ export default function Countdown({teamId, normalized, team, days, fav, onClickF
           {team ? team : 'College'} football starts in
         </div>
         <div className="flex align-right">
-          <button onClick={() => onClickFav(!fav)}
-                  className={`${fav ? 'text-3xl text-red-500' : 'text-2xl text-black'} p-2`}>
-            {fav ? '♥' : '♡'}
-          </button>
+          {team &&
+           <button onClick={() => onClickFav(!fav)}
+                   className={`${fav ? 'text-3xl text-red-500' : 'text-2xl text-black'} p-2`}>
+             {fav ? '♥' : '♡'}
+             
+           </button>
+          }
         </div>
       </div>
 

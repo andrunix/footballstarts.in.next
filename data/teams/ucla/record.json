@@ -1,10 +1,34 @@
-{
-  "total": {
-    "wins": 0,
-    "losses": 0
-  },
-  "conferenceGames": {
-    "wins": 0,
-    "losses": 0
+[
+  {
+    "year": 2023,
+    "teamId": 26,
+    "team": "UCLA",
+    "conference": "Pac-12",
+    "division": "",
+    "expectedWins": 8.6,
+    "total": {
+      "games": 13,
+      "wins": 8,
+      "losses": 5,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 9,
+      "wins": 4,
+      "losses": 5,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 6,
+      "wins": 4,
+      "losses": 2,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 6,
+      "wins": 3,
+      "losses": 3,
+      "ties": 0
+    }
   }
-}
+]
