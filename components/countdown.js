@@ -32,9 +32,9 @@ export default function Countdown({teamId, normalized, team, days}) {
       }
       {days < 0 &&
        <div className="flex text-3xl md:text-4xl justify-center mx-auto">
-         <div className="flex flex-col border-2 border-black rounded m-2 p-6 bg-white">
+         <div className="flex flex-col border-2 border-black rounded m-3  p-6 bg-white">
            <p>
-             Oh dear. It looks like there are no games scheduled in the near future.
+             It looks like there are no games scheduled in the near future.
            </p>
            <p>
              Check back soon for updates.
