@@ -1,34 +1,10 @@
-[
-  {
-    "year": 2023,
-    "teamId": 97,
-    "team": "Louisville",
-    "conference": "ACC",
-    "division": "Atlantic",
-    "expectedWins": 9.5,
-    "total": {
-      "games": 12,
-      "wins": 10,
-      "losses": 2,
-      "ties": 0
-    },
-    "conferenceGames": {
-      "games": 8,
-      "wins": 7,
-      "losses": 1,
-      "ties": 0
-    },
-    "homeGames": {
-      "games": 7,
-      "wins": 6,
-      "losses": 1,
-      "ties": 0
-    },
-    "awayGames": {
-      "games": 3,
-      "wins": 2,
-      "losses": 1,
-      "ties": 0
-    }
+{
+  "total": {
+    "wins": 0,
+    "losses": 0
+  },
+  "conferenceGames": {
+    "wins": 0,
+    "losses": 0
   }
-]
+}

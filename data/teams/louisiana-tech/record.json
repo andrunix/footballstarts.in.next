@@ -1,34 +1,10 @@
-[
-  {
-    "year": 2023,
-    "teamId": 2348,
-    "team": "Louisiana Tech",
-    "conference": "Conference USA",
-    "division": "",
-    "expectedWins": 4.2,
-    "total": {
-      "games": 12,
-      "wins": 3,
-      "losses": 9,
-      "ties": 0
-    },
-    "conferenceGames": {
-      "games": 8,
-      "wins": 2,
-      "losses": 6,
-      "ties": 0
-    },
-    "homeGames": {
-      "games": 6,
-      "wins": 2,
-      "losses": 4,
-      "ties": 0
-    },
-    "awayGames": {
-      "games": 6,
-      "wins": 1,
-      "losses": 5,
-      "ties": 0
-    }
+{
+  "total": {
+    "wins": 0,
+    "losses": 0
+  },
+  "conferenceGames": {
+    "wins": 0,
+    "losses": 0
   }
-]
+}

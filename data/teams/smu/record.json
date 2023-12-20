@@ -1,34 +1,10 @@
-[
-  {
-    "year": 2023,
-    "teamId": 2567,
-    "team": "SMU",
-    "conference": "American Athletic",
-    "division": "",
-    "expectedWins": 9.7,
-    "total": {
-      "games": 12,
-      "wins": 10,
-      "losses": 2,
-      "ties": 0
-    },
-    "conferenceGames": {
-      "games": 8,
-      "wins": 8,
-      "losses": 0,
-      "ties": 0
-    },
-    "homeGames": {
-      "games": 6,
-      "wins": 6,
-      "losses": 0,
-      "ties": 0
-    },
-    "awayGames": {
-      "games": 6,
-      "wins": 4,
-      "losses": 2,
-      "ties": 0
-    }
+{
+  "total": {
+    "wins": 0,
+    "losses": 0
+  },
+  "conferenceGames": {
+    "wins": 0,
+    "losses": 0
   }
-]
+}

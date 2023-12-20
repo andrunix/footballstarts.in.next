@@ -1,34 +1,10 @@
-[
-  {
-    "year": 2023,
-    "teamId": 197,
-    "team": "Oklahoma State",
-    "conference": "Big 12",
-    "division": "",
-    "expectedWins": 4.8,
-    "total": {
-      "games": 12,
-      "wins": 9,
-      "losses": 3,
-      "ties": 0
-    },
-    "conferenceGames": {
-      "games": 9,
-      "wins": 7,
-      "losses": 2,
-      "ties": 0
-    },
-    "homeGames": {
-      "games": 7,
-      "wins": 6,
-      "losses": 1,
-      "ties": 0
-    },
-    "awayGames": {
-      "games": 5,
-      "wins": 3,
-      "losses": 2,
-      "ties": 0
-    }
+{
+  "total": {
+    "wins": 0,
+    "losses": 0
+  },
+  "conferenceGames": {
+    "wins": 0,
+    "losses": 0
   }
-]
+}

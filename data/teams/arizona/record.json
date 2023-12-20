@@ -1,34 +1,10 @@
-[
-  {
-    "year": 2023,
-    "teamId": 12,
-    "team": "Arizona",
-    "conference": "Pac-12",
-    "division": "",
-    "expectedWins": 8.6,
-    "total": {
-      "games": 12,
-      "wins": 9,
-      "losses": 3,
-      "ties": 0
-    },
-    "conferenceGames": {
-      "games": 9,
-      "wins": 7,
-      "losses": 2,
-      "ties": 0
-    },
-    "homeGames": {
-      "games": 6,
-      "wins": 5,
-      "losses": 1,
-      "ties": 0
-    },
-    "awayGames": {
-      "games": 6,
-      "wins": 4,
-      "losses": 2,
-      "ties": 0
-    }
+{
+  "total": {
+    "wins": 0,
+    "losses": 0
+  },
+  "conferenceGames": {
+    "wins": 0,
+    "losses": 0
   }
-]
+}

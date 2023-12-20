@@ -1,34 +1,10 @@
-[
-  {
-    "year": 2023,
-    "teamId": 23,
-    "team": "San José State",
-    "conference": "Mountain West",
-    "division": "West",
-    "expectedWins": 6.8,
-    "total": {
-      "games": 12,
-      "wins": 7,
-      "losses": 5,
-      "ties": 0
-    },
-    "conferenceGames": {
-      "games": 8,
-      "wins": 6,
-      "losses": 2,
-      "ties": 0
-    },
-    "homeGames": {
-      "games": 6,
-      "wins": 4,
-      "losses": 2,
-      "ties": 0
-    },
-    "awayGames": {
-      "games": 6,
-      "wins": 3,
-      "losses": 3,
-      "ties": 0
-    }
+{
+  "total": {
+    "wins": 0,
+    "losses": 0
+  },
+  "conferenceGames": {
+    "wins": 0,
+    "losses": 0
   }
-]
+}

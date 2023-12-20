@@ -1,62 +1,80 @@
 [
   {
-    "id": 401539476,
-    "start_date": "2023-12-02T00:00:00.000Z",
-    "home_team": "Liberty",
-    "away_team": "New Mexico State"
+    "id": 401551737,
+    "start_date": "2023-12-22T01:00:00.000Z",
+    "home_team": "Syracuse",
+    "away_team": "South Florida"
   },
   {
-    "id": 401539475,
-    "start_date": "2023-12-02T01:00:00.000Z",
-    "home_team": "Washington",
-    "away_team": "Oregon"
+    "id": 401551754,
+    "start_date": "2023-12-22T23:30:00.000Z",
+    "home_team": "UCF",
+    "away_team": "Georgia Tech"
   },
   {
-    "id": 401539479,
-    "start_date": "2023-12-02T17:00:00.000Z",
-    "home_team": "Texas",
-    "away_team": "Oklahoma State"
+    "id": 401551739,
+    "start_date": "2023-12-23T17:00:00.000Z",
+    "home_team": "Duke",
+    "away_team": "Troy"
   },
   {
-    "id": 401539481,
-    "start_date": "2023-12-02T17:00:00.000Z",
-    "home_team": "Toledo",
-    "away_team": "Miami (OH)"
+    "id": 401551741,
+    "start_date": "2023-12-23T17:00:00.000Z",
+    "home_team": "Northern Illinois",
+    "away_team": "Arkansas State"
   },
   {
-    "id": 401539482,
-    "start_date": "2023-12-02T20:00:00.000Z",
+    "id": 401551742,
+    "start_date": "2023-12-23T20:30:00.000Z",
+    "home_team": "Air Force",
+    "away_team": "James Madison"
+  },
+  {
+    "id": 401551743,
+    "start_date": "2023-12-23T20:30:00.000Z",
+    "home_team": "Utah State",
+    "away_team": "Georgia State"
+  },
+  {
+    "id": 401551755,
+    "start_date": "2023-12-24T00:00:00.000Z",
+    "home_team": "Eastern Michigan",
+    "away_team": "South Alabama"
+  },
+  {
+    "id": 401551744,
+    "start_date": "2023-12-24T00:30:00.000Z",
+    "home_team": "Northwestern",
+    "away_team": "Utah"
+  },
+  {
+    "id": 401551746,
+    "start_date": "2023-12-24T03:30:00.000Z",
+    "home_team": "San José State",
+    "away_team": "Coastal Carolina"
+  },
+  {
+    "id": 401551756,
+    "start_date": "2023-12-26T19:00:00.000Z",
+    "home_team": "Minnesota",
+    "away_team": "Bowling Green"
+  },
+  {
+    "id": 401551748,
+    "start_date": "2023-12-26T22:30:00.000Z",
+    "home_team": "Rice",
+    "away_team": "Texas State"
+  },
+  {
+    "id": 401551757,
+    "start_date": "2023-12-27T02:00:00.000Z",
     "home_team": "UNLV",
-    "away_team": "Boise State"
+    "away_team": "Kansas"
   },
   {
-    "id": 401539483,
-    "start_date": "2023-12-02T21:00:00.000Z",
-    "home_team": "Alabama",
-    "away_team": "Georgia"
-  },
-  {
-    "id": 401539484,
-    "start_date": "2023-12-02T21:00:00.000Z",
-    "home_team": "Troy",
-    "away_team": "Appalachian State"
-  },
-  {
-    "id": 401539477,
-    "start_date": "2023-12-02T21:00:00.000Z",
+    "id": 401551758,
+    "start_date": "2023-12-27T19:00:00.000Z",
     "home_team": "Tulane",
-    "away_team": "SMU"
-  },
-  {
-    "id": 401539478,
-    "start_date": "2023-12-03T01:00:00.000Z",
-    "home_team": "Florida State",
-    "away_team": "Louisville"
-  },
-  {
-    "id": 401539480,
-    "start_date": "2023-12-03T01:00:00.000Z",
-    "home_team": "Iowa",
-    "away_team": "Michigan"
+    "away_team": "Virginia Tech"
   }
 ]
