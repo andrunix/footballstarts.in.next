@@ -4,6 +4,7 @@ import Navbar from './navbar.js';
 import Footer from './footer.js';
 
 export default function Layout ({children}) {
+  
   return (
     <div className="flex flex-col h-screen justify-between">
       <Head>
@@ -28,7 +29,9 @@ export default function Layout ({children}) {
       <main className="flex-grow">
         <div className="p-2 mx-auto">
           <div className="max-w-md mx-auto sm:max-w-xl">
+
             {children}
+
           </div>
         </div>
       </main>

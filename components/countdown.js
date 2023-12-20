@@ -1,7 +1,13 @@
 import Image from 'next/image';
 import { camelCase } from '../lib/teamUtils';
 
-export default function Countdown({teamId, normalized, team, days}) {
+export default function Countdown({teamId, normalized, team, days, fav, onClickFav}) {
+
+  const toggleFav = () => {
+    console.log('Toggle it baby');
+    onClickFav(true);
+  };
+  
   return (
     <div className="text-black text-center bg-opacity-50 bg-blue-500 rounded-t-2xl mx-auto">
       
@@ -13,6 +19,12 @@ export default function Countdown({teamId, normalized, team, days}) {
         }
         <div className="uppercase text-white text-bold text-2xl align-middle flex flex-col p-2">
           {team ? team : 'College'} football starts in
+        </div>
+        <div className="flex align-right">
+          <button onClick={() => onClickFav(!fav)}
+                  className={`${fav ? 'text-3xl text-red-500' : 'text-2xl text-black'} p-2`}>
+            {fav ? '♥' : '♡'}
+          </button>
         </div>
       </div>
 
@@ -31,7 +43,7 @@ export default function Countdown({teamId, normalized, team, days}) {
        </div>
       }
       {days < 0 &&
-       <div className="flex text-3xl md:text-4xl justify-center mx-auto">
+       <div className="flex text-xl md:text-2xl justify-center mx-auto">
          <div className="flex flex-col border-2 border-black rounded m-3  p-6 bg-white">
            <p>
              It looks like there are no games scheduled in the near future.

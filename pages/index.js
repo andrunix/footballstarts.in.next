@@ -19,7 +19,9 @@ export async function getStaticProps() {
 export default function Home({schedule}) {
 
   const SetCookie = () => {
-    Cookies.set("visits", "1");
+    let visits = Cookies.get("visits");
+    console.log('visits', visits);
+    Cookies.set("visits", ++visits);
   };
 
   SetCookie();
