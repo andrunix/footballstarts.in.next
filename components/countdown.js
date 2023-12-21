@@ -1,6 +1,6 @@
 import Image from 'next/image';
 import { camelCase } from '../lib/teamUtils';
-import FavoriteButton from './favorite-button';
+// import FavoriteButton from './favorite-button';
 
 export default function Countdown({teamId, normalized, team, days, fav, onClickFav}) {
   return (
