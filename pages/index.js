@@ -33,7 +33,7 @@ export default function Home({schedule}) {
     <Layout>
       <Countdown days={diffDays}/>
 
-      {diffDays > 0 &&
+      {diffDays >= 0 &&
        <UpcomingGames schedule={schedule} />
       }
     </Layout>
