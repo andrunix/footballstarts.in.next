@@ -5,10 +5,10 @@
     "team": "South Florida",
     "conference": "American Athletic",
     "division": "",
-    "expectedWins": 5.8,
+    "expectedWins": 6.8,
     "total": {
-      "games": 12,
-      "wins": 6,
+      "games": 13,
+      "wins": 7,
       "losses": 6,
       "ties": 0
     },

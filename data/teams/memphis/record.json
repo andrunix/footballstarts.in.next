@@ -5,10 +5,10 @@
     "team": "Memphis",
     "conference": "American Athletic",
     "division": "",
-    "expectedWins": 6.8,
+    "expectedWins": 7.8,
     "total": {
-      "games": 12,
-      "wins": 9,
+      "games": 13,
+      "wins": 10,
       "losses": 3,
       "ties": 0
     },
@@ -25,8 +25,8 @@
       "ties": 0
     },
     "awayGames": {
-      "games": 5,
-      "wins": 5,
+      "games": 6,
+      "wins": 6,
       "losses": 0,
       "ties": 0
     }

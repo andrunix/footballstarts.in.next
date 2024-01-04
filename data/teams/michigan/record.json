@@ -5,10 +5,10 @@
     "team": "Michigan",
     "conference": "Big Ten",
     "division": "East",
-    "expectedWins": 12.1,
+    "expectedWins": 13.1,
     "total": {
-      "games": 13,
-      "wins": 13,
+      "games": 14,
+      "wins": 14,
       "losses": 0,
       "ties": 0
     },

@@ -5,10 +5,10 @@
     "team": "Northern Illinois",
     "conference": "Mid-American",
     "division": "West",
-    "expectedWins": 7,
+    "expectedWins": 7.9,
     "total": {
-      "games": 12,
-      "wins": 6,
+      "games": 13,
+      "wins": 7,
       "losses": 6,
       "ties": 0
     },

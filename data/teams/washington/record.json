@@ -5,10 +5,10 @@
     "team": "Washington",
     "conference": "Pac-12",
     "division": "",
-    "expectedWins": 9.9,
+    "expectedWins": 10.6,
     "total": {
-      "games": 13,
-      "wins": 13,
+      "games": 14,
+      "wins": 14,
       "losses": 0,
       "ties": 0
     },

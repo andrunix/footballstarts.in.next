@@ -7,9 +7,9 @@
     "division": "",
     "expectedWins": 12.8,
     "total": {
-      "games": 13,
+      "games": 14,
       "wins": 13,
-      "losses": 0,
+      "losses": 1,
       "ties": 0
     },
     "conferenceGames": {

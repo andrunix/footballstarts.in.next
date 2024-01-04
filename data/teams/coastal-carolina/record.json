@@ -5,10 +5,10 @@
     "team": "Coastal Carolina",
     "conference": "Sun Belt",
     "division": "East",
-    "expectedWins": 7,
+    "expectedWins": 7.7,
     "total": {
-      "games": 12,
-      "wins": 7,
+      "games": 13,
+      "wins": 8,
       "losses": 5,
       "ties": 0
     },

@@ -7,9 +7,9 @@
     "division": "West",
     "expectedWins": 10.7,
     "total": {
-      "games": 13,
+      "games": 14,
       "wins": 11,
-      "losses": 2,
+      "losses": 3,
       "ties": 0
     },
     "conferenceGames": {

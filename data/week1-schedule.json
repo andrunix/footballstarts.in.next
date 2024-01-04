@@ -1,80 +1,8 @@
 [
   {
-    "id": 401551737,
-    "start_date": "2023-12-22T01:00:00.000Z",
-    "home_team": "Syracuse",
-    "away_team": "South Florida"
-  },
-  {
-    "id": 401551754,
-    "start_date": "2023-12-22T23:30:00.000Z",
-    "home_team": "UCF",
-    "away_team": "Georgia Tech"
-  },
-  {
-    "id": 401551739,
-    "start_date": "2023-12-23T17:00:00.000Z",
-    "home_team": "Duke",
-    "away_team": "Troy"
-  },
-  {
-    "id": 401551741,
-    "start_date": "2023-12-23T17:00:00.000Z",
-    "home_team": "Northern Illinois",
-    "away_team": "Arkansas State"
-  },
-  {
-    "id": 401551742,
-    "start_date": "2023-12-23T20:30:00.000Z",
-    "home_team": "Air Force",
-    "away_team": "James Madison"
-  },
-  {
-    "id": 401551743,
-    "start_date": "2023-12-23T20:30:00.000Z",
-    "home_team": "Utah State",
-    "away_team": "Georgia State"
-  },
-  {
-    "id": 401551755,
-    "start_date": "2023-12-24T00:00:00.000Z",
-    "home_team": "Eastern Michigan",
-    "away_team": "South Alabama"
-  },
-  {
-    "id": 401551744,
-    "start_date": "2023-12-24T00:30:00.000Z",
-    "home_team": "Northwestern",
-    "away_team": "Utah"
-  },
-  {
-    "id": 401551746,
-    "start_date": "2023-12-24T03:30:00.000Z",
-    "home_team": "San José State",
-    "away_team": "Coastal Carolina"
-  },
-  {
-    "id": 401551756,
-    "start_date": "2023-12-26T19:00:00.000Z",
-    "home_team": "Minnesota",
-    "away_team": "Bowling Green"
-  },
-  {
-    "id": 401551748,
-    "start_date": "2023-12-26T22:30:00.000Z",
-    "home_team": "Rice",
-    "away_team": "Texas State"
-  },
-  {
-    "id": 401551757,
-    "start_date": "2023-12-27T02:00:00.000Z",
-    "home_team": "UNLV",
-    "away_team": "Kansas"
-  },
-  {
-    "id": 401551758,
-    "start_date": "2023-12-27T19:00:00.000Z",
-    "home_team": "Tulane",
-    "away_team": "Virginia Tech"
+    "id": 401551789,
+    "start_date": "2024-01-09T00:30:00.000Z",
+    "home_team": "Michigan",
+    "away_team": "Washington"
   }
 ]

@@ -7,9 +7,9 @@
     "division": "Atlantic",
     "expectedWins": 10.5,
     "total": {
-      "games": 13,
+      "games": 14,
       "wins": 13,
-      "losses": 0,
+      "losses": 1,
       "ties": 0
     },
     "conferenceGames": {

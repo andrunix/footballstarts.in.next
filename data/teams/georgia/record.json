@@ -5,10 +5,10 @@
     "team": "Georgia",
     "conference": "SEC",
     "division": "East",
-    "expectedWins": 11.6,
+    "expectedWins": 12.6,
     "total": {
-      "games": 13,
-      "wins": 12,
+      "games": 14,
+      "wins": 13,
       "losses": 1,
       "ties": 0
     },

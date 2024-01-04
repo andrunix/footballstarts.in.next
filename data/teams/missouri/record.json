@@ -5,10 +5,10 @@
     "team": "Missouri",
     "conference": "SEC",
     "division": "East",
-    "expectedWins": 9.4,
+    "expectedWins": 10.4,
     "total": {
-      "games": 12,
-      "wins": 10,
+      "games": 13,
+      "wins": 11,
       "losses": 2,
       "ties": 0
     },

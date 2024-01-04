@@ -5,11 +5,11 @@
     "team": "Tulane",
     "conference": "American Athletic",
     "division": "",
-    "expectedWins": 9.8,
+    "expectedWins": 9.9,
     "total": {
-      "games": 13,
+      "games": 14,
       "wins": 11,
-      "losses": 2,
+      "losses": 3,
       "ties": 0
     },
     "conferenceGames": {
