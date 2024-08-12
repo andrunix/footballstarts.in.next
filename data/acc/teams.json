@@ -10,8 +10,8 @@
     "alt_name3": "Boston College",
     "conference": "ACC",
     "classification": "fbs",
-    "color": "#88001a",
-    "alt_color": "#a39161",
+    "color": "#8c2232",
+    "alt_color": "#dbcca6",
     "logos": [
       "http://a.espncdn.com/i/teamlogos/ncaa/500/103.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/103.png"
@@ -35,6 +35,41 @@
     }
   },
   {
+    "normalizedName": "california",
+    "id": 25,
+    "school": "California",
+    "mascot": "Golden Bears",
+    "abbreviation": "CAL",
+    "alt_name1": null,
+    "alt_name2": "CAL",
+    "alt_name3": "Cal",
+    "conference": "ACC",
+    "classification": "fbs",
+    "color": "#031522",
+    "alt_color": "#ffc423",
+    "logos": [
+      "http://a.espncdn.com/i/teamlogos/ncaa/500/25.png",
+      "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/25.png"
+    ],
+    "twitter": "@CalFootball",
+    "location": {
+      "venue_id": 3831,
+      "name": "California Memorial Stadium",
+      "city": "Berkeley",
+      "state": "CA",
+      "zip": "94720",
+      "country_code": "US",
+      "timezone": "America/Los_Angeles",
+      "latitude": 37.8710434,
+      "longitude": -122.2507729,
+      "elevation": "125.3108063",
+      "capacity": 62467,
+      "year_constructed": 1923,
+      "grass": false,
+      "dome": false
+    }
+  },
+  {
     "normalizedName": "clemson",
     "id": 228,
     "school": "Clemson",
@@ -45,7 +80,7 @@
     "alt_name3": "Clemson",
     "conference": "ACC",
     "classification": "fbs",
-    "color": "#F66733",
+    "color": "#f56600",
     "alt_color": "#522d80",
     "logos": [
       "http://a.espncdn.com/i/teamlogos/ncaa/500/228.png",
@@ -80,8 +115,8 @@
     "alt_name3": "Duke",
     "conference": "ACC",
     "classification": "fbs",
-    "color": "#001A57",
-    "alt_color": "#f1f2f3",
+    "color": "#013088",
+    "alt_color": "#ffffff",
     "logos": [
       "http://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/150.png"
@@ -150,8 +185,8 @@
     "alt_name3": "Georgia Tech",
     "conference": "ACC",
     "classification": "fbs",
-    "color": "#00223e",
-    "alt_color": "#002c56",
+    "color": "#003057",
+    "alt_color": "#b3a369",
     "logos": [
       "http://a.espncdn.com/i/teamlogos/ncaa/500/59.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/59.png"
@@ -185,8 +220,8 @@
     "alt_name3": "Louisville",
     "conference": "ACC",
     "classification": "fbs",
-    "color": "#ad000a",
-    "alt_color": "#cccccc",
+    "color": "#c9001f",
+    "alt_color": "#000000",
     "logos": [
       "http://a.espncdn.com/i/teamlogos/ncaa/500/97.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/97.png"
@@ -220,8 +255,8 @@
     "alt_name3": "Miami",
     "conference": "ACC",
     "classification": "fbs",
-    "color": "#004325",
-    "alt_color": "#f0f0f0",
+    "color": "#005030",
+    "alt_color": "#f47321",
     "logos": [
       "http://a.espncdn.com/i/teamlogos/ncaa/500/2390.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2390.png"
@@ -255,8 +290,8 @@
     "alt_name3": "NC State",
     "conference": "ACC",
     "classification": "fbs",
-    "color": "#EF1216",
-    "alt_color": "#231f20",
+    "color": "#cc0000",
+    "alt_color": "#ffffff",
     "logos": [
       "http://a.espncdn.com/i/teamlogos/ncaa/500/152.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/152.png"
@@ -290,7 +325,7 @@
     "alt_name3": "UNC",
     "conference": "ACC",
     "classification": "fbs",
-    "color": "#99bfe5",
+    "color": "#7bafd4",
     "alt_color": "#13294b",
     "logos": [
       "http://a.espncdn.com/i/teamlogos/ncaa/500/153.png",
@@ -350,6 +385,76 @@
     }
   },
   {
+    "normalizedName": "smu",
+    "id": 2567,
+    "school": "SMU",
+    "mascot": "Mustangs",
+    "abbreviation": "SMU",
+    "alt_name1": "Southern Methodist",
+    "alt_name2": "SMU",
+    "alt_name3": "SMU",
+    "conference": "ACC",
+    "classification": "fbs",
+    "color": "#354ca1",
+    "alt_color": "#cc0035",
+    "logos": [
+      "http://a.espncdn.com/i/teamlogos/ncaa/500/2567.png",
+      "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2567.png"
+    ],
+    "twitter": "@SMUFB",
+    "location": {
+      "venue_id": 3735,
+      "name": "Gerald J. Ford Stadium",
+      "city": "University Park",
+      "state": "TX",
+      "zip": "75275",
+      "country_code": "US",
+      "timezone": "America/Chicago",
+      "latitude": 32.8377223,
+      "longitude": -96.7827859,
+      "elevation": "169.4058075",
+      "capacity": 32000,
+      "year_constructed": 2000,
+      "grass": false,
+      "dome": false
+    }
+  },
+  {
+    "normalizedName": "stanford",
+    "id": 24,
+    "school": "Stanford",
+    "mascot": "Cardinal",
+    "abbreviation": "STAN",
+    "alt_name1": null,
+    "alt_name2": "STAN",
+    "alt_name3": "Stanford",
+    "conference": "ACC",
+    "classification": "fbs",
+    "color": "#8c1515",
+    "alt_color": "#ffffff",
+    "logos": [
+      "http://a.espncdn.com/i/teamlogos/ncaa/500/24.png",
+      "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/24.png"
+    ],
+    "twitter": "@StanfordFball",
+    "location": {
+      "venue_id": 3940,
+      "name": "Stanford Stadium",
+      "city": "Stanford",
+      "state": "CA",
+      "zip": "94305",
+      "country_code": "US",
+      "timezone": "America/Los_Angeles",
+      "latitude": 37.4345556,
+      "longitude": -122.1611271,
+      "elevation": "18.38425636",
+      "capacity": 50424,
+      "year_constructed": 2006,
+      "grass": true,
+      "dome": false
+    }
+  },
+  {
     "normalizedName": "syracuse",
     "id": 183,
     "school": "Syracuse",
@@ -360,8 +465,8 @@
     "alt_name3": "Syracuse",
     "conference": "ACC",
     "classification": "fbs",
-    "color": "#F37321",
-    "alt_color": "#0d1d37",
+    "color": "#ff6500",
+    "alt_color": "#000e54",
     "logos": [
       "http://a.espncdn.com/i/teamlogos/ncaa/500/183.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/183.png"
@@ -395,8 +500,8 @@
     "alt_name3": "UVA",
     "conference": "ACC",
     "classification": "fbs",
-    "color": "#f84c1e",
-    "alt_color": "#ffffff",
+    "color": "#232d4b",
+    "alt_color": "#f84c1e",
     "logos": [
       "http://a.espncdn.com/i/teamlogos/ncaa/500/258.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/258.png"
@@ -430,8 +535,8 @@
     "alt_name3": "VT",
     "conference": "ACC",
     "classification": "fbs",
-    "color": "#74232D",
-    "alt_color": "#c2c1ba",
+    "color": "#630031",
+    "alt_color": "#cf4520",
     "logos": [
       "http://a.espncdn.com/i/teamlogos/ncaa/500/259.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/259.png"
@@ -465,8 +570,8 @@
     "alt_name3": "Wake Forest",
     "conference": "ACC",
     "classification": "fbs",
-    "color": "#9E7E38",
-    "alt_color": "#000000",
+    "color": "#000000",
+    "alt_color": "#ceb888",
     "logos": [
       "http://a.espncdn.com/i/teamlogos/ncaa/500/154.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/154.png"

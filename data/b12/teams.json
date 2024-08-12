@@ -1,5 +1,75 @@
 [
   {
+    "normalizedName": "arizona",
+    "id": 12,
+    "school": "Arizona",
+    "mascot": "Wildcats",
+    "abbreviation": "ARIZ",
+    "alt_name1": null,
+    "alt_name2": "ARIZ",
+    "alt_name3": "Arizona",
+    "conference": "Big 12",
+    "classification": "fbs",
+    "color": "#0c234b",
+    "alt_color": "#ab0520",
+    "logos": [
+      "http://a.espncdn.com/i/teamlogos/ncaa/500/12.png",
+      "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/12.png"
+    ],
+    "twitter": "@ArizonaFBall",
+    "location": {
+      "venue_id": 3619,
+      "name": "Arizona Stadium",
+      "city": "Tucson",
+      "state": "AZ",
+      "zip": "85721",
+      "country_code": "US",
+      "timezone": "America/Phoenix",
+      "latitude": 32.2288054,
+      "longitude": -110.9488677,
+      "elevation": "742.1530151",
+      "capacity": 50782,
+      "year_constructed": 1928,
+      "grass": false,
+      "dome": false
+    }
+  },
+  {
+    "normalizedName": "arizona-state",
+    "id": 9,
+    "school": "Arizona State",
+    "mascot": "Sun Devils",
+    "abbreviation": "ASU",
+    "alt_name1": null,
+    "alt_name2": "ASU",
+    "alt_name3": "Arizona State",
+    "conference": "Big 12",
+    "classification": "fbs",
+    "color": "#8e0c3a",
+    "alt_color": "#ffc72c",
+    "logos": [
+      "http://a.espncdn.com/i/teamlogos/ncaa/500/9.png",
+      "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/9.png"
+    ],
+    "twitter": "@ASUFootball",
+    "location": {
+      "venue_id": 3947,
+      "name": "Sun Devil Stadium",
+      "city": "Tempe",
+      "state": "AZ",
+      "zip": "85287",
+      "country_code": "US",
+      "timezone": "America/Phoenix",
+      "latitude": 33.4264471,
+      "longitude": -111.9325005,
+      "elevation": "360.1569519",
+      "capacity": 65870,
+      "year_constructed": 1958,
+      "grass": true,
+      "dome": false
+    }
+  },
+  {
     "normalizedName": "baylor",
     "id": 239,
     "school": "Baylor",
@@ -10,7 +80,7 @@
     "alt_name3": "Baylor",
     "conference": "Big 12",
     "classification": "fbs",
-    "color": "#004834",
+    "color": "#154734",
     "alt_color": "#ffb81c",
     "logos": [
       "http://a.espncdn.com/i/teamlogos/ncaa/500/239.png",
@@ -45,7 +115,7 @@
     "alt_name3": "BYU",
     "conference": "Big 12",
     "classification": "fbs",
-    "color": "#001E4C",
+    "color": "#003da5",
     "alt_color": "#ffffff",
     "logos": [
       "http://a.espncdn.com/i/teamlogos/ncaa/500/252.png",
@@ -105,6 +175,41 @@
     }
   },
   {
+    "normalizedName": "colorado",
+    "id": 38,
+    "school": "Colorado",
+    "mascot": "Buffaloes",
+    "abbreviation": "COLO",
+    "alt_name1": null,
+    "alt_name2": "COLO",
+    "alt_name3": "Colorado",
+    "conference": "Big 12",
+    "classification": "fbs",
+    "color": "#000000",
+    "alt_color": "#cfb87c",
+    "logos": [
+      "http://a.espncdn.com/i/teamlogos/ncaa/500/38.png",
+      "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/38.png"
+    ],
+    "twitter": "@CUBuffsFootball",
+    "location": {
+      "venue_id": 3726,
+      "name": "Folsom Field",
+      "city": "Boulder",
+      "state": "CO",
+      "zip": "80309",
+      "country_code": "US",
+      "timezone": "America/Denver",
+      "latitude": 40.0094746,
+      "longitude": -105.266905,
+      "elevation": "1634.041138",
+      "capacity": 50183,
+      "year_constructed": 1924,
+      "grass": true,
+      "dome": false
+    }
+  },
+  {
     "normalizedName": "houston",
     "id": 248,
     "school": "Houston",
@@ -115,8 +220,8 @@
     "alt_name3": "Houston",
     "conference": "Big 12",
     "classification": "fbs",
-    "color": "#C90822",
-    "alt_color": "#231f20",
+    "color": "#c92a39",
+    "alt_color": "#ffffff",
     "logos": [
       "http://a.espncdn.com/i/teamlogos/ncaa/500/248.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/248.png"
@@ -150,8 +255,8 @@
     "alt_name3": "Iowa State",
     "conference": "Big 12",
     "classification": "fbs",
-    "color": "#660015",
-    "alt_color": "#FDCA2F",
+    "color": "#822433",
+    "alt_color": "#fdca2f",
     "logos": [
       "http://a.espncdn.com/i/teamlogos/ncaa/500/66.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/66.png"
@@ -185,7 +290,7 @@
     "alt_name3": "Kansas",
     "conference": "Big 12",
     "classification": "fbs",
-    "color": "#0022B4",
+    "color": "#0051ba",
     "alt_color": "#e8000d",
     "logos": [
       "http://a.espncdn.com/i/teamlogos/ncaa/500/2305.png",
@@ -220,8 +325,8 @@
     "alt_name3": "Kansas State",
     "conference": "Big 12",
     "classification": "fbs",
-    "color": "#633194",
-    "alt_color": "#e7d2ad",
+    "color": "#3c0969",
+    "alt_color": "#e2e3e4",
     "logos": [
       "http://a.espncdn.com/i/teamlogos/ncaa/500/2306.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2306.png"
@@ -245,41 +350,6 @@
     }
   },
   {
-    "normalizedName": "oklahoma",
-    "id": 201,
-    "school": "Oklahoma",
-    "mascot": "Sooners",
-    "abbreviation": "OKLA",
-    "alt_name1": null,
-    "alt_name2": "OKLA",
-    "alt_name3": "Oklahoma",
-    "conference": "Big 12",
-    "classification": "fbs",
-    "color": "#7b0000",
-    "alt_color": "#cccccc",
-    "logos": [
-      "http://a.espncdn.com/i/teamlogos/ncaa/500/201.png",
-      "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/201.png"
-    ],
-    "twitter": "@OU_Football",
-    "location": {
-      "venue_id": 3835,
-      "name": "Gaylord Family Oklahoma Memorial Stadium",
-      "city": "Norman",
-      "state": "OK",
-      "zip": "73019",
-      "country_code": "US",
-      "timezone": "America/Chicago",
-      "latitude": 35.2058537,
-      "longitude": -97.4423145,
-      "elevation": "355.0962524",
-      "capacity": 86112,
-      "year_constructed": 1925,
-      "grass": true,
-      "dome": false
-    }
-  },
-  {
     "normalizedName": "oklahoma-state",
     "id": 197,
     "school": "Oklahoma State",
@@ -290,8 +360,8 @@
     "alt_name3": "Oklahoma State",
     "conference": "Big 12",
     "classification": "fbs",
-    "color": "#FF6500",
-    "alt_color": "#ff9900",
+    "color": "#000000",
+    "alt_color": "#dddddd",
     "logos": [
       "http://a.espncdn.com/i/teamlogos/ncaa/500/197.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/197.png"
@@ -325,7 +395,7 @@
     "alt_name3": "TCU",
     "conference": "Big 12",
     "classification": "fbs",
-    "color": "#3C377D",
+    "color": "#4d1979",
     "alt_color": "#f1f2f3",
     "logos": [
       "http://a.espncdn.com/i/teamlogos/ncaa/500/2628.png",
@@ -350,41 +420,6 @@
     }
   },
   {
-    "normalizedName": "texas",
-    "id": 251,
-    "school": "Texas",
-    "mascot": "Longhorns",
-    "abbreviation": "TEX",
-    "alt_name1": null,
-    "alt_name2": "TEX",
-    "alt_name3": "Texas",
-    "conference": "Big 12",
-    "classification": "fbs",
-    "color": "#EE7524",
-    "alt_color": "#f0f0f0",
-    "logos": [
-      "http://a.espncdn.com/i/teamlogos/ncaa/500/251.png",
-      "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/251.png"
-    ],
-    "twitter": "@TexasFootball",
-    "location": {
-      "venue_id": 3910,
-      "name": "Darrell K Royal-Texas Memorial Stadium",
-      "city": "Austin",
-      "state": "TX",
-      "zip": "78712",
-      "country_code": "US",
-      "timezone": "America/Chicago",
-      "latitude": 30.2836813,
-      "longitude": -97.7325345,
-      "elevation": "160.3089447",
-      "capacity": 100119,
-      "year_constructed": 1924,
-      "grass": false,
-      "dome": false
-    }
-  },
-  {
     "normalizedName": "texas-tech",
     "id": 2641,
     "school": "Texas Tech",
@@ -395,8 +430,8 @@
     "alt_name3": "Texas Tech",
     "conference": "Big 12",
     "classification": "fbs",
-    "color": "#C80025",
-    "alt_color": "#231f20",
+    "color": "#000000",
+    "alt_color": "#da291c",
     "logos": [
       "http://a.espncdn.com/i/teamlogos/ncaa/500/2641.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2641.png"
@@ -431,7 +466,7 @@
     "conference": "Big 12",
     "classification": "fbs",
     "color": "#000000",
-    "alt_color": "#231f20",
+    "alt_color": "#b4a269",
     "logos": [
       "http://a.espncdn.com/i/teamlogos/ncaa/500/2116.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2116.png"
@@ -455,6 +490,41 @@
     }
   },
   {
+    "normalizedName": "utah",
+    "id": 254,
+    "school": "Utah",
+    "mascot": "Utes",
+    "abbreviation": "UTAH",
+    "alt_name1": null,
+    "alt_name2": "UTAH",
+    "alt_name3": "Utah",
+    "conference": "Big 12",
+    "classification": "fbs",
+    "color": "#ea002a",
+    "alt_color": "#ffffff",
+    "logos": [
+      "http://a.espncdn.com/i/teamlogos/ncaa/500/254.png",
+      "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/254.png"
+    ],
+    "twitter": "@Utah_Football",
+    "location": {
+      "venue_id": 587,
+      "name": "Rice-Eccles Stadium",
+      "city": "Salt Lake City",
+      "state": "UT",
+      "zip": "84112",
+      "country_code": "US",
+      "timezone": "America/Denver",
+      "latitude": 40.7599724,
+      "longitude": -111.8488255,
+      "elevation": "1411.543579",
+      "capacity": 51444,
+      "year_constructed": 1998,
+      "grass": false,
+      "dome": false
+    }
+  },
+  {
     "normalizedName": "west-virginia",
     "id": 277,
     "school": "West Virginia",
@@ -465,7 +535,7 @@
     "alt_name3": "West Virginia",
     "conference": "Big 12",
     "classification": "fbs",
-    "color": "#FFC600",
+    "color": "#002855",
     "alt_color": "#eaaa00",
     "logos": [
       "http://a.espncdn.com/i/teamlogos/ncaa/500/277.png",

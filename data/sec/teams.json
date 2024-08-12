@@ -10,8 +10,8 @@
     "alt_name3": "Alabama",
     "conference": "SEC",
     "classification": "fbs",
-    "color": "#690014",
-    "alt_color": "#f1f2f3",
+    "color": "#9e1632",
+    "alt_color": "#ffffff",
     "logos": [
       "http://a.espncdn.com/i/teamlogos/ncaa/500/333.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/333.png"
@@ -45,8 +45,8 @@
     "alt_name3": "Arkansas",
     "conference": "SEC",
     "classification": "fbs",
-    "color": "#9c1831",
-    "alt_color": "#000000",
+    "color": "#a41f35",
+    "alt_color": "#ffffff",
     "logos": [
       "http://a.espncdn.com/i/teamlogos/ncaa/500/8.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/8.png"
@@ -80,8 +80,8 @@
     "alt_name3": "Auburn",
     "conference": "SEC",
     "classification": "fbs",
-    "color": "#03244d",
-    "alt_color": "#f1f2f3",
+    "color": "#002b5c",
+    "alt_color": "#f26522",
     "logos": [
       "http://a.espncdn.com/i/teamlogos/ncaa/500/2.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2.png"
@@ -115,8 +115,8 @@
     "alt_name3": "Florida",
     "conference": "SEC",
     "classification": "fbs",
-    "color": "#0021A5",
-    "alt_color": "#0021a5",
+    "color": "#0021a5",
+    "alt_color": "#fa4616",
     "logos": [
       "http://a.espncdn.com/i/teamlogos/ncaa/500/57.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/57.png"
@@ -150,8 +150,8 @@
     "alt_name3": "Georgia",
     "conference": "SEC",
     "classification": "fbs",
-    "color": "#CC0000",
-    "alt_color": "#000000",
+    "color": "#ba0c2f",
+    "alt_color": "#ffffff",
     "logos": [
       "http://a.espncdn.com/i/teamlogos/ncaa/500/61.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/61.png"
@@ -185,7 +185,7 @@
     "alt_name3": "Kentucky",
     "conference": "SEC",
     "classification": "fbs",
-    "color": "#005DAA",
+    "color": "#0033a0",
     "alt_color": "#ffffff",
     "logos": [
       "http://a.espncdn.com/i/teamlogos/ncaa/500/96.png",
@@ -220,8 +220,8 @@
     "alt_name3": "LSU",
     "conference": "SEC",
     "classification": "fbs",
-    "color": "#fdd023",
-    "alt_color": "#2b0d57",
+    "color": "#461d7c",
+    "alt_color": "#fdd023",
     "logos": [
       "http://a.espncdn.com/i/teamlogos/ncaa/500/99.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/99.png"
@@ -255,8 +255,8 @@
     "alt_name3": "Miss St",
     "conference": "SEC",
     "classification": "fbs",
-    "color": "#762123",
-    "alt_color": "#c8c8c8",
+    "color": "#5d1725",
+    "alt_color": "#c1c6c8",
     "logos": [
       "http://a.espncdn.com/i/teamlogos/ncaa/500/344.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/344.png"
@@ -290,7 +290,7 @@
     "alt_name3": "Missouri",
     "conference": "SEC",
     "classification": "fbs",
-    "color": "#000000",
+    "color": "#f1b82d",
     "alt_color": "#000000",
     "logos": [
       "http://a.espncdn.com/i/teamlogos/ncaa/500/142.png",
@@ -315,6 +315,41 @@
     }
   },
   {
+    "normalizedName": "oklahoma",
+    "id": 201,
+    "school": "Oklahoma",
+    "mascot": "Sooners",
+    "abbreviation": "OKLA",
+    "alt_name1": null,
+    "alt_name2": "OKLA",
+    "alt_name3": "Oklahoma",
+    "conference": "SEC",
+    "classification": "fbs",
+    "color": "#a32036",
+    "alt_color": "#ffffff",
+    "logos": [
+      "http://a.espncdn.com/i/teamlogos/ncaa/500/201.png",
+      "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/201.png"
+    ],
+    "twitter": "@OU_Football",
+    "location": {
+      "venue_id": 3835,
+      "name": "Gaylord Family Oklahoma Memorial Stadium",
+      "city": "Norman",
+      "state": "OK",
+      "zip": "73019",
+      "country_code": "US",
+      "timezone": "America/Chicago",
+      "latitude": 35.2058537,
+      "longitude": -97.4423145,
+      "elevation": "355.0962524",
+      "capacity": 86112,
+      "year_constructed": 1925,
+      "grass": true,
+      "dome": false
+    }
+  },
+  {
     "normalizedName": "ole-miss",
     "id": 145,
     "school": "Ole Miss",
@@ -325,8 +360,8 @@
     "alt_name3": "Ole Miss",
     "conference": "SEC",
     "classification": "fbs",
-    "color": "#001148",
-    "alt_color": "#00205b",
+    "color": "#13294b",
+    "alt_color": "#c8102e",
     "logos": [
       "http://a.espncdn.com/i/teamlogos/ncaa/500/145.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/145.png"
@@ -360,8 +395,8 @@
     "alt_name3": "South Carolina",
     "conference": "SEC",
     "classification": "fbs",
-    "color": "#670010",
-    "alt_color": "#000000",
+    "color": "#73000a",
+    "alt_color": "#ffffff",
     "logos": [
       "http://a.espncdn.com/i/teamlogos/ncaa/500/2579.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2579.png"
@@ -395,8 +430,8 @@
     "alt_name3": "Tennessee",
     "conference": "SEC",
     "classification": "fbs",
-    "color": "#EE9627",
-    "alt_color": "#ffffff",
+    "color": "#ff8200",
+    "alt_color": "#58595b",
     "logos": [
       "http://a.espncdn.com/i/teamlogos/ncaa/500/2633.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2633.png"
@@ -420,6 +455,41 @@
     }
   },
   {
+    "normalizedName": "texas",
+    "id": 251,
+    "school": "Texas",
+    "mascot": "Longhorns",
+    "abbreviation": "TEX",
+    "alt_name1": null,
+    "alt_name2": "TEX",
+    "alt_name3": "Texas",
+    "conference": "SEC",
+    "classification": "fbs",
+    "color": "#c15d26",
+    "alt_color": "#ffffff",
+    "logos": [
+      "http://a.espncdn.com/i/teamlogos/ncaa/500/251.png",
+      "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/251.png"
+    ],
+    "twitter": "@TexasFootball",
+    "location": {
+      "venue_id": 3910,
+      "name": "Darrell K Royal-Texas Memorial Stadium",
+      "city": "Austin",
+      "state": "TX",
+      "zip": "78712",
+      "country_code": "US",
+      "timezone": "America/Chicago",
+      "latitude": 30.2836813,
+      "longitude": -97.7325345,
+      "elevation": "160.3089447",
+      "capacity": 100119,
+      "year_constructed": 1924,
+      "grass": false,
+      "dome": false
+    }
+  },
+  {
     "normalizedName": "texas-a-m",
     "id": 245,
     "school": "Texas A&M",
@@ -430,7 +500,7 @@
     "alt_name3": "Texas A&M",
     "conference": "SEC",
     "classification": "fbs",
-    "color": "#5C0025",
+    "color": "#500000",
     "alt_color": "#ffffff",
     "logos": [
       "http://a.espncdn.com/i/teamlogos/ncaa/500/245.png",

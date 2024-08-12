@@ -88,6 +88,14 @@
     "hasTeams": true
   },
   {
+    "id": 148,
+    "name": "Southern Collegiate Athletic",
+    "short_name": "Southern Collegiate Athletic Conference",
+    "abbreviation": "SCAC",
+    "classification": "iii",
+    "hasTeams": true
+  },
+  {
     "id": 151,
     "name": "American Athletic",
     "short_name": "American Athletic Conference",

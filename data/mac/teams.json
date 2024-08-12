@@ -80,8 +80,8 @@
     "alt_name3": "Bowling Green",
     "conference": "Mid-American",
     "classification": "fbs",
-    "color": "#FE5000",
-    "alt_color": "#4F2C1D",
+    "color": "#2b1000",
+    "alt_color": "#492000",
     "logos": [
       "http://a.espncdn.com/i/teamlogos/ncaa/500/189.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/189.png"
@@ -151,7 +151,7 @@
     "conference": "Mid-American",
     "classification": "fbs",
     "color": "#6a0032",
-    "alt_color": "#ffffff",
+    "alt_color": "#ffc82e",
     "logos": [
       "http://a.espncdn.com/i/teamlogos/ncaa/500/2117.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2117.png"
@@ -220,8 +220,8 @@
     "alt_name3": "Kent State",
     "conference": "Mid-American",
     "classification": "fbs",
-    "color": "#002445",
-    "alt_color": "#f0b510",
+    "color": "#003976",
+    "alt_color": "#efab00",
     "logos": [
       "http://a.espncdn.com/i/teamlogos/ncaa/500/2309.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2309.png"
@@ -360,8 +360,8 @@
     "alt_name3": "Toledo",
     "conference": "Mid-American",
     "classification": "fbs",
-    "color": "#15397F",
-    "alt_color": "#FFDA00",
+    "color": "#0a2240",
+    "alt_color": "#ffcd00",
     "logos": [
       "http://a.espncdn.com/i/teamlogos/ncaa/500/2649.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2649.png"

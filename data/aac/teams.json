@@ -1,5 +1,40 @@
 [
   {
+    "normalizedName": "army",
+    "id": 349,
+    "school": "Army",
+    "mascot": "Black Knights",
+    "abbreviation": "ARMY",
+    "alt_name1": null,
+    "alt_name2": "ARMY",
+    "alt_name3": "Army",
+    "conference": "American Athletic",
+    "classification": "fbs",
+    "color": "#ce9c00",
+    "alt_color": "#231f20",
+    "logos": [
+      "http://a.espncdn.com/i/teamlogos/ncaa/500/349.png",
+      "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/349.png"
+    ],
+    "twitter": "@ArmyWP_Football",
+    "location": {
+      "venue_id": 3841,
+      "name": "Blaik Field at Michie Stadium",
+      "city": "West Point",
+      "state": "NY",
+      "zip": "10996",
+      "country_code": "US",
+      "timezone": "America/New_York",
+      "latitude": 41.3874924,
+      "longitude": -73.9640891,
+      "elevation": "99.21277618",
+      "capacity": 38000,
+      "year_constructed": 1924,
+      "grass": false,
+      "dome": false
+    }
+  },
+  {
     "normalizedName": "charlotte",
     "id": 2429,
     "school": "Charlotte",
@@ -80,8 +115,8 @@
     "alt_name3": "FAU",
     "conference": "American Athletic",
     "classification": "fbs",
-    "color": "#004B85",
-    "alt_color": "#bb2f4c",
+    "color": "#00447c",
+    "alt_color": "#d31245",
     "logos": [
       "http://a.espncdn.com/i/teamlogos/ncaa/500/2226.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2226.png"
@@ -115,8 +150,8 @@
     "alt_name3": "Memphis",
     "conference": "American Athletic",
     "classification": "fbs",
-    "color": "#003087",
-    "alt_color": "#898d8d",
+    "color": "#004991",
+    "alt_color": "#8e908f",
     "logos": [
       "http://a.espncdn.com/i/teamlogos/ncaa/500/235.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/235.png"
@@ -150,8 +185,8 @@
     "alt_name3": "Navy",
     "conference": "American Athletic",
     "classification": "fbs",
-    "color": "#131630",
-    "alt_color": "#b6a77c",
+    "color": "#00225b",
+    "alt_color": "#b5a67c",
     "logos": [
       "http://a.espncdn.com/i/teamlogos/ncaa/500/2426.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2426.png"
@@ -185,7 +220,7 @@
     "alt_name3": "North Texas",
     "conference": "American Athletic",
     "classification": "fbs",
-    "color": "#00853D",
+    "color": "#ffffff",
     "alt_color": "#000000",
     "logos": [
       "http://a.espncdn.com/i/teamlogos/ncaa/500/249.png",
@@ -220,8 +255,8 @@
     "alt_name3": "Rice",
     "conference": "American Athletic",
     "classification": "fbs",
-    "color": "#003D7D",
-    "alt_color": "#d1d5d8",
+    "color": "#d1d5d8",
+    "alt_color": "#003d7d",
     "logos": [
       "http://a.espncdn.com/i/teamlogos/ncaa/500/242.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/242.png"
@@ -240,41 +275,6 @@
       "elevation": "7.148301601",
       "capacity": 47000,
       "year_constructed": 1950,
-      "grass": false,
-      "dome": false
-    }
-  },
-  {
-    "normalizedName": "smu",
-    "id": 2567,
-    "school": "SMU",
-    "mascot": "Mustangs",
-    "abbreviation": "SMU",
-    "alt_name1": "Southern Methodist",
-    "alt_name2": "SMU",
-    "alt_name3": "SMU",
-    "conference": "American Athletic",
-    "classification": "fbs",
-    "color": "#E32F38",
-    "alt_color": "#ecdcb9",
-    "logos": [
-      "http://a.espncdn.com/i/teamlogos/ncaa/500/2567.png",
-      "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2567.png"
-    ],
-    "twitter": "@SMUFB",
-    "location": {
-      "venue_id": 3735,
-      "name": "Gerald J. Ford Stadium",
-      "city": "University Park",
-      "state": "TX",
-      "zip": "75275",
-      "country_code": "US",
-      "timezone": "America/Chicago",
-      "latitude": 32.8377223,
-      "longitude": -96.7827859,
-      "elevation": "169.4058075",
-      "capacity": 32000,
-      "year_constructed": 2000,
       "grass": false,
       "dome": false
     }
@@ -360,8 +360,8 @@
     "alt_name3": "Tulane",
     "conference": "American Athletic",
     "classification": "fbs",
-    "color": "#005837",
-    "alt_color": "#3baf29",
+    "color": "#006547",
+    "alt_color": "#468ac9",
     "logos": [
       "http://a.espncdn.com/i/teamlogos/ncaa/500/2655.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2655.png"
@@ -395,8 +395,8 @@
     "alt_name3": "Tulsa",
     "conference": "American Athletic",
     "classification": "fbs",
-    "color": "#004371",
-    "alt_color": "#ee3b33",
+    "color": "#003595",
+    "alt_color": "#d0b787",
     "logos": [
       "http://a.espncdn.com/i/teamlogos/ncaa/500/202.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/202.png"

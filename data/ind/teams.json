@@ -1,40 +1,5 @@
 [
   {
-    "normalizedName": "army",
-    "id": 349,
-    "school": "Army",
-    "mascot": "Black Knights",
-    "abbreviation": "ARMY",
-    "alt_name1": null,
-    "alt_name2": "ARMY",
-    "alt_name3": "Army",
-    "conference": "FBS Independents",
-    "classification": "fbs",
-    "color": "#ce9c00",
-    "alt_color": "#231f20",
-    "logos": [
-      "http://a.espncdn.com/i/teamlogos/ncaa/500/349.png",
-      "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/349.png"
-    ],
-    "twitter": "@ArmyWP_Football",
-    "location": {
-      "venue_id": 3841,
-      "name": "Blaik Field at Michie Stadium",
-      "city": "West Point",
-      "state": "NY",
-      "zip": "10996",
-      "country_code": "US",
-      "timezone": "America/New_York",
-      "latitude": 41.3874924,
-      "longitude": -73.9640891,
-      "elevation": "99.21277618",
-      "capacity": 38000,
-      "year_constructed": 1924,
-      "grass": false,
-      "dome": false
-    }
-  },
-  {
     "normalizedName": "connecticut",
     "id": 41,
     "school": "Connecticut",
@@ -45,7 +10,7 @@
     "alt_name3": "UConn",
     "conference": "FBS Independents",
     "classification": "fbs",
-    "color": "#001d40",
+    "color": "#0c2340",
     "alt_color": "#f1f2f3",
     "logos": [
       "http://a.espncdn.com/i/teamlogos/ncaa/500/41.png",
@@ -80,8 +45,8 @@
     "alt_name3": "Notre Dame",
     "conference": "FBS Independents",
     "classification": "fbs",
-    "color": "#00122b",
-    "alt_color": "#ae9142",
+    "color": "#0c2340",
+    "alt_color": "#c99700",
     "logos": [
       "http://a.espncdn.com/i/teamlogos/ncaa/500/87.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/87.png"

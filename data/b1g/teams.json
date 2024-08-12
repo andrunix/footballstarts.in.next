@@ -10,8 +10,8 @@
     "alt_name3": "Illinois",
     "conference": "Big Ten",
     "classification": "fbs",
-    "color": "#13294B",
-    "alt_color": "#E84A27",
+    "color": "#ff5f05",
+    "alt_color": "#13294b",
     "logos": [
       "http://a.espncdn.com/i/teamlogos/ncaa/500/356.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/356.png"
@@ -45,8 +45,8 @@
     "alt_name3": "Indiana",
     "conference": "Big Ten",
     "classification": "fbs",
-    "color": "#7D110C",
-    "alt_color": "#eeedeb",
+    "color": "#990000",
+    "alt_color": "#edebeb",
     "logos": [
       "http://a.espncdn.com/i/teamlogos/ncaa/500/84.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/84.png"
@@ -81,7 +81,7 @@
     "conference": "Big Ten",
     "classification": "fbs",
     "color": "#000000",
-    "alt_color": "#ffe100",
+    "alt_color": "#fcd116",
     "logos": [
       "http://a.espncdn.com/i/teamlogos/ncaa/500/2294.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2294.png"
@@ -220,8 +220,8 @@
     "alt_name3": "Minnesota",
     "conference": "Big Ten",
     "classification": "fbs",
-    "color": "#7A0019",
-    "alt_color": "#FFCC33",
+    "color": "#5e0a2f",
+    "alt_color": "#fab41c",
     "logos": [
       "http://a.espncdn.com/i/teamlogos/ncaa/500/135.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/135.png"
@@ -255,8 +255,8 @@
     "alt_name3": "Nebraska",
     "conference": "Big Ten",
     "classification": "fbs",
-    "color": "#F20017",
-    "alt_color": "#f5f1e7",
+    "color": "#d00000",
+    "alt_color": "#ffffff",
     "logos": [
       "http://a.espncdn.com/i/teamlogos/ncaa/500/158.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/158.png"
@@ -290,8 +290,8 @@
     "alt_name3": "Northwestern",
     "conference": "Big Ten",
     "classification": "fbs",
-    "color": "#372286",
-    "alt_color": "#d6cac1",
+    "color": "#582c83",
+    "alt_color": "#ffffff",
     "logos": [
       "http://a.espncdn.com/i/teamlogos/ncaa/500/77.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/77.png"
@@ -325,8 +325,8 @@
     "alt_name3": "OSU",
     "conference": "Big Ten",
     "classification": "fbs",
-    "color": "#DE3121",
-    "alt_color": "#666666",
+    "color": "#ce1141",
+    "alt_color": "#505056",
     "logos": [
       "http://a.espncdn.com/i/teamlogos/ncaa/500/194.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/194.png"
@@ -350,6 +350,41 @@
     }
   },
   {
+    "normalizedName": "oregon",
+    "id": 2483,
+    "school": "Oregon",
+    "mascot": "Ducks",
+    "abbreviation": "ORE",
+    "alt_name1": null,
+    "alt_name2": "ORE",
+    "alt_name3": "Oregon",
+    "conference": "Big Ten",
+    "classification": "fbs",
+    "color": "#007030",
+    "alt_color": "#fee11a",
+    "logos": [
+      "http://a.espncdn.com/i/teamlogos/ncaa/500/2483.png",
+      "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2483.png"
+    ],
+    "twitter": "@OregonFootball",
+    "location": {
+      "venue_id": 3626,
+      "name": "Autzen Stadium",
+      "city": "Eugene",
+      "state": "OR",
+      "zip": "97401",
+      "country_code": "US",
+      "timezone": "America/Los_Angeles",
+      "latitude": 44.0582712,
+      "longitude": -123.0684883,
+      "elevation": "127.4198303",
+      "capacity": 54000,
+      "year_constructed": 1967,
+      "grass": false,
+      "dome": false
+    }
+  },
+  {
     "normalizedName": "penn-state",
     "id": 213,
     "school": "Penn State",
@@ -360,8 +395,8 @@
     "alt_name3": "Penn State",
     "conference": "Big Ten",
     "classification": "fbs",
-    "color": "#041E42",
-    "alt_color": "#ffffff",
+    "color": "#00265D",
+    "alt_color": "#002e5c",
     "logos": [
       "http://a.espncdn.com/i/teamlogos/ncaa/500/213.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/213.png"
@@ -395,8 +430,8 @@
     "alt_name3": "Purdue",
     "conference": "Big Ten",
     "classification": "fbs",
-    "color": "#B89D29",
-    "alt_color": "#a4a9ad",
+    "color": "#000000",
+    "alt_color": "#cfb991",
     "logos": [
       "http://a.espncdn.com/i/teamlogos/ncaa/500/2509.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2509.png"
@@ -455,6 +490,111 @@
     }
   },
   {
+    "normalizedName": "ucla",
+    "id": 26,
+    "school": "UCLA",
+    "mascot": "Bruins",
+    "abbreviation": "UCLA",
+    "alt_name1": null,
+    "alt_name2": "UCLA",
+    "alt_name3": "UCLA",
+    "conference": "Big Ten",
+    "classification": "fbs",
+    "color": "#2774ae",
+    "alt_color": "#f2a900",
+    "logos": [
+      "http://a.espncdn.com/i/teamlogos/ncaa/500/26.png",
+      "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/26.png"
+    ],
+    "twitter": "@UCLAFootball",
+    "location": {
+      "venue_id": 1056,
+      "name": "Rose Bowl",
+      "city": "Pasadena",
+      "state": "CA",
+      "zip": "90095",
+      "country_code": "US",
+      "timezone": "America/Los_Angeles",
+      "latitude": 34.1613284,
+      "longitude": -118.1676462,
+      "elevation": "245.1772461",
+      "capacity": 88565,
+      "year_constructed": 1922,
+      "grass": true,
+      "dome": false
+    }
+  },
+  {
+    "normalizedName": "usc",
+    "id": 30,
+    "school": "USC",
+    "mascot": "Trojans",
+    "abbreviation": "USC",
+    "alt_name1": null,
+    "alt_name2": "USC",
+    "alt_name3": "USC",
+    "conference": "Big Ten",
+    "classification": "fbs",
+    "color": "#9e2237",
+    "alt_color": "#ffcc00",
+    "logos": [
+      "http://a.espncdn.com/i/teamlogos/ncaa/500/30.png",
+      "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/30.png"
+    ],
+    "twitter": "@uscfb",
+    "location": {
+      "venue_id": 477,
+      "name": "Los Angeles Memorial Coliseum",
+      "city": "Los Angeles",
+      "state": "CA",
+      "zip": "90089",
+      "country_code": "US",
+      "timezone": "America/Los_Angeles",
+      "latitude": 34.014167,
+      "longitude": -118.287778,
+      "elevation": "42.50374222",
+      "capacity": 77500,
+      "year_constructed": 1923,
+      "grass": true,
+      "dome": false
+    }
+  },
+  {
+    "normalizedName": "washington",
+    "id": 264,
+    "school": "Washington",
+    "mascot": "Huskies",
+    "abbreviation": "WASH",
+    "alt_name1": null,
+    "alt_name2": "WASH",
+    "alt_name3": "Washington",
+    "conference": "Big Ten",
+    "classification": "fbs",
+    "color": "#33006f",
+    "alt_color": "#e8d3a2",
+    "logos": [
+      "http://a.espncdn.com/i/teamlogos/ncaa/500/264.png",
+      "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/264.png"
+    ],
+    "twitter": "@UW_Football",
+    "location": {
+      "venue_id": 3765,
+      "name": "Husky Stadium",
+      "city": "Seattle",
+      "state": "WA",
+      "zip": "98195",
+      "country_code": "US",
+      "timezone": "America/Los_Angeles",
+      "latitude": 47.6503235,
+      "longitude": -122.3015746,
+      "elevation": "11.65622807",
+      "capacity": 70138,
+      "year_constructed": 1920,
+      "grass": false,
+      "dome": false
+    }
+  },
+  {
     "normalizedName": "wisconsin",
     "id": 275,
     "school": "Wisconsin",
@@ -465,8 +605,8 @@
     "alt_name3": "Wisconsin",
     "conference": "Big Ten",
     "classification": "fbs",
-    "color": "#A00001",
-    "alt_color": "#f7f7f7",
+    "color": "#c4012f",
+    "alt_color": "#ffffff",
     "logos": [
       "http://a.espncdn.com/i/teamlogos/ncaa/500/275.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/275.png"

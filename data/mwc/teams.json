@@ -45,8 +45,8 @@
     "alt_name3": "Boise State",
     "conference": "Mountain West",
     "classification": "fbs",
-    "color": "#09347A",
-    "alt_color": "#d8d9da",
+    "color": "#0033a0",
+    "alt_color": "#fa4616",
     "logos": [
       "http://a.espncdn.com/i/teamlogos/ncaa/500/68.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/68.png"
@@ -80,8 +80,8 @@
     "alt_name3": "Colorado State",
     "conference": "Mountain West",
     "classification": "fbs",
-    "color": "#004537",
-    "alt_color": "#ffc425",
+    "color": "#1e4d2b",
+    "alt_color": "#c8c372",
     "logos": [
       "http://a.espncdn.com/i/teamlogos/ncaa/500/36.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/36.png"
@@ -116,7 +116,7 @@
     "conference": "Mountain West",
     "classification": "fbs",
     "color": "#c41230",
-    "alt_color": "#231f20",
+    "alt_color": "#13284c",
     "logos": [
       "http://a.espncdn.com/i/teamlogos/ncaa/500/278.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/278.png"
@@ -185,8 +185,8 @@
     "alt_name3": "Nevada",
     "conference": "Mountain West",
     "classification": "fbs",
-    "color": "#153E5F",
-    "alt_color": "#8e9295",
+    "color": "#002d62",
+    "alt_color": "#ffffff",
     "logos": [
       "http://a.espncdn.com/i/teamlogos/ncaa/500/2440.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2440.png"
@@ -255,8 +255,8 @@
     "alt_name3": "San Diego State",
     "conference": "Mountain West",
     "classification": "fbs",
-    "color": "#BF2C37",
-    "alt_color": "#a8996e",
+    "color": "#c41230",
+    "alt_color": "#000000",
     "logos": [
       "http://a.espncdn.com/i/teamlogos/ncaa/500/21.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/21.png"
@@ -325,8 +325,8 @@
     "alt_name3": "UNLV",
     "conference": "Mountain West",
     "classification": "fbs",
-    "color": "#000000",
-    "alt_color": "#c2c4c6",
+    "color": "#b10202",
+    "alt_color": "#ffffff",
     "logos": [
       "http://a.espncdn.com/i/teamlogos/ncaa/500/2439.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2439.png"
@@ -360,7 +360,7 @@
     "alt_name3": "Utah State",
     "conference": "Mountain West",
     "classification": "fbs",
-    "color": "#003263",
+    "color": "#00263a",
     "alt_color": "#949ca1",
     "logos": [
       "http://a.espncdn.com/i/teamlogos/ncaa/500/328.png",
@@ -395,8 +395,8 @@
     "alt_name3": "Wyoming",
     "conference": "Mountain West",
     "classification": "fbs",
-    "color": "#533B22",
-    "alt_color": "#ffffff",
+    "color": "#492f24",
+    "alt_color": "#ffc425",
     "logos": [
       "http://a.espncdn.com/i/teamlogos/ncaa/500/2751.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2751.png"

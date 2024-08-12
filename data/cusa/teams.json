@@ -70,6 +70,41 @@
     }
   },
   {
+    "normalizedName": "kennesaw-state",
+    "id": 338,
+    "school": "Kennesaw State",
+    "mascot": "Owls",
+    "abbreviation": "KENN",
+    "alt_name1": "Kennesaw",
+    "alt_name2": "KENN",
+    "alt_name3": "Kennesaw St",
+    "conference": "Conference USA",
+    "classification": "fbs",
+    "color": "#fdbb30",
+    "alt_color": "#000000",
+    "logos": [
+      "http://a.espncdn.com/i/teamlogos/ncaa/500/338.png",
+      "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/338.png"
+    ],
+    "twitter": "@KennesawStFB",
+    "location": {
+      "venue_id": 4899,
+      "name": "Fifth Third Bank Stadium",
+      "city": "Kennesaw",
+      "state": "GA",
+      "zip": "48187",
+      "country_code": "US",
+      "timezone": null,
+      "latitude": 34.0289318,
+      "longitude": -84.5676234,
+      "elevation": "296.9589844",
+      "capacity": 8318,
+      "year_constructed": 2010,
+      "grass": null,
+      "dome": false
+    }
+  },
+  {
     "normalizedName": "liberty",
     "id": 2335,
     "school": "Liberty",
@@ -150,8 +185,8 @@
     "alt_name3": "Mid Tennessee",
     "conference": "Conference USA",
     "classification": "fbs",
-    "color": "#0079C2",
-    "alt_color": "#c3c5c8",
+    "color": "#006db6",
+    "alt_color": "#ffffff",
     "logos": [
       "http://a.espncdn.com/i/teamlogos/ncaa/500/2393.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2393.png"

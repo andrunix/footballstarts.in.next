@@ -186,7 +186,7 @@
     "conference": "Sun Belt",
     "classification": "fbs",
     "color": "#450084",
-    "alt_color": "#cbb778",
+    "alt_color": "#b5a068",
     "logos": [
       "http://a.espncdn.com/i/teamlogos/ncaa/500/256.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/256.png"
@@ -220,8 +220,8 @@
     "alt_name3": "Louisiana",
     "conference": "Sun Belt",
     "classification": "fbs",
-    "color": "#ce2842",
-    "alt_color": null,
+    "color": "#ce181e",
+    "alt_color": "#ffffff",
     "logos": [
       "http://a.espncdn.com/i/teamlogos/ncaa/500/309.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/309.png"
