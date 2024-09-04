@@ -1,1 +1,34 @@
-[]
+[
+  {
+    "year": 2024,
+    "teamId": 30,
+    "team": "USC",
+    "conference": "Big Ten",
+    "division": "",
+    "expectedWins": 0.6,
+    "total": {
+      "games": 1,
+      "wins": 1,
+      "losses": 0,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 0,
+      "wins": 0,
+      "losses": 0,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 0,
+      "wins": 0,
+      "losses": 0,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 0,
+      "wins": 0,
+      "losses": 0,
+      "ties": 0
+    }
+  }
+]

@@ -54,7 +54,7 @@
     "twitter": "@ASUFootball",
     "location": {
       "venue_id": 3947,
-      "name": "Sun Devil Stadium",
+      "name": "Mountain America Stadium",
       "city": "Tempe",
       "state": "AZ",
       "zip": "85287",
@@ -229,7 +229,7 @@
     "twitter": "@UHCougarFB",
     "location": {
       "venue_id": 4728,
-      "name": "John O'Quinn Field at TDECU Stadium",
+      "name": "TDECU Stadium",
       "city": "Houston",
       "state": "TX",
       "zip": "77004",
@@ -334,7 +334,7 @@
     "twitter": "@KStateFB",
     "location": {
       "venue_id": 3636,
-      "name": "Bill Snyder Family Football Stadium",
+      "name": "Bill Snyder Family Stadium",
       "city": "Manhattan",
       "state": "KS",
       "zip": "66502",
@@ -474,7 +474,7 @@
     "twitter": "@UCF_Football",
     "location": {
       "venue_id": 3652,
-      "name": "Bright House Networks Stadium",
+      "name": "FBC Mortgage Stadium",
       "city": "Orlando",
       "state": "FL",
       "zip": "32816",
@@ -544,7 +544,7 @@
     "twitter": "@WVUFootball",
     "location": {
       "venue_id": 3842,
-      "name": "Mountaineer Field at Milan Puskar Stadium",
+      "name": "Milan Puskar Stadium",
       "city": "Morgantown",
       "state": "WV",
       "zip": "26507",

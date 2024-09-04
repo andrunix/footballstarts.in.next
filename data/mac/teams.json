@@ -19,7 +19,7 @@
     "twitter": "@ZipsFB",
     "location": {
       "venue_id": 3768,
-      "name": "Summa Field at InfoCision Stadium",
+      "name": "InfoCision Stadium",
       "city": "Akron",
       "state": "OH",
       "zip": "44399",
@@ -89,7 +89,7 @@
     "twitter": "@BG_Football",
     "location": {
       "venue_id": 3700,
-      "name": "Doyt Perry Stadium",
+      "name": "Doyt L. Perry Stadium",
       "city": "Bowling Green",
       "state": "OH",
       "zip": "43403",
@@ -299,7 +299,7 @@
     "twitter": "@NIU_Football",
     "location": {
       "venue_id": 3764,
-      "name": "Brigham Field at Huskie Stadium",
+      "name": "Huskie Stadium",
       "city": "DeKalb",
       "state": "IL",
       "zip": "60115",

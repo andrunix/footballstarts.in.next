@@ -19,7 +19,7 @@
     "twitter": "@IlliniFootball",
     "location": {
       "venue_id": 3832,
-      "name": "Memorial Stadium",
+      "name": "Memorial Stadium (Champaign, IL)",
       "city": "Champaign",
       "state": "IL",
       "zip": "61820",
@@ -54,7 +54,7 @@
     "twitter": "@IndianaFootball",
     "location": {
       "venue_id": 3830,
-      "name": "Memorial Stadium",
+      "name": "Memorial Stadium (Bloomington, IN)",
       "city": "Bloomington",
       "state": "IN",
       "zip": "47408",
@@ -124,7 +124,7 @@
     "twitter": "@TerpsFootball",
     "location": {
       "venue_id": 3665,
-      "name": "Maryland Stadium",
+      "name": "SECU Stadium",
       "city": "College Park",
       "state": "MD",
       "zip": "20742",
@@ -229,7 +229,7 @@
     "twitter": "@GopherFootball",
     "location": {
       "venue_id": 3953,
-      "name": "TCF Bank Stadium",
+      "name": "Huntington Bank Stadium",
       "city": "Minneapolis",
       "state": "MN",
       "zip": "55488",
@@ -264,7 +264,7 @@
     "twitter": "@HuskerFBNation",
     "location": {
       "venue_id": 3834,
-      "name": "Memorial Stadium",
+      "name": "Memorial Stadium (Lincoln, NE)",
       "city": "Lincoln",
       "state": "NE",
       "zip": "68588",

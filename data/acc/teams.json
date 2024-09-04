@@ -19,7 +19,7 @@
     "twitter": "@BCFootball",
     "location": {
       "venue_id": 3615,
-      "name": "Alumni Stadium",
+      "name": "Alumni Stadium (Chestnut Hill, MA)",
       "city": "Chestnut Hill",
       "state": "MA",
       "zip": "2467 ",
@@ -89,7 +89,7 @@
     "twitter": "@ClemsonFB",
     "location": {
       "venue_id": 3836,
-      "name": "Memorial Stadium",
+      "name": "Memorial Stadium (Clemson, SC)",
       "city": "Clemson",
       "state": "SC",
       "zip": "29634",
@@ -159,7 +159,7 @@
     "twitter": "@FSUFootball",
     "location": {
       "venue_id": 3697,
-      "name": "Bobby Bowden Field at Doak Campbell Stadium",
+      "name": "Doak Campbell Stadium",
       "city": "Tallahassee",
       "state": "FL",
       "zip": "32306",
@@ -194,7 +194,7 @@
     "twitter": "@GeorgiaTechFB",
     "location": {
       "venue_id": 721,
-      "name": "Bobby Dodd Stadium at Historic Grant Field",
+      "name": "Bobby Dodd Stadium",
       "city": "Atlanta",
       "state": "GA",
       "zip": "30332",
@@ -229,7 +229,7 @@
     "twitter": "@LouisvilleFB",
     "location": {
       "venue_id": 3873,
-      "name": "Papa John's Cardinal Stadium",
+      "name": "L&N Federal Credit Union Stadium",
       "city": "Louisville",
       "state": "KY",
       "zip": "40292",
@@ -334,7 +334,7 @@
     "twitter": "@UNCFootball",
     "location": {
       "venue_id": 3787,
-      "name": "Kenan Memorial Stadium",
+      "name": "Kenan Stadium",
       "city": "Chapel Hill",
       "state": "NC",
       "zip": "27515",
@@ -369,7 +369,7 @@
     "twitter": "@Pitt_FB",
     "location": {
       "venue_id": 3752,
-      "name": "Heinz Field",
+      "name": "Acrisure Stadium",
       "city": "Pittsburgh",
       "state": "PA",
       "zip": "15260",
@@ -474,7 +474,7 @@
     "twitter": "@CuseFootball",
     "location": {
       "venue_id": 1964,
-      "name": "Carrier Dome",
+      "name": "JMA Wireless Dome",
       "city": "Syracuse",
       "state": "NY",
       "zip": "13244",
@@ -579,7 +579,7 @@
     "twitter": "@WakeFB",
     "location": {
       "venue_id": 3630,
-      "name": "BB&T Field",
+      "name": "Allegacy Federal Credit Union Stadium",
       "city": "Winston-Salem",
       "state": "NC",
       "zip": "27105",

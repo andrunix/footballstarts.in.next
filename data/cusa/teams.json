@@ -54,7 +54,7 @@
     "twitter": "@JSUGamecocksFB",
     "location": {
       "venue_id": 3662,
-      "name": "JSU Stadium",
+      "name": "AmFirst Stadium",
       "city": "Jacksonville",
       "state": "AL",
       "zip": "36265",
@@ -89,7 +89,7 @@
     "twitter": "@KennesawStFB",
     "location": {
       "venue_id": 4899,
-      "name": "Fifth Third Bank Stadium",
+      "name": "Fifth Third Stadium",
       "city": "Kennesaw",
       "state": "GA",
       "zip": "48187",
@@ -124,7 +124,7 @@
     "twitter": "@LibertyFootball",
     "location": {
       "venue_id": 3992,
-      "name": "Williams Stadium",
+      "name": "Williams Stadium (VA)",
       "city": "Lynchburg",
       "state": "VA",
       "zip": "24502",
@@ -194,7 +194,7 @@
     "twitter": "@MT_FB",
     "location": {
       "venue_id": 3725,
-      "name": "Johnny Red\"\" Floyd Stadium\"\"",
+      "name": "Johnny \"Red\" Floyd Stadium",
       "city": "Murfreesboro",
       "state": "TN",
       "zip": "37132",
@@ -264,7 +264,7 @@
     "twitter": "@BearkatsFB",
     "location": {
       "venue_id": 3647,
-      "name": "Bowers Stadium",
+      "name": "Elliott T. Bowers Stadium",
       "city": "Huntsville",
       "state": "TX",
       "zip": "77340",
@@ -299,7 +299,7 @@
     "twitter": "@UTEPFB",
     "location": {
       "venue_id": 3946,
-      "name": "Sun Bowl Stadium",
+      "name": "Sun Bowl",
       "city": "El Paso",
       "state": "TX",
       "zip": "79968",
@@ -334,7 +334,7 @@
     "twitter": "@WKUFootball",
     "location": {
       "venue_id": 3796,
-      "name": "Houchens Industries-L. T. Smith Stadium",
+      "name": "Houchens Industries-L.T. Smith Stadium",
       "city": "Bowling Green",
       "state": "KY",
       "zip": "42101",

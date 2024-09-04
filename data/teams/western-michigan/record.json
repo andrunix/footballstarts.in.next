@@ -1,1 +1,34 @@
-[]
+[
+  {
+    "year": 2024,
+    "teamId": 2711,
+    "team": "Western Michigan",
+    "conference": "Mid-American",
+    "division": "",
+    "expectedWins": 0.5,
+    "total": {
+      "games": 1,
+      "wins": 0,
+      "losses": 1,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 0,
+      "wins": 0,
+      "losses": 0,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 0,
+      "wins": 0,
+      "losses": 0,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 1,
+      "wins": 0,
+      "losses": 1,
+      "ties": 0
+    }
+  }
+]

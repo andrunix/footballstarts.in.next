@@ -19,7 +19,7 @@
     "twitter": "@AlabamaFTBL",
     "location": {
       "venue_id": 3657,
-      "name": "Bryant Denny Stadium",
+      "name": "Bryant-Denny Stadium",
       "city": "Tuscaloosa",
       "state": "AL",
       "zip": "35487",
@@ -54,7 +54,7 @@
     "twitter": "@RazorbackFB",
     "location": {
       "venue_id": 3887,
-      "name": "Donald W. Reynolds Razorback Stadium Frank Broyles Field",
+      "name": "Razorback Stadium",
       "city": "Fayetteville",
       "state": "AR",
       "zip": "72702",
@@ -194,7 +194,7 @@
     "twitter": "@UKFootball",
     "location": {
       "venue_id": 3683,
-      "name": "Commonwealth Stadium",
+      "name": "Kroger Field",
       "city": "Lexington",
       "state": "KY",
       "zip": "40506",
@@ -229,7 +229,7 @@
     "twitter": "@LSUFootball",
     "location": {
       "venue_id": 3958,
-      "name": "Tiger Stadium",
+      "name": "Tiger Stadium (LA)",
       "city": "Baton Rouge",
       "state": "LA",
       "zip": "70803",
@@ -299,7 +299,7 @@
     "twitter": "@MizzouFootball",
     "location": {
       "venue_id": 3838,
-      "name": "Faurot Field",
+      "name": "Memorial Stadium",
       "city": "Columbia",
       "state": "MO",
       "zip": "65211",
@@ -334,7 +334,7 @@
     "twitter": "@OU_Football",
     "location": {
       "venue_id": 3835,
-      "name": "Gaylord Family Oklahoma Memorial Stadium",
+      "name": "Memorial Stadium (Norman, OK)",
       "city": "Norman",
       "state": "OK",
       "zip": "73019",
@@ -474,7 +474,7 @@
     "twitter": "@TexasFootball",
     "location": {
       "venue_id": 3910,
-      "name": "Darrell K Royal-Texas Memorial Stadium",
+      "name": "DKR-Texas Memorial Stadium",
       "city": "Austin",
       "state": "TX",
       "zip": "78712",
@@ -544,7 +544,7 @@
     "twitter": "@VandyFootball",
     "location": {
       "venue_id": 3973,
-      "name": "Vanderbilt Stadium",
+      "name": "FirstBank Stadium",
       "city": "Nashville",
       "state": "TN",
       "zip": "37212",

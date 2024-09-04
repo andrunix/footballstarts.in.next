@@ -1,1 +1,34 @@
-[]
+[
+  {
+    "year": 2024,
+    "teamId": 62,
+    "team": "Hawai'i",
+    "conference": "Mountain West",
+    "division": "",
+    "expectedWins": 1.4,
+    "total": {
+      "games": 2,
+      "wins": 1,
+      "losses": 1,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 0,
+      "wins": 0,
+      "losses": 0,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 2,
+      "wins": 1,
+      "losses": 1,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 0,
+      "wins": 0,
+      "losses": 0,
+      "ties": 0
+    }
+  }
+]

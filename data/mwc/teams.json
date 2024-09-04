@@ -124,7 +124,7 @@
     "twitter": "@FresnoStateFB",
     "location": {
       "venue_id": 3660,
-      "name": "Bulldog Stadium",
+      "name": "Valley Children's Stadium",
       "city": "Fresno",
       "state": "CA",
       "zip": "93740",
@@ -229,7 +229,7 @@
     "twitter": "@UNMLoboFB",
     "location": {
       "venue_id": 3971,
-      "name": "University Stadium",
+      "name": "University Stadium (NM)",
       "city": "Albuquerque",
       "state": "NM",
       "zip": "87131",
@@ -299,7 +299,7 @@
     "twitter": "@SanJoseStateFB",
     "location": {
       "venue_id": 3935,
-      "name": "Spartan Stadium",
+      "name": "CEFCU Stadium",
       "city": "San Jose",
       "state": "CA",
       "zip": "95112",
@@ -369,7 +369,7 @@
     "twitter": "@USUFootball",
     "location": {
       "venue_id": 3905,
-      "name": "Romney Stadium",
+      "name": "Maverik Stadium",
       "city": "Logan",
       "state": "UT",
       "zip": "84322",

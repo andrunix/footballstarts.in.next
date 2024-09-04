@@ -1,1 +1,34 @@
-[]
+[
+  {
+    "year": 2024,
+    "teamId": 9,
+    "team": "Arizona State",
+    "conference": "Big 12",
+    "division": "",
+    "expectedWins": 1,
+    "total": {
+      "games": 1,
+      "wins": 1,
+      "losses": 0,
+      "ties": 0
+    },
+    "conferenceGames": {
+      "games": 0,
+      "wins": 0,
+      "losses": 0,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 1,
+      "wins": 1,
+      "losses": 0,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 0,
+      "wins": 0,
+      "losses": 0,
+      "ties": 0
+    }
+  }
+]
