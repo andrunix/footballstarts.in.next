@@ -5,11 +5,11 @@
     "team": "Colorado State",
     "conference": "Mountain West",
     "division": "",
-    "expectedWins": 0,
+    "expectedWins": 1.1,
     "total": {
-      "games": 1,
-      "wins": 0,
-      "losses": 1,
+      "games": 3,
+      "wins": 1,
+      "losses": 2,
       "ties": 0
     },
     "conferenceGames": {
@@ -19,9 +19,9 @@
       "ties": 0
     },
     "homeGames": {
-      "games": 0,
-      "wins": 0,
-      "losses": 0,
+      "games": 2,
+      "wins": 1,
+      "losses": 1,
       "ties": 0
     },
     "awayGames": {

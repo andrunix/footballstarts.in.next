@@ -5,10 +5,10 @@
     "team": "Arizona State",
     "conference": "Big 12",
     "division": "",
-    "expectedWins": 1,
+    "expectedWins": 1.7,
     "total": {
-      "games": 1,
-      "wins": 1,
+      "games": 3,
+      "wins": 3,
       "losses": 0,
       "ties": 0
     },
@@ -19,14 +19,14 @@
       "ties": 0
     },
     "homeGames": {
-      "games": 1,
-      "wins": 1,
+      "games": 2,
+      "wins": 2,
       "losses": 0,
       "ties": 0
     },
     "awayGames": {
-      "games": 0,
-      "wins": 0,
+      "games": 1,
+      "wins": 1,
       "losses": 0,
       "ties": 0
     }

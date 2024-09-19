@@ -5,10 +5,10 @@
     "team": "Fresno State",
     "conference": "Mountain West",
     "division": "",
-    "expectedWins": 0,
+    "expectedWins": 2,
     "total": {
-      "games": 1,
-      "wins": 0,
+      "games": 3,
+      "wins": 2,
       "losses": 1,
       "ties": 0
     },
@@ -19,8 +19,8 @@
       "ties": 0
     },
     "homeGames": {
-      "games": 0,
-      "wins": 0,
+      "games": 2,
+      "wins": 2,
       "losses": 0,
       "ties": 0
     },

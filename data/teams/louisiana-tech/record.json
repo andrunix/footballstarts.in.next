@@ -5,11 +5,11 @@
     "team": "Louisiana Tech",
     "conference": "Conference USA",
     "division": "",
-    "expectedWins": 0.9,
+    "expectedWins": 1,
     "total": {
-      "games": 1,
+      "games": 2,
       "wins": 1,
-      "losses": 0,
+      "losses": 1,
       "ties": 0
     },
     "conferenceGames": {
@@ -25,9 +25,9 @@
       "ties": 0
     },
     "awayGames": {
-      "games": 0,
+      "games": 1,
       "wins": 0,
-      "losses": 0,
+      "losses": 1,
       "ties": 0
     }
   }

@@ -5,11 +5,11 @@
     "team": "Troy",
     "conference": "Sun Belt",
     "division": "West",
-    "expectedWins": 0.2,
+    "expectedWins": 0.7,
     "total": {
-      "games": 1,
+      "games": 3,
       "wins": 0,
-      "losses": 1,
+      "losses": 3,
       "ties": 0
     },
     "conferenceGames": {
@@ -25,9 +25,9 @@
       "ties": 0
     },
     "awayGames": {
-      "games": 0,
+      "games": 2,
       "wins": 0,
-      "losses": 0,
+      "losses": 2,
       "ties": 0
     }
   }

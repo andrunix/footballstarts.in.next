@@ -5,10 +5,10 @@
     "team": "USC",
     "conference": "Big Ten",
     "division": "",
-    "expectedWins": 0.6,
+    "expectedWins": 1.6,
     "total": {
-      "games": 1,
-      "wins": 1,
+      "games": 2,
+      "wins": 2,
       "losses": 0,
       "ties": 0
     },
@@ -19,8 +19,8 @@
       "ties": 0
     },
     "homeGames": {
-      "games": 0,
-      "wins": 0,
+      "games": 1,
+      "wins": 1,
       "losses": 0,
       "ties": 0
     },

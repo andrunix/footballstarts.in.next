@@ -5,29 +5,29 @@
     "team": "UTEP",
     "conference": "Conference USA",
     "division": "",
-    "expectedWins": 0,
+    "expectedWins": 0.4,
     "total": {
-      "games": 1,
+      "games": 3,
       "wins": 0,
-      "losses": 1,
+      "losses": 3,
       "ties": 0
     },
     "conferenceGames": {
-      "games": 0,
-      "wins": 0,
-      "losses": 0,
-      "ties": 0
-    },
-    "homeGames": {
-      "games": 0,
-      "wins": 0,
-      "losses": 0,
-      "ties": 0
-    },
-    "awayGames": {
       "games": 1,
       "wins": 0,
       "losses": 1,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 1,
+      "wins": 0,
+      "losses": 1,
+      "ties": 0
+    },
+    "awayGames": {
+      "games": 2,
+      "wins": 0,
+      "losses": 2,
       "ties": 0
     }
   }

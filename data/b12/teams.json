@@ -42,7 +42,7 @@
     "abbreviation": "ASU",
     "alt_name1": null,
     "alt_name2": "ASU",
-    "alt_name3": "Arizona State",
+    "alt_name3": "Arizona St",
     "conference": "Big 12",
     "classification": "fbs",
     "color": "#8e0c3a",
@@ -150,8 +150,8 @@
     "alt_name3": "Cincinnati",
     "conference": "Big 12",
     "classification": "fbs",
-    "color": "#000000",
-    "alt_color": "#717073",
+    "color": "#E00122",
+    "alt_color": "#000000",
     "logos": [
       "http://a.espncdn.com/i/teamlogos/ncaa/500/2132.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2132.png"
@@ -185,8 +185,8 @@
     "alt_name3": "Colorado",
     "conference": "Big 12",
     "classification": "fbs",
-    "color": "#000000",
-    "alt_color": "#cfb87c",
+    "color": "#CFB87C",
+    "alt_color": "#000000",
     "logos": [
       "http://a.espncdn.com/i/teamlogos/ncaa/500/38.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/38.png"
@@ -322,7 +322,7 @@
     "abbreviation": "KSU",
     "alt_name1": null,
     "alt_name2": "KSU",
-    "alt_name3": "Kansas State",
+    "alt_name3": "Kansas St",
     "conference": "Big 12",
     "classification": "fbs",
     "color": "#3c0969",
@@ -357,11 +357,11 @@
     "abbreviation": "OKST",
     "alt_name1": null,
     "alt_name2": "OKST",
-    "alt_name3": "Oklahoma State",
+    "alt_name3": "Oklahoma St",
     "conference": "Big 12",
     "classification": "fbs",
-    "color": "#000000",
-    "alt_color": "#dddddd",
+    "color": "#FF7300",
+    "alt_color": "#000000",
     "logos": [
       "http://a.espncdn.com/i/teamlogos/ncaa/500/197.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/197.png"
@@ -430,8 +430,8 @@
     "alt_name3": "Texas Tech",
     "conference": "Big 12",
     "classification": "fbs",
-    "color": "#000000",
-    "alt_color": "#da291c",
+    "color": "#CC0000",
+    "alt_color": "#000000",
     "logos": [
       "http://a.espncdn.com/i/teamlogos/ncaa/500/2641.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2641.png"
@@ -465,8 +465,8 @@
     "alt_name3": "UCF",
     "conference": "Big 12",
     "classification": "fbs",
-    "color": "#000000",
-    "alt_color": "#b4a269",
+    "color": "#ba9b37",
+    "alt_color": "#000000",
     "logos": [
       "http://a.espncdn.com/i/teamlogos/ncaa/500/2116.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2116.png"

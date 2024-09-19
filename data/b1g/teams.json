@@ -39,9 +39,9 @@
     "id": 84,
     "school": "Indiana",
     "mascot": "Hoosiers",
-    "abbreviation": "IND",
+    "abbreviation": "IU",
     "alt_name1": null,
-    "alt_name2": "IND",
+    "alt_name2": "IU",
     "alt_name3": "Indiana",
     "conference": "Big Ten",
     "classification": "fbs",
@@ -81,7 +81,7 @@
     "conference": "Big Ten",
     "classification": "fbs",
     "color": "#000000",
-    "alt_color": "#fcd116",
+    "alt_color": "#FFCD00",
     "logos": [
       "http://a.espncdn.com/i/teamlogos/ncaa/500/2294.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2294.png"
@@ -151,7 +151,7 @@
     "conference": "Big Ten",
     "classification": "fbs",
     "color": "#00274c",
-    "alt_color": "#FFCB05",
+    "alt_color": "#ffcb05",
     "logos": [
       "http://a.espncdn.com/i/teamlogos/ncaa/500/130.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/130.png"
@@ -182,10 +182,10 @@
     "abbreviation": "MSU",
     "alt_name1": null,
     "alt_name2": "MSU",
-    "alt_name3": "Michigan State",
+    "alt_name3": "Michigan St",
     "conference": "Big Ten",
     "classification": "fbs",
-    "color": "#18453B",
+    "color": "#18453b",
     "alt_color": "#ffffff",
     "logos": [
       "http://a.espncdn.com/i/teamlogos/ncaa/500/127.png",
@@ -284,9 +284,9 @@
     "id": 77,
     "school": "Northwestern",
     "mascot": "Wildcats",
-    "abbreviation": "NW",
+    "abbreviation": "NU",
     "alt_name1": null,
-    "alt_name2": "NW",
+    "alt_name2": "NU",
     "alt_name3": "Northwestern",
     "conference": "Big Ten",
     "classification": "fbs",
@@ -322,7 +322,7 @@
     "abbreviation": "OSU",
     "alt_name1": null,
     "alt_name2": "OSU",
-    "alt_name3": "OSU",
+    "alt_name3": "Ohio State",
     "conference": "Big Ten",
     "classification": "fbs",
     "color": "#ce1141",
@@ -431,7 +431,7 @@
     "conference": "Big Ten",
     "classification": "fbs",
     "color": "#000000",
-    "alt_color": "#cfb991",
+    "alt_color": "#ceb888",
     "logos": [
       "http://a.espncdn.com/i/teamlogos/ncaa/500/2509.png",
       "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2509.png"
