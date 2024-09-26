@@ -1,410 +1,356 @@
 [
   {
-    "id": 401643790,
-    "start_date": "2024-09-19T23:30:00.000Z",
-    "home_team": "App State",
-    "away_team": "South Alabama"
-  },
-  {
-    "id": 401634766,
-    "start_date": "2024-09-20T23:30:00.000Z",
-    "home_team": "Syracuse",
-    "away_team": "Stanford"
-  },
-  {
-    "id": 401628485,
-    "start_date": "2024-09-21T00:00:00.000Z",
-    "home_team": "Nebraska",
-    "away_team": "Illinois"
-  },
-  {
-    "id": 401643714,
-    "start_date": "2024-09-21T02:00:00.000Z",
-    "home_team": "Washington State",
-    "away_team": "San José State"
-  },
-  {
-    "id": 401635552,
-    "start_date": "2024-09-21T16:00:00.000Z",
-    "home_team": "Clemson",
-    "away_team": "NC State"
-  },
-  {
-    "id": 401635556,
-    "start_date": "2024-09-21T16:00:00.000Z",
-    "home_team": "North Carolina",
-    "away_team": "James Madison"
-  },
-  {
-    "id": 401636873,
-    "start_date": "2024-09-21T16:00:00.000Z",
-    "home_team": "Cincinnati",
-    "away_team": "Houston"
-  },
-  {
-    "id": 401636879,
-    "start_date": "2024-09-21T16:00:00.000Z",
-    "home_team": "West Virginia",
-    "away_team": "Kansas"
-  },
-  {
-    "id": 401628486,
-    "start_date": "2024-09-21T16:00:00.000Z",
-    "home_team": "Indiana",
-    "away_team": "Charlotte"
-  },
-  {
-    "id": 401628488,
-    "start_date": "2024-09-21T16:00:00.000Z",
-    "home_team": "Maryland",
-    "away_team": "Villanova"
-  },
-  {
-    "id": 401628492,
-    "start_date": "2024-09-21T16:00:00.000Z",
-    "home_team": "Ohio State",
-    "away_team": "Marshall"
-  },
-  {
-    "id": 401628367,
-    "start_date": "2024-09-21T16:00:00.000Z",
-    "home_team": "Mississippi State",
-    "away_team": "Florida"
-  },
-  {
-    "id": 401643791,
-    "start_date": "2024-09-21T16:00:00.000Z",
-    "home_team": "Louisiana",
-    "away_team": "Tulane"
-  },
-  {
-    "id": 401645328,
-    "start_date": "2024-09-21T16:00:00.000Z",
-    "home_team": "Army",
-    "away_team": "Rice"
-  },
-  {
-    "id": 401628364,
-    "start_date": "2024-09-21T16:45:00.000Z",
-    "home_team": "Kentucky",
-    "away_team": "Ohio"
-  },
-  {
-    "id": 401644735,
-    "start_date": "2024-09-21T17:00:00.000Z",
-    "home_team": "Central Michigan",
-    "away_team": "Ball State"
-  },
-  {
-    "id": 401628624,
-    "start_date": "2024-09-21T17:00:00.000Z",
-    "home_team": "Merrimack",
-    "away_team": "Maine"
-  },
-  {
-    "id": 401636875,
-    "start_date": "2024-09-21T18:00:00.000Z",
-    "home_team": "Iowa State",
-    "away_team": "Arkansas State"
-  },
-  {
-    "id": 401644737,
-    "start_date": "2024-09-21T18:00:00.000Z",
-    "home_team": "Eastern Michigan",
-    "away_team": "St. Francis (PA)"
-  },
-  {
-    "id": 401635558,
-    "start_date": "2024-09-21T18:00:00.000Z",
-    "home_team": "Coastal Carolina",
-    "away_team": "Virginia"
-  },
-  {
-    "id": 401643715,
-    "start_date": "2024-09-21T18:00:00.000Z",
+    "id": 401645331,
+    "start_date": "2024-09-26T23:30:00.000Z",
     "home_team": "Temple",
-    "away_team": "Utah State"
+    "away_team": "Army"
   },
   {
-    "id": 401641000,
-    "start_date": "2024-09-21T19:00:00.000Z",
-    "home_team": "Jacksonville State",
-    "away_team": "Southern Miss"
+    "id": 401634767,
+    "start_date": "2024-09-27T23:30:00.000Z",
+    "home_team": "Miami",
+    "away_team": "Virginia Tech"
   },
   {
-    "id": 401643713,
-    "start_date": "2024-09-21T19:00:00.000Z",
-    "home_team": "Nevada",
-    "away_team": "Eastern Washington"
+    "id": 401628501,
+    "start_date": "2024-09-28T00:00:00.000Z",
+    "home_team": "Rutgers",
+    "away_team": "Washington"
   },
   {
-    "id": 401635554,
-    "start_date": "2024-09-21T19:30:00.000Z",
-    "home_team": "Louisville",
-    "away_team": "Georgia Tech"
+    "id": 401635560,
+    "start_date": "2024-09-28T16:00:00.000Z",
+    "home_team": "Boston College",
+    "away_team": "Western Kentucky"
   },
   {
-    "id": 401634247,
-    "start_date": "2024-09-21T19:30:00.000Z",
-    "home_team": "Pittsburgh",
-    "away_team": "Youngstown State"
+    "id": 401635564,
+    "start_date": "2024-09-28T16:00:00.000Z",
+    "home_team": "NC State",
+    "away_team": "Northern Illinois"
   },
   {
-    "id": 401628494,
-    "start_date": "2024-09-21T19:30:00.000Z",
-    "home_team": "Virginia Tech",
-    "away_team": "Rutgers"
+    "id": 401635565,
+    "start_date": "2024-09-28T16:00:00.000Z",
+    "home_team": "Syracuse",
+    "away_team": "Holy Cross"
   },
   {
-    "id": 401636877,
-    "start_date": "2024-09-21T19:30:00.000Z",
-    "home_team": "Texas Tech",
-    "away_team": "Arizona State"
+    "id": 401636880,
+    "start_date": "2024-09-28T16:00:00.000Z",
+    "home_team": "Baylor",
+    "away_team": "BYU"
   },
   {
-    "id": 401628489,
-    "start_date": "2024-09-21T19:30:00.000Z",
+    "id": 401636883,
+    "start_date": "2024-09-28T16:00:00.000Z",
+    "home_team": "Kansas State",
+    "away_team": "Oklahoma State"
+  },
+  {
+    "id": 401628496,
+    "start_date": "2024-09-28T16:00:00.000Z",
+    "home_team": "Indiana",
+    "away_team": "Maryland"
+  },
+  {
+    "id": 401628497,
+    "start_date": "2024-09-28T16:00:00.000Z",
     "home_team": "Michigan",
-    "away_team": "USC"
+    "away_team": "Minnesota"
   },
   {
-    "id": 401628493,
-    "start_date": "2024-09-21T19:30:00.000Z",
-    "home_team": "Penn State",
-    "away_team": "Kent State"
+    "id": 401628499,
+    "start_date": "2024-09-28T16:00:00.000Z",
+    "home_team": "Purdue",
+    "away_team": "Nebraska"
   },
   {
-    "id": 401628363,
-    "start_date": "2024-09-21T19:30:00.000Z",
-    "home_team": "Auburn",
-    "away_team": "Arkansas"
+    "id": 401628377,
+    "start_date": "2024-09-28T16:00:00.000Z",
+    "home_team": "Ole Miss",
+    "away_team": "Kentucky"
   },
   {
-    "id": 401628365,
-    "start_date": "2024-09-21T19:30:00.000Z",
-    "home_team": "LSU",
-    "away_team": "UCLA"
-  },
-  {
-    "id": 401644736,
-    "start_date": "2024-09-21T19:30:00.000Z",
-    "home_team": "Northern Illinois",
+    "id": 401629032,
+    "start_date": "2024-09-28T16:00:00.000Z",
+    "home_team": "UConn",
     "away_team": "Buffalo"
   },
   {
-    "id": 401629042,
-    "start_date": "2024-09-21T19:30:00.000Z",
-    "home_team": "Massachusetts",
-    "away_team": "Central Connecticut"
+    "id": 401645337,
+    "start_date": "2024-09-28T16:00:00.000Z",
+    "home_team": "Tulane",
+    "away_team": "South Florida"
   },
   {
-    "id": 401628979,
-    "start_date": "2024-09-21T19:30:00.000Z",
-    "home_team": "Notre Dame",
-    "away_team": "Miami (OH)"
+    "id": 401645332,
+    "start_date": "2024-09-28T16:00:00.000Z",
+    "home_team": "UAB",
+    "away_team": "Navy"
   },
   {
-    "id": 401645329,
-    "start_date": "2024-09-21T19:30:00.000Z",
-    "home_team": "Navy",
-    "away_team": "Memphis"
+    "id": 401654471,
+    "start_date": "2024-09-28T17:00:00.000Z",
+    "home_team": "Merrimack",
+    "away_team": "Dartmouth"
   },
   {
-    "id": 401645330,
-    "start_date": "2024-09-21T19:30:00.000Z",
-    "home_team": "UTSA",
-    "away_team": "Houston Christian"
+    "id": 401643793,
+    "start_date": "2024-09-28T17:30:00.000Z",
+    "home_team": "James Madison",
+    "away_team": "Ball State"
   },
   {
-    "id": 401636876,
-    "start_date": "2024-09-21T20:00:00.000Z",
-    "home_team": "Oklahoma State",
-    "away_team": "Utah"
-  },
-  {
-    "id": 401635553,
-    "start_date": "2024-09-21T20:00:00.000Z",
-    "home_team": "Middle Tennessee",
-    "away_team": "Duke"
-  },
-  {
-    "id": 401628368,
-    "start_date": "2024-09-21T20:15:00.000Z",
-    "home_team": "Missouri",
-    "away_team": "Vanderbilt"
-  },
-  {
-    "id": 401635557,
-    "start_date": "2024-09-21T21:00:00.000Z",
-    "home_team": "SMU",
-    "away_team": "TCU"
-  },
-  {
-    "id": 401641028,
-    "start_date": "2024-09-21T21:00:00.000Z",
-    "home_team": "Colorado State",
-    "away_team": "UTEP"
-  },
-  {
-    "id": 401628625,
-    "start_date": "2024-09-21T22:00:00.000Z",
-    "home_team": "Florida International",
-    "away_team": "Monmouth"
-  },
-  {
-    "id": 401640991,
-    "start_date": "2024-09-21T22:00:00.000Z",
-    "home_team": "Liberty",
-    "away_team": "East Carolina"
-  },
-  {
-    "id": 401635551,
-    "start_date": "2024-09-21T23:00:00.000Z",
-    "home_team": "Florida State",
-    "away_team": "California"
-  },
-  {
-    "id": 401628491,
-    "start_date": "2024-09-21T23:00:00.000Z",
-    "home_team": "Washington",
-    "away_team": "Northwestern"
-  },
-  {
-    "id": 401641008,
-    "start_date": "2024-09-21T23:00:00.000Z",
-    "home_team": "Louisiana Tech",
-    "away_team": "Tulsa"
-  },
-  {
-    "id": 401641034,
-    "start_date": "2024-09-21T23:00:00.000Z",
-    "home_team": "Sam Houston",
-    "away_team": "New Mexico State"
-  },
-  {
-    "id": 401641037,
-    "start_date": "2024-09-21T23:00:00.000Z",
-    "home_team": "Western Kentucky",
-    "away_team": "Toledo"
-  },
-  {
-    "id": 401629031,
-    "start_date": "2024-09-21T23:00:00.000Z",
-    "home_team": "UConn",
-    "away_team": "Florida Atlantic"
-  },
-  {
-    "id": 401636374,
-    "start_date": "2024-09-21T23:00:00.000Z",
-    "home_team": "Troy",
-    "away_team": "Florida A&M"
-  },
-  {
-    "id": 401674628,
-    "start_date": "2024-09-21T23:00:00.000Z",
+    "id": 401674629,
+    "start_date": "2024-09-28T18:00:00.000Z",
     "home_team": "Austin",
-    "away_team": "CENTENARY"
+    "away_team": "McMurry"
   },
   {
-    "id": 401674647,
-    "start_date": "2024-09-21T23:00:00.000Z",
+    "id": 401641041,
+    "start_date": "2024-09-28T19:00:00.000Z",
+    "home_team": "Sam Houston",
+    "away_team": "Texas State"
+  },
+  {
+    "id": 401674665,
+    "start_date": "2024-09-28T19:00:00.000Z",
     "home_team": "LYONCOLL",
-    "away_team": "Howard Payne"
-  },
-  {
-    "id": 401674658,
-    "start_date": "2024-09-21T23:00:00.000Z",
-    "home_team": "McMurry",
     "away_team": "Texas Lutheran"
   },
   {
-    "id": 401643716,
-    "start_date": "2024-09-21T23:00:00.000Z",
-    "home_team": "North Texas",
-    "away_team": "Wyoming"
+    "id": 401635659,
+    "start_date": "2024-09-28T19:30:00.000Z",
+    "home_team": "Wake Forest",
+    "away_team": "Louisiana"
   },
   {
-    "id": 401635555,
-    "start_date": "2024-09-21T23:00:00.000Z",
-    "home_team": "South Florida",
-    "away_team": "Miami"
+    "id": 401636882,
+    "start_date": "2024-09-28T19:30:00.000Z",
+    "home_team": "Kansas",
+    "away_team": "TCU"
   },
   {
-    "id": 401628487,
-    "start_date": "2024-09-21T23:30:00.000Z",
-    "home_team": "Minnesota",
-    "away_team": "Iowa"
+    "id": 401636885,
+    "start_date": "2024-09-28T19:30:00.000Z",
+    "home_team": "UCF",
+    "away_team": "Colorado"
   },
   {
-    "id": 401628369,
-    "start_date": "2024-09-21T23:30:00.000Z",
-    "home_team": "Oklahoma",
-    "away_team": "Tennessee"
+    "id": 401628502,
+    "start_date": "2024-09-28T19:30:00.000Z",
+    "home_team": "USC",
+    "away_team": "Wisconsin"
   },
   {
-    "id": 401628370,
-    "start_date": "2024-09-21T23:30:00.000Z",
-    "home_team": "South Carolina",
+    "id": 401628375,
+    "start_date": "2024-09-28T19:30:00.000Z",
+    "home_team": "Auburn",
+    "away_team": "Oklahoma"
+  },
+  {
+    "id": 401628373,
+    "start_date": "2024-09-28T19:30:00.000Z",
+    "home_team": "Texas A&M",
+    "away_team": "Arkansas"
+  },
+  {
+    "id": 401643721,
+    "start_date": "2024-09-28T19:30:00.000Z",
+    "home_team": "Central Michigan",
+    "away_team": "San Diego State"
+  },
+  {
+    "id": 401644739,
+    "start_date": "2024-09-28T19:30:00.000Z",
+    "home_team": "Kent State",
+    "away_team": "Eastern Michigan"
+  },
+  {
+    "id": 401629043,
+    "start_date": "2024-09-28T19:30:00.000Z",
+    "home_team": "Miami (OH)",
+    "away_team": "Massachusetts"
+  },
+  {
+    "id": 401644738,
+    "start_date": "2024-09-28T19:30:00.000Z",
+    "home_team": "Ohio",
     "away_team": "Akron"
   },
   {
-    "id": 401628372,
-    "start_date": "2024-09-21T23:30:00.000Z",
-    "home_team": "Texas A&M",
-    "away_team": "Bowling Green"
-  },
-  {
-    "id": 401628366,
-    "start_date": "2024-09-21T23:45:00.000Z",
-    "home_team": "Ole Miss",
-    "away_team": "Georgia Southern"
-  },
-  {
-    "id": 401628490,
-    "start_date": "2024-09-22T00:00:00.000Z",
-    "home_team": "Boston College",
-    "away_team": "Michigan State"
-  },
-  {
-    "id": 401636874,
-    "start_date": "2024-09-22T00:00:00.000Z",
-    "home_team": "Colorado",
-    "away_team": "Baylor"
-  },
-  {
-    "id": 401628371,
-    "start_date": "2024-09-22T00:00:00.000Z",
-    "home_team": "Texas",
-    "away_team": "UL Monroe"
-  },
-  {
-    "id": 401643717,
-    "start_date": "2024-09-22T00:30:00.000Z",
-    "home_team": "Oregon State",
-    "away_team": "Purdue"
-  },
-  {
-    "id": 401643711,
-    "start_date": "2024-09-22T00:30:00.000Z",
-    "home_team": "New Mexico",
+    "id": 401643720,
+    "start_date": "2024-09-28T19:30:00.000Z",
+    "home_team": "UNLV",
     "away_team": "Fresno State"
   },
   {
-    "id": 401637162,
-    "start_date": "2024-09-22T01:45:00.000Z",
+    "id": 401628980,
+    "start_date": "2024-09-28T19:30:00.000Z",
+    "home_team": "Notre Dame",
+    "away_team": "Louisville"
+  },
+  {
+    "id": 401640992,
+    "start_date": "2024-09-28T19:30:00.000Z",
+    "home_team": "App State",
+    "away_team": "Liberty"
+  },
+  {
+    "id": 401643792,
+    "start_date": "2024-09-28T19:30:00.000Z",
+    "home_team": "Georgia State",
+    "away_team": "Georgia Southern"
+  },
+  {
+    "id": 401643794,
+    "start_date": "2024-09-28T19:30:00.000Z",
+    "home_team": "Marshall",
+    "away_team": "Western Michigan"
+  },
+  {
+    "id": 401635562,
+    "start_date": "2024-09-28T20:00:00.000Z",
+    "home_team": "Duke",
+    "away_team": "North Carolina"
+  },
+  {
+    "id": 401645334,
+    "start_date": "2024-09-28T20:00:00.000Z",
+    "home_team": "East Carolina",
+    "away_team": "UTSA"
+  },
+  {
+    "id": 401628378,
+    "start_date": "2024-09-28T20:15:00.000Z",
+    "home_team": "Texas",
+    "away_team": "Mississippi State"
+  },
+  {
+    "id": 401643795,
+    "start_date": "2024-09-28T21:00:00.000Z",
+    "home_team": "Bowling Green",
+    "away_team": "Old Dominion"
+  },
+  {
+    "id": 401640981,
+    "start_date": "2024-09-28T22:00:00.000Z",
+    "home_team": "Florida International",
+    "away_team": "Louisiana Tech"
+  },
+  {
+    "id": 401641018,
+    "start_date": "2024-09-28T22:00:00.000Z",
+    "home_team": "Kennesaw State",
+    "away_team": "UT Martin"
+  },
+  {
+    "id": 401645335,
+    "start_date": "2024-09-28T22:00:00.000Z",
+    "home_team": "Florida Atlantic",
+    "away_team": "Wagner"
+  },
+  {
+    "id": 401635561,
+    "start_date": "2024-09-28T23:00:00.000Z",
+    "home_team": "Clemson",
+    "away_team": "Stanford"
+  },
+  {
+    "id": 401636881,
+    "start_date": "2024-09-28T23:00:00.000Z",
+    "home_team": "Houston",
+    "away_team": "Iowa State"
+  },
+  {
+    "id": 401628498,
+    "start_date": "2024-09-28T23:00:00.000Z",
+    "home_team": "Michigan State",
+    "away_team": "Ohio State"
+  },
+  {
+    "id": 401643796,
+    "start_date": "2024-09-28T23:00:00.000Z",
+    "home_team": "Troy",
+    "away_team": "UL Monroe"
+  },
+  {
+    "id": 401645336,
+    "start_date": "2024-09-28T23:00:00.000Z",
+    "home_team": "North Texas",
+    "away_team": "Tulsa"
+  },
+  {
+    "id": 401645333,
+    "start_date": "2024-09-28T23:00:00.000Z",
+    "home_team": "Rice",
+    "away_team": "Charlotte"
+  },
+  {
+    "id": 401628495,
+    "start_date": "2024-09-28T23:30:00.000Z",
+    "home_team": "Penn State",
+    "away_team": "Illinois"
+  },
+  {
+    "id": 401628374,
+    "start_date": "2024-09-28T23:30:00.000Z",
+    "home_team": "Alabama",
+    "away_team": "Georgia"
+  },
+  {
+    "id": 401641025,
+    "start_date": "2024-09-28T23:30:00.000Z",
+    "home_team": "Memphis",
+    "away_team": "Middle Tennessee"
+  },
+  {
+    "id": 401628376,
+    "start_date": "2024-09-28T23:45:00.000Z",
+    "home_team": "LSU",
+    "away_team": "South Alabama"
+  },
+  {
+    "id": 401635563,
+    "start_date": "2024-09-29T00:00:00.000Z",
+    "home_team": "SMU",
+    "away_team": "Florida State"
+  },
+  {
+    "id": 401636884,
+    "start_date": "2024-09-29T00:00:00.000Z",
+    "home_team": "Texas Tech",
+    "away_team": "Cincinnati"
+  },
+  {
+    "id": 401641035,
+    "start_date": "2024-09-29T00:00:00.000Z",
+    "home_team": "New Mexico State",
+    "away_team": "New Mexico"
+  },
+  {
+    "id": 401643718,
+    "start_date": "2024-09-29T00:00:00.000Z",
+    "home_team": "Wyoming",
+    "away_team": "Air Force"
+  },
+  {
+    "id": 401643719,
+    "start_date": "2024-09-29T02:00:00.000Z",
     "home_team": "Boise State",
-    "away_team": "Portland State"
+    "away_team": "Washington State"
   },
   {
-    "id": 401636872,
-    "start_date": "2024-09-22T02:30:00.000Z",
-    "home_team": "BYU",
-    "away_team": "Kansas State"
+    "id": 401636886,
+    "start_date": "2024-09-29T02:15:00.000Z",
+    "home_team": "Utah",
+    "away_team": "Arizona"
   },
   {
-    "id": 401643712,
-    "start_date": "2024-09-22T03:59:00.000Z",
-    "home_team": "Hawai'i",
-    "away_team": "Northern Iowa"
+    "id": 401628500,
+    "start_date": "2024-09-29T03:00:00.000Z",
+    "home_team": "UCLA",
+    "away_team": "Oregon"
   }
 ]

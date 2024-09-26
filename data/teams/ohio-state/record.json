@@ -7,8 +7,8 @@
     "division": "",
     "expectedWins": 2,
     "total": {
-      "games": 2,
-      "wins": 2,
+      "games": 3,
+      "wins": 3,
       "losses": 0,
       "ties": 0
     },
@@ -19,8 +19,8 @@
       "ties": 0
     },
     "homeGames": {
-      "games": 2,
-      "wins": 2,
+      "games": 3,
+      "wins": 3,
       "losses": 0,
       "ties": 0
     },

@@ -5,10 +5,10 @@
     "team": "Rutgers",
     "conference": "Big Ten",
     "division": "",
-    "expectedWins": 2,
+    "expectedWins": 2.9,
     "total": {
-      "games": 2,
-      "wins": 2,
+      "games": 3,
+      "wins": 3,
       "losses": 0,
       "ties": 0
     },
@@ -25,8 +25,8 @@
       "ties": 0
     },
     "awayGames": {
-      "games": 0,
-      "wins": 0,
+      "games": 1,
+      "wins": 1,
       "losses": 0,
       "ties": 0
     }

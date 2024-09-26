@@ -5,10 +5,10 @@
     "team": "Boise State",
     "conference": "Mountain West",
     "division": "",
-    "expectedWins": 1,
+    "expectedWins": 2,
     "total": {
-      "games": 2,
-      "wins": 1,
+      "games": 3,
+      "wins": 2,
       "losses": 1,
       "ties": 0
     },
@@ -19,8 +19,8 @@
       "ties": 0
     },
     "homeGames": {
-      "games": 0,
-      "wins": 0,
+      "games": 1,
+      "wins": 1,
       "losses": 0,
       "ties": 0
     },

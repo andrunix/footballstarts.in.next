@@ -5,23 +5,23 @@
     "team": "Northern Illinois",
     "conference": "Mid-American",
     "division": "",
-    "expectedWins": 1.8,
+    "expectedWins": 2.6,
     "total": {
-      "games": 2,
+      "games": 3,
       "wins": 2,
-      "losses": 0,
+      "losses": 1,
       "ties": 0
     },
     "conferenceGames": {
-      "games": 0,
+      "games": 1,
       "wins": 0,
-      "losses": 0,
+      "losses": 1,
       "ties": 0
     },
     "homeGames": {
-      "games": 1,
+      "games": 2,
       "wins": 1,
-      "losses": 0,
+      "losses": 1,
       "ties": 0
     },
     "awayGames": {

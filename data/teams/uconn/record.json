@@ -5,10 +5,10 @@
     "team": "UConn",
     "conference": "FBS Independents",
     "division": "",
-    "expectedWins": 1.7,
+    "expectedWins": 2.6,
     "total": {
-      "games": 3,
-      "wins": 1,
+      "games": 4,
+      "wins": 2,
       "losses": 2,
       "ties": 0
     },
@@ -19,8 +19,8 @@
       "ties": 0
     },
     "homeGames": {
-      "games": 1,
-      "wins": 1,
+      "games": 2,
+      "wins": 2,
       "losses": 0,
       "ties": 0
     },

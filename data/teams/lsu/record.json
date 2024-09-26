@@ -5,10 +5,10 @@
     "team": "LSU",
     "conference": "SEC",
     "division": "",
-    "expectedWins": 0.8,
+    "expectedWins": 1.8,
     "total": {
-      "games": 3,
-      "wins": 2,
+      "games": 4,
+      "wins": 3,
       "losses": 1,
       "ties": 0
     },
@@ -19,8 +19,8 @@
       "ties": 0
     },
     "homeGames": {
-      "games": 1,
-      "wins": 1,
+      "games": 2,
+      "wins": 2,
       "losses": 0,
       "ties": 0
     },

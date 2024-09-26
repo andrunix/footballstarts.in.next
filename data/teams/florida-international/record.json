@@ -5,11 +5,11 @@
     "team": "Florida International",
     "conference": "Conference USA",
     "division": "",
-    "expectedWins": 1,
+    "expectedWins": 2,
     "total": {
-      "games": 3,
+      "games": 4,
       "wins": 1,
-      "losses": 2,
+      "losses": 3,
       "ties": 0
     },
     "conferenceGames": {

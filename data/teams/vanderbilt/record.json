@@ -5,17 +5,17 @@
     "team": "Vanderbilt",
     "conference": "SEC",
     "division": "",
-    "expectedWins": 2.6,
+    "expectedWins": 3.3,
     "total": {
-      "games": 3,
+      "games": 4,
       "wins": 2,
-      "losses": 1,
+      "losses": 2,
       "ties": 0
     },
     "conferenceGames": {
-      "games": 0,
+      "games": 1,
       "wins": 0,
-      "losses": 0,
+      "losses": 1,
       "ties": 0
     },
     "homeGames": {
@@ -25,9 +25,9 @@
       "ties": 0
     },
     "awayGames": {
-      "games": 1,
+      "games": 2,
       "wins": 0,
-      "losses": 1,
+      "losses": 2,
       "ties": 0
     }
   }
