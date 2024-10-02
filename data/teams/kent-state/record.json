@@ -5,23 +5,23 @@
     "team": "Kent State",
     "conference": "Mid-American",
     "division": "",
-    "expectedWins": 0,
+    "expectedWins": 0.5,
     "total": {
-      "games": 4,
+      "games": 5,
       "wins": 0,
-      "losses": 4,
+      "losses": 5,
       "ties": 0
     },
     "conferenceGames": {
-      "games": 0,
-      "wins": 0,
-      "losses": 0,
-      "ties": 0
-    },
-    "homeGames": {
       "games": 1,
       "wins": 0,
       "losses": 1,
+      "ties": 0
+    },
+    "homeGames": {
+      "games": 2,
+      "wins": 0,
+      "losses": 2,
       "ties": 0
     },
     "awayGames": {

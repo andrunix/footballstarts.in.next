@@ -5,10 +5,10 @@
     "team": "Boston College",
     "conference": "ACC",
     "division": "",
-    "expectedWins": 3,
+    "expectedWins": 3.5,
     "total": {
-      "games": 4,
-      "wins": 3,
+      "games": 5,
+      "wins": 4,
       "losses": 1,
       "ties": 0
     },
@@ -19,8 +19,8 @@
       "ties": 0
     },
     "homeGames": {
-      "games": 2,
-      "wins": 2,
+      "games": 3,
+      "wins": 3,
       "losses": 0,
       "ties": 0
     },

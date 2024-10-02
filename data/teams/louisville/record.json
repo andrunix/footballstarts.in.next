@@ -5,11 +5,11 @@
     "team": "Louisville",
     "conference": "ACC",
     "division": "",
-    "expectedWins": 2.9,
+    "expectedWins": 3.1,
     "total": {
-      "games": 3,
+      "games": 4,
       "wins": 3,
-      "losses": 0,
+      "losses": 1,
       "ties": 0
     },
     "conferenceGames": {
@@ -25,9 +25,9 @@
       "ties": 0
     },
     "awayGames": {
-      "games": 0,
+      "games": 1,
       "wins": 0,
-      "losses": 0,
+      "losses": 1,
       "ties": 0
     }
   }

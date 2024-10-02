@@ -5,11 +5,11 @@
     "team": "Wake Forest",
     "conference": "ACC",
     "division": "",
-    "expectedWins": 1.2,
+    "expectedWins": 1.6,
     "total": {
-      "games": 3,
+      "games": 4,
       "wins": 1,
-      "losses": 2,
+      "losses": 3,
       "ties": 0
     },
     "conferenceGames": {
@@ -19,9 +19,9 @@
       "ties": 0
     },
     "homeGames": {
-      "games": 3,
+      "games": 4,
       "wins": 1,
-      "losses": 2,
+      "losses": 3,
       "ties": 0
     },
     "awayGames": {

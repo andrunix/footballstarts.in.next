@@ -5,23 +5,23 @@
     "team": "Auburn",
     "conference": "SEC",
     "division": "",
-    "expectedWins": 2.7,
+    "expectedWins": 3.1,
     "total": {
-      "games": 4,
+      "games": 5,
       "wins": 2,
-      "losses": 2,
+      "losses": 3,
       "ties": 0
     },
     "conferenceGames": {
-      "games": 1,
+      "games": 2,
       "wins": 0,
-      "losses": 1,
+      "losses": 2,
       "ties": 0
     },
     "homeGames": {
-      "games": 4,
+      "games": 5,
       "wins": 2,
-      "losses": 2,
+      "losses": 3,
       "ties": 0
     },
     "awayGames": {

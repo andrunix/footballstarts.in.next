@@ -5,17 +5,17 @@
     "team": "Arkansas",
     "conference": "SEC",
     "division": "",
-    "expectedWins": 2.9,
+    "expectedWins": 3.6,
     "total": {
-      "games": 4,
+      "games": 5,
       "wins": 3,
-      "losses": 1,
+      "losses": 2,
       "ties": 0
     },
     "conferenceGames": {
-      "games": 1,
+      "games": 2,
       "wins": 1,
-      "losses": 0,
+      "losses": 1,
       "ties": 0
     },
     "homeGames": {

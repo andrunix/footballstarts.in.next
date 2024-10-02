@@ -5,23 +5,23 @@
     "team": "Utah",
     "conference": "Big 12",
     "division": "",
-    "expectedWins": 3.8,
+    "expectedWins": 3.9,
     "total": {
-      "games": 4,
+      "games": 5,
       "wins": 4,
-      "losses": 0,
+      "losses": 1,
       "ties": 0
     },
     "conferenceGames": {
-      "games": 2,
+      "games": 3,
       "wins": 2,
-      "losses": 0,
+      "losses": 1,
       "ties": 0
     },
     "homeGames": {
-      "games": 2,
+      "games": 3,
       "wins": 2,
-      "losses": 0,
+      "losses": 1,
       "ties": 0
     },
     "awayGames": {

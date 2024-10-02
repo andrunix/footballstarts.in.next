@@ -5,16 +5,16 @@
     "team": "TCU",
     "conference": "Big 12",
     "division": "",
-    "expectedWins": 1.9,
+    "expectedWins": 2.9,
     "total": {
-      "games": 4,
-      "wins": 2,
+      "games": 5,
+      "wins": 3,
       "losses": 2,
       "ties": 0
     },
     "conferenceGames": {
-      "games": 1,
-      "wins": 0,
+      "games": 2,
+      "wins": 1,
       "losses": 1,
       "ties": 0
     },

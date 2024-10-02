@@ -5,23 +5,23 @@
     "team": "Purdue",
     "conference": "Big Ten",
     "division": "",
-    "expectedWins": 1,
+    "expectedWins": 1.1,
     "total": {
-      "games": 3,
+      "games": 4,
       "wins": 1,
-      "losses": 2,
+      "losses": 3,
       "ties": 0
     },
     "conferenceGames": {
-      "games": 0,
+      "games": 1,
       "wins": 0,
-      "losses": 0,
+      "losses": 1,
       "ties": 0
     },
     "homeGames": {
-      "games": 2,
+      "games": 3,
       "wins": 1,
-      "losses": 1,
+      "losses": 2,
       "ties": 0
     },
     "awayGames": {

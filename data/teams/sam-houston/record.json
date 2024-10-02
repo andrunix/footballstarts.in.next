@@ -5,10 +5,10 @@
     "team": "Sam Houston",
     "conference": "Conference USA",
     "division": "",
-    "expectedWins": 2,
+    "expectedWins": 2.4,
     "total": {
-      "games": 4,
-      "wins": 3,
+      "games": 5,
+      "wins": 4,
       "losses": 1,
       "ties": 0
     },

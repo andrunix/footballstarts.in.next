@@ -5,10 +5,10 @@
     "team": "Louisiana",
     "conference": "Sun Belt",
     "division": "West",
-    "expectedWins": 1.9,
+    "expectedWins": 2.5,
     "total": {
-      "games": 3,
-      "wins": 2,
+      "games": 4,
+      "wins": 3,
       "losses": 1,
       "ties": 0
     },
@@ -25,8 +25,8 @@
       "ties": 0
     },
     "awayGames": {
-      "games": 1,
-      "wins": 1,
+      "games": 2,
+      "wins": 2,
       "losses": 0,
       "ties": 0
     }

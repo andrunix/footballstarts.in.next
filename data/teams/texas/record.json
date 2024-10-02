@@ -5,22 +5,22 @@
     "team": "Texas",
     "conference": "SEC",
     "division": "",
-    "expectedWins": 3.9,
+    "expectedWins": 4.9,
     "total": {
-      "games": 4,
-      "wins": 4,
+      "games": 5,
+      "wins": 5,
       "losses": 0,
       "ties": 0
     },
     "conferenceGames": {
-      "games": 0,
-      "wins": 0,
+      "games": 1,
+      "wins": 1,
       "losses": 0,
       "ties": 0
     },
     "homeGames": {
-      "games": 3,
-      "wins": 3,
+      "games": 4,
+      "wins": 4,
       "losses": 0,
       "ties": 0
     },

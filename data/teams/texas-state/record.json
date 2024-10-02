@@ -5,11 +5,11 @@
     "team": "Texas State",
     "conference": "Sun Belt",
     "division": "West",
-    "expectedWins": 1,
+    "expectedWins": 1.6,
     "total": {
-      "games": 3,
+      "games": 4,
       "wins": 2,
-      "losses": 1,
+      "losses": 2,
       "ties": 0
     },
     "conferenceGames": {
