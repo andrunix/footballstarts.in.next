@@ -5,17 +5,17 @@
     "team": "Nevada",
     "conference": "Mountain West",
     "division": "",
-    "expectedWins": 2.9,
+    "expectedWins": 3.5,
     "total": {
-      "games": 5,
+      "games": 6,
       "wins": 2,
-      "losses": 3,
+      "losses": 4,
       "ties": 0
     },
     "conferenceGames": {
-      "games": 0,
+      "games": 1,
       "wins": 0,
-      "losses": 0,
+      "losses": 1,
       "ties": 0
     },
     "homeGames": {
@@ -25,9 +25,9 @@
       "ties": 0
     },
     "awayGames": {
-      "games": 2,
+      "games": 3,
       "wins": 1,
-      "losses": 1,
+      "losses": 2,
       "ties": 0
     }
   }

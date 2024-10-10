@@ -5,10 +5,10 @@
     "team": "Florida",
     "conference": "SEC",
     "division": "",
-    "expectedWins": 1.9,
+    "expectedWins": 2.8,
     "total": {
-      "games": 4,
-      "wins": 2,
+      "games": 5,
+      "wins": 3,
       "losses": 2,
       "ties": 0
     },
@@ -19,8 +19,8 @@
       "ties": 0
     },
     "homeGames": {
-      "games": 3,
-      "wins": 1,
+      "games": 4,
+      "wins": 2,
       "losses": 2,
       "ties": 0
     },

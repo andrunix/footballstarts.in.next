@@ -5,23 +5,23 @@
     "team": "California",
     "conference": "ACC",
     "division": "",
-    "expectedWins": 1.6,
+    "expectedWins": 3.4,
     "total": {
-      "games": 4,
+      "games": 5,
       "wins": 3,
-      "losses": 1,
+      "losses": 2,
       "ties": 0
     },
     "conferenceGames": {
-      "games": 1,
+      "games": 2,
       "wins": 0,
-      "losses": 1,
+      "losses": 2,
       "ties": 0
     },
     "homeGames": {
-      "games": 2,
+      "games": 3,
       "wins": 2,
-      "losses": 0,
+      "losses": 1,
       "ties": 0
     },
     "awayGames": {

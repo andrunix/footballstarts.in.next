@@ -5,22 +5,22 @@
     "team": "Charlotte",
     "conference": "American Athletic",
     "division": "",
-    "expectedWins": 0.8,
+    "expectedWins": 1.8,
     "total": {
-      "games": 5,
-      "wins": 2,
+      "games": 6,
+      "wins": 3,
       "losses": 3,
       "ties": 0
     },
     "conferenceGames": {
-      "games": 1,
-      "wins": 1,
+      "games": 2,
+      "wins": 2,
       "losses": 0,
       "ties": 0
     },
     "homeGames": {
-      "games": 2,
-      "wins": 1,
+      "games": 3,
+      "wins": 2,
       "losses": 1,
       "ties": 0
     },

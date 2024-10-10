@@ -5,16 +5,16 @@
     "team": "Army",
     "conference": "American Athletic",
     "division": "",
-    "expectedWins": 4,
+    "expectedWins": 5,
     "total": {
-      "games": 4,
-      "wins": 4,
+      "games": 5,
+      "wins": 5,
       "losses": 0,
       "ties": 0
     },
     "conferenceGames": {
-      "games": 3,
-      "wins": 3,
+      "games": 4,
+      "wins": 4,
       "losses": 0,
       "ties": 0
     },
@@ -25,8 +25,8 @@
       "ties": 0
     },
     "awayGames": {
-      "games": 2,
-      "wins": 2,
+      "games": 3,
+      "wins": 3,
       "losses": 0,
       "ties": 0
     }

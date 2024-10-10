@@ -5,16 +5,16 @@
     "team": "Ole Miss",
     "conference": "SEC",
     "division": "",
-    "expectedWins": 4.5,
+    "expectedWins": 5.5,
     "total": {
-      "games": 5,
-      "wins": 4,
+      "games": 6,
+      "wins": 5,
       "losses": 1,
       "ties": 0
     },
     "conferenceGames": {
-      "games": 1,
-      "wins": 0,
+      "games": 2,
+      "wins": 1,
       "losses": 1,
       "ties": 0
     },
@@ -25,8 +25,8 @@
       "ties": 0
     },
     "awayGames": {
-      "games": 1,
-      "wins": 1,
+      "games": 2,
+      "wins": 2,
       "losses": 0,
       "ties": 0
     }

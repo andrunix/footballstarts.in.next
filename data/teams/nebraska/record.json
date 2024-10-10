@@ -5,22 +5,22 @@
     "team": "Nebraska",
     "conference": "Big Ten",
     "division": "",
-    "expectedWins": 4.3,
+    "expectedWins": 5.3,
     "total": {
-      "games": 5,
-      "wins": 4,
+      "games": 6,
+      "wins": 5,
       "losses": 1,
       "ties": 0
     },
     "conferenceGames": {
-      "games": 2,
-      "wins": 1,
+      "games": 3,
+      "wins": 2,
       "losses": 1,
       "ties": 0
     },
     "homeGames": {
-      "games": 4,
-      "wins": 3,
+      "games": 5,
+      "wins": 4,
       "losses": 1,
       "ties": 0
     },

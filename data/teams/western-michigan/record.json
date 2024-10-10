@@ -5,16 +5,16 @@
     "team": "Western Michigan",
     "conference": "Mid-American",
     "division": "",
-    "expectedWins": 1.5,
+    "expectedWins": 2,
     "total": {
-      "games": 4,
-      "wins": 1,
+      "games": 5,
+      "wins": 2,
       "losses": 3,
       "ties": 0
     },
     "conferenceGames": {
-      "games": 0,
-      "wins": 0,
+      "games": 1,
+      "wins": 1,
       "losses": 0,
       "ties": 0
     },
@@ -25,8 +25,8 @@
       "ties": 0
     },
     "awayGames": {
-      "games": 3,
-      "wins": 0,
+      "games": 4,
+      "wins": 1,
       "losses": 3,
       "ties": 0
     }

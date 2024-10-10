@@ -5,22 +5,22 @@
     "team": "Texas A&M",
     "conference": "SEC",
     "division": "",
-    "expectedWins": 3.4,
+    "expectedWins": 4.4,
     "total": {
-      "games": 5,
-      "wins": 4,
+      "games": 6,
+      "wins": 5,
       "losses": 1,
       "ties": 0
     },
     "conferenceGames": {
-      "games": 2,
-      "wins": 2,
+      "games": 3,
+      "wins": 3,
       "losses": 0,
       "ties": 0
     },
     "homeGames": {
-      "games": 3,
-      "wins": 2,
+      "games": 4,
+      "wins": 3,
       "losses": 1,
       "ties": 0
     },

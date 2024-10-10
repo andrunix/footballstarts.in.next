@@ -5,22 +5,22 @@
     "team": "Toledo",
     "conference": "Mid-American",
     "division": "",
-    "expectedWins": 2.3,
+    "expectedWins": 3.2,
     "total": {
-      "games": 4,
-      "wins": 3,
+      "games": 5,
+      "wins": 4,
       "losses": 1,
       "ties": 0
     },
     "conferenceGames": {
-      "games": 0,
-      "wins": 0,
+      "games": 1,
+      "wins": 1,
       "losses": 0,
       "ties": 0
     },
     "homeGames": {
-      "games": 2,
-      "wins": 2,
+      "games": 3,
+      "wins": 3,
       "losses": 0,
       "ties": 0
     },

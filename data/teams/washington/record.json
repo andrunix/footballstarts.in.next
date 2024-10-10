@@ -5,22 +5,22 @@
     "team": "Washington",
     "conference": "Big Ten",
     "division": "",
-    "expectedWins": 4.5,
+    "expectedWins": 5,
     "total": {
-      "games": 5,
-      "wins": 3,
+      "games": 6,
+      "wins": 4,
       "losses": 2,
       "ties": 0
     },
     "conferenceGames": {
-      "games": 2,
-      "wins": 1,
+      "games": 3,
+      "wins": 2,
       "losses": 1,
       "ties": 0
     },
     "homeGames": {
-      "games": 3,
-      "wins": 3,
+      "games": 4,
+      "wins": 4,
       "losses": 0,
       "ties": 0
     },

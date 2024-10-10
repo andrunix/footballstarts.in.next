@@ -5,22 +5,22 @@
     "team": "Georgia Tech",
     "conference": "ACC",
     "division": "",
-    "expectedWins": 3.4,
+    "expectedWins": 4.4,
     "total": {
-      "games": 5,
-      "wins": 3,
+      "games": 6,
+      "wins": 4,
       "losses": 2,
       "ties": 0
     },
     "conferenceGames": {
-      "games": 3,
-      "wins": 1,
+      "games": 4,
+      "wins": 2,
       "losses": 2,
       "ties": 0
     },
     "homeGames": {
-      "games": 2,
-      "wins": 2,
+      "games": 3,
+      "wins": 3,
       "losses": 0,
       "ties": 0
     },
